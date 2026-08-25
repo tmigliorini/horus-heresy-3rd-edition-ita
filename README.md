@@ -1,12 +1,14 @@
-# Horus Heresy 3ª Edizione — ITA (solo Legioni)
+# Horus Heresy 3ª Edizione ITA — solo Legioni
 
 Dati per **New Recruit** di Horus Heresy 3ª Edizione **in italiano**, contenenti solo le **Legiones Astartes**.
 
 Basato sui dati ufficiali [BSData/horus-heresy-3rd-edition](https://github.com/BSData/horus-heresy-3rd-edition), con struttura, punti e logiche identici all'originale; tradotti nomi, regole, descrizioni, profili ed etichette delle opzioni.
 
+Il sistema ha un **id proprio** e si chiama **Horus Heresy 3ª Edizione ITA**: può convivere in New Recruit con i dati inglesi originali senza conflitti né voci duplicate — sono due sistemi separati.
+
 ## Contenuto
 
-- Game system **Horus Heresy 3ª Edizione**
+- Game system **Horus Heresy 3ª Edizione ITA**
 - **Legiones Astartes** (catalogo generico)
 - Le 18 Legioni: Angeli Oscuri, Figli dell'Imperatore, Guerrieri di Ferro, Furie Bianche, Lupi Siderali, Magli Imperiali, Signori della Notte, Angeli Sanguinari, Mani di Ferro, Divoratori di Mondi, Ultramarine, Guardia della Morte, Stirpe dei Mille, Figli di Horus, Predicatori, Salamandre, Guardia del Corvo, Legione Alfa
 - **Legioni Spezzate** (Shattered Legions), **Scudi Neri** (Blackshields), **Cavalieri Erranti** (Knights-Errant)
@@ -16,11 +18,20 @@ Non include (volutamente): Mechanicum, Solar Auxilia, Custodes, Titanicus, Quest
 
 ## Installazione in New Recruit (plug & play)
 
-1. Apri [New Recruit](https://www.newrecruit.eu) e vai in **Manage Data** (gestione dati).
-2. Rimuovi/disattiva eventuali dati Horus Heresy 3rd Edition inglesi se vuoi solo l'italiano.
-3. Aggiungi un nuovo repository con l'URL di questo repo:
-   `https://github.com/tmigliorini/horus-heresy-3rd-edition-ita`
-4. Aggiorna i dati e crea un nuovo roster selezionando **Horus Heresy 3ª Edizione**.
+**Un clic** (loggato su New Recruit):
+
+```
+https://newrecruit.eu/app/MySystems?addSystem=tmigliorini%2Fhorus-heresy-3rd-edition-ita&ref=HEAD
+```
+
+**Oppure manualmente:**
+
+1. Apri la lista dei sistemi e clicca **Add more games**.
+2. Clicca **Add from Github**.
+3. Incolla `https://github.com/tmigliorini/horus-heresy-3rd-edition-ita` e premi il **+** verde.
+4. Crea un nuovo roster selezionando **Horus Heresy 3ª Edizione ITA**.
+
+Puoi tenere installato anche il sistema inglese originale: compaiono come due voci distinte.
 
 ## Note
 
