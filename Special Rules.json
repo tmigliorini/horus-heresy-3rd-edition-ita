@@ -1,0 +1,1579 @@
+{
+ "catalogue": {
+  "sharedRules": [
+   {
+    "description": "Tutti i modelli in un’Unità selezionata per riempire il Riquadro con questo Vantaggio Primario ottengono la Regola Speciale Sacrificabile (1) e possono usare la Reazione Avanzata Agguato Nascosto. Questo Vantaggio Primario può essere selezionato solo per una Unità di Squadra Tattica o di Squadra Depredatrice.",
+    "name": "Corpi di Interdizione",
+    "id": "a752-1dc3-403e-9336",
+    "hidden": false
+   },
+   {
+    "description": "\"Questa Regola Speciale consente ai Modelli di usare una Reazione Avanzata per arrivare dalle Riserve in prossimità di un'Unità nemica.\"\n\nIl Giocatore Controllante di un'Unità che contenga solo Modelli con questa Regola Speciale può usare la Reazione Avanzata Agguato Nascosto.",
+    "name": "Posizioni Nascoste",
+    "id": "3595-4991-0833-7b8b",
+    "hidden": false
+   },
+   {
+    "description": "Riduci di un valore pari a X il numero di Punti Vittoria guadagnati dall'Avversario, fino a un minimo di 1, quando un'Unità che include solo Modelli con questa Regola Speciale viene completamente Rimossa come Perdita. Se un'Unità include Modelli con diverse varianti di questa Regola Speciale, deve essere utilizzato il valore più basso di X presente su un qualsiasi Modello dell'Unità all'inizio del Turno del Giocatore in cui l'ultimo Modello dell'Unità viene Rimosso come Perdita, per determinare l'effetto della Regola Speciale sull'Unità. Se, all'inizio di un qualsiasi Turno del Giocatore, un'Unità include Modelli che non possiedono questa Regola Speciale, allora la Regola Speciale non ha effetto su quell'Unità per l'intera durata di quel Turno del Giocatore.",
+    "alias": [
+     "Expendable"
+    ],
+    "name": "Sacrificabile (X)",
+    "id": "c4d4-e053-9564-540b",
+    "hidden": false,
+    "publicationId": "b905-0414-1057-bb34",
+    "page": 298
+   },
+   {
+    "description": "Se il Tiro per Ferire di un attacco con questa Regola Speciale ha un risultato uguale o superiore a X, aumenta la Caratteristica del Danno della ferita di 1. La Regola Speciale non si applica ai Tiri di Penetrazione della Corazza.",
+    "alias": [
+     "Shred"
+    ],
+    "name": "Lacerante (X)",
+    "id": "d01e-f96b-b5c1-8fb1",
+    "hidden": false,
+    "page": 308,
+    "publicationId": "b905-0414-1057-bb34"
+   },
+   {
+    "description": "Una volta per Turno, se un’Unità che contiene Modelli con questa Regola Speciale si trova entro 18\" da un’Unità che effettua una Reazione, il Giocatore che la controlla può effettuare una Prova di Intelligenza per questa Unità modificando il risultato di quella Prova di -1 qualora un qualsiasi Modello dell’Unità con questa Regola Speciale dovesse avere Linea di Vista verso un Modello dell’Unità che Reattiva. Se la Prova ha successo, quella Reazione costa un Punto Reazione in meno, fino a un minimo di 0.",
+    "name": "Coordinatori da Campo",
+    "id": "35dd-79de-75f5-f2c8",
+    "hidden": false
+   },
+   {
+    "description": "Un'Unità che possiede questa Regola Speciale può ottenere al massimo un numero di Punti Vittoria pari a X ai fini del Controllo di un Obiettivo.",
+    "alias": [
+     "Support Unit"
+    ],
+    "name": "Unità di Supporto (X)",
+    "id": "313f-7ed6-3833-e97c",
+    "hidden": false,
+    "publicationId": "b905-0414-1057-bb34",
+    "page": 309
+   },
+   {
+    "description": "Quando effettui un attacco con questa Regola Speciale, se il Tiro per Ferire ha successo e ha un risultato uguale o superiore a X, la ferita inflitta diventa una \"Ferita Perforante\" e viene considerata avere VP 2.",
+    "alias": [
+     "Breaching"
+    ],
+    "name": "Perforante (X)",
+    "id": "b094-0b64-eb57-aed6",
+    "hidden": false,
+    "page": 295,
+    "publicationId": "b905-0414-1057-bb34"
+   },
+   {
+    "description": "Un'Unità composta esclusivamente da Modelli con il Sottotipo Pesante ottiene un bonus di +1 alla sua Caratteristica di Coraggio nei Tiri per evitare di acquisire Status Tattici. Un'Unità che include qualsiasi Modello con il Sottotipo Pesante non può Scattare e non utilizza la sua Caratteristica di Iniziativa per determinare quanto si muove come parte di un Movimento di Posizionamento. Durante una Sfida, un Modello con il Sottotipo Pesante subisce un modificatore di -1 ai Tiri Concentrazione.",
+    "alias": [
+     "Heavy"
+    ],
+    "name": "Pesante (X)",
+    "id": "bc30-3b33-2683-01a2",
+    "hidden": false
+   },
+   {
+    "description": "Durante un Attacco a Distanza con un'Arma dotata di questa Regola Speciale, se il Modello che impugna l'Arma è parte di un'Unità che è rimasta Stazionaria nella Fase di Movimento precedente del Giocatore Controllante, il valore della Caratteristica indicata dal valore di X viene raddoppiato. Se la Caratteristica è il VP, allora diventa pari a 2.",
+    "alias": [
+     "Ordnance"
+    ],
+    "name": "Artiglieria (X)",
+    "id": "b6b3-909a-b78a-3dbf",
+    "hidden": false,
+    "page": 303,
+    "publicationId": "b905-0414-1057-bb34"
+   },
+   {
+    "description": "Prima di effettuare il Tiro per Colpire con un'Arma con questa Regola Speciale, il Giocatore attaccante deve posizionare il Segnalino Area della dimensione indicata dal valore di X in modo che il foro centrale dello stesso sia interamente sopra la Basetta di uno dei Modelli nell'Unità Bersaglio . Una volta che il Segnalino Area è stato posizionato, il Giocatore attaccante deve effettuare un Tiro per Colpire e, se ha successo, ogni Modello coperto dal Segnalino Area subisce un singolo Colpo. Se il Tiro per Colpire fallisce, non vengono inflitti colpi e il Giocatore attaccante deve effettuare un Tiro Deviazione per il Segnalino Area. Dopo che il Segnalino è stato riposizionato, ogni Unità con uno o più Modelli coperti dallo stesso subisce un Colpo per ciascun Modello coperto. Se un attacco che utilizza un Segnalino Area prende di mira un modello situato su un livello di Terreno al di sopra della superficie di base del Campo di Battaglia, esso può colpire solo i Modelli presenti su quel singolo livello e, se devia, può comunque colpire solo Modelli che si trovavano sullo stesso livello del bersaglio originale. Gli attacchi che utilizzano questa Regola Speciale possono infliggere colpi sia a unità nemiche che amiche. Se un Gruppo di Fuoco include attacchi multipli effettuati con questa Regola Speciale, viene piazzato un singolo Segnalino Area, e si effettua un Tiro per Colpire per ciascun attacco in quel Gruppo di Fuoco. Per ogni Tiro per Colpire riuscito, viene inflitto un Colpo per ogni Modello coperto dal Segnalino Area. Se uno o più Tiri per Colpire falliscono, dopo aver conteggiato tutti i Colpi generati dai Tiri per Colpire riusciti si effettua un singolo Tiro Deviazione per il Segnalino Area, a prescindere dal numero totale di Tiri per Colpire falliti. Per ogni Tiro per Colpire fallito, viene inflitto un colpo a un’Unità per ogni Modello di tale Unità coperto dal Segnalino Area dopo che il Tiro Deviazione è stato risolto. Colpi Contro Altre Unità Se il Segnalino Area copre un Modello di Unità diverso dall'Unità Bersaglio, è necessario creare un nuovo Gruppo di Fuoco per quei Colpi. Dopo aver completato l'Attacco a Distanza sull'Unità Bersaglio originale, si inizi un nuovo Attacco a Distanza per risolvere i Gruppi di Fuoco aggiuntivi generati per le Unità diverse dall'Unità Bersaglio originale.",
+    "alias": [
+     "Blast"
+    ],
+    "name": "Area (X)",
+    "id": "8687-05f8-7034-412c",
+    "hidden": false,
+    "publicationId": "b905-0414-1057-bb34",
+    "page": 294
+   },
+   {
+    "description": "Quando si effettuano attacchi con un'Arma o un altro effetto che ha questa Regola Speciale, o che altrimenti coinvolga l'uso di una Sagoma, non si devono effettuare Tiri per Colpire per l'attacco. Quando sarebbe richiesto di effettuare Tiri per Colpire per tale attacco, si deve invece posizionare una singola Sagoma in modo che la sua estremità stretta tocchi la Basetta o il bordo dello Scafo del Modello attaccante, senza che nessuna parte della Sagoma copra o tocchi la Basetta o lo Scafo di un Modello amico. Se si utilizza un attacco con Sagoma per colpire un Modello su un livello di Terreno più alto della superficie di base del Campo di Battaglia, l'attacco può colpire solo i Modelli nemici sullo stesso livello del Modello attaccante. Nel rispetto di queste restrizioni, il Giocatore che effettua l'attacco può orientare la Sagoma a suo piacimento, purché copra almeno un Modello dell'Unità Bersaglio originale. Se la Sagoma non può essere posizionata seguendo queste restrizioni, non si può effettuare l'attacco. Nonostante le Regole richiedano che la sagoma sia posizionata a contatto con il Modello attaccante, questo non subisce l'attacco e non ne impedisce l'esecuzione. Una volta posizionata la Sagoma, vengono inflitti all'Unità Bersaglio un numero di Colpi pari al numero di Modelli coperti dalla stessa, utilizzando il profilo dell'Arma o dell'effetto. Se l'Arma o l'attacco ha una Potenza di Fuoco maggiore di 1, si posiziona comunque una sola Sagoma, ma il numero di Colpi inflitti per Modello coperto è uguale alla Potenza di Fuoco dell'attacco o dell'Arma. Nel risolvere i Tiri di Penetrazione per i Colpi inflitti da un'Arma con questa Regola Speciale, si utilizza la posizione del Modello attaccante per determinare quale Faccia della Corazza venga colpita. Se una Regola dovesse richiedere un valore di Gittata, allora tutte le Armi e gli attacchi con questa Regola Speciale sono considerati avere una Gittata pari a \"8\". Colpi Contro Altre Unità Se la Sagoma copre Modelli di Unità diverse rispetto all'Unità Bersaglio, è necessario creare un nuovo Gruppo di Fuoco per quei Colpi. Dopo aver completato l'Attacco a Distanza sull'Unità Bersaglio originale, si avvia un nuovo Attacco a Distanza per risolvere i Gruppi di Fuoco aggiuntivi generati per le ulteriori Unità. Altre Sagome Se un'Arma dovesse utilizzare una Sagoma diversa rispetto a quella standard, le Regole per il suo utilizzo non cambiano rispetto a quanto indicato in questa Regola Speciale. Sagoma (Tempesta Infernale) Se una Regola dovesse richiedere un valore di Gittata, allora tutte le Armi e gli attacchi con questa versione della Regola Speciale sono considerati avere una Gittata pari a \"16\".",
+    "name": "Sagoma",
+    "id": "7df2-9e88-3285-cf6a",
+    "hidden": false,
+    "page": 310,
+    "publicationId": "b905-0414-1057-bb34"
+   },
+   {
+    "description": "Quando il Giocatore Controllante dichiara che un Modello effettuerà degli attacchi utilizzando un’arma dotata di questa Regola Speciale, qualsiasi Tiro per Colpire naturale effettuato per quegli attacchi che risulti pari o inferiore al valore di X è considerato un Malfunzionamento. Per le Armi che non effettuano Tiri per Colpire, si tira invece un numero di dadi pari alla Caratteristica di Potenza di Fuoco dell’arma utilizzata, dopo che l’attacco è stato dichiarato e che il numero di modelli colpiti è stato determinato, ed ogni Dado che mostra un risultato pari o inferiore a X genera un Malfunzionamento. Per ogni Malfunzionamento, l’unità per la quale sono stati effettuati i Tiri per Colpire subisce un colpo, che costituisce un nuovo Gruppo di Fuoco o Gruppo di Attacco, denominato Gruppo di Malfunzionamento, da risolversi immediatamente dopo l’attacco di tiro corrente e tutte le eventuali Reazioni da esso attivate, utilizzando il profilo dell’arma da cui è stato originato. Ferite, Colpi Superficiali o Colpi Penetranti generati dal Gruppo di Malfunzionamento vengono assegnati dal Giocatore Controllante a un Modello le cui Armi abbiano contribuito a generare il Gruppo di Malfunzionamento. Se un colpo da un Gruppo di Malfunzionamento è stato generato da un attacco effettuato da un modello con il Tipo Veicolo, allora viene risolto contro il più basso valore di Corazza tra tutte le Facce del Modello. Colpi, ferite o Perdite subite a causa di questa Regola Speciale non causano prove di Disciplina o di Coraggio, e i colpi inflitti come parte di un Gruppo di Malfunzionamento non attivano alcuna Regola Speciale che si inneschi in base a un determinato valore ottenuto su un Tiro per Colpire.",
+    "alias": [
+     "Overload"
+    ],
+    "name": "Surriscaldamento (X)",
+    "id": "1d3a-d1e2-871a-63ae",
+    "hidden": false,
+    "page": 304,
+    "publicationId": "b905-0414-1057-bb34"
+   },
+   {
+    "description": "Se almeno un Modello di un’Unità con il Tipo Veicolo bersagliata da un Attacco a Distanza effettuato da un Modello che utilizza un'Arma con questa Regola Speciale si trova a una distanza pari o inferiore al valore di X dallo stesso, quell’attacco ottiene la Regola Speciale Sfondacorazze ed i relativi Danni provenienti dai Colpi Penetranti sono raddoppiati.",
+    "alias": [
+     "Melta"
+    ],
+    "name": "Termico (X)",
+    "id": "8ef6-917e-93da-43c3",
+    "hidden": false,
+    "publicationId": "b905-0414-1057-bb34",
+    "page": 303
+   },
+   {
+    "description": "Durante il Passaggio Concentrazione della Sottofase delle Sfide, se un Giocatore dichiara che il Modello sotto il suo Controllo utilizzerà un'Arma con questa Regola Speciale, ottiene un bonus al Tiro Concentrazione pari al valore di X.",
+    "alias": [
+     "Duellist's Edge"
+    ],
+    "name": "Maestria del Duellante (X)",
+    "id": "94bc-c69f-99b6-8ba0",
+    "hidden": false
+   },
+   {
+    "description": "Qualsiasi Modello con questa Regola Speciale, o che scelga un'Arma con questa Regola Speciale, e faccia parte di un'Unità che ha effettuato con successo una Carica, ottiene un modificatore di +1 alla Caratteristica indicata dal valore di X fino alla fine di quella Fase di Assalto.",
+    "alias": [
+     "Impact"
+    ],
+    "name": "Impatto (X)",
+    "id": "6ead-c31c-ab09-2f8c",
+    "hidden": false,
+    "page": 300,
+    "publicationId": "b905-0414-1057-bb34"
+   },
+   {
+    "description": "Quando si effettua un Tiro per Colpire per un attacco che possiede questa Regola Speciale, se il risultato del Tiro del Dado è uguale o maggiore del valore di X e il tiro riesce, il Colpo diventa un 'Colpo Critico'.",
+    "alias": [
+     "Critical Hit"
+    ],
+    "name": "Colpo Critico (X)",
+    "id": "fe5a-a52a-468f-3f88",
+    "hidden": false,
+    "page": 296,
+    "publicationId": "b905-0414-1057-bb34"
+   },
+   {
+    "description": "Nella Fase del processo di Attacco a Distanza, un Modello con una o più Armi che possiedono questa Regola Speciale può ignorare l'obbligo di Linea di Vista verso l'Unità Bersaglio. Se un Giocatore utilizza questa Regola Speciale per dichiarare un Attacco a Distanza su un'Unità che l'Unità Attaccante non può vedere, allora nella Fase del processo di Attacco a Distanza quel Giocatore può dichiarare solo attacchi con Armi che hanno questa Regola Speciale. Bombardamento ed Area Se un'Arma che possiede questa Regola Speciale e la Regola Speciale Area (X) viene utilizzata per attaccare un'Unità senza avere Linea di Vista su di essa, allora non viene effettuato alcun Tiro per Colpire e, per ogni attacco, deve essere effettuato un Tiro Deviazione Indiretta per il Segnalino Area posizionato come parte dell'attacco, tirando in aggiunta al Dado Deviazione il risultato di un numero di Dadi pari al valore di X, di cui deve essere sommato il risultato. Se un'Arma con questa Regola Speciale viene utilizzata per attaccare un Modello su un livello di Terreno sopra la superficie di base del Campo di Battaglia, o sul Terreno ad Area direttamente sotto il primo livello di Terreno, deve sempre bersagliare il livello più alto che copra interamente il foro al centro del Segnalino Area. Se, alla fine del Passaggio della procedura di Attacco a Distanza, prima che vengano effettuati eventuali Tiri per Colpire, un attacco che includa solo Armi che hanno sia questa Regola che la Regola Speciale Area (X) non può bersagliare un livello che include eventuali Modelli nemici dell'Unità bersaglio, allora il Giocatore Attaccante può scegliere di tornare al Passaggio e selezionare un'Unità bersaglio diversa o terminare l'Attacco a Distanza. Il livello colpito dall'attacco è comunque deciso dalla posizione finale del foro al centro del Segnalino Area dopo che sono stati effettuati eventuali Tiri Deviazione. Solo i Modelli che si trovano su quel livello possono subire Colpi, o sul Terreno ad Area non direttamente sotto il primo livello di Terreno a causa di questo attacco.",
+    "alias": [
+     "Barrage"
+    ],
+    "name": "Bombardamento (X)",
+    "id": "85f5-3a91-69f4-c3b7",
+    "hidden": false,
+    "page": 293,
+    "publicationId": "b905-0414-1057-bb34"
+   },
+   {
+    "description": "Se un Modello si trova in inferiorità numerica durante un Combattimento e possiede la Regola Speciale menzionata, o utilizza un'Arma che ha questa Regola Speciale, allora quel Modello ottiene un bonus alla sua Caratteristica di Attacchi pari al valore di X. Per essere considerato in inferiorità numerica, il numero totale di Modelli Amici coinvolti nella stessa mischia deve essere inferiore al numero totale di Modelli Nemici coinvolti nella stessa mischia, tenendo conto dei Modelli con la Regola Speciale Imponente (X) come se fossero un numero di Modelli pari a X. Questa Regola Speciale non ha effetto durante la Sottofase delle Sfide.",
+    "alias": [
+     "Reaping Blow"
+    ],
+    "name": "Colpo Mietitore (X)",
+    "id": "951f-eee4-02b7-b014",
+    "hidden": false,
+    "page": 307,
+    "publicationId": "b905-0414-1057-bb34"
+   },
+   {
+    "description": "Quando si Imbarca su un Modello con il Sottotipo Trasporto, un Modello con questa Regola Speciale occupa un numero di punti di Capacità di Trasporto pari al valore di X, anziché 1.",
+    "alias": [
+     "Bulky"
+    ],
+    "name": "Imponente (X)",
+    "id": "50ad-a9a5-1f1d-9a25",
+    "hidden": false,
+    "publicationId": "b905-0414-1057-bb34",
+    "page": 295
+   },
+   {
+    "description": "Il Giocatore che Controlla un Modello con questa Regola Speciale considera tutte le Armi a Distanza del Modello che non hanno la Regola Speciale Pesante (X) o la Regola Speciale Artiglieria (X) come se avessero il tratto Assalto.",
+    "name": "Avanzata Implacabile",
+    "id": "3898-aafb-35e0-141b",
+    "hidden": false,
+    "publicationId": "b905-0414-1057-bb34",
+    "page": 301
+   },
+   {
+    "description": "Durante il Passaggio della Sottofase di Risoluzione, un Giocatore che ha vinto il Combattimento non può decidere di Inseguire con un'Unità che include Modelli che possiedono questa Regola Speciale.",
+    "name": "Lenti e Determinati",
+    "id": "6a8e-e508-abc9-cb3e",
+    "hidden": false,
+    "publicationId": "e54c-7040-0f35-d85d",
+    "page": 326
+   },
+   {
+    "description": "Prima che un Giocatore possa Rimuovere come Perdita un Modello con questa Regola Speciale, deve tirare un Dado. Se il risultato del tiro è uguale o superiore al valore di X, il Modello Esplode e ogni Unità con uno o più Modelli entro 6\" da un Modello che esplode subisce un numero di Colpi pari alla sua Caratteristica base di Ferite o Punti Scafo, risolti con Forza 8, VP \"-\" e Danno 1. Una volta risolti tutti i Colpi causati da questa Regola Speciale, il Giocatore può Rimuovere come Perdita il Modello che possiede questa Regola Speciale e non può sostituirlo con un Rottame.",
+    "alias": [
+     "Explodes"
+    ],
+    "name": "Esplosione (X)",
+    "id": "da5b-b871-20da-3e70",
+    "hidden": false,
+    "publicationId": "b905-0414-1057-bb34",
+    "page": 298
+   },
+   {
+    "description": "Se un'Arma o un Modello con questa Regola Speciale effettua un Attacco a Distanza e infligge una o più ferite a un'Unità Bersaglio, quest'ultima deve effettuare una Prova di Coraggio nella Sottofase di Morale dello stesso Turno del Giocatore applicando un modificatore pari al valore di X. Se la Prova di Coraggio fallisce, tutti i Modelli dell'Unità acquisiscono lo Status Inchiodato. Se l'attacco include Armi con diverse versioni di questa Regola Speciale, verrà considerato solo il modificatore più alto.",
+    "alias": [
+     "Pinning"
+    ],
+    "name": "Inchiodamento (X)",
+    "id": "88b6-6493-e4d7-1805",
+    "hidden": false,
+    "page": 306,
+    "publicationId": "b905-0414-1057-bb34"
+   },
+   {
+    "description": "Qualora un Tiro per Colpire per un'Arma che possiede questa Regola Speciale contro un'Unità Bersaglio che includa Modelli di Tipo Veicolo o Tipo Camminatore ottenga un risultato pari o superiore a \"5\", alla fine del Passaggio del processo di Attacco a Distanza o del Passaggio del processo di Risoluzione di un livello di Iniziativa, Rimozione delle Perdite, tutti i Modelli con quei Tipi nell'Unità Bersaglio acquisiscono lo Status indicato dal valore di X. Se il Modello già possiede lo Status indicato, o se l'attacco applicherebbe lo stesso Status più volte, non ci sono effetti aggiuntivi.",
+    "alias": [
+     "Shock"
+    ],
+    "name": "Scossa (X)",
+    "id": "c6fd-28d0-3f80-672c",
+    "hidden": false,
+    "publicationId": "b905-0414-1057-bb34",
+    "page": 308
+   },
+   {
+    "description": "Se un'Arma o un Modello con questa Regola Speciale effettua un Attacco a Distanza e infligge uno o più Colpi a un'Unità Bersaglio, l'Unità Bersaglio deve effettuare una Prova di Coraggio nella stessa Sottofase di Morale del Turno del Giocatore, con un modificatore negativo pari al valore di X. Se la Prova fallisce, tutti i Modelli nell'Unità acquisiscono lo Status Stordito. Se l'attacco coinvolge più Armi con diverse versioni della Regola Speciale, si applica solo il modificatore più alto.",
+    "alias": [
+     "Stun"
+    ],
+    "name": "Stordimento (X)",
+    "id": "c7c1-bbc9-f852-6f71",
+    "hidden": false,
+    "publicationId": "b905-0414-1057-bb34",
+    "page": 309
+   },
+   {
+    "description": "Se un'Arma o un Modello con questa Regola Speciale effettua un Attacco a Distanza e infligge una o più ferite a un'Unità Bersaglio, quest'ultima deve effettuare una Prova di Disciplina nella Sottofase di Morale dello stesso Turno del Giocatore applicando un modificatore pari al valore di X. Se la Prova di Disciplina fallisce, tutti i Modelli dell'Unità acquisiscono lo Status In Rotta. Se l'attacco include Armi con diverse versioni di questa Regola Speciale, verrà considerato solo il modificatore più alto.",
+    "alias": [
+     "Panic"
+    ],
+    "name": "Panico (X)",
+    "id": "82a7-f471-3fda-6ca1",
+    "hidden": false,
+    "page": 305,
+    "publicationId": "b905-0414-1057-bb34"
+   },
+   {
+    "description": "I Tiri per Ferire derivanti da colpi con questa Regola Speciale possono essere dichiarati come automaticamente superati quando ottengono un Numero Obiettivo pari a X ed, in tal caso, non infliggono mai più di ferita. Questa Regola Speciale non ha effetto sui Modelli che possiedono il Tipo Veicolo.",
+    "alias": [
+     "Poisoned"
+    ],
+    "name": "Avvelenato (X)",
+    "id": "076f-2c91-c58b-71b3",
+    "hidden": false,
+    "page": 306,
+    "publicationId": "b905-0414-1057-bb34"
+   },
+   {
+    "description": "Un'Arma che possiede questa Regola Speciale considera i Colpi Superficiali come Colpi Penetranti.",
+    "name": "Sfondacorazze",
+    "id": "36ee-4c54-bced-a696",
+    "hidden": false,
+    "publicationId": "b905-0414-1057-bb34",
+    "page": 293
+   },
+   {
+    "description": "Durante il Passaggio di qualsiasi Attacco a Distanza, un Giocatore può decidere di fare attaccare un Modello sotto il proprio Controllo con due Armi anziché una, a condizione che entrambe le Armi siano dotate della Regola Speciale Pistola.",
+    "name": "Pistola",
+    "id": "2bf6-55c8-6810-a71c",
+    "hidden": false,
+    "page": 306,
+    "publicationId": "b905-0414-1057-bb34"
+   },
+   {
+    "description": "Ogni attacco effettuato con un'arma dotata di questa Regola Speciale diretto contro un'Unità nemica contenente Modelli con il Sottotipo Velivolo viene effettuata con la normale Abilità Balistica. Un'Unità che comprende Modelli con qualsiasi Status Tattico non può beneficiare di questa Regola Speciale.",
+    "name": "Contraereo",
+    "id": "8ff3-b6fe-c75b-1d52",
+    "hidden": false,
+    "publicationId": "b905-0414-1057-bb34",
+    "page": 309
+   },
+   {
+    "description": "Un'Arma con questa Regola Speciale può effettuare attacchi per un numero di volte non superiore al valore di X.",
+    "alias": [
+     "Limited"
+    ],
+    "name": "Limitato (X)",
+    "id": "fe57-5bea-a3de-1e60",
+    "hidden": false,
+    "page": 302,
+    "publicationId": "b905-0414-1057-bb34"
+   },
+   {
+    "description": "Ogni volta che un Modello effettua un Attacco a Distanza come parte della Reazione Avanzata di Intercettazione, il Giocatore Controllante può utilizzare un'Arma con questa Regola Speciale anche se non è un'Arma Difensiva.",
+    "name": "Puntamento Rapido",
+    "id": "a3ed-1776-3252-db23",
+    "hidden": false,
+    "publicationId": "b905-0414-1057-bb34",
+    "page": 307
+   },
+   {
+    "description": "Se un'Arma o un Modello con questa Regola Speciale effettua un Attacco a Distanza e infligge uno o più Colpi a un'Unità Bersaglio, l'Unità Bersaglio deve effettuare una Prova di Coraggio nella stessa Sottofase di Morale del Turno del Giocatore, con un modificatore negativo pari al valore di X. Se la Prova fallisce, tutti i Modelli nell'Unità acquisiscono lo Status Soppresso. Se l'attacco coinvolge più Armi con diverse versioni della Regola Speciale, si applica solo il modificatore più alto.",
+    "alias": [
+     "Suppressive"
+    ],
+    "name": "Soppressione (X)",
+    "id": "001f-53f3-4d87-4b43",
+    "hidden": false,
+    "publicationId": "b905-0414-1057-bb34",
+    "page": 309
+   },
+   {
+    "description": "Quando viene effettuato un Tiro per Colpire di un attacco che ha questa Regola Speciale, se il Tiro ha successo con un risultato naturale uguale o maggiore del valore di X, diventa un \"Colpo di Precisione\" e deve formare un Gruppo di Fuoco o un Gruppo di Attacco separato. Durante il Passaggio dell'Attacco a Distanza, o nel Passaggio della sequenza di Iniziativa, quando viene selezionato il Modello Bersaglio di un Gruppo di Fuoco o un Gruppo di Attacco che contiene Colpi di Precisione, il Modello Bersaglio viene invece selezionato dal Giocatore Attaccante. I Modelli coinvolti in una Sfida non possono utilizzare questa Regola Speciale per colpire un Modello diverso dall'avversario coinvolto nella stessa Sfida. Questa Regola Speciale non può essere attivata per attacchi effettuati come Colpi Alla Cieca o per Armi/attacchi con le Regole Speciali Area (X), Bombardamento (X), Sagoma o Mietitore (X).",
+    "alias": [
+     "Precision"
+    ],
+    "name": "Precisione (X)",
+    "id": "4fbd-e0bc-8f72-6e3f",
+    "hidden": false,
+    "page": 307,
+    "publicationId": "b905-0414-1057-bb34"
+   },
+   {
+    "description": "Durante un Attacco a Distanza che coinvolga Armi con questa Regola Speciale, all'inizio del Passaggio del processo di Attacco a Distanza, quando dichiara l'Arma da utilizzare, il Giocatore Attaccante può selezionare una delle seguenti Regole Speciali da acquisire fino alla fine dell'Attacco a Distanza: ● Panico (1); ● Perforante (4+) ● Soppressione (2).",
+    "name": "Selettore di Munizioni",
+    "id": "1adf-7dde-c1ec-ce70",
+    "hidden": false,
+    "page": 308,
+    "publicationId": "b905-0414-1057-bb34"
+   },
+   {
+    "description": "Ogni volta che un Modello effettua un Attacco a Distanza con un Profilo d'Arma che possiede questa Regola Speciale, il Giocatore Controllante può selezionare un altro Profilo dell'Arma stessa e effettuare attacchi con esso come parte dello stesso Attacco a Distanza.",
+    "name": "Combi",
+    "id": "26a0-aaea-5b18-4de6",
+    "hidden": false,
+    "publicationId": "b905-0414-1057-bb34",
+    "page": 296
+   },
+   {
+    "description": "Alla fine del Passaggio del processo di Attacco a Distanza per qualsiasi Gruppo di Fuoco o Gruppo di Attacco che includa Armi con questa Regola Speciale, dopo aver effettuato i Tiri Salvezza e i Test di Mitigazione, si crea un nuovo Gruppo di Fuoco o Gruppo di Attacco contenente un numero di Colpi pari al numero di Ferite non salvate causate dal Gruppo di Fuoco o Gruppo di Attacco che ha innescato la sua creazione. Questi Colpi hanno tutti Forza pari al valore X, VP \"-\", Danno e nessuna Regola Speciale.",
+    "alias": [
+     "Deflagrate"
+    ],
+    "name": "Deflagrazione (X)",
+    "id": "f4a0-f206-0dba-7d81",
+    "hidden": false,
+    "publicationId": "b905-0414-1057-bb34",
+    "page": 297
+   },
+   {
+    "description": "Se un'Arma o Modello con questa Regola Speciale infligge una o più Ferite non Salvate ad un'Unità Bersaglio, una volta risolto completamente l'Attacco a Distanza o il Livello di Iniziativa in cui la Ferita non Salvata è stata inflitta tutti i Modelli rimanenti nell'Unità Bersaglio devono ridurre la loro Caratteristica indicata dal valore di X di -1 per il resto della Battaglia. Nessuna singola Caratteristica può essere ridotta più di da questa Regola Speciale.",
+    "alias": [
+     "Phage"
+    ],
+    "name": "Corrosivo (X)",
+    "id": "3e26-d357-69d6-1341",
+    "hidden": false,
+    "publicationId": "b905-0414-1057-bb34",
+    "page": 305
+   },
+   {
+    "description": "Quando effettui un Tiro per Colpire per un attacco con questa Regola Speciale, se ottieni un successo e il risultato del dado è uguale o superiore a X, la ferita è automatica senza effettuare alcun Tiro per Ferire e considerando il risultato del dado come se fosse un \"6\", indipendentemente dalla Forza dell'Arma o dalla Resistenza del Bersaglio. Se l'Unità Bersaglio comprende Modelli di Tipo Veicolo, questa Regola Speciale non ha effetto.",
+    "alias": [
+     "Rending"
+    ],
+    "name": "Dilaniante (X)",
+    "id": "167f-2a64-6e61-505b",
+    "hidden": false,
+    "publicationId": "b905-0414-1057-bb34",
+    "page": 307
+   },
+   {
+    "description": "Un'Arma o un attacco con questa Regola Speciale possono essere unicamente utilizzati in Combattimento bersagliando Unità nemiche composte da Modelli con il Tipo Veicolo o Modelli con una Caratteristica di Movimento di \"0\" o \"-\" .",
+    "name": "Detonazione",
+    "id": "7349-9e80-c051-c22f",
+    "hidden": false,
+    "publicationId": "b905-0414-1057-bb34",
+    "page": 297
+   },
+   {
+    "description": "Quando un Modello sceglie di utilizzare un'Arma che possiede questa Regola Speciale come parte di un Attacco in Combattimento o a Distanza, può essere effettuata una Prova di Volontà prima di effettuare gli attacchi. Se la Prova ha successo, allora la Caratteristica indicata dal valore di X viene raddoppiata. Se viene ottenuto un doppio durante questa Prova di Volontà, allora il Modello che utilizza l'Arma per effettuare gli attacchi subisce i Pericoli del Warp.",
+    "alias": [
+     "Force"
+    ],
+    "name": "Psichicità (X)",
+    "id": "25cd-60d0-a0a4-6b18",
+    "hidden": false,
+    "publicationId": "b905-0414-1057-bb34",
+    "page": 299
+   },
+   {
+    "description": "Se un Modello con questa Regola Speciale viene selezionato per occupare uno Slot di Comando in qualsiasi Distaccamento nella Tabella di Organizzazione dell'Armata della Crociata, allora possono essere selezionati un numero di Distaccamenti Ausiliari pari al valore di X anziché solo uno.",
+    "alias": [
+     "Officer of the Line"
+    ],
+    "name": "Ufficiale di Linea (X)",
+    "id": "7779-47c8-99a8-b935",
+    "hidden": false,
+    "page": 303,
+    "publicationId": "b905-0414-1057-bb34"
+   },
+   {
+    "description": "I Modelli che possiedono qualsiasi variante della Regola Speciale Imponente (X) non possono essere imbarcati su un Modello che possiede questa Regola Speciale.",
+    "name": "Trasporto Leggero",
+    "id": "d451-f7f3-fc8f-db23",
+    "hidden": false,
+    "publicationId": "7d63-5df4-c656-52de",
+    "page": 332
+   },
+   {
+    "description": "Nella Sottofase degli Status della Fase Finale, se il Giocatore Attivo effettua un Tiro Riparazione per un Modello che possiede questa Regola Speciale, il Numero Obiettivo da utilizzare è pari al valore di X invece di \"6\".",
+    "alias": [
+     "Auto-Repair"
+    ],
+    "name": "Auto-Riparazione (X)",
+    "id": "3973-ed50-1482-ff4a",
+    "hidden": false,
+    "publicationId": "b905-0414-1057-bb34",
+    "page": 293
+   },
+   {
+    "description": "Quando un Modello con questa Regola Speciale è tenuto a effettuare una Prova Caratteristica, il Giocatore Controllante può utilizzare la Caratteristica richiesta per quel Controllo dal Profilo di un Modello Imbarcato in questo Modello.",
+    "name": "Veicolo di Comando Mobile",
+    "id": "799f-1773-d0ae-d423",
+    "hidden": false
+   },
+   {
+    "description": "Un Modello con la Disciplina Anathemata ottiene i seguenti benefici:\n\n• La Regola Speciale Paura (1).\n• L'Arma Psionica Dardi del Vuoto.\n• Se il Modello ha il Tratto Lealista, può usare la Reazione Psionica Sigillare il Velo.\n• Se il Modello ha il Tratto Traditore, può usare il Potere Psionico Squarciare il Velo.\n• Il Tratto 'Anathemata'.",
+    "name": "Disciplina Anathemata",
+    "id": "f260-e43b-e300-79a6",
+    "hidden": false,
+    "page": 35,
+    "publicationId": "e54c-7040-0f35-d85d"
+   },
+   {
+    "description": "Finché un Modello con questa Regola Speciale si trova entro 12\" da un'Unità nemica, i Modelli che la compongono devono ridurre le loro Caratteristiche di Disciplina, Volontà, Coraggio e Intelligenza del valore di X. Se un'Unità dovesse essere influenzata da più istanze di questa Regola Speciale, deve essere utilizzato il valore più alto.",
+    "alias": [
+     "Fear"
+    ],
+    "name": "Paura (X)",
+    "id": "0ebc-0c92-2209-6393",
+    "hidden": false,
+    "page": 298,
+    "publicationId": "b905-0414-1057-bb34"
+   },
+   {
+    "description": "Durante la Sottofase di Sfida, se un Modello con questa Regola Speciale è idoneo, deve essere dichiarato Sfidante o Sfidato. Se più di un Modello con questa Regola Speciale è idoneo a essere Sfidante o Sfidato, il Giocatore Controllante può scegliere quale sarà dichiarato Sfidante o Sfidato. Durante la Sottofase di Sfida, se un Modello con questa Regola Speciale è idoneo, deve essere dichiarato Sfidante o Sfidato. Se più di un Modello con questa Regola Speciale è idoneo a essere Sfidante o Sfidato, il Giocatore Controllante può scegliere quale sarà dichiarato Sfidante o Sfidato. Durante la Sottofase di Sfida, se un Modello con questa Regola Speciale è idoneo, deve essere dichiarato Sfidante o Sfidato. Se più di un Modello con questa Regola Speciale è idoneo a essere Sfidante o Sfidato, il Giocatore Controllante può scegliere quale sarà dichiarato Sfidante o Sfidato.",
+    "name": "Mai Arrendersi",
+    "id": "91a6-7f61-0c0b-a236",
+    "hidden": false
+   },
+   {
+    "description": "Se un Modello con questa Regola Speciale è in Riserva, se quel Modello e tutti gli altri Modelli della stessa Unità hanno il Tipo Fanteria e il Sottotipo Antigravitazionale, l’Unità di quel Modello può utilizzare la Regola Speciale Attacco in Profondità per entrare in gioco durante il primo Turno di Battaglia. Solo una singola Unità di un’Armata può utilizzare questa Regola Speciale durante lo stesso Turno di Battaglia.",
+    "name": "Maestro dell’Avanguardia",
+    "id": "b04c-3f1f-9fac-cd25",
+    "hidden": false
+   },
+   {
+    "description": "Un Esercito il cui Distaccamento Principale includa un Modello con questa Regola Speciale può selezionare il seguente Distaccamento Ausiliario Punta di Lancia di Discesa Planetaria, una singola volta per Armata.",
+    "name": "Punta di Lancia",
+    "id": "96e2-c6ab-8084-c1d2",
+    "hidden": false
+   },
+   {
+    "description": "Se un Modello con questa Regola Speciale si unisce a un’Unità con il Tratto Solar Auxilia, le caratteristiche di Disciplina e Coraggio dei Modelli in quell’Unità non vengono ridotte di conseguenza.",
+    "name": "Maestro dell’Auxilia",
+    "id": "da1d-168c-c688-80cb",
+    "hidden": false
+   },
+   {
+    "description": "Un Modello che possiede questa Regola Speciale ottiene un Tiro Mitigazione con un Numero Obiettivo pari al valore di X.",
+    "alias": [
+     "Feel No Pain"
+    ],
+    "name": "Insensibile al Dolore (X)",
+    "id": "89b5-7320-db15-fd60",
+    "hidden": false,
+    "page": 299,
+    "publicationId": "b905-0414-1057-bb34"
+   },
+   {
+    "description": "Durante la Fase di Movimento, quando seleziona un Modello con questa Regola Speciale (detto \"Modello Agente\"), prima o dopo averlo mosso, il Giocatore Attivo deve selezionare un Modello amico di Tipo Veicolo, Automa o Camminatore entro 6” dal Modello Agente, detto \"Modello Bersaglio\". Dopo aver scelto il Modello Bersaglio, il Giocatore deve effettuare una Prova di Intelligenza per il Modello Agente. Se avrà successo, potrà selezionare una delle seguenti: ●",
+    "alias": [
+     "Battlesmith"
+    ],
+    "name": "Fabbro da Battaglia (X)",
+    "id": "c3db-d17c-fd46-eb01",
+    "hidden": false,
+    "publicationId": "b905-0414-1057-bb34",
+    "page": 294
+   },
+   {
+    "description": "Il Giocatore che Controlla un'Unità composta interamente da Modelli con questa Regola Speciale può scegliere di schierare quell'Unità ovunque al di fuori della Zona di Schieramento del Giocatore Avversario, ad un numero di pollici oltre qualsiasi Modello nemico, almeno pari al valore più alto di X associato a qualsiasi variante di questa Regola Speciale in quell'Unità. Un'Unità che, mediante questa Regola Speciale, viene schierata al di fuori della Zona di Schieramento del Giocatore Controllante, non può dichiarare una Carica nel primo Turno di Battaglia.",
+    "alias": [
+     "Infiltrate"
+    ],
+    "name": "Infiltrazione (X)",
+    "id": "f330-254e-1a98-798a",
+    "hidden": false,
+    "page": 301,
+    "publicationId": "b905-0414-1057-bb34"
+   },
+   {
+    "description": "Se la maggioranza dei Modelli di un'Unità che Controlla un Obiettivo possiede questa Regola Speciale, ogni volta che guadagna Punti Vittoria per il Controllo di quell'Obiettivo, il Giocatore Controllante guadagna un numero di Punti Vittoria aggiuntivi pari al valore di X . Oltre a quanto sopra, il valore di X viene aggiunto alla Forza Tattica di un Modello che possiede quella Regola Speciale.",
+    "alias": [
+     "Line"
+    ],
+    "name": "Linea (X)",
+    "id": "1b5d-ceec-802a-c611",
+    "hidden": false,
+    "page": 302,
+    "publicationId": "b905-0414-1057-bb34"
+   },
+   {
+    "description": "Quando un Modello con questa Regola Speciale effettua un Attacco a Distanza con un Fucile requiem, il Fucile requiem ottiene la Regola Speciale Pesante (PF) finché l’Attacco a Distanza non viene risolto.",
+    "name": "Furia della Legione",
+    "id": "b49c-d074-165e-ce1b",
+    "hidden": false,
+    "page": 59,
+    "publicationId": "e54c-7040-0f35-d85d"
+   },
+   {
+    "description": "Ogni volta che viene effettuato un Tiro di Penetrazione dell’Armatura per un attacco o un Modello con questa Regola Speciale, e tale tiro risulta in un Colpo Penetrante, il Giocatore Attaccante deve tirare un Dado. Se il risultato di questo è pari o superiore al valore di X, allora la Caratteristica di Danno di quel Colpo Penetrante è aumentata di 1.",
+    "alias": [
+     "Armour-Breaker"
+    ],
+    "name": "Spezza-corazze (X)",
+    "id": "3009-9bbb-a8f6-1b47",
+    "hidden": false,
+    "publicationId": "5a4b-8b0e-caa6-c7ed",
+    "page": 93
+   },
+   {
+    "description": "Un Veicolo che possiede questa Regola Speciale consente ai Modelli Imbarcati di Sbarcare e Caricare senza essere costretti ad effettuare una Carica Scomposta.",
+    "name": "Veicolo d'Assalto",
+    "id": "150c-16e6-1212-9f75",
+    "hidden": false,
+    "publicationId": "7d63-5df4-c656-52de",
+    "page": 326
+   },
+   {
+    "description": "Un'Unità che possiede questa Regola Speciale può Aggregarsi solo ad altre Unità che la posseggono a loro volta, e viceversa.",
+    "name": "Dovere Gravoso",
+    "id": "5d6f-552a-f409-cad5",
+    "hidden": false,
+    "publicationId": "b905-0414-1057-bb34",
+    "page": 294
+   },
+   {
+    "description": "Quando un Modello con questa Regola Speciale subisce una Ferita non Salvata, il valore di Danno della stessa viene ridotto del valore di X, fino a un minimo di 1.",
+    "alias": [
+     "Eternal Warrior"
+    ],
+    "name": "Guerriero Eterno (X)",
+    "id": "15b4-9e4a-f361-c5a3",
+    "hidden": false,
+    "publicationId": "7d63-5df4-c656-52de",
+    "page": 329
+   },
+   {
+    "description": "Un'Unità che possiede solo Modelli con questa Regola Speciale aggiunge il valore di X alla distanza di Scatto ed ai Tiri di Carica. Se un'Unità include Modelli con diverse varianti di questa Regola Speciale, viene utilizzato il modificatore più basso disponibile.",
+    "alias": [
+     "Fast"
+    ],
+    "name": "Veloce (X)",
+    "id": "9ebf-3b90-be22-b9c2",
+    "hidden": false,
+    "publicationId": "7d63-5df4-c656-52de",
+    "page": 330
+   },
+   {
+    "description": "Un Modello che possiede questa Regola Speciale non è obbligato a effettuare Tiri alla Cieca quando effettua Attacchi a Raffica. Dopo aver effettuato Attacchi a Raffica nel Passaggio della Procedura di Carica, un'Unità che contiene un Modello con questa Regola Speciale non è tenuta a effettuare un Tiro di Carica nel Passaggio 5, terminando immediatamente la Procedura di Carica.",
+    "name": "Tempesta di Fuoco",
+    "id": "3ed1-c5b3-a98d-1b12",
+    "hidden": false,
+    "publicationId": "b905-0414-1057-bb34",
+    "page": 299
+   },
+   {
+    "description": "Durante un Attacco a Distanza, un Modello con questa Regola Speciale può utilizzare un numero di Armi pari a X.",
+    "alias": [
+     "Firing Protocols"
+    ],
+    "name": "Protocolli di Tiro (X)",
+    "id": "84f2-5a93-c2eb-826f",
+    "hidden": false,
+    "publicationId": "7d63-5df4-c656-52de",
+    "page": 331
+   },
+   {
+    "description": "Quando un Modello con questa Regola Speciale si trova in Combattimento o in Sfida con un Modello nemico avente Tipo o Tratto corrispondente al valore di X, ottiene un bonus di +1 a tutti i Tiri per Ferire effettuati in quel Combattimento.",
+    "alias": [
+     "Hatred"
+    ],
+    "name": "Odio (X)",
+    "id": "0612-95d5-46ae-c5ee",
+    "hidden": false,
+    "publicationId": "7d63-5df4-c656-52de",
+    "page": 331
+   },
+   {
+    "description": "Un'Unità che includa un Modello con questa Regola Speciale non può Controllare o Contestare nessun Segnalino Obiettivo.",
+    "name": "Impulsivo",
+    "id": "a3f3-72c6-7e01-6cab",
+    "hidden": false,
+    "publicationId": "7d63-5df4-c656-52de",
+    "page": 332
+   },
+   {
+    "description": "Un'Unità che includa almeno un Modello con questa Regola Speciale ignora gli effetti del Terreno Accidentato e del Terreno Pericoloso. Se un'Unità con questa Regola Speciale deve effettuare un Tiro di Terreno Pericoloso, lo supera automaticamente senza dover tirare alcun Dado.",
+    "name": "Movimento in Copertura",
+    "id": "44d9-f20d-00bf-dc98",
+    "hidden": false,
+    "publicationId": "7d63-5df4-c656-52de",
+    "page": 333
+   },
+   {
+    "description": "Un'Unità composta interamente da Modelli che possiedono questa Regola Speciale può entrare in gioco dalle Riserve da qualsiasi punto sul Limite del Campo di Battaglia, purché fuori dalla Zona di Schieramento del Giocatore Avversario ed almeno oltre 7\" da qualsiasi Modello nemico. Un'Unità Imbarcata su un Modello con questa Regola Speciale non necessita di possedere anch'essa la Regola Speciale affinché il Modello su cui è Imbarcata possa beneficiarne. Un Modello che entra in gioco sul Campo di Battaglia tramite questa Regola Speciale da un punto al di fuori della Zona di Schieramento del Giocatore Controllante, nonché qualsiasi Unità imbarcata su di esso, non possono dichiarare una Carica nel Turno del Giocatore in cui entrano in gioco.",
+    "name": "Fiancheggiamento",
+    "id": "92d2-cc57-1ef6-a712",
+    "hidden": false,
+    "page": 304,
+    "publicationId": "b905-0414-1057-bb34"
+   },
+   {
+    "description": "Un Modello con questa Regola Speciale guadagna un Tiro Mitigazione con Numero Obiettivo pari a X, non utilizzabile contro le ferite causate da un'Arma da Mischia o durante la Reazione Fuoco di Difesa.",
+    "alias": [
+     "Shrouded"
+    ],
+    "name": "Ammantato (X)",
+    "id": "c7e7-3bad-3de0-d6cc",
+    "hidden": false,
+    "publicationId": "7d63-5df4-c656-52de",
+    "page": 337
+   },
+   {
+    "description": "Un'Unità la cui maggior parte dei Modelli abbia questa Regola Speciale può far guadagnare solo Punto Vittoria per il Controllo di un Obiettivo, ma genera un numero di Punti Vittoria aggiuntivi pari al valore di X al verificarsi di una delle seguenti condizioni: ● Un attacco causa la Rimozione come Perdita dell'ultimo Modello di un'Unità nemica che stesse Controllando o Contestando un Obiettivo; ● Almeno un attacco effettuato da essa in un Combattimento bersagliando una o più Unità nemiche che avevano almeno un Modello entro 3\" da un Obiettivo all'inizio di quella Fase di Assalto porta la stessa a Ripiegare dal Combattimento o essere Massacrata. Questa Regola Speciale può essere utilizzata per guadagnare Punti Vittoria solo una volta per Obiettivo per ogni Turno del Giocatore.",
+    "alias": [
+     "Vanguard"
+    ],
+    "name": "Avanguardia (X)",
+    "id": "530f-b733-993c-ec84",
+    "hidden": false,
+    "publicationId": "7d63-5df4-c656-52de",
+    "page": 339
+   },
+   {
+    "description": "Se un Attacco in Combattimento effettuato con un'Arma o un Modello dotato di questa Regola Speciale infligge una o più ferite a un'Unità Bersaglio, quell'Unità è considerata 'in fiamme' fino alla fine della Fase. Se il Giocatore che Controlla un'Unità in fiamme è tenuto a effettuare una Prova di Disciplina durante quella Fase, per un Combattimento che coinvolge quell'Unità, il valore di X viene applicato come ulteriore penalità alla Caratteristica di Disciplina utilizzata per quella Prova.",
+    "alias": [
+     "Aflame"
+    ],
+    "name": "Infuocato (X)",
+    "id": "fdc7-d2a1-338f-df11",
+    "hidden": false,
+    "publicationId": "b905-0414-1057-bb34",
+    "page": 293
+   },
+   {
+    "description": "\"Un'Unità che contenga qualsiasi Modello con il Tratto Psionico o il Sottotipo Malefico che subisca una ferita da un'Arma con questa Regola Speciale subisce anche i Pericoli del Warp.\"\nSe un Attacco a Distanza effettuato per un'Arma o un Modello con questa Regola Speciale infligge una o più ferite a un'Unità Bersaglio che contenga qualsiasi Modello con il Tratto Psionico o il Sottotipo Malefico, indipendentemente dal fatto che venga inflitto Danno, quell'Unità Bersaglio subisce il risultato Frattura Warp sulla Tabella dei Pericoli del Warp al termine del Passaggio 9 di quell'Attacco a Distanza.",
+    "name": "Psico-Shock",
+    "id": "e808-01eb-eddc-cec7",
+    "hidden": false,
+    "publicationId": "09c6-1c1d-03a7-9556",
+    "page": 62
+   },
+   {
+    "description": "I Modelli di qualsiasi Tipo diverso da Veicolo possono Imbarcarsi su un Modello con questa Regola Speciale, tuttavia possono essere Imbarcati solo 4 modelli che non abbiano il tipo Fanteria o Esemplare e che non abbiano alcuna variante della Regola Speciale Imponente (X) in cui il valore di X sia maggiore di 6.",
+    "name": "Stiva di Carico del Mastodon",
+    "id": "4f26-7d6e-aa15-d1a4",
+    "hidden": false
+   },
+   {
+    "description": "\"I Modelli con questa Regola Speciale ottengono benefici quando combattono a fianco di un Titano amico.\"\nUn'Unità composta interamente da Modelli con questa Regola Speciale ignora tutte le penalità applicate dalla Regola Speciale Sirena da Guerra Titanica (X). Inoltre, mentre un Titano amico è sul campo di battaglia, tutti i Modelli con questa Regola Speciale aggiungono un modificatore di +1 alla propria Caratteristica Disciplina. Tuttavia, ogni volta che un Titano amico viene Rimosso come Perdita o altrimenti distrutto, tutte le Unità che includano qualsiasi Modello con questa Regola Speciale devono effettuare un'immediata Prova di Panico.",
+    "name": "Armigeri della Legio",
+    "id": "2f9d-aa76-f8e2-48b0",
+    "hidden": false,
+    "publicationId": "5a4b-8b0e-caa6-c7ed",
+    "page": 98
+   },
+   {
+    "description": "Se il bersaglio dell’Attacco a Distanza non è un’Unità composta interamente da Modelli con il Sottotipo Titano, Cavaliere o Superpesante o altri Modelli con una Caratteristica Ferite Base di 10 o più, allora tutti gli attacchi effettuati per un’Arma con questa Regola Speciale devono essere effettuati Alla Cieca.",
+    "name": "Macro-Auspex",
+    "id": "8120-65ac-c2d4-a555",
+    "hidden": false,
+    "page": 99,
+    "publicationId": "5a4b-8b0e-caa6-c7ed"
+   },
+   {
+    "description": "\"Un'Arma con questa Regola Speciale fa attaccare le altre Armi Alla Cieca quando viene usata.\"\nSe un'Arma con questa Regola Speciale viene usata come parte dell'Attacco a Distanza di un Modello, allora tutte le altre Armi usate in quello o in qualsiasi altro Attacco a Distanza effettuato da quel Modello nella stessa Fase devono attaccare Alla Cieca. Se altri Attacchi a Distanza sono già stati effettuati nella stessa Fase da un Modello con un'Arma dotata di questa Regola Speciale e quegli attacchi non sono stati effettuati Alla Cieca, allora un'Arma con questa Regola Speciale non può essere usata per sparare nella stessa Fase di Fuoco. Inoltre, un'Arma con questa Regola Speciale non può essere usata per attaccare come parte di alcun Attacco a Distanza effettuato come parte di una Reazione.",
+    "name": "Fame di Potere",
+    "id": "a20d-f2db-43ea-5829",
+    "hidden": false,
+    "page": 101,
+    "publicationId": "5a4b-8b0e-caa6-c7ed"
+   },
+   {
+    "description": "\"Un Modello con questa Regola Speciale subisce meno Danno dalla maggior parte delle Armi.\"\nUn Modello con questa Regola Speciale riduce il Danno di tutti i Colpi inflitti da Armi che non abbiano il Tratto Strategico o la Regola Speciale Artiglieria (X) del valore di X associato a quella variante di questa Regola Speciale. Ciò non può ridurre il Danno di un Colpo al di sotto di 1.",
+    "name": "Struttura Rinforzata (X)",
+    "id": "3efb-ad77-5402-1507",
+    "hidden": false,
+    "publicationId": "5a4b-8b0e-caa6-c7ed",
+    "page": 103
+   },
+   {
+    "description": "\"Un Modello con la Regola Speciale Squadra di Riparazione (X) può riparare se stesso.\"\nNella Fase Iniziale del Giocatore Controllante, durante la Sottofase degli Effetti, questi può scegliere di attivare questa Regola Speciale. Una volta attivata, il Giocatore Controllante di un Modello con la Regola Speciale Squadra di Riparazione (X) può ripristinare un numero di Punti Scafo pari al valore della variante di questa Regola Speciale posseduta dal Modello su uno qualsiasi dei Profili di quel Modello. Se il valore della variante di questa Regola Speciale è maggiore del numero di Punti Scafo persi sul Profilo scelto, i Punti Scafo in eccesso non possono essere trasferiti a un altro Profilo e non possono aumentare il valore della Caratteristica Punti Scafo del Profilo scelto oltre il suo Valore Base.\n\nQuesta Regola Speciale può ripristinare Punti Scafo a un Profilo che è stato Danneggiato, e se un Profilo viene riportato a uno o più Punti Scafo, allora non è più Danneggiato.\n\nAttivare la Regola Speciale Squadra di Riparazione (X) non limita il Modello con quella Regola Speciale nel muoversi o attaccare nello stesso Turno.",
+    "alias": [
+     "Repair Crew"
+    ],
+    "name": "Squadra di Riparazione (X)",
+    "id": "e60a-ee69-a386-7b11",
+    "hidden": false,
+    "page": 103,
+    "publicationId": "5a4b-8b0e-caa6-c7ed"
+   },
+   {
+    "description": "Ogni volta che viene effettuato un Tiro di Penetrazione dell’Armatura per un attacco o un Modello con questa Regola Speciale, e tale tiro risulta in un Colpo Penetrante, il Giocatore Attaccante deve tirare un Dado. Se il risultato di questo è pari o superiore al valore di X, allora la Caratteristica di Danno di quel Colpo Penetrante è aumentata di 1.",
+    "name": "Spezza-corazze (X)",
+    "id": "28ce-8329-623c-e1a5",
+    "hidden": false,
+    "page": 103,
+    "publicationId": "5a4b-8b0e-caa6-c7ed"
+   },
+   {
+    "description": "\"I Modelli vicino a un Modello che attiva la Regola Speciale Sirena da Guerra Titanica (X) devono ridurre le proprie Caratteristiche Avanzate.\"\nUna volta per Battaglia, il Giocatore Controllante di un Modello con questa Regola Speciale può scegliere di attivarla nella Sottofase degli Effetti della Fase Finale del proprio Turno. Quando qualsiasi Modello di un'Unità si trova entro 24\" da qualsiasi parte di un Modello che ha attivato questa Regola Speciale, tutti i Modelli in quell'Unità devono ridurre le proprie Caratteristiche Disciplina, Forza di Volontà, Coraggio e Intelligenza del valore di X. Questo modificatore negativo è rimosso non appena nessun Modello in una data Unità si trova entro 24\" da qualsiasi Modello con la Regola Speciale Sirena da Guerra Titanica (X). Se un'Unità fosse influenzata da più istanze di questa Regola Speciale o della Regola Speciale Paura (X), il valore di X non si accumula e viene invece usato il singolo valore più alto come modificatore negativo. Una volta attivata, gli effetti di questa Regola Speciale durano fino alla Sottofase degli Effetti della prossima Fase Iniziale del Giocatore Controllante, o fino a quando il Titano non viene rimosso dal gioco per qualsiasi motivo.",
+    "alias": [
+     "Titan War Horn"
+    ],
+    "name": "Sirena da Guerra Titanica (X)",
+    "id": "2cd4-62d3-b63c-c117",
+    "hidden": false,
+    "publicationId": "5a4b-8b0e-caa6-c7ed",
+    "page": 107
+   },
+   {
+    "description": "\"Un Modello con questa Regola Speciale ottiene un ulteriore livello di difesa contro gli Attacchi a Distanza.\"\nUn Modello con questa Regola Speciale ha un numero di scudi vacuum pari al valore di X. Finché un Modello con questa Regola Speciale ha ancora scudi vacuum, ogni volta che quel Modello subisce un Colpo da un Attacco a Distanza, esso deve essere assegnato agli scudi vacuum. Una volta che tutti gli scudi vacuum sono collassati, qualsiasi Colpo rimanente dagli Attacchi a Distanza deve essere assegnato al Profilo del Titano bersagliato dall'attacco.\n\nUno scudo vacuum ha un Valore di Corazza di 13, e qualsiasi Colpo Superficiale o Colpo Penetrante inflitto su di esso causerà il collasso di quello scudo vacuum. Indipendentemente dal valore di Danno di un Colpo, esso non può far collassare più di uno scudo vacuum, e una volta che un Colpo ha fatto collassare uno scudo vacuum o ha fallito un Tiro di Penetrazione della Corazza effettuato contro di esso, viene scartato.\n\nSe, nella Sottofase degli Effetti della Fase Finale del Giocatore Controllante, un Titano ha qualsiasi scudo vacuum collassato, tira un Dado per ciascuno di essi. Qualsiasi Dado il cui risultato sia pari o superiore al numero obiettivo ripristina uno scudo vacuum - con il numero obiettivo determinato controllando il Tratto [Equipaggio] del Titano usando la tabella seguente:\n\nMinoris: 6\nSenioris: 5+\nMajoris: 4+\nUltima: 3+",
+    "alias": [
+     "Titan Void Shield Array"
+    ],
+    "name": "Batteria di Scudi Vacuum Titanici (X)",
+    "id": "c18d-dd21-3760-8a3d",
+    "hidden": false,
+    "publicationId": "5a4b-8b0e-caa6-c7ed",
+    "page": 107
+   },
+   {
+    "description": "\"I Modelli con questa Regola Speciale ignorano gli effetti delle Abilità Psioniche e possono essere feriti da un'Arma con il Tratto Psionico o Immateriale solo con un 5+.\"\nUn'Unità che includa qualsiasi Modello con questa Regola Speciale non può mai essere selezionata come bersaglio di una Benedizione Psionica o di una Maledizione Psionica, e i Modelli con questa Regola Speciale ignorano tutti i Danni inflitti da Armi Psioniche, Poteri Psionici, Reazioni Psioniche o Pericoli del Warp. Se tale Modello è selezionato come Modello Bersaglio di qualsiasi attacco o ferita inflitta da un'Arma Psionica, un Potere Psionico, una Reazione Psionica o i Pericoli del Warp, tutti i Danni causati non hanno effetto e non vengono effettuati Tiri per Ferire, Tiri Armatura o Tiri Mitigazione. Inoltre, i Tiri per Ferire effettuati per Armi con il Tratto Psionico o Immateriale che bersagliano qualsiasi Unità che includa solo Modelli con questa Regola Speciale con un risultato non modificato di 1, 2, 3 o 4 non hanno mai successo, indipendentemente dalla Caratteristica Forza del Colpo o da qualsiasi Regola Speciale che determini il Numero Obiettivo dei Tiri per Ferire. Questa Regola Speciale non ha effetto sui Tiri di Penetrazione della Corazza.",
+    "name": "Anatema",
+    "id": "9ca0-a776-be65-b2b7",
+    "hidden": false
+   },
+   {
+    "description": "\"I Modelli con questa Regola Speciale infliggono automaticamente Pericoli del Warp a qualsiasi Unità che contenga Modelli con il Tratto Psionico o il Sottotipo Malefico al termine del Combattimento.\"\nSe, al termine del Passaggio 5 della Sottofase di Combattimento della Fase di Assalto, un Combattimento include uno o più Modelli con questa Regola Speciale, allora tutte le Unità (amiche o nemiche) in quel Combattimento che contengano almeno un Modello con il Tratto Psionico o il Sottotipo Malefico subiscono immediatamente il risultato Frattura Warp sulla Tabella dei Pericoli del Warp.\nInoltre, un Modello con questa Regola Speciale è considerato dotato del Tratto Psionico ai fini della nomina di un Modello come Focus della Reazione Avanzata Annullamento, purché almeno un Modello dell'Unità Bersaglio si trovi entro 12\" dal Modello con questa Regola Speciale.",
+    "name": "Ex Oblivio",
+    "id": "2bbf-2408-efc0-8789",
+    "hidden": false,
+    "publicationId": "09c6-1c1d-03a7-9556",
+    "page": 56
+   },
+   {
+    "description": "\"Con una Carica riuscita, un Modello con la Regola Speciale Colpi Fulminei ottiene temporaneamente la Regola Speciale Colpo Critico (6+) sulle sue Armi da Mischia.\"\nSe un'Unità che include qualsiasi Modello con la Regola Speciale Colpi Fulminei effettua una Carica riuscita, allora fino al termine di quella Fase di Assalto, tutti i Modelli con la Regola Speciale Colpi Fulminei in quell'Unità ottengono la Regola Speciale Colpo Critico (6+) su qualsiasi Arma da Mischia possiedano.",
+    "name": "Colpi Fulminei",
+    "id": "9f68-a519-8e29-cb44",
+    "hidden": false,
+    "publicationId": "09c6-1c1d-03a7-9556",
+    "page": 58
+   },
+   {
+    "description": "Ogni volta che vengono effettuati Tiri per Ferire per un Gruppo di Fuoco che prende di mira un’Unità che includa Modelli con questa Regola Speciale, se in questa Unità sono presenti Modelli Piattaforma Rapier, la loro Caratteristica di Resistenza viene considerata maggioritaria e, se vengono generate ferite da questi Tiri per Ferire, il Modello Bersaglio selezionato deve essere un Modello Piattaforma Rapier, se possibile. Ogni volta che vengono effettuati Tiri per Ferire per un Gruppo d’Attacco che prende di mira questa Unità, la Caratteristica di Resistenza dei Modelli Legionari viene considerata maggioritaria e, se vengono generate ferite da questi Tiri per Ferire, il Modello Bersaglio selezionato deve essere un Modello Legionario, se possibile. Se in qualsiasi momento rimangono solo Modelli Batteria Rapier in questa Unità, tali Modelli vengono immediatamente Rimossi come Perdite.",
+    "name": "Equipaggio della Rapier",
+    "id": "6745-08ce-be63-3a62",
+    "hidden": false
+   },
+   {
+    "description": "Quando un Modello con questa Regola Speciale viene schierato, tutti i portelloni del Modello devono essere completamente aperti. Dopodiché, questo Modello effettua fino a cinque Attacchi da Tiro come se fosse la Fase di Tiro, ognuno dei quali deve prendere di mira un’Unità diversa. Dopo aver risolto questi Attacchi da Tiro, il lanciamissili Deathstorm di questo Modello non può più essere utilizzato per effettuare Attacchi da Tiro per il resto della Battaglia.",
+    "name": "Tempesta di Morte",
+    "id": "a89e-9755-0c6e-80db",
+    "hidden": false
+   },
+   {
+    "description": "Lo scafo di un Modello con questa Regola Speciale è considerato essere solo la torretta centrale, mentre i sostegni che formano l’affusto del cannone vengono ignorati a tutti gli effetti.",
+    "name": "Postazione Arma",
+    "id": "c573-facf-1a23-cfdd",
+    "hidden": false
+   },
+   {
+    "description": "I Modelli di qualsiasi Tipo diverso da Veicolo possono Imbarcarsi su un Modello con questa Regola Speciale, tuttavia possono essere Imbarcati solo 2 modelli che non abbiano il tipo Fanteria o Esemplare e che non abbiano alcuna variante della Regola Speciale Imponente (X) in cui il valore di X sia maggiore di 6. Inoltre, un Modello di Rhino può essere Imbarcato ed è considerato come se avesse la Regola Speciale Imponente (12) ai fini della Capacità di Trasporto.",
+    "name": "Stiva di Carico della Stormbird",
+    "id": "76fd-c251-18b0-054f",
+    "hidden": false
+   },
+   {
+    "description": "I Modelli di qualsiasi Tipo diverso da Veicolo possono Imbarcarsi su un Modello con questa Regola Speciale, tuttavia possono essere Imbarcati solo 2 modelli che non abbiano il tipo Fanteria o Esemplare e che non abbiano alcuna variante della Regola Speciale Imponente (X) in cui il valore di X sia maggiore di 6. I Modelli di qualsiasi Tipo diverso da Veicolo possono Imbarcarsi su un Modello con questa Regola Speciale, tuttavia possono essere Imbarcati solo 2 modelli che non hanno il tipo Fanteria o Esemplare e tale Modello non può avere alcuna variante della Regola Speciale Imponente (X) in cui il valore di X è maggiore di 6.",
+    "name": "Stiva di Carico della Thunderhawk",
+    "id": "4f9e-65d3-552c-e1be",
+    "hidden": false
+   },
+   {
+    "description": "Un singolo Modello con il Tipo Camminatore, che non abbia una variante della Regola Speciale Imponente (X) con il valore di X superiore a 7, può essere Imbarcato su un Modello con questa Regola Speciale.",
+    "name": "Capsula da Trasporto Pesante",
+    "id": "aabf-caf3-8c57-5bbe",
+    "hidden": false
+   },
+   {
+    "description": "Un singolo Modello con il Tipo Camminatore, che non abbia una variante della Regola Speciale Imponente (X) con il valore di X superiore a 6, può essere Imbarcato su un Modello con questa Regola Speciale.",
+    "name": "Capsula da Trasporto",
+    "id": "ad3b-84cf-3450-cf19",
+    "hidden": false
+   },
+   {
+    "description": "Su un Modello con questa Regola Speciale può essere Imbarcato un solo Modello, che deve avere il tipo Camminatore e non avere una variante della Regola Speciale Imponente (X) con un valore di X superiore a 7.",
+    "name": "Trasporto Dreadnought",
+    "id": "ef04-738f-379a-6491",
+    "hidden": false
+   },
+   {
+    "description": "Quando un Modello con questa Regola Speciale viene schierato, tutte le porte sul Modello devono essere aperte completamente e qualsiasi Unità Imbarcata deve Sbarcare nella Fase di Movimento immediatamente successiva alla Sottofase delle Riserve in cui il Modello è stato schierato. Una volta che un'Unità Sbarca da un Modello con questa Regola Speciale, nessun altro Modello può Imbarcarvisi per tutta la rimanente durata della Battaglia. Le porte sul Modello con questa Regola Speciale sono ignorate ai fini della Gittata, della Linea di Vista e per qualsiasi altro scopo.",
+    "name": "Portelli a Reazione d’Impatto",
+    "id": "a919-02f3-60f7-ab99",
+    "hidden": false,
+    "publicationId": "b905-0414-1057-bb34",
+    "page": 301
+   },
+   {
+    "description": "Un Modello con questa Regola Speciale deve essere schierato sul Campo di Battaglia utilizzando la Regola Speciale Attacco in Profondità e non può mai essere schierato senza di essa, e se costretto a farlo, verrà immediatamente ridotto a \"0\" Punti Scafo. Uno Status è una Regola che non infligge ferite o Colpi ad un Modello o un'Unità e i cui effetti durano fino a quando non si supera una Prova per rimuovere lo Status. Ad eccezione dello Status Disonorato, se un Modello in un'Unità ottiene uno Status, lo stesso avviene per tutti gli altri Modelli nella stessa Unità. Oltre agli effetti specifici derivanti da ogni determinato Status, i seguenti effetti si applicano a tutti i Modelli appartenenti ad un'Unità influenzata da un qualsiasi Status: ● Qualsiasi Carica conta sempre Scomposta; ● Se Bloccati in Combattimento, devono impostare la loro Iniziativa di Combattimento a “1”; ● Non possono essere conteggiati per il Supporto Esterno durante la Sottofase delle Sfide; ● Non possono mantenere, reclamare o contestare un Obiettivo; ● Non possono mai trarre beneficio dall'essere Stazionari. Un'Unità che include Modelli influenzati da uno specifico Status che otterrebbe nuovamente lo stesso Status non subisce alcun effetto aggiuntivo. Un Modello con lo Status Disonorato dimezza le sue Caratteristiche di Abilità di Combattimento e Disciplina per la sola la Fase di Assalto in cui ha acquisito lo Status. Lo Status Disonorato viene rimosso automaticamente nella Fase Finale dello stesso Turno del Giocatore in cui è stato inflitto. Un'Unità che include qualsiasi Modello Inchiodato non può muoversi, Scattare o Caricare in nessuna Fase, tutti gli effetti che la costringerebbero a muoversi o Caricare sono ignorati, e non può scegliere di Inseguire o Disimpegnarsi durante la Sottofase di Risoluzione. Un'Unità che include qualsiasi Modello Soppresso considera tutti i propri Attacchi a Distanza come Alla Cieca. Un'Unità che include un Modello Stordito non può utilizzare alcuna Reazione. Se uno o più Modelli in un'Unità acquisiscono lo Status In Rotta, allora tutti i Modelli nell'Unità perdono immediatamente tutti gli altri Status ad eccezione di Disonorato. Qualsiasi Modello incluso in un'Unità In Rotta: ● Deve effettuare un Ripiegamento durante la Sottofase di Rotta del Giocatore Controllante; ● Non può muoversi, Scattare o Caricare in nessuna Fase e qualsiasi effetto che la costringerebbe a muoversi o Caricare viene ignorato; ● Considera tutti i propri Attacchi a Distanza come Alla Cieca. ● Non può utilizzare alcuna Reazione; ● Non può dichiarare una Sfida; ● Durante la Sottofase di Risoluzione, può unicamente scegliere di Ripiegare. Qualsiasi Modello che abbia lo Status In Rotta che entra in contatto con un punto qualsiasi del Limite del Campo di Battaglia all'interno della Zona di Schieramento del Giocatore Controllante termina il proprio Movimento, e qualsiasi Modello che abbia lo Status In Rotta e inizi la Sottofase di Rotta a contatto di un tale punto del Limite del Campo di Battaglia deve rimanere Stazionario. Se un'Unità che include uno o più Modelli con lo Status in Rotta entra in contatto con un Limite del Campo di Battaglia all'interno della Zona di Schieramento del Giocatore Controllante come parte di un Ripiegamento, una volta che tutti i Modelli nell'Unità hanno completato il loro movimento l'Unità effettuata una Prova di Disciplina . Se la Prova di Disciplina fallisce, allora tutti i Modelli nell'Unità vengono immediatamente Rimossi come Perdite. Tuttavia, se la Prova di Disciplina ha successo, allora l'Unità rimane in gioco e tutti i Modelli nell'Unità perdono lo Status In Rotta, ma acquisiscono lo Status Soppresso.",
+    "name": "Veicolo d'Assalto Orbitale",
+    "id": "d3d7-2241-0ce5-f2b6",
+    "hidden": false,
+    "publicationId": "b905-0414-1057-bb34",
+    "page": 303
+   },
+   {
+    "description": "Un Modello con questa Regola Speciale non può essere selezionato per effettuare un Attacco a Distanza durante la Fase di Tiro del Giocatore Controllante, e può effettuare unicamente la Reazione Rispondere al Fuoco e le Reazioni Avanzate Intercettazione e Fuoco Automatico. Quando effettua un Attacco a Distanza come parte di una di queste Reazioni Avanzate, un Modello con questa Regola Speciale può utilizzare tutte le armi che possiede, e non solo le Armi Difensive. Reazione Avanzata: Fuoco Automatico Attivazione: il Giocatore Reattivo può dichiarare la Reazione Avanzata Fuoco Automatico nel Passaggio 2 della Sottofase di Movimento se un’Unità nemica termina un Movimento entro 48\" da un’Unità sotto il Controllo del Giocatore Reattivo che includa solo Modelli con la Regola Speciale Protocolli di Fuoco Automatici. Costo: nessun costo. Bersaglio: l’Unità il cui Movimento ha attivato la Reazione. L’Unità Reattiva è qualsiasi Unità che include solo Modelli con la Regola Speciale Protocolli di Fuoco Automatici e si trova anche entro 48\" dall’Unità Bersaglio. Procedura: Il Giocatore Reattivo effettua un Attacco a Distanza con l’Unità Reattiva, attaccando l’Unità Bersaglio.",
+    "name": "Protocolli di Fuoco Automatici",
+    "id": "bbf2-c529-d30b-b6b1",
+    "hidden": false
+   },
+   {
+    "description": "Durante la Battaglia ogni Modello con questa Regola Speciale è considerato un’Unità a sé stante.",
+    "name": "Sentinelle Indipendenti",
+    "id": "7444-aeba-2958-ee0d",
+    "hidden": false
+   },
+   {
+    "description": "Un Modello che possiede questa Regola Speciale avrà un numero di Scudi Vacuum pari al valore di X. Se un Modello con questa Regola Speciale ha ancora degli Scudi Vacuum, ogni volta che subisce un Colpo Penetrante da un Attacco a Distanza, il Danno di quel Colpo sarà ridotto a \"0\" e il numero di Scudi Vacuum del Modello diminuirà di -1. Quando il numero di Scudi Vacuum di un Modello raggiunge \"0\", questa Regola Speciale non avrà più effetto per il resto della Battaglia.",
+    "alias": [
+     "Void Shields"
+    ],
+    "name": "Scudi Vacuum (X)",
+    "id": "86e9-04a5-e7d9-0253",
+    "hidden": false
+   },
+   {
+    "description": "Questo Vantaggio Primario può essere selezionato solo per un’Unità con il Ruolo Truppe che includa solo Modelli con il Tratto Guardia del Corvo. I Modelli di quell’Unità sono chiamati “Spettri” e, dopo che il Giocatore Controllante ha effettuato uno Scatto con un’Unità che includa solo Modelli Spettri, può anche scegliere di effettuare una Prova di Volontà per quell’Unità. Se la Prova di Volontà ha successo, tutte le Cariche che prendono di mira l’Unità nella Fase di Assalto del Turno del Giocatore successivo vengono Scomposte. Se la Prova di Volontà fallisce, l’Unità ottiene invece lo Status Tattico Stordito.",
+    "comment": "(Raven Guard Only)",
+    "name": "Spettri",
+    "id": "84fd-366e-517d-e228",
+    "hidden": false
+   },
+   {
+    "description": "Se un'Unità include uno o più Modelli con questa Regola Speciale, qualora debba essere effettuato un Tiro Recupero per altri Modelli nella stessa Unità, il Numero Obiettivo dello stesso è pari al valore di X. Tiro Recupero Quando una Regola richiede di effettuare un Tiro Recupero, il Numero Obiettivo è determinato dalla Regola Speciale Medico (X).",
+    "alias": [
+     "Medic"
+    ],
+    "name": "Medico (X)",
+    "id": "93b3-c23d-7263-e013",
+    "hidden": false
+   },
+   {
+    "description": "Tutti i Modelli di un’Unità composta interamente da Modelli con questa Regola Speciale e il Tratto Reductor ottengono la Regola Speciale Paura (1) fintanto che un qualsiasi Modello di quell’Unità ha anche uno o più Status Cyberteurgici. Se un’Unità che include Modelli con questa Regola Speciale ha già una qualunque variante della Regola Speciale Paura (X), allora questa Regola Speciale non ha effetto. Questa unità può essere selezionata unicamente qualora espressamente previsto da una Regola Speciale, un Equipaggiamento o un Distaccamento.",
+    "name": "Egida del Dolore",
+    "id": "2cfa-42a7-e9c8-6000",
+    "hidden": false
+   },
+   {
+    "description": "Un Modello con questa Regola Speciale ottiene bonus quando è impegnato in una Sfida.\n\nUn Modello con questa Regola Speciale ottiene la Regola Speciale Insensibile al Dolore (6+) quando è impegnato in una Sfida. Se il Modello nemico nella stessa Sfida ha una Caratteristica Abilità di Combattimento pari o superiore a quella del Modello con questa Regola Speciale, allora il Modello con questa Regola Speciale ottiene invece la Regola Speciale Insensibile al Dolore (5+). Se il Modello con questa Regola Speciale possiede già una variante della Regola Speciale Insensibile al Dolore (X), allora questa Regola Speciale non ha effetto e non si combina né migliora la variante esistente della Regola Speciale Insensibile al Dolore (X).",
+    "name": "Meditazione da Battaglia",
+    "id": "853e-e83f-4e01-5609",
+    "hidden": false
+   },
+   {
+    "description": "Un Modello con questa Regola Speciale può ridurre i costi delle Reazioni dichiarate dal Giocatore Controllante.\n\nSe viene dichiarata una Reazione per un'Unità che include una maggioranza di Modelli con qualsiasi variante del Tratto Mechanicum, allora il Giocatore Controllante dell'Unità Reattiva può scegliere di effettuare una Prova di Intelligenza per un qualsiasi Modello amico con questa Regola Speciale che si trovi sul Campo di Battaglia - qui definito il 'Modello Comandante'. I seguenti modificatori sono applicati alla Prova di Intelligenza del Modello Comandante:\n\n• Se l'Unità Reattiva non è nella Linea di Vista del Modello Comandante, modifica il risultato della Prova di +4.\n• Se tutti i Modelli nell'Unità Reattiva si trovano a più di 12\" dal Modello Comandante, modifica il risultato della Prova di +2.\n• Se l'Unità Reattiva include un nuncio-vox o un relè vox di comando, modifica il risultato della Prova di -1.\n\nSe la Prova ha successo, la Reazione dichiarata ha il suo costo ridotto di 1 (fino a un minimo di 0). Se la Prova è fallita, l'Unità che include il Modello Comandante subisce Feedback Ciberturgico.\n\nUna volta che una Reazione ha avuto il suo costo ridotto per effetto di questa Regola Speciale, nessun ulteriore tiro può essere effettuato da alcun Modello con questa Regola Speciale per ridurre il costo di ulteriori Reazioni effettuate nello stesso Turno del Giocatore.",
+    "name": "Trono di Comando",
+    "id": "7de3-19ab-bd3b-cf37",
+    "hidden": false
+   },
+   {
+    "description": "Un Modello con questa Regola Speciale può Imbarcarsi o Sbarcare da un Trasporto, anche se il suo Tipo normalmente glielo impedirebbe.\n\nUn Modello con questa Regola Speciale può Imbarcarsi e Sbarcare da un Modello con il Sottotipo Trasporto come se avesse il Tipo Fanteria. Ciò non sostituisce il suo Tipo esistente né gli concede alcun altro beneficio del Tipo Fanteria, né gli consente di interagire con altre Regole o Regole Speciali che bersaglino o influenzino il Tipo Fanteria.",
+    "name": "Compatto",
+    "id": "af84-8623-a6f4-ecdb",
+    "hidden": false,
+    "page": 84
+   },
+   {
+    "description": "Se un Modello con questa Regola Speciale fa parte di un'Unità, essa può segnare più Punti Vittoria per il controllo di un Obiettivo.\n\nIl numero di Punti Vittoria segnati quando un'Unità che include un Modello con questa Regola Speciale controlla un Obiettivo è aumentato del valore di X associato a questa variante della Regola Speciale. Questa Regola Speciale non ha effetto e nessun Punto Vittoria bonus viene segnato se una qualsiasi delle seguenti condizioni è vera:\n\n• L'Unità che controlla l'Obiettivo include qualsiasi Modello con una Fazione diversa da quella del Modello con questa Regola Speciale.\n• La maggioranza dei Modelli nell'Unità che controlla l'Obiettivo ha il Sottotipo Comando, Specialista o Campione.\n\nSe Modelli con più varianti di questa Regola Speciale fanno parte della stessa Unità, i valori di X non si accumulano e viene usato solo il valore più alto.",
+    "alias": [
+     "Comptroller"
+    ],
+    "name": "Controllore (X)",
+    "id": "4f9a-f2b3-093e-da11",
+    "hidden": false,
+    "page": 84
+   },
+   {
+    "description": "I Modelli con questa Regola Speciale hanno bisogno di un comandante per muovere o attaccare.\n\nUn'Unità che includa qualsiasi Modello con questa Regola Speciale che non includa anche un Modello con il Sottotipo Comando o il Sottotipo Sergente non può muoversi nella Fase di Movimento, effettuare Attacchi a Distanza nella Fase di Fuoco o Caricare nella Fase di Assalto - ma combatte normalmente se viene Caricata o se fa parte di un Combattimento in corso.",
+    "name": "Autonomia Limitata",
+    "id": "0127-9c75-45c7-9b42",
+    "hidden": false,
+    "page": 91
+   },
+   {
+    "description": "\"Un Modello con questa Regola Speciale può aggregarsi a Unità di Automi.\"\nUn Modello con questa Regola Speciale può aggregarsi a un'Unità amica che includa Modelli con il Tipo Automa.",
+    "name": "Maestro delle Macchine",
+    "id": "9470-0220-efcc-1c3d",
+    "hidden": false
+   },
+   {
+    "description": "Quando il Giocatore Controllante di un Modello con questa Regola Speciale sceglie di effettuare un Tiro Invulnerabilità per quel Modello contro una ferita generata da un Attacco a Distanza, quel Tiro Invulnerabilità è migliorato di +1. Quando il Giocatore Controllante di un Modello con questa Regola Speciale sceglie di effettuare un Tiro Invulnerabilità per quel Modello contro una ferita generata da un Attacco a Distanza, quel Tiro Invulnerabilità è migliorato di +1.",
+    "name": "Scudi Rifrattori Fasici",
+    "id": "a3a3-a3e8-da13-56c1",
+    "hidden": false
+   },
+   {
+    "description": "\"Un'Unità che include Modelli con questa Regola Speciale può tentare di riparare certi Modelli come se fosse un singolo Modello con la Regola Speciale Fabbro da Battaglia (X).\"\nUn'Unità che includa uno o più Modelli con questa Regola Speciale può essere usata per attivare la Regola Speciale Fabbro da Battaglia (X) come se fosse un singolo Modello con quella Regola Speciale. Quando si attiva la Regola Speciale Fabbro da Battaglia (X) per un'Unità che includa uno o più Modelli con la Regola Speciale Riparare gli Automi, seleziona un Modello nell'Unità con la Regola Speciale Riparare gli Automi come Modello Agente e determina il valore di X per questo uso della Regola Speciale Fabbro da Battaglia (X) in base al numero di Modelli nell'Unità con la Regola Speciale Riparare gli Automi usando la tabella seguente:\n\nNumero di Modelli = Valore di X\n1-4 = 1\n5-8 = 2\n9-12 = 3",
+    "name": "Riparare gli Automi",
+    "id": "1394-90c6-4f63-e2ed",
+    "hidden": false
+   },
+   {
+    "description": "\"Un Modello con questa Regola Speciale non può effettuare Reazioni né Attacchi a Raffica e subisce altre limitazioni.\"\nUn Modello con questa Regola Speciale non può mai effettuare Reazioni di alcun tipo, effettuare Attacchi a Raffica o selezionare opzioni diverse da Resistere, Ripiegare o Consolidare nella Sottofase di Risoluzione. Un'Unità composta da una maggioranza di Modelli con questa Regola Speciale non effettua Prove di Disciplina per i Modelli persi a causa di un Attacco a Distanza, ma effettua comunque le Prove dovute alla Regola Speciale Panico (X). Inoltre, quando è Bloccata in Combattimento, nessun Punto di Risoluzione del Combattimento è segnato da alcun Giocatore quando un Modello con questa Regola Speciale viene Rimosso come Perdita.",
+    "name": "Rito di Pensiero Puro",
+    "id": "b587-c418-b46f-e5f8",
+    "hidden": false
+   },
+   {
+    "description": "\"Un Veicolo con questa Regola Speciale infligge più danni quando si muove attraverso le Unità nemiche.\"\nQuando il Modello con questa Regola Speciale e il Tipo Veicolo si muove attraverso un'Unità nemica, il numero di Colpi inflitti è aumentato da D6 a D6+3. Inoltre, se il Giocatore Reattivo dichiara una Reazione O Gloria, o Morte con come bersaglio un Veicolo dotato di questa Regola Speciale, allora il Veicolo con questa Regola Speciale ottiene un Tiro Invulnerabilità 6+ contro tutti i Colpi inflitti come parte di quella Reazione.",
+    "name": "Ariete d’Urto",
+    "id": "7581-8ef0-5cd9-4b0e",
+    "hidden": false
+   },
+   {
+    "description": "Questo Vantaggio Primario può essere selezionato solo per un’Unità con il Ruolo Truppe, che includa solo Modelli con il Tratto Salamandre. I Modelli di un’Unità selezionati per riempire un Riquadro con questo Vantaggio Primario ottengono la Regola Speciale Insensibile al Dolore (6+).",
+    "name": "Il Dovere Prima della Morte",
+    "id": "e20b-fd1b-6229-eac2",
+    "hidden": false
+   },
+   {
+    "description": "Quando si effettua un Tiro per Colpire per un Attacco da Mischia di un Modello soggetto alla Regola Speciale Tattiche Mutabili, un risultato di 4+ è sempre un successo.",
+    "comment": "Emperor's Children",
+    "name": "Abilità Impareggiabile",
+    "id": "d8ff-b46c-215c-6976",
+    "hidden": false
+   },
+   {
+    "description": "I Modelli con questa Regola Speciale ottengono un bonus di +1 alla loro Volontà e ottengono il Tratto Psionico.",
+    "name": "Arcana del Culto",
+    "id": "f622-94c0-3997-9ee5",
+    "hidden": true,
+    "publicationId": "e54c-7040-0f35-d85d"
+   },
+   {
+    "description": "Un Esercito non può includere più di un Modello con questa Regola Speciale. Se un Modello con questa Regola Speciale viene selezionato per riempire un Riquadro Comando in un qualsiasi Distaccamento nell’Organigramma della Forza Crociata, il Giocatore che lo controlla può selezionare un Distaccamento Apice invece del Distaccamento Ausiliario solitamente concesso riempiendo un Riquadro Comando. Inoltre, un Modello con questa Regola Speciale conta come Scelta Alto Comando ai fini di qualsiasi versione dell’Obiettivo Secondario “Uccidi il Generale (X)”. Un Esercito non può includere più di un Modello con questa Regola Speciale. Se un Modello con questa Regola Speciale viene selezionato per riempire un Riquadro Comando in un qualsiasi Distaccamento nell’Organigramma della Forza Crociata, il Giocatore che lo controlla può selezionare un Distaccamento Apice invece del Distaccamento Ausiliario solitamente concesso riempiendo un Riquadro Comando. Inoltre, un Modello con questa Regola Speciale conta come Scelta Alto Comando ai fini di qualsiasi versione dell’Obiettivo Secondario “Uccidi il Generale (X)”. Un Esercito non può includere più di un Modello con questa Regola Speciale. Se un Modello con questa Regola Speciale viene selezionato per riempire un Riquadro Comando in un qualsiasi Distaccamento nell’Organigramma della Forza Crociata, il Giocatore che lo controlla può selezionare un Distaccamento Apice invece del Distaccamento Ausiliario solitamente concesso riempiendo un Riquadro Comando. Inoltre, un Modello con questa Regola Speciale conta come Scelta Alto Comando ai fini di qualsiasi versione dell’Obiettivo Secondario “Uccidi il Generale (X)”. Un Esercito non può includere più di un Modello con questa Regola Speciale. Se un Modello con questa Regola Speciale viene selezionato per riempire un Riquadro Comando in un qualsiasi Distaccamento nell’Organigramma della Forza Crociata, il Giocatore che lo controlla può selezionare un Distaccamento Apice invece del Distaccamento Ausiliario solitamente concesso riempiendo un Riquadro Comando. Inoltre, un Modello con questa Regola Speciale conta come Scelta Alto Comando ai fini di qualsiasi versione dell’Obiettivo Secondario “Uccidi il Generale (X)”.",
+    "name": "Console Delegato",
+    "id": "52a0-57ea-fbc5-a8c3",
+    "hidden": false
+   },
+   {
+    "description": "Oltre a tutti gli altri Modelli Imbarcati su un Modello con questa Regola Speciale, è possibile Imbarcare fino a due Modelli di Rhino, o un Modello di Land Raider, o un Modello di Land Raider Explorator.",
+    "name": "Stive di Carico Ausiliarie",
+    "id": "0408-7152-2a7e-8d2b",
+    "hidden": false
+   },
+   {
+    "description": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, ha le Regole Speciali Maestria del Duellante (1) e Insensibile al Dolore (5+). Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, ha le Regole Speciali Maestria del Duellante (1) e Insensibile al Dolore (5+).",
+    "name": "Ombre del Giudizio",
+    "id": "4849-aaba-9865-c0b1",
+    "hidden": false
+   },
+   {
+    "description": "\"Un'Unità composta da Modelli con questa Regola Speciale può comunque segnare Obiettivi quando è Inchiodata, Stordita o Soppressa, ed è automaticamente distrutta quando Ripiega a contatto con un Bordo del Campo di Battaglia.\"\n\nUn'Unità composta interamente da Modelli con questa Regola Speciale (ma non con il Tipo Cavalleria) è comunque idonea a Controllare o Contendere un Segnalino Obiettivo se è influenzata dagli Status Tattici Inchiodato, Stordito o Soppresso (in qualsiasi combinazione), ma segna solo 1 Punto Vittoria per quel Segnalino Obiettivo quando è influenzata da questi Status, indipendentemente dal suo valore e da qualsiasi altra Regola Speciale come Linea (X). Mentre è influenzata da qualsiasi Status Tattico, i Modelli in questa Unità non aggiungono il valore di alcuna variante della Regola Speciale Linea (X) che possano avere alla propria Forza Tattica quando si determina se possono Contendere un Obiettivo.\n\nInoltre, quando un Modello di un'Unità che contiene qualsiasi Modello con questa Regola Speciale si muove a Contatto di Basetta con qualsiasi punto del Bordo del Campo di Battaglia come parte di un Movimento di Ripiegamento, tutti i Modelli in quell'Unità sono automaticamente Rimossi come Perdita.",
+    "name": "Irregolari",
+    "id": "2d43-afcd-2393-d1bb",
+    "hidden": false
+   },
+   {
+    "description": "\"I Modelli con questa Regola Speciale perdono un Punto Scafo quando subiscono un Colpo Superficiale.\"\n\nOgni volta che un Modello con questa Regola Speciale subisce un Colpo Superficiale, quel Modello perde un Punto Scafo in aggiunta agli effetti standard del Colpo Superficiale e in aggiunta a qualsiasi altro Punto Scafo perso. Un Veicolo con il Sottotipo Superpesante che abbia anche questa Regola Speciale perde due Punti Scafo quando subisce un Colpo Superficiale - uno per gli effetti del Sottotipo Superpesante e uno per gli effetti di questa Regola Speciale.",
+    "name": "Terza Linea",
+    "id": "9ac8-527e-1249-8600",
+    "hidden": false
+   },
+   {
+    "description": "\"I Modelli con questa Regola Speciale sono schierati e operano individualmente.\"\n\nSebbene inclusa in un'Armata come un'Unità che include più Modelli, ogni Modello con questa Regola Speciale è considerato un'Unità separata a tutti gli altri effetti, inclusi lo Schieramento e il conteggio dei Punti Vittoria.",
+    "name": "Tra le Fila",
+    "id": "1b09-3c2f-dfdf-bcf4",
+    "hidden": false
+   },
+   {
+    "description": "\"I Modelli con questa Regola Speciale possono infliggere ferite alla propria Unità per rimuovere uno Status Tattico nella Fase Iniziale.\"\n\nDurante la Fase Iniziale del proprio Turno come Giocatore Attivo, il Giocatore Controllante di un'Unità che contenga qualsiasi Modello con questa Regola Speciale e che includa solo Modelli con la Regola Speciale Irregolari può selezionare quell'Unità perché subisca D3 ferite con una Caratteristica Danno di 1, un VP di 2 e senza Tiri Salvezza di alcun tipo consentiti, assegnate come se fossero inflitte da un Attacco in Mischia. Se lo fa, viene poi effettuata una singola Prova di Disciplina o Prova di Coraggio per quell'Unità, consentendo la rimozione di uno Status Tattico da tutti i Modelli in quell'Unità (Inchiodato, Stordito o Soppresso se è stata effettuata una Prova di Coraggio, o In Rotta se è stata effettuata una Prova di Disciplina) se ha successo.",
+    "name": "Inculcare l’Ordine",
+    "id": "1db8-0c91-88d9-0515",
+    "hidden": false
+   },
+   {
+    "description": "\"I Modelli con questa Regola Speciale sono Rimossi come Perdita invece di effettuare Movimenti di Ripiegamento.\"\n\nUn'Unità che includa qualsiasi Modello con questa Regola Speciale non può effettuare alcuna Reazione che le consentirebbe di Muoversi. Inoltre, se un'Unità che includa qualsiasi Modello con questa Regola Speciale è tenuta a effettuare un Movimento di Ripiegamento, tutti i Modelli in quell'Unità sono immediatamente Rimossi come Perdita.",
+    "name": "In Postazione",
+    "id": "8ed3-88a3-5e48-4c1c",
+    "hidden": false
+   },
+   {
+    "description": "\"Le Caratteristiche di diversi Modelli con questa Regola Speciale sono usate in situazioni diverse, ed essi sono Rimossi come Perdita invece di effettuare Movimenti di Ripiegamento.\"\n\nUn'Unità che includa qualsiasi Modello con questa Regola Speciale non può effettuare alcuna Reazione che le consentirebbe di Muoversi. Inoltre, se un'Unità che includa qualsiasi Modello con questa Regola Speciale è tenuta a effettuare un Movimento di Ripiegamento, tutti i Modelli in quell'Unità sono rimossi dal gioco.\n\nOgni volta che vengono effettuati Tiri per Ferire per un Gruppo di Fuoco che bersaglia un'Unità che includa qualsiasi Modello con questa Regola Speciale, se nell'Unità sono presenti Modelli Affusto, la Caratteristica Resistenza dell'Affusto è considerata quella della maggioranza. Se questi Tiri per Ferire generano ferite, il Modello Bersaglio selezionato deve essere un Modello Affusto, se possibile.\n\nOgni volta che vengono effettuati Tiri per Ferire per un Gruppo di Attacco che bersaglia questa Unità, la Caratteristica Resistenza dei Modelli Artigliere è considerata quella della maggioranza. Se questi Tiri per Ferire generano ferite, il Modello Bersaglio selezionato deve essere un Modello Artigliere, se possibile.\n\nSe in qualsiasi momento rimangono solo Modelli Affusto in questa Unità, quei Modelli sono immediatamente Rimossi come Perdita.",
+    "name": "Equipaggio d’Artiglieria Pesante",
+    "id": "cb4b-8a2d-c6d1-5fee",
+    "hidden": false
+   },
+   {
+    "description": "\"Un Modello con questa Regola Speciale può sparare a più bersagli con la sua piena Abilità Balistica.\"\n\nQuando effettua più Attacchi a Distanza nella stessa Fase di Fuoco, un Modello con questa Regola Speciale e il Tipo Veicolo non è tenuto a effettuare tutti gli attacchi Alla Cieca.",
+    "name": "Fuoco Indipendente",
+    "id": "f099-f97e-e274-b702",
+    "hidden": false
+   },
+   {
+    "description": "\"Questa Regola Speciale può sostituire un'Unità che è stata annientata con una nuova nelle Riserve.\"\n\nQuando l'ultimo Modello di un'Unità che contiene qualsiasi Modello con questa Regola Speciale viene Rimosso come Perdita, il Giocatore Controllante può scegliere di tirare un D6. Con un risultato pari o superiore al valore tra parentesi, un'Unità identica a quella che è stata Rimossa come Perdita (con tutti i Modelli e l'Equipaggiamento elencati sulla Scheda dell'Armata del Giocatore Controllante) viene piazzata nelle Riserve - ed è trattata come una nuova Unità. Con qualsiasi altro risultato, l'Unità è rimossa come Perdita senza ulteriori effetti. Qualsiasi Punto Vittoria che sarebbe segnato per l'Unità Rimossa come Perdita non è influenzato e viene segnato normalmente, e qualsiasi nuova Unità che entri nelle Riserve può essere usata per segnare Punti Vittoria se anch'essa Rimossa come Perdita. Qualsiasi altro Modello che si sia aggregato a un'Unità che contiene qualsiasi Modello con questa Regola Speciale durante lo Schieramento, nelle Riserve o durante la Battaglia non viene piazzato nelle Riserve con la nuova Unità.",
+    "alias": [
+     "Endless Horde"
+    ],
+    "name": "Orda Infinita (X)",
+    "id": "2cda-6fea-e3c3-ff31",
+    "hidden": false
+   },
+   {
+    "description": "Quando un’Unità che includa qualsiasi Modello con questa Regola Speciale viene selezionata per occupare un Riquadro Primario, non può essere selezionato alcun Vantaggio Primario corrispondente.",
+    "name": "Inductii",
+    "id": "9829-1d35-5b26-51ce",
+    "hidden": false,
+    "publicationId": "1cef-cfb8-32c9-a1f4",
+    "page": 1
+   },
+   {
+    "description": "Tutti i Tiri per Colpire effettuati nella Fase di Assalto che prendono di mira un’Unità che includa uno o più Modelli con questa Regola Speciale conteggiano sempre la Caratteristica Abilità di Combattimento maggioritaria dell’Unità Bersaglio come 3. Inoltre, un’Unità che includa Modelli con questa Regola Speciale può essere aggregata solo da Modelli con questa Regola Speciale.",
+    "name": "Folli Famelici",
+    "id": "c320-4fba-0a25-15ff",
+    "hidden": false
+   },
+   {
+    "description": "Quando un’Unità composta interamente da Modelli con questa Regola Speciale vince un Combattimento, può selezionare l’opzione Saccheggio e Razzia, a condizione che tutte le Unità nemiche coinvolte siano state distrutte, stiano Ripiegando o abbiano effettuato un Disimpegno. Solo un’Unità per Combattimento può selezionare questa opzione: Saccheggio e Razzia – Il Giocatore Controllante guadagna Punti Vittoria pari al valore di X associato alla variante della Regola Speciale Saccheggia i Morti (X) che l’Unità possiede, ma tutti i Modelli di tale Unità ottengono lo Status Inchiodato. Questo Giuramento non può essere selezionato se il Distaccamento ha già selezionato il Giuramento Mietitori di Vite o La Lama del Giusto.",
+    "alias": [
+     "Loot the Dead"
+    ],
+    "name": "Saccheggia i Morti (X)",
+    "id": "e348-c621-0738-cb6e",
+    "hidden": false
+   },
+   {
+    "description": "Tutti i Modelli con questa Regola Speciale che non abbiano anche i Sottotipi Comando, Campione, Specialista o Sergente devono ridurre di 1 le proprie Caratteristiche di Disciplina, Volontà, Intelligenza e Coraggio, ma aumentare di 1 le proprie Caratteristiche di Forza e Attacchi. Inoltre, un’Unità che include Modelli con questa Regola Speciale e che inizia la Fase di Assalto con un qualsiasi Modello di quell’Unità entro 12\" da un Modello nemico deve dichiarare una Carica contro l’Unità che include quel Modello nemico.",
+    "name": "Aberrante",
+    "id": "1a2c-52eb-c28c-55c8",
+    "hidden": false
+   },
+   {
+    "description": "Tutti i Modelli con questa Regola Speciale che non abbiano anche i Sottotipi Comando, Campione, Specialista o Sergente devono ridurre di 1 le proprie Caratteristiche di Disciplina, Volontà, Intelligenza e Coraggio. Inoltre, un’Unità che include Modelli con questa Regola Speciale non può effettuare Reazioni o Reazioni Avanzate, ma ottiene un Tiro Mitigazione di 5+ detto Tiro Mitigazione da Resilienza Clonata.",
+    "name": "Clone",
+    "id": "16f7-886f-f43b-0e6e",
+    "hidden": false
+   },
+   {
+    "description": "Ogni volta che almeno un’Unità che include in maggioranza Modelli con questa Regola Speciale vince un Combattimento in cui, all’inizio della Sottofase di Combattimento, era vera una o più delle condizioni seguenti, allora il Giocatore Controllante guadagna un numero di Punti Vittoria pari al maggiore dei valori di X: il numero totale di Modelli nemici è più del doppio del numero di Modelli amici; sono presenti molteplici Modelli nemici con il Tratto Comando, o almeno un Modello nemico con il Tipo Esemplare; la maggioranza di Modelli nemici ha una Caratteristica di Abilità di Combattimento superiore a quella della maggioranza dei Modelli amici.",
+    "alias": [
+     "Doomed Heroics"
+    ],
+    "name": "Eroi Spacciati (X)",
+    "id": "aea9-7451-7b2c-5b40",
+    "hidden": false
+   },
+   {
+    "description": "I Modelli soggetti alla Regola Speciale Tattiche Mutabili sono affetti dalla Regola Speciale Paura (X) solo quando si trovano entro 6\" da un Modello con quella Regola Speciale, invece che entro 12\".",
+    "name": "Figli della Notte Antica",
+    "id": "022a-93b0-03f9-e9c2",
+    "hidden": false
+   },
+   {
+    "description": "Alla fine della Sottofase di Carica, se un’Unità che includa Modelli con questa Regola Speciale è bloccata in combattimento con Unità nemiche, il Giocatore che controlla questa Unità può selezionare uno dei seguenti effetti: Il Colpo Perfetto - Fino alla fine di questa Fase, l’Abilità di Combattimento di ogni Modello di questa Unità con questa Regola Speciale è considerata di un punto superiore al normale quando si determina il punteggio necessario per colpire l’avversario; La Guardia Perfetta - Fino alla fine di questa Fase, l’Abilità di Combattimento di ogni Modello di questa Unità con questa Regola Speciale è considerata di un punto superiore al normale quando si determina il punteggio necessario al Modello avversario per colpire questo Modello.",
+    "name": "Maestria senza Pari",
+    "id": "0010-3a18-de32-aeaa",
+    "hidden": false
+   },
+   {
+    "description": "Quando si effettua una Prova di Disciplina nella Sottofase di Morale per un’Unità soggetta alla Regola Speciale Tattiche Mutabili, un risultato di 9 o meno è sempre un successo.",
+    "name": "Avvezzi alla Devastazione",
+    "id": "482c-e0ee-0880-bb28",
+    "hidden": false
+   },
+   {
+    "description": "Quando un’Unità che includa solo Modelli soggetti alla Regola Speciale Tattiche Mutabili effettua un Movimento di Posizionamento o uno Scatto, modifica la Caratteristica di Iniziativa dei Modelli di quell’Unità di +1 fino alla fine di quella Sottofase.",
+    "name": "Rapidità d’Azione",
+    "id": "732e-5c3a-d16f-4ec7",
+    "hidden": false
+   },
+   {
+    "description": "Quando si effettua un Movimento di Posizionamento per un Modello soggetto alla Regola Speciale Tattiche Mutabili, il Giocatore Controllante può aggiungere +1\" alla distanza mossa, fino a un massimo di 6\".",
+    "name": "Spirito di Fenris",
+    "id": "6c60-04a5-fe8b-33b8",
+    "hidden": false
+   },
+   {
+    "description": "Quando si effettua un Attacco a Raffica per un Modello soggetto alla Regola Speciale Tattiche Mutabili, quel Modello può effettuare Attacchi a Raffica con un fucile requiem come se avesse il Tratto Assalto.",
+    "name": "Raffiche Devastanti",
+    "id": "97b6-956c-7e40-9d96",
+    "hidden": false
+   },
+   {
+    "description": "Se un’Unità che includa Modelli soggetti alla Regola Speciale Tattiche Mutabili causa la Rimozione come Perdita di Modelli nemici, il Giocatore Controllante guadagna 1 Punto di Risoluzione del Combattimento aggiuntivo nella risoluzione di quel Combattimento durante quel Turno del Giocatore.",
+    "name": "Reputazione Omicida",
+    "id": "1596-3c2d-37cf-5283",
+    "hidden": false
+   },
+   {
+    "description": "Quando si effettua un Tiro per Ferire per un Attacco da Mischia di un Modello soggetto alla Regola Speciale Tattiche Mutabili, aggiungi un modificatore di +1 al risultato se uno qualsiasi dei Modelli della stessa Unità è stato Rimosso come Perdita durante quella Fase.",
+    "name": "Colpi Vendicativi",
+    "id": "8656-fbfe-c9b0-8018",
+    "hidden": false
+   },
+   {
+    "description": "Quando vengono allocati gli attacchi come parte di un Attacco a Raffica, se il Modello Bersaglio è soggetto alla Regola Speciale Tattiche Mutabili guadagna la Regola Speciale Insensibile al Dolore (4+) fino a quando quell’attacco non è risolto.",
+    "name": "Risolutezza di Ferro",
+    "id": "0548-d547-75f2-27e3",
+    "hidden": false
+   },
+   {
+    "description": "Quando un’Unità che includa un Modello soggetto alla Regola Speciale Tattiche Mutabili insegue un’Unità nemica, il Giocatore Controllante può aggiungere 2\" alla distanza mossa.",
+    "name": "Inseguimento Frenetico",
+    "id": "8d0e-a7ef-6356-9f2e",
+    "hidden": false
+   },
+   {
+    "description": "Quando un’Unità nemica effettua un Attacco a Distanza come parte di una Reazione che bersaglia un’Unità che includa Modelli soggetti alla Regola Speciale Tattiche Mutabili, gli attacchi effettuati come parte di quell’Attacco a Distanza sono effettuati Alla Cieca.",
+    "name": "Combattenti Metodici",
+    "id": "7784-de56-b013-3d6d",
+    "hidden": false
+   },
+   {
+    "description": "I Modelli soggetti alla Regola Speciale Tattiche Mutabili ottengono la Regola Speciale Movimento in Copertura.",
+    "name": "Figli di Barbarus",
+    "id": "a319-599c-c073-1834",
+    "hidden": false
+   },
+   {
+    "description": "Nella Sottofase di Risoluzione di un Combattimento, le Unità nemiche non possono selezionare l’opzione Inseguire se una qualsiasi Unità che ha selezionato l’opzione Ripiegare include Modelli soggetti alla Regola Speciale Tattiche Mutabili.",
+    "name": "Illusioni Evocate",
+    "id": "be9a-4c19-f85f-3c1e",
+    "hidden": false
+   },
+   {
+    "description": "Quando si effettua un Tiro per Colpire per un Modello soggetto alla Regola Speciale Tattiche Mutabili, aggiungi un modificatore di +1 al risultato se il suo Giocatore Controllante controlla il minor numero di Modelli in quel Combattimento. I Modelli con la Regola Speciale Imponente (X) contano come un numero di Modelli pari al valore di X.",
+    "name": "Tradizione Brutale",
+    "id": "6bda-45d0-02cb-1f60",
+    "hidden": false
+   },
+   {
+    "description": "Quando si effettua un Tiro di Carica per un’Unità che includa Modelli soggetti alla Regola Speciale Tattiche Mutabili, il Giocatore Controllante tira un dado aggiuntivo e scarta i due dadi con i risultati più bassi.",
+    "name": "Devozione Zelante",
+    "id": "32a9-c2cb-3d5f-8755",
+    "hidden": false
+   },
+   {
+    "description": "Un’Unità che includa un Modello soggetto alla Regola Speciale Tattiche Mutabili non è influenzata da alcuna variante della Regola Speciale Panico (X) di Armi con il Tratto Fiamma.",
+    "name": "Figli della Fiamma",
+    "id": "7ceb-962f-33fe-7d6b",
+    "hidden": false
+   },
+   {
+    "description": "I Modelli soggetti alla Regola Speciale Tattiche Mutabili che non rimangono Stazionari nella Fase di Movimento del loro Giocatore Controllante ottengono la Regola Speciale Ammantato (6+) fino all’inizio del Turno successivo del Giocatore Controllante.",
+    "name": "Maestri dell’Offuscamento",
+    "id": "b3ae-aeba-7242-31eb",
+    "hidden": false
+   },
+   {
+    "description": "Quando si effettuano Attacchi a Raffica per un Modello soggetto alla Regola Speciale Tattiche Mutabili, quegli attacchi hanno la Regola Speciale Precisione (6+).",
+    "name": "Tattiche d’Assassinio",
+    "id": "2e3c-bc73-1473-f55d",
+    "hidden": false
+   },
+   {
+    "description": "I Modelli di questa Armata soggetti alla Regola Speciale Tattiche Mutabili modificano le Caratteristiche di Disciplina e Coraggio di +1 durante il secondo e il terzo Turno di Battaglia, e di +2 durante il quarto e ogni Turno di Battaglia successivo.",
+    "name": "Legati nel Sangue",
+    "id": "10af-85f6-be03-1080",
+    "hidden": false
+   },
+   {
+    "description": "Se i Modelli di questa Unità beneficiano della Tattica di Legione Tattiche Mutabili, possono ottenere il bonus relativo alla sola Legione il cui Tratto è stato sostituito con Legioni Spezzate da questo Vantaggio Primario.",
+    "name": "Specialisti di Legione",
+    "id": "23f1-5b3b-34ec-db8a",
+    "hidden": false
+   },
+   {
+    "description": "Tutti i Modelli di un’Unità con questa Regola Speciale devono selezionare una singola opzione tra gli Ordini degli Hekatonystika tra le opzioni di seguito presentate: Presagio di Debolezza: Quando effettuano attacchi contro un’Unità che includa uno o più Modelli con il Tipo Veicolo, i Modelli con la Regola Speciale Esemplare dell’Ordine ottengono la Regola Speciale Sfondacorazze. Icone di Risolutezza: Quando fanno parte di un’Unità che viene Caricata con successo da un’Unità nemica, i Modelli con la Regola Speciale Esemplare dell’Ordine impostano la loro Caratteristica di Disciplina a 10 per la durata della Fase d’Assalto in corso. Sterminatori di Re: Mentre fanno parte di un’Unità Bloccata in Combattimento con un’Unità nemica che include almeno un Modello con la Caratteristica Abilità di Combattimento di 6 o superiore, il Giocatore Controllante può scegliere di impostare la Caratteristica Attacchi dei Modelli con la Regola Speciale Esemplare dell’Ordine a 1 e i loro Spadoni terranici ottengono la Regola Speciale Colpo Critico (6+) fino al termine del Combattimento. Cacciatori di Bestie: Mentre fanno parte di un’Unità Bloccata in Combattimento con un’Unità nemica che include uno o più Modelli con la Caratteristica Resistenza di 6 o superiore, la Caratteristica Danno delle Ferite causate da un Modello con questa Regola Speciale viene modificata di +1. Mietitori di Schiere: Mentre fanno parte di un’Unità Bloccata in Combattimento con una o più Unità nemiche che la superano in numero, tutti i Modelli di quell’Unità con la Regola Speciale Esemplare dell’Ordine modificano la loro Caratteristica Attacchi di +1. Distruttori di Streghe: Quando fanno parte di un’Unità Bloccata in Combattimento con un’Unità nemica che ha uno o più Modelli con il Sottotipo Malefico o il Tratto Psionico, i Tiri per Colpire e Ferire effettuati per i Modelli con la Regola Speciale Esemplare dell’Ordine in quel Combattimento sono modificati di +1.",
+    "name": "Esemplare dell’Ordine",
+    "id": "8eec-6e7d-b0dd-2c93",
+    "hidden": false,
+    "publicationId": "b905-0414-1057-bb34"
+   },
+   {
+    "description": "Su un Modello con questa Regola Speciale possono Imbarcare solo Modelli con il Tipo Automa e il Tratto Scudi neri. Inoltre, un Modello con questa Regola Speciale aumenta di 3 la propria Capacità di Trasporto.",
+    "name": "Stiva di Trasporto Augmetica",
+    "id": "9f41-c4ba-509a-20c3",
+    "hidden": false
+   },
+   {
+    "description": "\"Un'Unità che include Modelli con questa Regola Speciale può utilizzare i miglioramenti di Equipaggiamento dell'Armeria di una singola Legione.\"\n\nPer ogni Distaccamento con questo Giuramento del Momento, il Giocatore Controllante deve selezionare un singolo Tratto di Legione. Tutte le Unità in quel Distaccamento possono utilizzare qualsiasi miglioramento di Equipaggiamento dell'Armeria della Legione. Ciò non include alcuna Regola o opzione dai Riti di Guerra della Legione scelta o alcun Vantaggio Primario - solo opzioni che sostituiscano Equipaggiamento. Ai soli fini della selezione dei miglioramenti di Equipaggiamento, tutti i Modelli nel Distaccamento per cui è selezionato questo Giuramento del Momento sono considerati dotati del Tratto di Fazione della Legione scelta come parte di questo Giuramento del Momento.",
+    "name": "Panoplia Antica",
+    "id": "c768-6f33-f07c-7b92",
+    "hidden": false
+   },
+   {
+    "description": "\"Un'Unità che include per lo più Modelli con questa Regola Speciale segna Punti Vittoria aggiuntivi per aver vinto Combattimenti duri.\"\n\nTutti i Modelli con il Tratto Scudi Neri in un Distaccamento che abbia questo Giuramento del Momento perdono tutte le varianti delle Regole Speciali Linea (X) o Avanguardia (X) e non possono successivamente ottenere alcuna versione di Linea (X) o Avanguardia (X) da alcuna fonte. Tali Modelli ottengono la Regola Speciale Eroi Spacciati (X), con il valore di X di Eroi Spacciati pari al doppio del valore di X della Regola Speciale persa. I Modelli con il Tratto Scudi Neri in un Distaccamento che abbia questo Giuramento del Momento che non abbiano la Regola Speciale Heedless e nessuna variante delle Regole Speciali Linea (X) o Avanguardia (X) ottengono la Regola Speciale Eroi Spacciati (3).",
+    "name": "La Lama dei Giusti",
+    "id": "1592-e29d-a111-dfef",
+    "hidden": false
+   },
+   {
+    "description": "Un Modello con questa Regola Speciale non può aggregarsi ad alcuna altra Unità, né può essere aggregato da un altro Modello. Mentre fa parte di un Combattimento in cui questo Modello è l’unico Modello che il Giocatore Controllante controlla in quel Combattimento: il Giocatore Controllante ottiene +1 al proprio Punteggio di Risoluzione del Combattimento per ciascuna Ferita persa da quel Modello in quel Round di Combattimento; se un Modello con questa Regola Speciale lancia o accetta una Sfida, il Giocatore Controllante segna 1 Punto Vittoria; nessuno dei due Giocatori può guadagnare Punti Vittoria per la Rimozione come Perdita di questo Modello.",
+    "name": "Combattere e Morire Soli",
+    "id": "525c-b678-98e7-43ff",
+    "hidden": false
+   },
+   {
+    "description": "\"Un Distaccamento con questo Giuramento del Momento può selezionare solo Scelte Comando, ma ottiene bonus per quelle Unità in Combattimento.\"\n\nUn Distaccamento che ha questo Giuramento del Momento può includere solo Scelte Comando. Tutti i Riquadri Truppe in un Distaccamento Principale o Alleato con questo Giuramento del Momento, o in qualsiasi Distaccamento Ausiliario collegato a tale Distaccamento, sono sostituiti con Riquadri Comando. Tuttavia, le uniche Unità che possono essere scelte per riempire i Riquadri Comando in un Distaccamento Principale o Alleato con questo Giuramento del Momento, o in qualsiasi Distaccamento collegato ad essi, sono Centurioni o Centurioni in Armatura Terminator.\n\nTutte le Scelte Comando selezionate per un Distaccamento con questo Giuramento del Momento ottengono +1 alla propria Caratteristica Ferite Base e possono aggiungere +1 a una delle seguenti Caratteristiche (ogni Modello può selezionare una Caratteristica diversa): Forza di Volontà, Coraggio o Intelligenza.\n\nTutti i Centurioni e i Centurioni in Armatura Terminator selezionati come parte di un Distaccamento con questo Giuramento del Momento ottengono le Regole Speciali Heedless e Combattere e Morire Soli.",
+    "name": "Soli e Dimenticati",
+    "id": "1f14-ed97-b397-d409",
+    "hidden": false
+   },
+   {
+    "description": "\"Un'Unità che include Modelli con questa Regola Speciale può Ripiegare in qualsiasi direzione, ma può finire In Rotta quando non è Bloccata in Combattimento.\"\n\nQuando il Giocatore Controllante di qualsiasi Unità composta interamente da Modelli con il Tratto Scudi Neri, e che faccia parte di un Distaccamento con questo Giuramento del Momento, è chiamato a effettuare un Movimento di Ripiegamento durante la Fase di Movimento, quel movimento può essere effettuato in qualsiasi direzione. I Modelli di un'Unità influenzata da questo Giuramento del Momento possono essere mossi a Contatto di Basetta con Modelli nemici come parte di un Movimento di Ripiegamento effettuato durante la Fase di Movimento, e se qualsiasi Modello in tale Unità lo fa, tutti i Modelli in quell'Unità perdono lo Status da Campo di Battaglia In Rotta, se lo possedevano.\n\nTuttavia, se nella Sottofase degli Effetti della Fase Finale del Giocatore Controllante in qualsiasi Turno di Battaglia successivo al primo, un'Unità influenzata da questo Giuramento del Momento non è Bloccata in Combattimento, allora deve essere effettuata una Prova di Coraggio per essa. Se la Prova è fallita, tutti i Modelli nell'Unità ottengono lo Status da Campo di Battaglia In Rotta.",
+    "name": "Un’Eternità di Guerra",
+    "id": "3e9a-f17a-c60e-dcfa",
+    "hidden": false
+   },
+   {
+    "description": "\"Un Distaccamento con questo Giuramento del Momento non può schierare Scelte Comando o Alto Comando, ma ottiene Vantaggi Primari bonus.\"\n\nUn Distaccamento con questo Giuramento del Momento non può includere alcuna Scelta Comando o Alto Comando. Tutti gli altri Riquadri in tutti i Distaccamenti con questo Giuramento del Momento diventano Riquadri Primari, ma l'unico Vantaggio Primario che può essere selezionato per qualsiasi Riquadro in questo Distaccamento è Signore della Guerra Minore. Se per un'Unità non è possibile selezionare Signore della Guerra Minore, allora non può essere selezionato alcun Vantaggio Primario per essa. Per un'Unità che includa qualsiasi Modello con il Tipo Veicolo non può essere selezionato alcun Vantaggio Primario.",
+    "name": "Nella Disgrazia Tutti sono Uguali",
+    "id": "d35b-fa21-0757-9df7",
+    "hidden": false
+   },
+   {
+    "description": "\"Un'Unità che include Modelli con questa Regola Speciale può scartare lo Status In Rotta in cambio di ferite.\"\n\nNella Fase Finale del Turno del Giocatore Controllante, qualsiasi Unità di un Distaccamento con questo Giuramento del Momento che includa qualsiasi Modello con lo Status In Rotta può scartare immediatamente quello Status da Campo di Battaglia. Se lo Status In Rotta viene rimosso da qualsiasi Modello in un'Unità a causa di questo Giuramento del Momento, allora quell'Unità subisce 1D3+1 ferite con un Danno di 1 e un VP di -.",
+    "name": "Solo nella Morte il Dovere Finisce",
+    "id": "58df-6c2a-de82-81a0",
+    "hidden": false
+   },
+   {
+    "description": "\"Qualsiasi Distaccamento con questa Regola Speciale deve sostituire tutti i Riquadri Truppe di un Distaccamento Principale o Alleato con Riquadri Élite.\"\n\nUn Distaccamento Principale o Alleato con questo Giuramento del Momento sostituisce tutti i Riquadri Truppe con Riquadri Élite. Inoltre, un Distaccamento con questo Giuramento del Momento non può includere alcuna Scelta Truppe, incluso in qualsiasi Distaccamento Ausiliario o Apice collegato a quel Distaccamento.",
+    "name": "L’Orgoglio è la Nostra Corazza",
+    "id": "6c48-fb06-2b89-ffb1",
+    "hidden": false
+   },
+   {
+    "description": "\"Le Unità che includono per lo più Modelli con questa Regola Speciale segnano Punti Vittoria quando vengono usate per distruggere Unità nemiche.\"\n\nTutti i Modelli con il Tratto Scudi Neri in un Distaccamento con questo Giuramento del Momento perdono qualsiasi variante delle Regole Speciali Linea (X) o Avanguardia (X) che possano avere, e non possono successivamente ottenere alcuna versione di Linea (X) o Avanguardia (X) da alcuna fonte, e un'Unità che includa qualsiasi Modello con questo Giuramento del Momento non può Controllare o Contendere Obiettivi né segnare Punti Vittoria da qualsiasi altro Obiettivo Primario o Secondario. Invece, il Giocatore Controllante di un Distaccamento con questo Giuramento del Momento ottiene D3 Punti Vittoria per ogni Unità nemica interamente Rimossa come Perdita come parte di un Attacco a Distanza effettuato per qualsiasi Unità che includa una maggioranza di Modelli con questo Giuramento del Momento o come parte di un Combattimento che includa qualsiasi Modello con questo Giuramento del Momento sotto il controllo di quel Giocatore.\n\n- Se l'Unità con questo Giuramento del Momento è un Modello con il Tipo Veicolo, viene segnato solo 1 Punto Vittoria.\n- Se l'Unità nemica la cui distruzione attiva questa Regola Speciale include qualsiasi Modello con la Regola Speciale Sacrificabile (X), allora il numero di Punti Vittoria segnati per questa Regola Speciale è ridotto del valore di X di quella variante della Regola Speciale Sacrificabile (X), fino a un minimo di 0.\n\nQuesto Giuramento del Momento non può essere selezionato se il Distaccamento possiede già il Giuramento del Momento Le Spoglie della Vittoria.",
+    "name": "Mietitori di Vite",
+    "id": "0b42-1704-ec3c-c821",
+    "hidden": false
+   },
+   {
+    "description": "\"Per ogni Unità che includa qualsiasi Modello con questa Regola Speciale, il Giocatore Controllante deve scegliere una tra due possibili opzioni che concedono nuove Regole Speciali in sostituzione di quelle esistenti.\"\n\nUn Modello con il Tratto Scudi Neri in un Distaccamento con questo Giuramento del Momento perde tutte le varianti delle seguenti Regole Speciali e non può successivamente ottenere alcuna versione di Linea (X) o Avanguardia (X) da alcuna fonte:\n\n• Furia della Legione\n• Linea (X)\n• Avanguardia (X)\n\nInvece, tali Modelli ottengono una delle seguenti due Regole Speciali, scelta dal Giocatore Controllante - tutti i Modelli in un Distaccamento con questo Giuramento del Momento devono avere la stessa Regola Speciale selezionata:\n\n• Clone\n• Aberrante",
+    "name": "L’Elica Spezzata",
+    "id": "1a93-fdf9-dd1e-3df9",
+    "hidden": false
+   },
+   {
+    "description": "\"Un'Unità che include Modelli con questa Regola Speciale ottiene la Regola Speciale Odio (Legiones Astartes), ma deve sempre Caricare le Unità Legiones Astartes nemiche.\"\n\nQuando l'armata avversaria include qualsiasi Distaccamento con qualsiasi variante del Tratto Legiones Astartes, tutti i Modelli in un Distaccamento con questo Giuramento ottengono la Regola Speciale Odio (Legiones Astartes). Se l'Armata avversaria include un Distaccamento Principale con qualsiasi variante del Tratto Legiones Astartes, allora gli effetti della Regola Speciale Odio (X) sono estesi fino a includere +1 a tutti i Tiri per Colpire effettuati in Combattimento.\n\nTuttavia, tutte le Unità in un Distaccamento che includano qualsiasi Modello con questo Giuramento del Momento che inizino la Fase di Assalto con qualsiasi Modello in quell'Unità entro 12\" da un Modello nemico con il Tratto Legiones Astartes devono dichiarare una Carica bersagliando l'Unità che include quel Modello nemico - anche se non possono raggiungere quell'Unità. Le Unità che non sono in grado di effettuare una Carica, come le Unità che includono Modelli con il Tipo Veicolo, non sono influenzate da questo requisito aggiuntivo.",
+    "name": "La Vendetta Eterna",
+    "id": "d6d0-9273-d1d4-b167",
+    "hidden": false
+   },
+   {
+    "description": "\"Un Modello con questa Regola Speciale ottiene il Tipo Automa e altre Regole Speciali.\"\n\nTutti i Modelli con il Tratto Scudi Neri e il Tipo Fanteria in un Distaccamento con questo Giuramento del Momento devono sostituire il Tipo Fanteria con il Tipo Automa. Inoltre sostituiscono la Regola Speciale Tattica degli Scudi Neri, Figli Bastardi del Fato, con la Regola Speciale Unità a Cogitatori Collegati.",
+    "name": "La Carne è Debole",
+    "id": "e895-dda1-cacc-5105",
+    "hidden": false
+   },
+   {
+    "description": "Un Modello con questa Regola Speciale e il Tipo Automa può Controllare e Contestare gli Obiettivi. Tali Modelli non possono beneficiare della Regola Speciale Linea (X), e se l’Unità contiene quattro o meno Modelli con questa Regola Speciale, segna un Punto Vittoria in meno quando Controlla un Obiettivo. Se l’Unità contiene invece dieci o più Modelli con questa Regola Speciale, segna un Punto Vittoria aggiuntivo quando Controlla un Obiettivo.",
+    "name": "Unità a Cogitatori Collegati",
+    "id": "686e-7abe-2bf8-103e",
+    "hidden": false
+   },
+   {
+    "description": "\"I Modelli con questa Regola Speciale e Tratti specifici ottengono una Disciplina Psionica.\"\n\nQualsiasi Modello con il Tratto Scudi Neri e il Sottotipo Sergente, Campione, Specialista o Comando in un Distaccamento con questo Giuramento del Momento ottiene il Tratto Psionico. Inoltre, tali Modelli ottengono la Disciplina Psionica Maligna (se tale Modello possiede già il Tratto Psionico e accesso ad altre Discipline Psioniche, le mantiene in aggiunta a questa Disciplina Psionica).",
+    "name": "Il Legato di Nikea",
+    "id": "4140-2a99-e941-539f",
+    "hidden": false
+   },
+   {
+    "description": "\"Un'Unità che include Modelli con questa Regola Speciale può segnare Punti Vittoria saccheggiando i caduti, ma perde le Regole Speciali Linea (X) o Avanguardia (X).\"\n\nTutti i Modelli con il Tratto Scudi Neri in un Distaccamento con questo Giuramento del Momento perdono qualsiasi variante delle Regole Speciali Linea (X) o Avanguardia (X) che possano avere, e non possono successivamente ottenere alcuna versione di Linea (X) o Avanguardia (X) da alcuna fonte, e un'Unità che includa qualsiasi Modello con questo Giuramento del Momento non può Controllare o Contendere alcun Segnalino Obiettivo.\n\nI Modelli che abbiano perso la Regola Speciale Linea (X) o Avanguardia (X) a causa di questo Giuramento del Momento ottengono invece la Regola Speciale Saccheggia i Morti (X) - il valore di X della Regola Speciale Saccheggia i Morti (X) dipende dal valore di X delle varianti delle Regole Speciali che sono state rimosse:\n\n• Per i Modelli a cui è stata rimossa qualsiasi variante di Avanguardia (X) da questa Regola Speciale, il valore di X di Saccheggia i Morti è pari alla metà del valore di X della variante di Avanguardia (X) rimossa.\n• Per i Modelli a cui è stata rimossa qualsiasi variante di Linea (X) da questa Regola Speciale, il valore di X di Saccheggia i Morti è pari al valore di X della variante di Linea (X) rimossa.\n\nQuesto Giuramento del Momento non può essere selezionato se il Distaccamento possiede già il Giuramento del Momento Mietitori di Vite.",
+    "name": "Le Spoglie della Vittoria",
+    "id": "dd0a-1123-9b03-5ad9",
+    "hidden": false
+   },
+   {
+    "description": "\"Qualsiasi Unità che includa Modelli con questa Regola Speciale può selezionare opzioni aggiuntive come parte di certe liste di armi.\"\n\nQuando si selezionano le Armi per i Modelli con il Tratto Scudi Neri in un Distaccamento con questo Giuramento del Momento, le seguenti Armi sono considerate parte della lista Armi Speciali della Legione:\n\n- Deathlock +15 Punti\n- Doomlock +10 Punti\n\nAllo stesso modo, le seguenti Armi sono considerate parte della lista Equipaggiamento da Ufficiale della Legione:\n\n- Lama Halo +15 Punti",
+    "name": "Il Marchio degli Xenos",
+    "id": "a8c4-6c76-4105-4e19",
+    "hidden": false
+   },
+   {
+    "description": "Fucile automatico recuperato; Pistola automatica recuperata; Fucile laser recuperato; Pistola laser recuperata; Fucile a pompa recuperato. Le seguenti opzioni possono essere selezionate per un solo Modello ogni tre di un’Unità: Mitragliatore pesante recuperato; Arma da mischia recuperata.",
+    "name": "Armi della Disperazione",
+    "id": "49ea-388e-cee3-7053",
+    "hidden": false
+   },
+   {
+    "description": "Quando un'Arma con questa Regola Speciale è selezionata per effettuare attacchi durante il Passaggio Dichiarare le Armi e Determinare l'Iniziativa della Sottofase di Combattimento, tutti i Modelli con il Tratto Skitarii che facciano parte della stessa Unità del Modello con l'Arma con questa Regola Speciale recuperano immediatamente dagli Status Inchiodato, Soppresso e Stordito.",
+    "name": "Icona di Autorità",
+    "id": "e7d0-9609-a2f8-1970",
+    "hidden": false
+   },
+   {
+    "alias": [
+     "Annihilation Cascade"
+    ],
+    "description": "\"I Colpi Penetranti inflitti da attacchi con la Regola Speciale Cascata di Annientamento (X) possono causare Colpi aggiuntivi.\"\n\nAl termine del Passaggio 9 del processo di Attacco a Distanza o del Passaggio 8 del processo di Risoluzione di un Livello di Iniziativa per qualsiasi Gruppo di Fuoco o Gruppo di Attacco che includa Armi con la Regola Speciale Cascata di Annientamento (X) e che abbia inflitto Colpi Penetranti, crea un nuovo Gruppo di Fuoco o Gruppo di Attacco (rispettivamente). Questo nuovo Gruppo di Fuoco o Gruppo di Attacco deve poi essere selezionato al Passaggio 10 del processo di Attacco a Distanza o al Passaggio 9 del processo di Risoluzione di un Livello di Iniziativa (rispettivamente) e risolto. Questo nuovo Gruppo di Fuoco o Gruppo di Attacco include un numero di Colpi pari al numero di Punti Scafo che il Modello Bersaglio ha perso a causa del Gruppo di Fuoco o Gruppo di Attacco che ne ha innescato la creazione. Questi Colpi hanno tutti una Forza pari al valore di X associato alla variante della Regola Speciale Cascata di Annientamento (X) posseduta dalle Armi nel Gruppo di Fuoco o Gruppo di Attacco precedente, un VP di '-', un Danno di 1 e nessuna Regola Speciale.",
+    "name": "Cascata di Annientamento (X)",
+    "id": "012f-3a25-15fa-61c1",
+    "hidden": false
+   },
+   {
+    "description": "\"Le Unità che includono Modelli con questa Regola Speciale non possono essere aggregate da altri Modelli né essere bersagliate dalla Ciberturgia.\"\n\nUn'Unità che includa qualsiasi Modello con questa Regola Speciale non può essere aggregata da alcun altro Modello e nessun Modello con questa Regola Speciale può essere il bersaglio di un Rito Ciberturgico invocato per un Modello amico.",
+    "name": "Corruzione del Cortex",
+    "id": "c5d7-0d8a-f7b8-7df9",
+    "hidden": false
+   },
+   {
+    "description": "\"I Modelli con questa Regola Speciale possono trasportare solo Unità che includano un Modello Comando.\"\n\nSolo i Modelli di Unità che includano almeno un Modello con il Sottotipo Comando possono Imbarcarsi su un Modello che abbia questa Regola Speciale. Ciò non consente a Modelli che normalmente non potrebbero Imbarcarsi su un Modello con il Tipo Trasporto di farlo.",
+    "name": "Trasporto Comando",
+    "id": "74c4-144a-6329-7669",
+    "hidden": false
+   },
+   {
+    "alias": [
+     "Command Vehicle"
+    ],
+    "description": "Una volta per Turno, mentre un Modello con questa Regola Speciale è sul Campo di Battaglia, e quando il Giocatore Controllante deve effettuare una Prova di Disciplina o di Coraggio per un’altra Unità sotto il suo controllo che include uno o più Modelli con un Nuncio-vox, può essere usato il valore di X per effettuare tale Prova.",
+    "name": "Veicolo Comando (X)",
+    "id": "581c-cbc9-1f23-d892",
+    "hidden": false
+   },
+   {
+    "alias": [
+     "Tank Commander"
+    ],
+    "description": "Se un Modello con questa Special Rule è selezionato per riempire un Riquadro Comando o Alto Comando, il Giocatore Controllante può selezionare un numero di Distaccamenti Ausiliari pari al valore di X, anziché uno solo soltanto. I Distaccamenti così selezionati possono includere unicamente Riquadri Corazzato.",
+    "name": "Comandante di Corazzati (X)",
+    "id": "8e22-3f6e-10f3-6e80",
+    "hidden": false
+   },
+   {
+    "description": "\"Gli Attacchi a Distanza effettuati usando un'Arma con questa Regola Speciale interagiscono con Tiri Copertura, Tiri Mitigazione Ammantato, Facce della Corazza, il Sottotipo Velivolo e i Livelli in modo diverso dai tipici Attacchi a Distanza.\"\n\nI seguenti effetti sono conferiti a qualsiasi Arma con questa Regola Speciale:\n- Non può essere effettuato un Tiro Copertura o un Tiro Mitigazione Ammantato per scartare una ferita o un Colpo Penetrante inflitto da un'Arma con questa Regola Speciale, ma i Tiri Armatura o i Tiri Invulnerabilità possono essere effettuati normalmente.\n- I Colpi inflitti da un'Arma con questa Regola Speciale contro i Veicoli contano sempre come bersaglianti la Faccia della Corazza Laterale di quel Veicolo.\n- Un'Arma con questa Regola Speciale non può mai essere usata per bersagliare un Modello con il Sottotipo Velivolo.\n• Quando si bersaglia un'Unità che contiene Modelli all'interno di un Terreno ad Area che ha più livelli, i Colpi inflitti da un'Arma con questa Regola Speciale non possono mai essere assegnati a Modelli su qualsiasi livello diverso dal livello più basso.",
+    "name": "Sotterraneo",
+    "id": "4cd3-8bb8-3e73-42b4",
+    "hidden": false
+   },
+   {
+    "description": "\"I Modelli con questa Regola Speciale forniscono la Regola Speciale Auto-Riparazione (4+) alle Unità vicine con il Tratto Armour Tercio.\"\nQualsiasi Modello con il Tratto Armour Tercio ottiene la Regola Speciale Auto-Riparazione (4+) fintanto che si trova entro 18\" da un Modello amico con questa Regola Speciale.",
+    "name": "Guerra Corazzata",
+    "id": "704a-3f40-66bd-a4ee",
+    "hidden": false
+   }
+  ],
+  "sharedSelectionEntries": [
+   {
+    "rules": [
+     {
+      "description": "Quando effettuano attacchi contro un’Unità che includa uno o più Modelli con il Tipo Veicolo, i Modelli con la Regola Speciale Esemplare dell’Ordine ottengono la Regola Speciale Sfondacorazze.",
+      "name": "Presagio di Debolezza",
+      "id": "82b0-6411-2b56-f429",
+      "hidden": false
+     }
+    ],
+    "infoLinks": [
+     {
+      "name": "Sfondacorazze",
+      "id": "5df2-a5ea-8d10-1ca2",
+      "hidden": false,
+      "type": "rule",
+      "targetId": "36ee-4c54-bced-a696"
+     }
+    ],
+    "type": "upgrade",
+    "import": true,
+    "name": "Presagio di Debolezza",
+    "hidden": false,
+    "id": "b370-978f-fa67-7f47"
+   },
+   {
+    "rules": [
+     {
+      "description": "Quando fanno parte di un’Unità Bloccata in Combattimento con un’Unità nemica che ha uno o più Modelli con il Sottotipo Malefico o il Tratto Psionico, i Tiri per Colpire e Ferire effettuati per i Modelli con la Regola Speciale Esemplare dell’Ordine in quel Combattimento sono modificati di +1.",
+      "name": "Distruttori di Streghe",
+      "id": "5824-3158-112b-02c6",
+      "hidden": false
+     }
+    ],
+    "type": "upgrade",
+    "import": true,
+    "name": "Distruttori di Streghe",
+    "hidden": false,
+    "id": "5a14-5035-07f7-9dd5"
+   },
+   {
+    "rules": [
+     {
+      "description": "Mentre fanno parte di un’Unità Bloccata in Combattimento con un’Unità nemica che include uno o più Modelli con la Caratteristica Resistenza di 6 o superiore, la Caratteristica Danno delle Ferite causate da un Modello con questa Regola Speciale viene modificata di +1.",
+      "name": "Cacciatori di Bestie",
+      "id": "019d-0b52-c8ee-dae4",
+      "hidden": false
+     }
+    ],
+    "type": "upgrade",
+    "import": true,
+    "name": "Cacciatori di Bestie",
+    "hidden": false,
+    "id": "6bbf-b716-13d3-b070"
+   },
+   {
+    "rules": [
+     {
+      "description": "Quando fanno parte di un’Unità che viene Caricata con successo da un’Unità nemica, i Modelli con la Regola Speciale Esemplare dell’Ordine impostano la loro Caratteristica di Disciplina a 10 per la durata della Fase d’Assalto in corso.",
+      "name": "Icone di Risolutezza",
+      "id": "a931-e25a-ca2f-5b4d",
+      "hidden": false
+     }
+    ],
+    "type": "upgrade",
+    "import": true,
+    "name": "Icone di Risolutezza",
+    "hidden": false,
+    "id": "e773-5c25-fb9e-57ed"
+   },
+   {
+    "rules": [
+     {
+      "description": "Mentre fanno parte di un’Unità Bloccata in Combattimento con una o più Unità nemiche che la superano in numero, tutti i Modelli di quell’Unità con la Regola Speciale Esemplare dell’Ordine modificano la loro Caratteristica Attacchi di +1.",
+      "name": "Mietitori di Schiere",
+      "id": "1855-7e6f-f103-271c",
+      "hidden": false
+     }
+    ],
+    "type": "upgrade",
+    "import": true,
+    "name": "Mietitori di Schiere",
+    "hidden": false,
+    "id": "12d1-cfb4-6bc9-3c4f"
+   },
+   {
+    "rules": [
+     {
+      "description": "Mentre fanno parte di un’Unità Bloccata in Combattimento con un’Unità nemica che include almeno un Modello con la Caratteristica Abilità di Combattimento di 6 o superiore, il Giocatore Controllante può scegliere di impostare la Caratteristica Attacchi dei Modelli con la Regola Speciale Esemplare dell’Ordine a 1 e i loro Spadoni terranici ottengono la Regola Speciale Colpo Critico (6+) fino al termine del Combattimento.",
+      "name": "Sterminatori di Re",
+      "id": "1c57-5d1f-7e47-e6cd",
+      "hidden": false
+     }
+    ],
+    "infoLinks": [
+     {
+      "modifiers": [
+       {
+        "type": "set",
+        "value": "Critical Hit (6+)",
+        "field": "name"
+       }
+      ],
+      "comment": "6+",
+      "name": "Colpo Critico (X)",
+      "id": "b8ce-aa62-c042-c768",
+      "hidden": false,
+      "type": "rule",
+      "targetId": "fe5a-a52a-468f-3f88"
+     }
+    ],
+    "type": "upgrade",
+    "import": true,
+    "name": "Sterminatori di Re",
+    "hidden": false,
+    "id": "16a5-0057-ea1b-e6bf"
+   }
+  ],
+  "sharedSelectionEntryGroups": [
+   {
+    "entryLinks": [
+     {
+      "import": true,
+      "name": "Presagio di Debolezza",
+      "hidden": false,
+      "id": "7209-25be-f3ca-2148",
+      "type": "selectionEntry",
+      "targetId": "b370-978f-fa67-7f47"
+     },
+     {
+      "import": true,
+      "name": "Distruttori di Streghe",
+      "hidden": false,
+      "id": "54c0-d752-291e-27bf",
+      "type": "selectionEntry",
+      "targetId": "5a14-5035-07f7-9dd5"
+     },
+     {
+      "import": true,
+      "name": "Cacciatori di Bestie",
+      "hidden": false,
+      "id": "b14a-e84b-7d1a-4b97",
+      "type": "selectionEntry",
+      "targetId": "6bbf-b716-13d3-b070"
+     },
+     {
+      "import": true,
+      "name": "Icone di Risolutezza",
+      "hidden": false,
+      "id": "358c-6445-95a0-5436",
+      "type": "selectionEntry",
+      "targetId": "e773-5c25-fb9e-57ed"
+     },
+     {
+      "import": true,
+      "name": "Mietitori di Schiere",
+      "hidden": false,
+      "id": "60b8-b9bf-8172-005f",
+      "type": "selectionEntry",
+      "targetId": "12d1-cfb4-6bc9-3c4f"
+     },
+     {
+      "import": true,
+      "name": "Sterminatori di Re",
+      "hidden": false,
+      "id": "a2d7-30da-859d-6255",
+      "type": "selectionEntry",
+      "targetId": "16a5-0057-ea1b-e6bf"
+     }
+    ],
+    "constraints": [
+     {
+      "type": "max",
+      "value": 1,
+      "field": "selections",
+      "scope": "parent",
+      "shared": true,
+      "id": "dd9c-b739-d783-9d3c"
+     }
+    ],
+    "name": "Ordini della Hekatonystika",
+    "id": "cde4-adad-2cca-0f9f",
+    "hidden": false
+   }
+  ],
+  "xmlns": "http://www.battlescribe.net/schema/catalogueSchema",
+  "library": true,
+  "id": "106b-693b-99f2-00c3",
+  "name": "Regole Speciali",
+  "gameSystemId": "sys-9fe4-1dc3-b7c2-73cf",
+  "gameSystemRevision": 1,
+  "revision": 18,
+  "battleScribeVersion": 2.03,
+  "type": "catalogue",
+  "authorName": "The4D6",
+  "authorContact": "https://github.com/BSData/horus-heresy-3rd-edition/issues",
+  "authorUrl": "https://github.com/BSData/horus-heresy-3rd-edition/"
+ }
+}

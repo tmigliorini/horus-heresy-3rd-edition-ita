@@ -1,0 +1,2115 @@
+{
+ "catalogue": {
+  "catalogueLinks": [
+   {
+    "type": "catalogue",
+    "name": "Legiones Astartes",
+    "id": "c2fd-27d7-96c1-290b",
+    "targetId": "9b32-f350-6aa9-9c09",
+    "importRootEntries": true
+   },
+   {
+    "type": "catalogue",
+    "name": "Regole Speciali",
+    "id": "d16d-3512-4e61-2e6f",
+    "targetId": "106b-693b-99f2-00c3"
+   },
+   {
+    "type": "catalogue",
+    "name": "Armi",
+    "id": "55f9-970b-9a16-bd1d",
+    "targetId": "a22d-4dd0-c59d-57d3"
+   },
+   {
+    "type": "catalogue",
+    "name": "Equipaggiamento",
+    "id": "1397-7864-8b0a-b3af",
+    "targetId": "fcc7-4319-bb04-2c25"
+   },
+   {
+    "type": "catalogue",
+    "name": "Tratti",
+    "id": "1aca-0cc9-47e1-f620",
+    "targetId": "df17-7a05-0826-6e22"
+   }
+  ],
+  "publications": [
+   {
+    "name": " Legiones Astartes: Scudi Neri",
+    "id": "92ae-2411-bd7d-3263",
+    "hidden": false,
+    "shortName": "Blackshields",
+    "publisher": " Legiones Astartes: Blackshields",
+    "publicationDate": "9th Oct 2025",
+    "publisherUrl": "https://assets.warhammer-community.com/eng_09-10_thehorusheresy_legacies_blackshields-19qd4ghgwp-azrdg7jskx.pdf"
+   }
+  ],
+  "sharedSelectionEntries": [
+   {
+    "costs": [
+     {
+      "name": "Punti",
+      "typeId": "9893-c379-920b-8982",
+      "value": 165
+     },
+     {
+      "name": "Punti Assetto",
+      "typeId": "57e3-1031-7d4d-5ae3",
+      "value": 0
+     },
+     {
+      "name": "Punti Reazione",
+      "typeId": "c9ba-097e-c47f-ecc2",
+      "value": 0
+     },
+     {
+      "name": "Distaccamenti Ausiliari",
+      "typeId": "3e8e-05ee-be52-12d6",
+      "value": 0
+     },
+     {
+      "name": "Distaccamenti Apice",
+      "typeId": "159d-855c-533d-f592",
+      "value": 0
+     }
+    ],
+    "selectionEntries": [
+     {
+      "categoryLinks": [
+       {
+        "targetId": "594d-fa82-13cb-a345",
+        "id": "11c6-54bc-2fc0-a9d0",
+        "primary": false,
+        "name": "Tipo Fanteria"
+       },
+       {
+        "targetId": "9871-cb62-5283-2216",
+        "id": "7dd2-5a30-53bf-74c4",
+        "primary": false,
+        "name": "Sottotipo Comando"
+       },
+       {
+        "targetId": "b980-187b-2b17-d635",
+        "id": "b4e2-5403-77c2-275e",
+        "primary": false,
+        "name": "Sottotipo Unico"
+       }
+      ],
+      "profiles": [
+       {
+        "characteristics": [
+         {
+          "$text": "Infantry (Command, Unique)",
+          "name": "Tipo",
+          "typeId": "50fc-9241-d4a2-045b"
+         },
+         {
+          "$text": "7",
+          "name": "M",
+          "typeId": "a106-a779-d272-5e93"
+         },
+         {
+          "$text": "6",
+          "name": "AC",
+          "typeId": "253c-d694-4695-c89e"
+         },
+         {
+          "$text": "5",
+          "name": "AB",
+          "typeId": "0cd5-b269-e3bc-028b"
+         },
+         {
+          "$text": "4",
+          "name": "Fo",
+          "typeId": "498f-dce1-59fd-d8d7"
+         },
+         {
+          "$text": "5",
+          "name": "Re",
+          "typeId": "3120-8275-e537-ecd2"
+         },
+         {
+          "$text": "4",
+          "name": "Fe",
+          "typeId": "f5cc-79a3-d302-cc1d"
+         },
+         {
+          "$text": "5",
+          "name": "I",
+          "typeId": "af9d-7db8-dc95-71c1"
+         },
+         {
+          "$text": "5",
+          "name": "A",
+          "typeId": "024e-bdb1-7982-25a0"
+         },
+         {
+          "$text": "10",
+          "name": "Di",
+          "typeId": "02ad-ebe6-86e7-9fd6"
+         },
+         {
+          "$text": "9",
+          "name": "Co",
+          "typeId": "9cd1-0e7c-2cd6-5f2f"
+         },
+         {
+          "$text": "10",
+          "name": "Fv",
+          "typeId": "f714-1726-37d3-44df"
+         },
+         {
+          "$text": "8",
+          "name": "In",
+          "typeId": "29c5-925d-5b1d-1e77"
+         },
+         {
+          "$text": "2+",
+          "name": "TA",
+          "typeId": "03bd-4ecb-351d-143b"
+         },
+         {
+          "$text": "4+",
+          "name": "TI",
+          "typeId": "a951-a772-7ce0-0b64"
+         }
+        ],
+        "modifierGroups": [
+         {
+          "comment": "The Flesh is Weak",
+          "modifiers": [
+           {
+            "type": "replace",
+            "value": "Automata",
+            "field": "50fc-9241-d4a2-045b",
+            "arg": "Infantry"
+           }
+          ],
+          "conditions": [
+           {
+            "type": "atLeast",
+            "value": 1,
+            "field": "selections",
+            "scope": "roster",
+            "childId": "d563-c8da-2cce-aa7d",
+            "shared": true,
+            "includeChildSelections": true,
+            "includeChildForces": true
+           }
+          ],
+          "type": "and"
+         }
+        ],
+        "name": "Endryd Haar",
+        "typeId": "a76f-8e23-8c3e-166d",
+        "typeName": "Profile",
+        "hidden": false,
+        "id": "c5c8-69ec-7ef9-a696"
+       }
+      ],
+      "entryLinks": [
+       {
+        "constraints": [
+         {
+          "type": "min",
+          "value": 1,
+          "field": "selections",
+          "scope": "parent",
+          "shared": true,
+          "id": "a714-e286-9cc0-6aff"
+         },
+         {
+          "type": "max",
+          "value": 1,
+          "field": "selections",
+          "scope": "parent",
+          "shared": true,
+          "id": "fe95-dd43-2b5e-0a99"
+         }
+        ],
+        "import": true,
+        "name": "Pistola archeotech",
+        "hidden": false,
+        "id": "c24c-77f2-e300-6748",
+        "type": "selectionEntry",
+        "targetId": "0600-3af1-d080-abf7",
+        "sortIndex": 1
+       },
+       {
+        "constraints": [
+         {
+          "type": "min",
+          "value": 1,
+          "field": "selections",
+          "scope": "parent",
+          "shared": true,
+          "id": "07de-150f-2c5f-cb61"
+         },
+         {
+          "type": "max",
+          "value": 1,
+          "field": "selections",
+          "scope": "parent",
+          "shared": true,
+          "id": "f4c1-148f-d6c6-ffd6"
+         }
+        ],
+        "import": true,
+        "name": "Granate a frammentazione",
+        "hidden": false,
+        "id": "09a5-e5f4-cc2f-44ea",
+        "type": "selectionEntry",
+        "targetId": "60e4-ca33-2e68-9afc",
+        "sortIndex": 3
+       },
+       {
+        "constraints": [
+         {
+          "type": "min",
+          "value": 1,
+          "field": "selections",
+          "scope": "parent",
+          "shared": true,
+          "id": "64d6-04ed-350d-5aae"
+         },
+         {
+          "type": "max",
+          "value": 1,
+          "field": "selections",
+          "scope": "parent",
+          "shared": true,
+          "id": "3792-83a8-58f5-af73"
+         }
+        ],
+        "import": true,
+        "name": "Granate perforanti",
+        "hidden": false,
+        "id": "8a07-5af4-ee25-96e0",
+        "type": "selectionEntry",
+        "targetId": "fa20-82bc-c7de-9e97",
+        "sortIndex": 4
+       },
+       {
+        "import": true,
+        "name": "Giuramento/i del Momento",
+        "hidden": false,
+        "id": "4d67-e55d-008d-7579",
+        "type": "selectionEntryGroup",
+        "targetId": "fd0c-8569-5b52-0ce8"
+       }
+      ],
+      "selectionEntries": [
+       {
+        "profiles": [
+         {
+          "characteristics": [
+           {
+            "$text": "2",
+            "name": "MI",
+            "typeId": "6eec-4093-f946-1014"
+           },
+           {
+            "$text": "-1",
+            "name": "MA",
+            "typeId": "03d0-6094-84f0-e27e"
+           },
+           {
+            "$text": "+4",
+            "name": "MF",
+            "typeId": "4505-de6f-d4ae-6280"
+           },
+           {
+            "$text": "2",
+            "name": "VP",
+            "typeId": "a014-126b-3b7b-27e8"
+           },
+           {
+            "$text": "3",
+            "name": "D",
+            "typeId": "6a9d-4feb-065a-33e7"
+           },
+           {
+            "$text": "-",
+            "name": "Regole Speciali",
+            "typeId": "ebe0-7b28-b40c-694e"
+           },
+           {
+            "$text": "Potenziata",
+            "name": "Tratti",
+            "typeId": "76e3-c188-bc65-3467"
+           }
+          ],
+          "name": "Guanto potenziato Terrawatt",
+          "typeId": "3587-6dcd-005c-c263",
+          "typeName": "Melee Weapon",
+          "hidden": false,
+          "id": "bc04-768f-5065-3236"
+         }
+        ],
+        "constraints": [
+         {
+          "type": "min",
+          "value": 1,
+          "field": "selections",
+          "scope": "parent",
+          "shared": true,
+          "id": "5dc4-4241-5b3b-b8b5"
+         },
+         {
+          "type": "max",
+          "value": 1,
+          "field": "selections",
+          "scope": "parent",
+          "shared": true,
+          "id": "ca02-d865-28c5-8bd9"
+         }
+        ],
+        "type": "upgrade",
+        "import": true,
+        "name": "Guanto potenziato Terrawatt",
+        "hidden": false,
+        "id": "aa3f-18f5-8e71-21f6",
+        "sortIndex": 2
+       }
+      ],
+      "constraints": [
+       {
+        "type": "min",
+        "value": 1,
+        "field": "selections",
+        "scope": "parent",
+        "shared": true,
+        "id": "1b8d-ff94-da09-25e3"
+       },
+       {
+        "type": "max",
+        "value": 1,
+        "field": "selections",
+        "scope": "parent",
+        "shared": true,
+        "id": "a4f2-5783-e3b2-feab"
+       }
+      ],
+      "type": "model",
+      "import": true,
+      "name": "Endryd Haar",
+      "hidden": false,
+      "id": "65ac-6a04-dccb-3d20"
+     }
+    ],
+    "constraints": [
+     {
+      "type": "max",
+      "value": 1,
+      "field": "selections",
+      "scope": "roster",
+      "shared": true,
+      "id": "ee2f-8e17-c8c5-c719",
+      "includeChildSelections": true,
+      "includeChildForces": true
+     }
+    ],
+    "infoLinks": [
+     {
+      "name": "[Allegiance]",
+      "id": "90eb-1760-d063-1958",
+      "hidden": false,
+      "type": "profile",
+      "targetId": "bb66-f1f6-4d65-5a07"
+     },
+     {
+      "name": "[Legiones Astartes]",
+      "id": "05ec-df15-13f3-a523",
+      "hidden": false,
+      "type": "profile",
+      "targetId": "641c-ca0a-7093-4525"
+     },
+     {
+      "name": "Signore della Legione",
+      "id": "8a0f-59f2-5fd2-3c2e",
+      "hidden": false,
+      "type": "profile",
+      "targetId": "6cd2-96be-b703-6d57"
+     },
+     {
+      "comment": "World Eaters",
+      "modifiers": [
+       {
+        "type": "replace",
+        "value": "World Eaters",
+        "field": "name",
+        "arg": "X"
+       }
+      ],
+      "name": "Odio (X)",
+      "id": "2e7e-4f49-2d30-52d0",
+      "hidden": false,
+      "type": "rule",
+      "targetId": "0612-95d5-46ae-c5ee"
+     },
+     {
+      "comment": "1",
+      "modifiers": [
+       {
+        "type": "replace",
+        "value": 1,
+        "field": "name",
+        "arg": "X"
+       }
+      ],
+      "name": "Guerriero Eterno (X)",
+      "id": "9863-fc41-b8ff-661f",
+      "hidden": false,
+      "type": "rule",
+      "targetId": "15b4-9e4a-f361-c5a3"
+     },
+     {
+      "modifiers": [
+       {
+        "type": "replace",
+        "value": 3,
+        "field": "name",
+        "arg": "X"
+       },
+       {
+        "conditions": [
+         {
+          "type": "atLeast",
+          "value": 1,
+          "field": "selections",
+          "scope": "roster",
+          "childId": "4ec2-4dab-205b-36a2",
+          "shared": true,
+          "includeChildSelections": true,
+          "includeChildForces": true
+         }
+        ],
+        "type": "set",
+        "value": false,
+        "field": "hidden"
+       }
+      ],
+      "name": "Eroi Spacciati (X)",
+      "id": "5777-c7aa-ba1e-36e5",
+      "hidden": true,
+      "type": "rule",
+      "targetId": "aea9-7451-7b2c-5b40"
+     }
+    ],
+    "modifiers": [
+     {
+      "conditions": [
+       {
+        "type": "atLeast",
+        "value": 1,
+        "field": "selections",
+        "scope": "roster",
+        "childId": "597e-83d8-32e1-8eaa",
+        "shared": true,
+        "includeChildSelections": true,
+        "includeChildForces": true
+       }
+      ],
+      "type": "set",
+      "value": true,
+      "field": "hidden"
+     }
+    ],
+    "rules": [
+     {
+      "description": "Se Endryd Haar è selezionato come unica Scelta Alto Comando in un Distaccamento Principale, tutte le Unità di quel Distaccamento Principale composte interamente da Modelli con il Tratto Scudi Neri, con il Tipo Fanteria e che non hanno alcuna variante della Regola Speciale Imponente (X) ottengono la Regola Speciale Infiltrazione (12).",
+      "name": " Zanne dell’Imperatore ",
+      "id": "bd25-f108-3015-dd31",
+      "hidden": false
+     },
+     {
+      "description": "Mentre un Modello con questa Regola Speciale è Ingaggiato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Il Segugio Spaccato: se questo Gambetto è selezionato, il Giocatore Controllante può effettuare un solo attacco nel Passaggio di Attacco per il Modello per cui è stato selezionato il Gambetto, a prescindere dal valore della Caratteristica Attacchi di quel Modello, guadagnando per tale attacco un +4 alla Caratteristica Forza e +2 alla Caratteristica Danni dell’Arma selezionata.",
+      "name": " Il Segugio Spaccato",
+      "id": "6864-01df-8848-bc77",
+      "hidden": false
+     }
+    ],
+    "profiles": [
+     {
+      "characteristics": [
+       {
+        "$text": "This Gambit allows Endryd Haar to make a single attack with a higher Strength and that causes more Damage.",
+        "name": "Riepilogo",
+        "typeId": "98f3-41cf-e3be-2ae7"
+       },
+       {
+        "$text": "If this Gambit is selected, then the Controlling Player may only make a single attack in the Strike Step for the Model this Gambit was selected for, regardless of the value of the Model’s Attacks Characteristic. However, that Model gains a bonus of +4 to their Strength Characteristic and a bonus of +2 to the Damage Characteristic of their selected Weapon, for the single attack made for them in the Strike Step",
+        "name": "Descrizione",
+        "typeId": "2d7d-b1d9-dead-605a"
+       }
+      ],
+      "name": "Il Segugio Spaccato",
+      "typeId": "9b5f-da4e-5739-cbcf",
+      "typeName": "Gambit",
+      "hidden": false,
+      "id": "1ea7-a9ca-18d8-1d46"
+     }
+    ],
+    "entryLinks": [
+     {
+      "import": true,
+      "name": "Scelta del Distaccamento di Alto Comando",
+      "hidden": false,
+      "id": "8629-b689-fb42-280d",
+      "type": "selectionEntryGroup",
+      "targetId": "969e-8b5b-1410-cfc6"
+     },
+     {
+      "entryLinks": [
+       {
+        "import": true,
+        "name": "Benefici Primari",
+        "hidden": false,
+        "id": "01f6-50cc-38fc-4d5a",
+        "type": "selectionEntryGroup",
+        "targetId": "a396-b846-c263-6767"
+       }
+      ],
+      "import": true,
+      "name": "Unità Primaria",
+      "hidden": false,
+      "id": "c0b5-d327-8e86-9c6f",
+      "type": "selectionEntry",
+      "targetId": "3fa2-78b1-637f-7fb2"
+     }
+    ],
+    "type": "unit",
+    "import": true,
+    "name": "Endryd Haar",
+    "hidden": false,
+    "id": "e9a1-962f-bc19-7c86"
+   },
+   {
+    "entryLinks": [
+     {
+      "import": true,
+      "name": "Rito di Guerra",
+      "hidden": false,
+      "id": "65a3-c5ca-4da7-42a0",
+      "type": "selectionEntryGroup",
+      "targetId": "e45b-b0b9-a21e-935f"
+     }
+    ],
+    "constraints": [
+     {
+      "type": "min",
+      "value": 1,
+      "field": "selections",
+      "scope": "parent",
+      "shared": true,
+      "id": "ed1e-2f8c-bf66-2e29"
+     },
+     {
+      "type": "max",
+      "value": 1,
+      "field": "selections",
+      "scope": "parent",
+      "shared": true,
+      "id": "1571-3878-06df-cecb"
+     }
+    ],
+    "type": "upgrade",
+    "import": true,
+    "name": "Rito di Guerra",
+    "hidden": false,
+    "id": "93b0-888c-694e-190f"
+   },
+   {
+    "entryLinks": [
+     {
+      "import": true,
+      "name": "Giuramenti del Momento",
+      "hidden": false,
+      "id": "22df-9003-2119-1185",
+      "type": "selectionEntryGroup",
+      "targetId": "e6c2-1fbd-b0b2-555a"
+     }
+    ],
+    "constraints": [
+     {
+      "type": "min",
+      "value": 1,
+      "field": "selections",
+      "scope": "parent",
+      "shared": true,
+      "id": "f25a-ba73-1bf7-9516"
+     },
+     {
+      "type": "max",
+      "value": 1,
+      "field": "selections",
+      "scope": "parent",
+      "shared": true,
+      "id": "992c-efca-ab6b-bb08"
+     }
+    ],
+    "type": "upgrade",
+    "import": true,
+    "name": "Giuramenti del Momento",
+    "hidden": false,
+    "id": "b1f1-e5be-cfaa-3df9"
+   }
+  ],
+  "entryLinks": [
+   {
+    "categoryLinks": [
+     {
+      "targetId": "d9a6-9b5f-b18a-4d63",
+      "id": "7944-f1c8-2aa2-9abc",
+      "primary": true,
+      "name": "Alto Comando"
+     }
+    ],
+    "import": true,
+    "name": "Endryd Haar",
+    "hidden": false,
+    "id": "cf9a-dc6b-56c2-1ef4",
+    "type": "selectionEntry",
+    "targetId": "e9a1-962f-bc19-7c86"
+   },
+   {
+    "categoryLinks": [
+     {
+      "targetId": "abfa-86ab-1726-077a",
+      "id": "15f7-fa10-ec8e-7dbf",
+      "primary": true,
+      "name": "Configurazione dell’Esercito"
+     }
+    ],
+    "import": true,
+    "name": "Rito di Guerra",
+    "hidden": false,
+    "id": "1b10-1916-d98e-8513",
+    "type": "selectionEntry",
+    "targetId": "93b0-888c-694e-190f"
+   },
+   {
+    "categoryLinks": [
+     {
+      "targetId": "abfa-86ab-1726-077a",
+      "id": "82e8-72dc-b031-283f",
+      "primary": true,
+      "name": "Configurazione dell’Esercito"
+     }
+    ],
+    "import": true,
+    "name": "Giuramenti del Momento",
+    "hidden": false,
+    "id": "5648-22da-ec9e-3d54",
+    "type": "selectionEntry",
+    "targetId": "b1f1-e5be-cfaa-3df9"
+   }
+  ],
+  "sharedSelectionEntryGroups": [
+   {
+    "constraints": [
+     {
+      "type": "max",
+      "value": 2,
+      "field": "selections",
+      "scope": "parent",
+      "shared": true,
+      "id": "de68-5d1b-843b-939d",
+      "automatic": true
+     }
+    ],
+    "modifiers": [
+     {
+      "conditions": [
+       {
+        "type": "instanceOf",
+        "value": 1,
+        "field": "selections",
+        "scope": "force",
+        "childId": "7469-bbd2-a2ad-f8a8",
+        "shared": true,
+        "includeChildSelections": true
+       }
+      ],
+      "type": "set",
+      "value": 1,
+      "field": "de68-5d1b-843b-939d"
+     }
+    ],
+    "selectionEntries": [
+     {
+      "constraints": [
+       {
+        "type": "max",
+        "value": 1,
+        "field": "selections",
+        "scope": "parent",
+        "shared": true,
+        "id": "afc8-df99-7cb2-c0c2"
+       }
+      ],
+      "categoryLinks": [
+       {
+        "targetId": "fdfa-3e5d-370e-e470",
+        "id": "8da9-befd-29cb-a2fe",
+        "primary": false,
+        "name": "La Vendetta Eterna"
+       }
+      ],
+      "infoLinks": [
+       {
+        "name": "La Vendetta Eterna",
+        "id": "997b-a9ee-f9a4-2e24",
+        "hidden": false,
+        "type": "rule",
+        "targetId": "d6d0-9273-d1d4-b167"
+       }
+      ],
+      "type": "upgrade",
+      "import": true,
+      "name": "La Vendetta Eterna",
+      "hidden": false,
+      "id": "bba0-2407-10cc-1ca1"
+     },
+     {
+      "constraints": [
+       {
+        "type": "max",
+        "value": 1,
+        "field": "selections",
+        "scope": "parent",
+        "shared": true,
+        "id": "e5b0-dc1b-c3b2-2288"
+       }
+      ],
+      "selectionEntryGroups": [
+       {
+        "selectionEntries": [
+         {
+          "constraints": [
+           {
+            "type": "max",
+            "value": 1,
+            "field": "selections",
+            "scope": "parent",
+            "shared": true,
+            "id": "b176-b6a9-0906-e7ed"
+           }
+          ],
+          "categoryLinks": [
+           {
+            "targetId": "c99b-7cb2-a79c-b632",
+            "id": "721d-9270-10d6-97fc",
+            "primary": false,
+            "name": "Panoplia Antica - Angeli Oscuri"
+           }
+          ],
+          "type": "upgrade",
+          "import": true,
+          "name": "I - Angeli Oscuri",
+          "hidden": false,
+          "id": "0fbf-8ab3-e142-5391",
+          "sortIndex": 1
+         },
+         {
+          "constraints": [
+           {
+            "type": "max",
+            "value": 1,
+            "field": "selections",
+            "scope": "parent",
+            "shared": true,
+            "id": "40a0-98b7-c484-51d4"
+           }
+          ],
+          "categoryLinks": [
+           {
+            "targetId": "fc3a-a4e6-8a2c-01a8",
+            "id": "a49a-5b82-b786-a6fc",
+            "primary": false,
+            "name": "Panoplia Antica - Figli dell’Imperatore"
+           }
+          ],
+          "type": "upgrade",
+          "import": true,
+          "name": "III - Figli dell’Imperatore",
+          "hidden": false,
+          "id": "b354-6ea7-7e37-ed8b",
+          "sortIndex": 3
+         },
+         {
+          "constraints": [
+           {
+            "type": "max",
+            "value": 1,
+            "field": "selections",
+            "scope": "parent",
+            "shared": true,
+            "id": "c46b-3aff-de71-13e6"
+           }
+          ],
+          "categoryLinks": [
+           {
+            "targetId": "4061-bc47-ebca-dc39",
+            "id": "a1b4-043e-6c03-5199",
+            "primary": false,
+            "name": "Panoplia Antica - Guerrieri di Ferro"
+           }
+          ],
+          "type": "upgrade",
+          "import": true,
+          "name": "IV - Guerrieri di Ferro",
+          "hidden": false,
+          "id": "bf48-11b5-e966-8074",
+          "sortIndex": 4
+         },
+         {
+          "constraints": [
+           {
+            "type": "max",
+            "value": 1,
+            "field": "selections",
+            "scope": "parent",
+            "shared": true,
+            "id": "8af3-a67b-a048-3fdf"
+           }
+          ],
+          "categoryLinks": [
+           {
+            "targetId": "d479-57dc-b494-7f80",
+            "id": "4d04-dae6-e80f-1fe8",
+            "primary": false,
+            "name": "Panoplia Antica - Furie Bianche"
+           }
+          ],
+          "type": "upgrade",
+          "import": true,
+          "name": "V - Furie Bianche",
+          "hidden": false,
+          "id": "6d74-1ee0-ff22-2c60",
+          "sortIndex": 5
+         },
+         {
+          "constraints": [
+           {
+            "type": "max",
+            "value": 1,
+            "field": "selections",
+            "scope": "parent",
+            "shared": true,
+            "id": "9a6d-a4c4-7e52-865a"
+           }
+          ],
+          "categoryLinks": [
+           {
+            "targetId": "3e12-20bf-607f-c531",
+            "id": "8d9b-b597-b71d-b785",
+            "primary": false,
+            "name": "Panoplia Antica - Lupi Siderali"
+           }
+          ],
+          "type": "upgrade",
+          "import": true,
+          "name": "VI - Lupi Siderali",
+          "hidden": false,
+          "id": "e97a-c98a-3003-9235",
+          "sortIndex": 6
+         },
+         {
+          "constraints": [
+           {
+            "type": "max",
+            "value": 1,
+            "field": "selections",
+            "scope": "parent",
+            "shared": true,
+            "id": "1ab5-1ec1-3b00-c359"
+           }
+          ],
+          "categoryLinks": [
+           {
+            "targetId": "de6f-f206-4bb4-d176",
+            "id": "2e54-9273-a444-198a",
+            "primary": false,
+            "name": "Panoplia Antica - Magli Imperiali"
+           }
+          ],
+          "type": "upgrade",
+          "import": true,
+          "name": "VII - Magli Imperiali",
+          "hidden": false,
+          "id": "03a4-c15d-11b8-001b",
+          "sortIndex": 7
+         },
+         {
+          "constraints": [
+           {
+            "type": "max",
+            "value": 1,
+            "field": "selections",
+            "scope": "parent",
+            "shared": true,
+            "id": "1120-1006-e222-029a"
+           }
+          ],
+          "categoryLinks": [
+           {
+            "targetId": "d63e-1849-e763-05ee",
+            "id": "34e7-2f63-3180-8cc1",
+            "primary": false,
+            "name": "Panoplia Antica - Signori della Notte"
+           }
+          ],
+          "type": "upgrade",
+          "import": true,
+          "name": "VIII - Signori della Notte",
+          "hidden": false,
+          "id": "92e4-8349-1218-3d21",
+          "sortIndex": 8
+         },
+         {
+          "constraints": [
+           {
+            "type": "max",
+            "value": 1,
+            "field": "selections",
+            "scope": "parent",
+            "shared": true,
+            "id": "09d7-587e-99a1-9bb8"
+           }
+          ],
+          "categoryLinks": [
+           {
+            "targetId": "8ae1-c83b-a225-826f",
+            "id": "37af-d61b-a87e-9933",
+            "primary": false,
+            "name": "Panoplia Antica - Angeli Sanguinari"
+           }
+          ],
+          "type": "upgrade",
+          "import": true,
+          "name": "IX - Angeli Sanguinari",
+          "hidden": false,
+          "id": "e150-3aab-2a98-5efc",
+          "sortIndex": 9
+         },
+         {
+          "constraints": [
+           {
+            "type": "max",
+            "value": 1,
+            "field": "selections",
+            "scope": "parent",
+            "shared": true,
+            "id": "2fce-8333-629e-16dc"
+           }
+          ],
+          "categoryLinks": [
+           {
+            "targetId": "1c05-5fde-9ef6-9807",
+            "id": "be49-893d-f5b5-b16c",
+            "primary": false,
+            "name": "Panoplia Antica - Mani di Ferro"
+           }
+          ],
+          "type": "upgrade",
+          "import": true,
+          "name": "X - Mani di Ferro",
+          "hidden": false,
+          "id": "c77e-8e2f-f020-81ca",
+          "sortIndex": 10
+         },
+         {
+          "constraints": [
+           {
+            "type": "max",
+            "value": 1,
+            "field": "selections",
+            "scope": "parent",
+            "shared": true,
+            "id": "aeea-905f-5944-06cc"
+           }
+          ],
+          "categoryLinks": [
+           {
+            "targetId": "0d39-355e-7faa-51a0",
+            "id": "26f6-eab0-821f-0831",
+            "primary": false,
+            "name": "Panoplia Antica - Divoratori di Mondi"
+           }
+          ],
+          "type": "upgrade",
+          "import": true,
+          "name": "XII - Divoratori di Mondi",
+          "hidden": false,
+          "id": "247c-ce35-b6f0-e666",
+          "sortIndex": 12
+         },
+         {
+          "constraints": [
+           {
+            "type": "max",
+            "value": 1,
+            "field": "selections",
+            "scope": "parent",
+            "shared": true,
+            "id": "1a8d-92d5-3aae-9ac3"
+           }
+          ],
+          "categoryLinks": [
+           {
+            "targetId": "147b-ad1e-1848-e5d3",
+            "id": "09b6-8332-c8fa-25f1",
+            "primary": false,
+            "name": "Panoplia Antica - Ultramarine"
+           }
+          ],
+          "type": "upgrade",
+          "import": true,
+          "name": "XIII - Ultramarine",
+          "hidden": false,
+          "id": "e630-ee58-10b5-ac7d",
+          "sortIndex": 13
+         },
+         {
+          "constraints": [
+           {
+            "type": "max",
+            "value": 1,
+            "field": "selections",
+            "scope": "parent",
+            "shared": true,
+            "id": "f3d4-938d-31a8-967c"
+           }
+          ],
+          "categoryLinks": [
+           {
+            "targetId": "606f-00c4-a49b-ff1c",
+            "id": "7fae-5c4e-49c6-2bf8",
+            "primary": false,
+            "name": "Panoplia Antica - Guardia della Morte"
+           }
+          ],
+          "type": "upgrade",
+          "import": true,
+          "name": "XIV - Guardia della Morte",
+          "hidden": false,
+          "id": "2b3f-57d2-dccf-4306",
+          "sortIndex": 14
+         },
+         {
+          "constraints": [
+           {
+            "type": "max",
+            "value": 1,
+            "field": "selections",
+            "scope": "parent",
+            "shared": true,
+            "id": "fd1c-b4d9-5ddc-9de0"
+           }
+          ],
+          "categoryLinks": [
+           {
+            "targetId": "4eec-9111-7656-2023",
+            "id": "5b8c-f6bd-ee9a-a739",
+            "primary": false,
+            "name": "Panoplia Antica - Stirpe dei Mille"
+           }
+          ],
+          "type": "upgrade",
+          "import": true,
+          "name": "XV - Stirpe dei Mille",
+          "hidden": false,
+          "id": "ff69-f308-23ed-2118",
+          "sortIndex": 15
+         },
+         {
+          "constraints": [
+           {
+            "type": "max",
+            "value": 1,
+            "field": "selections",
+            "scope": "parent",
+            "shared": true,
+            "id": "427f-b193-e062-37bb"
+           }
+          ],
+          "categoryLinks": [
+           {
+            "targetId": "59b9-6955-2307-aa98",
+            "id": "3132-107d-c8b7-3f4c",
+            "primary": false,
+            "name": "Panoplia Antica - Figli di Horus"
+           }
+          ],
+          "type": "upgrade",
+          "import": true,
+          "name": "XVI - Figli di Horus",
+          "hidden": false,
+          "id": "91ac-d25c-42e6-0883",
+          "sortIndex": 16
+         },
+         {
+          "constraints": [
+           {
+            "type": "max",
+            "value": 1,
+            "field": "selections",
+            "scope": "parent",
+            "shared": true,
+            "id": "d059-0074-64ef-67c9"
+           }
+          ],
+          "categoryLinks": [
+           {
+            "targetId": "a7b1-f3cb-b648-834a",
+            "id": "6a14-190c-3765-6a40",
+            "primary": false,
+            "name": "Panoplia Antica - Predicatori"
+           }
+          ],
+          "type": "upgrade",
+          "import": true,
+          "name": "XVII - Predicatori",
+          "hidden": false,
+          "id": "eafd-d734-5a92-2355",
+          "sortIndex": 17
+         },
+         {
+          "constraints": [
+           {
+            "type": "max",
+            "value": 1,
+            "field": "selections",
+            "scope": "parent",
+            "shared": true,
+            "id": "7a48-61b8-9cb7-dc4c"
+           }
+          ],
+          "categoryLinks": [
+           {
+            "targetId": "fde7-fb71-1ecc-7365",
+            "id": "e6f2-61ba-5d58-3f2e",
+            "primary": false,
+            "name": "Panoplia Antica - Salamandre"
+           }
+          ],
+          "type": "upgrade",
+          "import": true,
+          "name": "XVIII - Salamandre",
+          "hidden": false,
+          "id": "3b1f-6699-fe81-eb91",
+          "sortIndex": 18
+         },
+         {
+          "constraints": [
+           {
+            "type": "max",
+            "value": 1,
+            "field": "selections",
+            "scope": "parent",
+            "shared": true,
+            "id": "eaef-565d-c139-5549"
+           }
+          ],
+          "categoryLinks": [
+           {
+            "targetId": "754a-10dd-0b2e-1b19",
+            "id": "ac6d-9e1c-60fd-10de",
+            "primary": false,
+            "name": "Panoplia Antica - Guardia del Corvo"
+           }
+          ],
+          "type": "upgrade",
+          "import": true,
+          "name": "XIX - Guardia del Corvo",
+          "hidden": false,
+          "id": "48f5-40ab-49f7-f179",
+          "sortIndex": 19
+         },
+         {
+          "constraints": [
+           {
+            "type": "max",
+            "value": 1,
+            "field": "selections",
+            "scope": "parent",
+            "shared": true,
+            "id": "3aa7-623c-dda3-a0ab"
+           }
+          ],
+          "categoryLinks": [
+           {
+            "targetId": "0e0a-e490-ee7f-7033",
+            "id": "a75c-511c-87f1-9081",
+            "primary": false,
+            "name": "Panoplia Antica - Legione Alfa"
+           }
+          ],
+          "type": "upgrade",
+          "import": true,
+          "name": "XX - Legione Alfa",
+          "hidden": false,
+          "id": "9655-083a-3165-dcd5",
+          "sortIndex": 20
+         }
+        ],
+        "constraints": [
+         {
+          "type": "min",
+          "value": 1,
+          "field": "selections",
+          "scope": "parent",
+          "shared": true,
+          "id": "6bd9-d323-543c-af2d"
+         },
+         {
+          "type": "max",
+          "value": 1,
+          "field": "selections",
+          "scope": "parent",
+          "shared": true,
+          "id": "fced-fd2a-b19a-a7d9"
+         }
+        ],
+        "infoLinks": [
+         {
+          "name": "Panoplia Antica",
+          "id": "cf92-333c-e3c8-cc9a",
+          "hidden": false,
+          "type": "rule",
+          "targetId": "c768-6f33-f07c-7b92"
+         }
+        ],
+        "name": "Legione",
+        "id": "7b8c-7d9d-df5f-2655",
+        "hidden": false
+       }
+      ],
+      "type": "upgrade",
+      "import": true,
+      "name": "Panoplia Antica",
+      "hidden": false,
+      "id": "96b0-14eb-99a0-fe6c"
+     },
+     {
+      "constraints": [
+       {
+        "type": "max",
+        "value": 1,
+        "field": "selections",
+        "scope": "parent",
+        "shared": true,
+        "id": "e9da-3697-7088-c3d0"
+       }
+      ],
+      "categoryLinks": [
+       {
+        "targetId": "8026-d8cc-eea8-cd3d",
+        "id": "4138-995f-8aa2-b59a",
+        "primary": false,
+        "name": "Solo nella Morte il Dovere Finisce"
+       }
+      ],
+      "infoLinks": [
+       {
+        "name": "Solo nella Morte il Dovere Finisce",
+        "id": "0403-948d-5a45-39b8",
+        "hidden": false,
+        "type": "rule",
+        "targetId": "58df-6c2a-de82-81a0"
+       }
+      ],
+      "type": "upgrade",
+      "import": true,
+      "name": "Solo nella Morte il Dovere Finisce",
+      "hidden": false,
+      "id": "dabf-d459-2d9f-d53e"
+     },
+     {
+      "constraints": [
+       {
+        "type": "max",
+        "value": 1,
+        "field": "selections",
+        "scope": "parent",
+        "shared": true,
+        "id": "741d-0fbd-5555-5d6d",
+        "automatic": true
+       },
+       {
+        "type": "min",
+        "value": 0,
+        "field": "selections",
+        "scope": "parent",
+        "shared": true,
+        "id": "394a-fbb4-197d-6c9c",
+        "automatic": true
+       }
+      ],
+      "modifiers": [
+       {
+        "conditions": [
+         {
+          "type": "atLeast",
+          "value": 1,
+          "field": "selections",
+          "scope": "parent",
+          "childId": "40ff-d0cc-3254-f83e",
+          "shared": true,
+          "includeChildSelections": true
+         }
+        ],
+        "type": "set",
+        "value": 0,
+        "field": "741d-0fbd-5555-5d6d"
+       },
+       {
+        "conditions": [
+         {
+          "type": "atLeast",
+          "value": 1,
+          "field": "selections",
+          "scope": "parent",
+          "childId": "40ff-d0cc-3254-f83e",
+          "shared": true,
+          "includeChildSelections": true
+         }
+        ],
+        "type": "set",
+        "value": 0,
+        "field": "394a-fbb4-197d-6c9c"
+       }
+      ],
+      "categoryLinks": [
+       {
+        "targetId": "49f4-c066-6fe6-fbfd",
+        "id": "a346-ad0f-d00f-b155",
+        "primary": false,
+        "name": "Le Spoglie della Vittoria"
+       }
+      ],
+      "infoLinks": [
+       {
+        "name": "Le Spoglie della Vittoria",
+        "id": "ae27-912c-d359-12aa",
+        "hidden": false,
+        "type": "rule",
+        "targetId": "dd0a-1123-9b03-5ad9"
+       }
+      ],
+      "type": "upgrade",
+      "import": true,
+      "name": "Le Spoglie della Vittoria",
+      "hidden": false,
+      "id": "e39d-fff6-6325-47d1"
+     },
+     {
+      "constraints": [
+       {
+        "type": "max",
+        "value": 1,
+        "field": "selections",
+        "scope": "parent",
+        "shared": true,
+        "id": "7d4d-6417-4fed-93f6"
+       }
+      ],
+      "categoryLinks": [
+       {
+        "targetId": "ac6a-e4c3-b5aa-fe61",
+        "id": "6faf-c8b6-158d-5bf7",
+        "primary": false,
+        "name": "Un’Eternità di Guerra"
+       }
+      ],
+      "infoLinks": [
+       {
+        "name": "Un’Eternità di Guerra",
+        "id": "1ca8-ce34-c3f2-e0fb",
+        "hidden": false,
+        "type": "rule",
+        "targetId": "3e9a-f17a-c60e-dcfa"
+       }
+      ],
+      "type": "upgrade",
+      "import": true,
+      "name": "Un’Eternità di Guerra",
+      "hidden": false,
+      "id": "0174-c909-411e-c107"
+     },
+     {
+      "constraints": [
+       {
+        "type": "max",
+        "value": 1,
+        "field": "selections",
+        "scope": "parent",
+        "shared": true,
+        "id": "86b9-1768-e8db-2ee4"
+       }
+      ],
+      "categoryLinks": [
+       {
+        "targetId": "d563-c8da-2cce-aa7d",
+        "id": "ee94-301d-013e-d7b3",
+        "primary": false,
+        "name": "La Carne è Debole"
+       }
+      ],
+      "infoLinks": [
+       {
+        "name": "La Carne è Debole",
+        "id": "f853-90cb-d266-b9af",
+        "hidden": false,
+        "type": "rule",
+        "targetId": "e895-dda1-cacc-5105"
+       },
+       {
+        "name": "Unità a Cogitatori Collegati",
+        "id": "b8ee-7882-e339-922c",
+        "hidden": false,
+        "type": "rule",
+        "targetId": "686e-7abe-2bf8-103e"
+       },
+       {
+        "name": "Stiva di Trasporto Augmetica",
+        "id": "6e94-29ef-2a1d-4b93",
+        "hidden": false,
+        "type": "rule",
+        "targetId": "9f41-c4ba-509a-20c3"
+       }
+      ],
+      "type": "upgrade",
+      "import": true,
+      "name": "La Carne è Debole",
+      "hidden": false,
+      "id": "cd7d-bd5e-fe39-cf34"
+     },
+     {
+      "constraints": [
+       {
+        "type": "max",
+        "value": 1,
+        "field": "selections",
+        "scope": "parent",
+        "shared": true,
+        "id": "939b-b6f5-3daf-7d8b"
+       }
+      ],
+      "categoryLinks": [
+       {
+        "targetId": "d26c-456d-f04d-12d0",
+        "id": "f36f-af90-d59a-6048",
+        "primary": false,
+        "name": "Il Legato di Nikea"
+       }
+      ],
+      "infoLinks": [
+       {
+        "name": "Il Legato di Nikea",
+        "id": "6935-c68c-3bfb-4d82",
+        "hidden": false,
+        "type": "rule",
+        "targetId": "4140-2a99-e941-539f"
+       }
+      ],
+      "type": "upgrade",
+      "import": true,
+      "name": "Il Legato di Nikea",
+      "hidden": false,
+      "id": "84f9-5c94-cd8b-869b"
+     },
+     {
+      "constraints": [
+       {
+        "type": "max",
+        "value": 1,
+        "field": "selections",
+        "scope": "parent",
+        "shared": true,
+        "id": "855b-4a59-47d3-d061"
+       }
+      ],
+      "categoryLinks": [
+       {
+        "targetId": "53f8-ca8c-239c-1d3d",
+        "id": "d798-f710-2beb-c585",
+        "primary": false,
+        "name": "L’Elica Spezzata"
+       }
+      ],
+      "infoLinks": [
+       {
+        "name": "L’Elica Spezzata",
+        "id": "b1b3-53f9-d309-7325",
+        "hidden": false,
+        "type": "rule",
+        "targetId": "1a93-fdf9-dd1e-3df9"
+       }
+      ],
+      "type": "upgrade",
+      "import": true,
+      "name": "L’Elica Spezzata",
+      "hidden": false,
+      "id": "e379-ff93-c9c3-c67e"
+     },
+     {
+      "constraints": [
+       {
+        "type": "max",
+        "value": 1,
+        "field": "selections",
+        "scope": "parent",
+        "shared": true,
+        "id": "1615-c401-0072-4380"
+       }
+      ],
+      "categoryLinks": [
+       {
+        "targetId": "610d-c9b0-ccb0-cba9",
+        "id": "6551-a34a-7125-acc3",
+        "primary": false,
+        "name": "Nella Disgrazia Tutti sono Uguali"
+       }
+      ],
+      "infoLinks": [
+       {
+        "name": "Nella Disgrazia Tutti sono Uguali",
+        "id": "86dd-6e70-36ad-d306",
+        "hidden": false,
+        "type": "rule",
+        "targetId": "d35b-fa21-0757-9df7"
+       }
+      ],
+      "type": "upgrade",
+      "import": true,
+      "name": "Nella Disgrazia Tutti sono Uguali",
+      "hidden": false,
+      "id": "04a5-602d-7853-9555"
+     },
+     {
+      "constraints": [
+       {
+        "type": "max",
+        "value": 1,
+        "field": "selections",
+        "scope": "parent",
+        "shared": true,
+        "id": "b311-a351-4a2d-d987"
+       }
+      ],
+      "categoryLinks": [
+       {
+        "targetId": "f5dc-c13a-5848-f3b8",
+        "id": "00e5-ace7-d6bb-76d4",
+        "primary": false,
+        "name": "L’Orgoglio è la Nostra Corazza"
+       }
+      ],
+      "infoLinks": [
+       {
+        "name": "L’Orgoglio è la Nostra Corazza",
+        "id": "a182-2a7e-2dfb-6dd3",
+        "hidden": false,
+        "type": "rule",
+        "targetId": "6c48-fb06-2b89-ffb1"
+       }
+      ],
+      "type": "upgrade",
+      "import": true,
+      "name": "L’Orgoglio è la Nostra Corazza",
+      "hidden": false,
+      "id": "c2ee-2f53-1ba9-fd1b"
+     },
+     {
+      "constraints": [
+       {
+        "type": "max",
+        "value": 1,
+        "field": "selections",
+        "scope": "parent",
+        "shared": true,
+        "id": "96ad-2670-5119-d345"
+       }
+      ],
+      "categoryLinks": [
+       {
+        "targetId": "6049-c010-d9b7-8cca",
+        "id": "4630-6622-813a-73b1",
+        "primary": false,
+        "name": "La Contaminazione degli Xenos"
+       }
+      ],
+      "infoLinks": [
+       {
+        "name": "Il Marchio degli Xenos",
+        "id": "efdf-266b-d42f-9fe1",
+        "hidden": false,
+        "type": "rule",
+        "targetId": "a8c4-6c76-4105-4e19"
+       }
+      ],
+      "type": "upgrade",
+      "import": true,
+      "name": "Il Marchio degli Xenos",
+      "hidden": false,
+      "id": "e0a5-1eb2-7234-37c3"
+     },
+     {
+      "constraints": [
+       {
+        "type": "max",
+        "value": 1,
+        "field": "selections",
+        "scope": "parent",
+        "shared": true,
+        "id": "5a99-c7e1-12c3-a620"
+       }
+      ],
+      "categoryLinks": [
+       {
+        "targetId": "4d86-d6e9-8bca-0ad5",
+        "id": "7c06-840a-4e55-32fd",
+        "primary": false,
+        "name": "Armi della Disperazione"
+       }
+      ],
+      "infoLinks": [
+       {
+        "name": "Armi della Disperazione",
+        "id": "7730-fac1-8cf9-afc5",
+        "hidden": false,
+        "type": "rule",
+        "targetId": "49ea-388e-cee3-7053"
+       }
+      ],
+      "type": "upgrade",
+      "import": true,
+      "name": "Armi della Disperazione",
+      "hidden": false,
+      "id": "32f7-f105-f87e-5c1e"
+     },
+     {
+      "constraints": [
+       {
+        "type": "max",
+        "value": 1,
+        "field": "selections",
+        "scope": "parent",
+        "shared": true,
+        "id": "cb62-4579-e99e-1d82",
+        "automatic": true
+       },
+       {
+        "type": "min",
+        "value": 0,
+        "field": "selections",
+        "scope": "parent",
+        "shared": true,
+        "id": "ac71-f536-996b-0222",
+        "automatic": true
+       }
+      ],
+      "modifiers": [
+       {
+        "conditionGroups": [
+         {
+          "conditions": [
+           {
+            "type": "atLeast",
+            "value": 1,
+            "field": "selections",
+            "scope": "parent",
+            "childId": "e39d-fff6-6325-47d1",
+            "shared": true,
+            "includeChildSelections": true
+           },
+           {
+            "type": "atLeast",
+            "value": 1,
+            "field": "selections",
+            "scope": "parent",
+            "childId": "40ff-d0cc-3254-f83e",
+            "shared": true,
+            "includeChildSelections": true
+           }
+          ],
+          "type": "or"
+         }
+        ],
+        "type": "set",
+        "value": 0,
+        "field": "cb62-4579-e99e-1d82"
+       },
+       {
+        "conditionGroups": [
+         {
+          "conditions": [
+           {
+            "type": "atLeast",
+            "value": 1,
+            "field": "selections",
+            "scope": "parent",
+            "childId": "e39d-fff6-6325-47d1",
+            "shared": true,
+            "includeChildSelections": true
+           },
+           {
+            "type": "atLeast",
+            "value": 1,
+            "field": "selections",
+            "scope": "parent",
+            "childId": "40ff-d0cc-3254-f83e",
+            "shared": true,
+            "includeChildSelections": true
+           }
+          ],
+          "type": "or"
+         }
+        ],
+        "type": "set",
+        "value": 0,
+        "field": "ac71-f536-996b-0222"
+       }
+      ],
+      "categoryLinks": [
+       {
+        "targetId": "4ec2-4dab-205b-36a2",
+        "id": "0966-7b8b-22f6-8293",
+        "primary": false,
+        "name": "La Lama dei Giusti"
+       }
+      ],
+      "infoLinks": [
+       {
+        "name": "La Lama dei Giusti",
+        "id": "3f31-ffbf-36c0-fc76",
+        "hidden": false,
+        "type": "rule",
+        "targetId": "1592-e29d-a111-dfef"
+       },
+       {
+        "name": "Eroi Spacciati (X)",
+        "id": "e2b4-9600-1176-64a1",
+        "hidden": false,
+        "type": "rule",
+        "targetId": "aea9-7451-7b2c-5b40"
+       }
+      ],
+      "type": "upgrade",
+      "import": true,
+      "name": "La Lama dei Giusti",
+      "hidden": false,
+      "id": "b523-6fb7-45b3-3669"
+     },
+     {
+      "constraints": [
+       {
+        "type": "max",
+        "value": 1,
+        "field": "selections",
+        "scope": "parent",
+        "shared": true,
+        "id": "2496-3ee4-4c9b-9d85",
+        "automatic": true
+       },
+       {
+        "type": "min",
+        "value": 0,
+        "field": "selections",
+        "scope": "parent",
+        "shared": true,
+        "id": "4c86-eaae-6086-437b",
+        "automatic": true
+       }
+      ],
+      "modifiers": [
+       {
+        "conditionGroups": [
+         {
+          "conditions": [
+           {
+            "type": "atLeast",
+            "value": 1,
+            "field": "selections",
+            "scope": "parent",
+            "childId": "e39d-fff6-6325-47d1",
+            "shared": true,
+            "includeChildSelections": true
+           },
+           {
+            "type": "atLeast",
+            "value": 1,
+            "field": "selections",
+            "scope": "parent",
+            "childId": "b523-6fb7-45b3-3669",
+            "shared": true,
+            "includeChildSelections": true
+           }
+          ],
+          "type": "or"
+         }
+        ],
+        "type": "set",
+        "value": 0,
+        "field": "2496-3ee4-4c9b-9d85"
+       },
+       {
+        "conditionGroups": [
+         {
+          "conditions": [
+           {
+            "type": "atLeast",
+            "value": 1,
+            "field": "selections",
+            "scope": "parent",
+            "childId": "e39d-fff6-6325-47d1",
+            "shared": true,
+            "includeChildSelections": true
+           },
+           {
+            "type": "atLeast",
+            "value": 1,
+            "field": "selections",
+            "scope": "parent",
+            "childId": "b523-6fb7-45b3-3669",
+            "shared": true,
+            "includeChildSelections": true
+           }
+          ],
+          "type": "or"
+         }
+        ],
+        "type": "set",
+        "value": 0,
+        "field": "4c86-eaae-6086-437b"
+       }
+      ],
+      "categoryLinks": [
+       {
+        "targetId": "90a5-d491-7576-a537",
+        "id": "14a5-10dd-af4d-5be8",
+        "primary": false,
+        "name": "Mietitori di Vite"
+       }
+      ],
+      "infoLinks": [
+       {
+        "name": "Mietitori di Vite",
+        "id": "6218-c00e-2dcb-9e21",
+        "hidden": false,
+        "type": "rule",
+        "targetId": "0b42-1704-ec3c-c821"
+       }
+      ],
+      "type": "upgrade",
+      "import": true,
+      "name": "Mietitori di Vite",
+      "hidden": false,
+      "id": "40ff-d0cc-3254-f83e"
+     },
+     {
+      "constraints": [
+       {
+        "type": "max",
+        "value": 1,
+        "field": "selections",
+        "scope": "parent",
+        "shared": true,
+        "id": "6a72-6a3e-4000-ac74"
+       }
+      ],
+      "categoryLinks": [
+       {
+        "targetId": "122b-0eda-4e29-401e",
+        "id": "1ba0-cf03-a59a-c36b",
+        "primary": false,
+        "name": "Soli e Dimenticati"
+       }
+      ],
+      "infoLinks": [
+       {
+        "name": "Soli e Dimenticati",
+        "id": "3329-f10c-48ec-0b33",
+        "hidden": false,
+        "type": "rule",
+        "targetId": "1f14-ed97-b397-d409"
+       },
+       {
+        "name": "Combattere e Morire Soli",
+        "id": "6ffa-f16c-b2a0-32d0",
+        "hidden": false,
+        "type": "rule",
+        "targetId": "525c-b678-98e7-43ff"
+       }
+      ],
+      "type": "upgrade",
+      "import": true,
+      "name": "Soli e Dimenticati",
+      "hidden": false,
+      "id": "9f95-fefa-8065-0094"
+     }
+    ],
+    "name": "Giuramenti del Momento",
+    "id": "e6c2-1fbd-b0b2-555a",
+    "hidden": false
+   },
+   {
+    "selectionEntries": [
+     {
+      "selectionEntries": [
+       {
+        "rules": [
+         {
+          "description": "Mentre sono soggetti ad almeno uno degli Status Inchiodato, Soppresso o Stordito, guadagnano +1 alle Caratteristiche di Resistenza e Forza. Se soggetti a più di uno di tali Status, guadagnano invece +2.",
+          "name": "Figli Bastardi del Fato",
+          "id": "4351-d554-72bb-7820",
+          "hidden": false
+         }
+        ],
+        "constraints": [
+         {
+          "type": "min",
+          "value": 1,
+          "field": "selections",
+          "scope": "parent",
+          "shared": true,
+          "id": "bd75-1e39-0a0f-0fd2-min"
+         },
+         {
+          "type": "max",
+          "value": 1,
+          "field": "selections",
+          "scope": "parent",
+          "shared": true,
+          "id": "bd75-1e39-0a0f-0fd2-max"
+         }
+        ],
+        "type": "upgrade",
+        "import": true,
+        "name": "Tattica degli Scudi Neri",
+        "hidden": false,
+        "id": "ebf2-a8f1-00c2-c7d9"
+       },
+       {
+        "profiles": [
+         {
+          "characteristics": [
+           {
+            "$text": "If slain by the opposing Model, D3 wounds are inflicted on that Model.",
+            "name": "Riepilogo",
+            "typeId": "98f3-41cf-e3be-2ae7"
+           },
+           {
+            "$text": "This Gambit may only be selected if the opposing Model in the Challenge has either the Unique Trait or the Paragon Type. If a Model is Removed as a Casualty during the Strike Step when this Gambit has been selected for them, then D3 wounds are automatically inflicted on the opposing Model at the end of the Glory Step that follows. These wounds have the Damage and AP of the Weapon used by the Model for which this Gambit was selected.",
+            "name": "Descrizione",
+            "typeId": "2d7d-b1d9-dead-605a"
+           }
+          ],
+          "name": "Schiavi di Nessuno",
+          "typeId": "9b5f-da4e-5739-cbcf",
+          "typeName": "Gambit",
+          "hidden": false,
+          "id": "6992-fae3-8591-c712"
+         }
+        ],
+        "constraints": [
+         {
+          "type": "min",
+          "value": 1,
+          "field": "selections",
+          "scope": "parent",
+          "shared": true,
+          "id": "afa3-a09a-c7f0-037f-min"
+         },
+         {
+          "type": "max",
+          "value": 1,
+          "field": "selections",
+          "scope": "parent",
+          "shared": true,
+          "id": "afa3-a09a-c7f0-037f-max"
+         }
+        ],
+        "type": "upgrade",
+        "import": true,
+        "name": "Gambetto",
+        "hidden": false,
+        "id": "00ba-3187-f889-3bc9"
+       },
+       {
+        "rules": [
+         {
+          "description": "I seguenti Giuramenti del Momento possono essere selezionati per qualunque Distaccamento che includa uno o più Modelli con il Tratto Scudi Neri, ed i relativi effetti si applicano solo a tali Modelli.",
+          "name": "Giuramenti del Momento",
+          "id": "e8c6-3113-c65d-f636",
+          "hidden": false
+         }
+        ],
+        "constraints": [
+         {
+          "type": "min",
+          "value": 1,
+          "field": "selections",
+          "scope": "parent",
+          "shared": true,
+          "id": "96d0-b6ad-ec95-5efd-min"
+         },
+         {
+          "type": "max",
+          "value": 1,
+          "field": "selections",
+          "scope": "parent",
+          "shared": true,
+          "id": "96d0-b6ad-ec95-5efd-max"
+         }
+        ],
+        "type": "upgrade",
+        "import": true,
+        "name": "Giuramenti del Momento",
+        "hidden": false,
+        "id": "7285-1826-9124-0b8a"
+       }
+      ],
+      "constraints": [
+       {
+        "type": "min",
+        "value": 1,
+        "field": "selections",
+        "scope": "parent",
+        "shared": true,
+        "id": "429e-8e2a-fea6-d481-min"
+       },
+       {
+        "type": "max",
+        "value": 1,
+        "field": "selections",
+        "scope": "parent",
+        "shared": true,
+        "id": "429e-8e2a-fea6-d481-max"
+       }
+      ],
+      "type": "upgrade",
+      "import": true,
+      "name": "Rito di Guerra: Scudi Neri",
+      "hidden": false,
+      "id": "a959-6650-e35d-3c31"
+     }
+    ],
+    "name": "Rito di Guerra",
+    "id": "e45b-b0b9-a21e-935f",
+    "hidden": false
+   }
+  ],
+  "xmlns": "http://www.battlescribe.net/schema/catalogueSchema",
+  "library": false,
+  "id": "c195-9a6a-a56b-4634",
+  "name": "Scudi Neri",
+  "gameSystemId": "sys-9fe4-1dc3-b7c2-73cf",
+  "gameSystemRevision": 54,
+  "revision": 3,
+  "battleScribeVersion": 2.03,
+  "type": "catalogue"
+ }
+}
