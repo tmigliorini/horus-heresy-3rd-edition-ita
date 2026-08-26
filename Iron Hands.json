@@ -486,7 +486,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il Giocatore che lo Controlla può selezionare il seguente Gambetto: Temprato dalla Guerra: la Caratteristica Resistenza di questo Modello è impostata a 8 per la durata del successivo Passaggio di Attacco.",
+                    "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il Giocatore che lo Controlla può selezionare il seguente Gambetto:\nTemprato dalla Guerra: la Caratteristica Resistenza di questo Modello è impostata a 8 per la durata del successivo Passaggio di Attacco.",
                     "name": "Descrizione",
                     "typeId": "2d7d-b1d9-dead-605a"
                   }
@@ -7107,7 +7107,7 @@
                   {
                     "characteristics": [
                       {
-                        "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Una Legione da Solo: questo Modello ottiene il doppio del normale bonus al suo Tiro Concentrazione che normalmente otterrebbe dal Supporto Esterno, e il suo avversario può ottenere solo un bonus massimo di +2 dal Supporto Esterno.",
+                        "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto:\nUna Legione da Solo: questo Modello ottiene il doppio del normale bonus al suo Tiro Concentrazione che normalmente otterrebbe dal Supporto Esterno, e il suo avversario può ottenere solo un bonus massimo di +2 dal Supporto Esterno.",
                         "name": "Descrizione",
                         "typeId": "2d7d-b1d9-dead-605a"
                       }
@@ -7154,7 +7154,7 @@
                         "typeId": "02e4-3f90-3125-f8b4"
                       },
                       {
-                        "$text": "1 Punto Reazione.",
+                        "$text": "1 Punto Reazione",
                         "name": "Costo",
                         "typeId": "954a-972f-5c94-2ede"
                       },
@@ -7271,7 +7271,7 @@
     "name": "                        X - Mani di Ferro",
     "gameSystemId": "sys-b976-0013-2f97-437b",
     "gameSystemRevision": 1,
-    "revision": 19,
+    "revision": 20,
     "authorUrl": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita",
     "authorContact": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita/issues",
     "authorName": "The4D6",

@@ -92,7 +92,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Mentre un Modello con questa Regola Speciale è Ingaggiato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Il Signore Ammantato: Il Giocatore Controllante deve selezionare Talionis all’inizio della Fase Concentrazione e ignora qualsiasi modificatore negativo al Tiro Concentrazione per avere una Caratteristica Ferite Attuali inferiore alla sua Caratteristica Ferite Base.\nInoltre, se il Giocatore che ha selezionato questo Gambetto è il Giocatore Attivo e ha messo a segno almeno un Colpo con Talionis sull’avversario durante il Passaggio di Attacco, può scegliere di passare alla Fase Gloria dopo che entrambi i Giocatori hanno risolto la Fase 4 del Passaggio di Attacco corrente, anche se non ha il Vantaggio.",
+                    "$text": "Mentre un Modello con questa Regola Speciale è Ingaggiato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto:\nIl Signore Ammantato: Il Giocatore Controllante deve selezionare Talionis all’inizio della Fase Concentrazione e ignora qualsiasi modificatore negativo al Tiro Concentrazione per avere una Caratteristica Ferite Attuali inferiore alla sua Caratteristica Ferite Base.\nInoltre, se il Giocatore che ha selezionato questo Gambetto è il Giocatore Attivo e ha messo a segno almeno un Colpo con Talionis sull’avversario durante il Passaggio di Attacco, può scegliere di passare alla Fase Gloria dopo che entrambi i Giocatori hanno risolto la Fase 4 del Passaggio di Attacco corrente, anche se non ha il Vantaggio.",
                     "name": "Descrizione",
                     "typeId": "2d7d-b1d9-dead-605a"
                   }
@@ -169,7 +169,7 @@
                 "hidden": false
               },
               {
-                "description": "Mentre un Modello con questa Regola Speciale è Ingaggiato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Il Signore Ammantato: Il Giocatore Controllante deve selezionare Talionis all’inizio della Fase Concentrazione e ignora qualsiasi modificatore negativo al Tiro Concentrazione per avere una Caratteristica Ferite Attuali inferiore alla sua Caratteristica Ferite Base. Inoltre, se il Giocatore che ha selezionato questo Gambetto è il Giocatore Attivo e ha messo a segno almeno un Colpo con Talionis sull’avversario durante il Passaggio di Attacco, può scegliere di passare alla Fase Gloria dopo che entrambi i Giocatori hanno risolto la Fase 4 del Passaggio di Attacco corrente, anche se non ha il Vantaggio.",
+                "description": "Mentre un Modello con questa Regola Speciale è Ingaggiato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto:\nIl Signore Ammantato: Il Giocatore Controllante deve selezionare Talionis all’inizio della Fase Concentrazione e ignora qualsiasi modificatore negativo al Tiro Concentrazione per avere una Caratteristica Ferite Attuali inferiore alla sua Caratteristica Ferite Base. Inoltre, se il Giocatore che ha selezionato questo Gambetto è il Giocatore Attivo e ha messo a segno almeno un Colpo con Talionis sull’avversario durante il Passaggio di Attacco, può scegliere di passare alla Fase Gloria dopo che entrambi i Giocatori hanno risolto la Fase 4 del Passaggio di Attacco corrente, anche se non ha il Vantaggio.",
                 "comment": "Rule",
                 "name": "Il Signore Ammantato",
                 "id": "9303-1545-03a3-96ff",
@@ -5346,7 +5346,7 @@
       {
         "characteristics": [
           {
-            "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il Giocatore Controllante può selezionare il seguente Gambetto: Colpo Decapitante: questo Gambetto può essere selezionato una volta per Sfida.\nNon viene effettuato alcun Tiro Concentrazione, ma il Giocatore Controllante del Modello per cui è stato selezionato questo Gambetto effettua un singolo attacco alla fine del Passaggio di Concentrazione.\nSe il Tiro per Colpire e Tiro per Ferire effettuati per questo attacco hanno entrambi successo, il Giocatore Controllante del Modello con questo Gambetto può quindi effettuare i restanti attacchi che il Modello è idoneo a effettuare nel Passaggio di Attacco corrente, meno il singolo attacco già effettuato.\nSe il Tiro per Colpire o il Tiro per Ferire effettuati per l’attacco iniziale non hanno successo, il Modello per cui è stato selezionato questo Gambetto non può effettuare ulteriori attacchi durante questo Passaggio di Attacco.",
+            "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il Giocatore Controllante può selezionare il seguente Gambetto:\nColpo Decapitante: questo Gambetto può essere selezionato una volta per Sfida.\nNon viene effettuato alcun Tiro Concentrazione, ma il Giocatore Controllante del Modello per cui è stato selezionato questo Gambetto effettua un singolo attacco alla fine del Passaggio di Concentrazione.\nSe il Tiro per Colpire e Tiro per Ferire effettuati per questo attacco hanno entrambi successo, il Giocatore Controllante del Modello con questo Gambetto può quindi effettuare i restanti attacchi che il Modello è idoneo a effettuare nel Passaggio di Attacco corrente, meno il singolo attacco già effettuato.\nSe il Tiro per Colpire o il Tiro per Ferire effettuati per l’attacco iniziale non hanno successo, il Modello per cui è stato selezionato questo Gambetto non può effettuare ulteriori attacchi durante questo Passaggio di Attacco.",
             "name": "Descrizione",
             "typeId": "2d7d-b1d9-dead-605a"
           }
@@ -5402,7 +5402,7 @@
                   {
                     "characteristics": [
                       {
-                        "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il Giocatore Controllante può selezionare il seguente Gambetto: Colpo Decapitante: questo Gambetto può essere selezionato una volta per Sfida.\nNon viene effettuato alcun Tiro Concentrazione, ma il Giocatore Controllante del Modello per cui è stato selezionato questo Gambetto effettua un singolo attacco alla fine del Passaggio di Concentrazione.\nSe il Tiro per Colpire e Tiro per Ferire effettuati per questo attacco hanno entrambi successo, il Giocatore Controllante del Modello con questo Gambetto può quindi effettuare i restanti attacchi che il Modello è idoneo a effettuare nel Passaggio di Attacco corrente, meno il singolo attacco già effettuato.\nSe il Tiro per Colpire o il Tiro per Ferire effettuati per l’attacco iniziale non hanno successo, il Modello per cui è stato selezionato questo Gambetto non può effettuare ulteriori attacchi durante questo Passaggio di Attacco.",
+                        "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il Giocatore Controllante può selezionare il seguente Gambetto:\nColpo Decapitante: questo Gambetto può essere selezionato una volta per Sfida.\nNon viene effettuato alcun Tiro Concentrazione, ma il Giocatore Controllante del Modello per cui è stato selezionato questo Gambetto effettua un singolo attacco alla fine del Passaggio di Concentrazione.\nSe il Tiro per Colpire e Tiro per Ferire effettuati per questo attacco hanno entrambi successo, il Giocatore Controllante del Modello con questo Gambetto può quindi effettuare i restanti attacchi che il Modello è idoneo a effettuare nel Passaggio di Attacco corrente, meno il singolo attacco già effettuato.\nSe il Tiro per Colpire o il Tiro per Ferire effettuati per l’attacco iniziale non hanno successo, il Modello per cui è stato selezionato questo Gambetto non può effettuare ulteriori attacchi durante questo Passaggio di Attacco.",
                         "name": "Descrizione",
                         "typeId": "2d7d-b1d9-dead-605a"
                       }
@@ -5449,7 +5449,7 @@
                         "typeId": "02e4-3f90-3125-f8b4"
                       },
                       {
-                        "$text": "1 Punto Reazione.",
+                        "$text": "1 Punto Reazione",
                         "name": "Costo",
                         "typeId": "954a-972f-5c94-2ede"
                       },
@@ -5515,7 +5515,7 @@
     "name": "                       XIX - Guardia del Corvo",
     "gameSystemId": "sys-b976-0013-2f97-437b",
     "gameSystemRevision": 1,
-    "revision": 11,
+    "revision": 12,
     "authorUrl": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita",
     "authorContact": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita/issues",
     "authorName": "The4D6",

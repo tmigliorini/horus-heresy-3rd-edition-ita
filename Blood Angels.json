@@ -587,7 +587,7 @@
                 "hidden": false
               },
               {
-                "description": "Mentre un Modello con questa Regola Speciale è Ingaggiato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Discesa Angelica: questo Gambetto può essere selezionato solo prima del primo Tiro Concentrazione di una Sfida e solo se Sanguinius ha effettuato una Carica con successo nella stessa Fase di Assalto.\nDurante il successivo Passaggio di Concentrazione, il Giocatore Controllante di Sanguinius ottiene un modificatore positivo al Tiro Concentrazione pari a qualsiasi variante di Imponente (X) posseduta dal Modello nemico con cui è Ingaggiato in una Sfida.",
+                "description": "Mentre un Modello con questa Regola Speciale è Ingaggiato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto:\nDiscesa Angelica: questo Gambetto può essere selezionato solo prima del primo Tiro Concentrazione di una Sfida e solo se Sanguinius ha effettuato una Carica con successo nella stessa Fase di Assalto.\nDurante il successivo Passaggio di Concentrazione, il Giocatore Controllante di Sanguinius ottiene un modificatore positivo al Tiro Concentrazione pari a qualsiasi variante di Imponente (X) posseduta dal Modello nemico con cui è Ingaggiato in una Sfida.",
                 "name": "Discesa Angelica",
                 "id": "3177-fe61-6b99-37cd",
                 "hidden": false
@@ -1131,7 +1131,7 @@
             ],
             "rules": [
               {
-                "description": "Mentre un Modello con questa Regola Speciale è Impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Dominatore della Saggezza: Il Giocatore Controllante di questo Modello ottiene un modificatore positivo al suo Tiro Concentrazione pari al numero di Tiri per Colpire riusciti effettuati dal suo avversario nella precedente Fase di Attacco della Sfida corrente.",
+                "description": "Mentre un Modello con questa Regola Speciale è Impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto:\nDominatore della Saggezza: Il Giocatore Controllante di questo Modello ottiene un modificatore positivo al suo Tiro Concentrazione pari al numero di Tiri per Colpire riusciti effettuati dal suo avversario nella precedente Fase di Attacco della Sfida corrente.",
                 "name": "Dominatore della Saggezza",
                 "id": "66dc-7a58-a98a-bff3",
                 "hidden": false
@@ -9280,7 +9280,7 @@
       {
         "characteristics": [
           {
-            "$text": "Mentre un Modello con questa Regola Speciale è Ingaggiato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Discesa Angelica: questo Gambetto può essere selezionato solo prima del primo Tiro Concentrazione di una Sfida e solo se Sanguinius ha effettuato una Carica con successo nella stessa Fase di Assalto.\nDurante il successivo Passaggio di Concentrazione, il Giocatore Controllante di Sanguinius ottiene un modificatore positivo al Tiro Concentrazione pari a qualsiasi variante di Imponente (X) posseduta dal Modello nemico con cui è Ingaggiato in una Sfida.",
+            "$text": "Mentre un Modello con questa Regola Speciale è Ingaggiato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto:\nDiscesa Angelica: questo Gambetto può essere selezionato solo prima del primo Tiro Concentrazione di una Sfida e solo se Sanguinius ha effettuato una Carica con successo nella stessa Fase di Assalto.\nDurante il successivo Passaggio di Concentrazione, il Giocatore Controllante di Sanguinius ottiene un modificatore positivo al Tiro Concentrazione pari a qualsiasi variante di Imponente (X) posseduta dal Modello nemico con cui è Ingaggiato in una Sfida.",
             "name": "Descrizione",
             "typeId": "2d7d-b1d9-dead-605a"
           }
@@ -9294,7 +9294,7 @@
       {
         "characteristics": [
           {
-            "$text": "Mentre un Modello con questa Regola Speciale è Impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Dominatore della Saggezza: Il Giocatore Controllante di questo Modello ottiene un modificatore positivo al suo Tiro Concentrazione pari al numero di Tiri per Colpire riusciti effettuati dal suo avversario nella precedente Fase di Attacco della Sfida corrente.",
+            "$text": "Mentre un Modello con questa Regola Speciale è Impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto:\nDominatore della Saggezza: Il Giocatore Controllante di questo Modello ottiene un modificatore positivo al suo Tiro Concentrazione pari al numero di Tiri per Colpire riusciti effettuati dal suo avversario nella precedente Fase di Attacco della Sfida corrente.",
             "name": "Descrizione",
             "typeId": "2d7d-b1d9-dead-605a"
           }
@@ -9650,7 +9650,7 @@
                   {
                     "characteristics": [
                       {
-                        "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Schiavo della Sete Rossa: questo Modello può ignorare qualsiasi Modificatore negativo applicato al Tiro Concentrazione per le Ferite perse, e ogni ferita inflitta all’avversario ha la sua Caratteristica Danno modificata di +1.\nMentre questo Gambetto viene selezionato, il Modello per cui è stato selezionato non ottiene alcun bonus al Tiro Concentrazione per Supporto Esterno.",
+                        "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto:\nSchiavo della Sete Rossa: questo Modello può ignorare qualsiasi Modificatore negativo applicato al Tiro Concentrazione per le Ferite perse, e ogni ferita inflitta all’avversario ha la sua Caratteristica Danno modificata di +1.\nMentre questo Gambetto viene selezionato, il Modello per cui è stato selezionato non ottiene alcun bonus al Tiro Concentrazione per Supporto Esterno.",
                         "name": "Descrizione",
                         "typeId": "2d7d-b1d9-dead-605a"
                       }
@@ -9697,7 +9697,7 @@
                         "typeId": "02e4-3f90-3125-f8b4"
                       },
                       {
-                        "$text": "1 Punto Reazione.",
+                        "$text": "1 Punto Reazione",
                         "name": "Costo",
                         "typeId": "954a-972f-5c94-2ede"
                       },
@@ -9763,7 +9763,7 @@
     "name": "                        IX - Angeli Sanguinari",
     "gameSystemId": "sys-b976-0013-2f97-437b",
     "gameSystemRevision": 1,
-    "revision": 15,
+    "revision": 16,
     "authorUrl": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita",
     "authorContact": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita/issues",
     "authorName": "LeonisAstra",

@@ -12798,7 +12798,7 @@
                   {
                     "characteristics": [
                       {
-                        "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Supplica agli Dei: questo Gambetto può essere selezionato solo durante il primo Passaggio di Faccia a Faccia di una Sfida che coinvolga questo Modello.\nIl Giocatore Controllante effettua immediatamente una Prova di Volontà per questo Modello.\nSe la Prova viene superata, fino alla fine di questa Sottofase di Sfida, questo Modello aggiunge +1 alle sue Caratteristiche di Forza e Attacchi.\nSe la Prova fallisce, questo Modello subisce una singola Ferita con una Caratteristica VP di ‘2’ e un Danno di ‘1’, senza Tiri Salvezza o Tiri Mitigazione consentiti.",
+                        "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto:\nSupplica agli Dei: questo Gambetto può essere selezionato solo durante il primo Passaggio di Faccia a Faccia di una Sfida che coinvolga questo Modello.\nIl Giocatore Controllante effettua immediatamente una Prova di Volontà per questo Modello.\nSe la Prova viene superata, fino alla fine di questa Sottofase di Sfida, questo Modello aggiunge +1 alle sue Caratteristiche di Forza e Attacchi.\nSe la Prova fallisce, questo Modello subisce una singola Ferita con una Caratteristica VP di ‘2’ e un Danno di ‘1’, senza Tiri Salvezza o Tiri Mitigazione consentiti.",
                         "name": "Descrizione",
                         "typeId": "2d7d-b1d9-dead-605a"
                       }
@@ -12845,7 +12845,7 @@
                         "typeId": "02e4-3f90-3125-f8b4"
                       },
                       {
-                        "$text": "1 Punto Reazione.",
+                        "$text": "1 Punto Reazione",
                         "name": "Costo",
                         "typeId": "954a-972f-5c94-2ede"
                       },
@@ -12911,7 +12911,7 @@
     "name": "                        XVII - Predicatori",
     "gameSystemId": "sys-b976-0013-2f97-437b",
     "gameSystemRevision": 1,
-    "revision": 20,
+    "revision": 21,
     "authorUrl": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita",
     "authorContact": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita/issues",
     "authorName": "Arkangelmark5",

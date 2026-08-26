@@ -705,7 +705,7 @@
           {
             "characteristics": [
               {
-                "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Resilienza Tenace: la Caratteristica Resistenza del Modello per cui è stato selezionato questo Gambetto viene sostituita dall’Abilità di Combattimento di Base del Modello avversario per la durata del successivo Passaggio di Attacco.",
+                "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto:\nResilienza Tenace: la Caratteristica Resistenza del Modello per cui è stato selezionato questo Gambetto viene sostituita dall’Abilità di Combattimento di Base del Modello avversario per la durata del successivo Passaggio di Attacco.",
                 "name": "Descrizione",
                 "typeId": "2d7d-b1d9-dead-605a"
               }
@@ -1097,7 +1097,7 @@
           {
             "rules": [
               {
-                "description": "Quando fa parte di un’Armata che non include Mortarion, un Modello con questa Regola Speciale ha la Disciplina Biomanzia. Inoltre, una volta per Battaglia, mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Sangue Stregato: All’inizio del Passaggio di Concentrazione, il Giocatore Controllante può effettuare una Prova di Volontà per questo Modello.\nSe la Prova ha successo, questo Modello ottiene un modificatore di +2 alle Caratteristiche di Attacchi e Forza nel Passaggio di Attacco successivo.\nSe la Prova fallisce, questo Modello subisce 1 ferita, con VP di 2 e Danno di 1, senza Tiri Copertura concessi.",
+                "description": "Quando fa parte di un’Armata che non include Mortarion, un Modello con questa Regola Speciale ha la Disciplina Biomanzia. Inoltre, una volta per Battaglia, mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto:\nSangue Stregato: All’inizio del Passaggio di Concentrazione, il Giocatore Controllante può effettuare una Prova di Volontà per questo Modello.\nSe la Prova ha successo, questo Modello ottiene un modificatore di +2 alle Caratteristiche di Attacchi e Forza nel Passaggio di Attacco successivo.\nSe la Prova fallisce, questo Modello subisce 1 ferita, con VP di 2 e Danno di 1, senza Tiri Copertura concessi.",
                 "name": "Sangue Stregato",
                 "id": "de64-2a8e-6905-1848",
                 "hidden": false,
@@ -1129,7 +1129,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Quando fa parte di un’Armata che non include Mortarion, un Modello con questa Regola Speciale ha la Disciplina Biomanzia.\nInoltre, una volta per Battaglia, mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Sangue Stregato: All’inizio del Passaggio di Concentrazione, il Giocatore Controllante può effettuare una Prova di Volontà per questo Modello.\nSe la Prova ha successo, questo Modello ottiene un modificatore di +2 alle Caratteristiche di Attacchi e Forza nel Passaggio di Attacco successivo.\nSe la Prova fallisce, questo Modello subisce 1 ferita, con VP di 2 e Danno di 1, senza Tiri Copertura concessi.",
+                    "$text": "Quando fa parte di un’Armata che non include Mortarion, un Modello con questa Regola Speciale ha la Disciplina Biomanzia.\nInoltre, una volta per Battaglia, mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto:\nSangue Stregato: All’inizio del Passaggio di Concentrazione, il Giocatore Controllante può effettuare una Prova di Volontà per questo Modello.\nSe la Prova ha successo, questo Modello ottiene un modificatore di +2 alle Caratteristiche di Attacchi e Forza nel Passaggio di Attacco successivo.\nSe la Prova fallisce, questo Modello subisce 1 ferita, con VP di 2 e Danno di 1, senza Tiri Copertura concessi.",
                     "name": "Descrizione",
                     "typeId": "2d7d-b1d9-dead-605a"
                   }
@@ -4838,7 +4838,7 @@
           {
             "name": "Costo",
             "typeId": "954a-972f-5c94-2ede",
-            "$text": "1 Punto Reazione."
+            "$text": "1 Punto Reazione"
           },
           {
             "name": "Bersaglio",
@@ -5158,7 +5158,7 @@
                         "typeId": "02e4-3f90-3125-f8b4"
                       },
                       {
-                        "$text": "1 Punto Reazione.",
+                        "$text": "1 Punto Reazione",
                         "name": "Costo",
                         "typeId": "954a-972f-5c94-2ede"
                       },
@@ -5224,7 +5224,7 @@
     "name": "                        XIV - Guardia della Morte",
     "gameSystemId": "sys-b976-0013-2f97-437b",
     "gameSystemRevision": 1,
-    "revision": 12,
+    "revision": 13,
     "authorUrl": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita",
     "authorContact": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita/issues",
     "authorName": "The4D6",

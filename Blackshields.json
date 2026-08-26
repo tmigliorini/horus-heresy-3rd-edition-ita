@@ -523,7 +523,7 @@
             "hidden": false
           },
           {
-            "description": "Mentre un Modello con questa Regola Speciale è Ingaggiato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Il Segugio Spaccato: se questo Gambetto è selezionato, il Giocatore Controllante può effettuare un solo attacco nel Passaggio di Attacco per il Modello per cui è stato selezionato il Gambetto, a prescindere dal valore della Caratteristica Attacchi di quel Modello, guadagnando per tale attacco un +4 alla Caratteristica Forza e +2 alla Caratteristica Danni dell’Arma selezionata.",
+            "description": "Mentre un Modello con questa Regola Speciale è Ingaggiato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto:\nIl Segugio Spaccato: se questo Gambetto è selezionato, il Giocatore Controllante può effettuare un solo attacco nel Passaggio di Attacco per il Modello per cui è stato selezionato il Gambetto, a prescindere dal valore della Caratteristica Attacchi di quel Modello, guadagnando per tale attacco un +4 alla Caratteristica Forza e +2 alla Caratteristica Danni dell’Arma selezionata.",
             "name": " Il Segugio Spaccato",
             "id": "6864-01df-8848-bc77",
             "hidden": false
@@ -533,7 +533,7 @@
           {
             "characteristics": [
               {
-                "$text": "Mentre un Modello con questa Regola Speciale è Ingaggiato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Il Segugio Spaccato: se questo Gambetto è selezionato, il Giocatore Controllante può effettuare un solo attacco nel Passaggio di Attacco per il Modello per cui è stato selezionato il Gambetto, a prescindere dal valore della Caratteristica Attacchi di quel Modello, guadagnando per tale attacco un +4 alla Caratteristica Forza e +2 alla Caratteristica Danni dell’Arma selezionata.",
+                "$text": "Mentre un Modello con questa Regola Speciale è Ingaggiato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto:\nIl Segugio Spaccato: se questo Gambetto è selezionato, il Giocatore Controllante può effettuare un solo attacco nel Passaggio di Attacco per il Modello per cui è stato selezionato il Gambetto, a prescindere dal valore della Caratteristica Attacchi di quel Modello, guadagnando per tale attacco un +4 alla Caratteristica Forza e +2 alla Caratteristica Danni dell’Arma selezionata.",
                 "name": "Descrizione",
                 "typeId": "2d7d-b1d9-dead-605a"
               }
@@ -1992,7 +1992,7 @@
                   {
                     "characteristics": [
                       {
-                        "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il Giocatore Controllante può selezionare il seguente Gambetto: Schiavi di Nessuno: questo Gambetto può essere selezionato solo in una Sfida in cui il Modello avversario abbia il Tratto Unico o il Tipo Esemplare.\nSe il Modello che ha scelto questo Gambetto viene Rimosso come Perdita durante il Passaggio di Attacco, vengono inflitte automaticamente D3 ferite al Modello avversario alla fine del seguente Passaggio della Gloria, risolte con VP e Danno dell’Arma impiegata dal Modello per cui è stato scelto questo Gambetto.",
+                        "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il Giocatore Controllante può selezionare il seguente Gambetto:\nSchiavi di Nessuno: questo Gambetto può essere selezionato solo in una Sfida in cui il Modello avversario abbia il Tratto Unico o il Tipo Esemplare.\nSe il Modello che ha scelto questo Gambetto viene Rimosso come Perdita durante il Passaggio di Attacco, vengono inflitte automaticamente D3 ferite al Modello avversario alla fine del seguente Passaggio della Gloria, risolte con VP e Danno dell’Arma impiegata dal Modello per cui è stato scelto questo Gambetto.",
                         "name": "Descrizione",
                         "typeId": "2d7d-b1d9-dead-605a"
                       }
@@ -2098,7 +2098,7 @@
     "name": "Scudi Neri",
     "gameSystemId": "sys-b976-0013-2f97-437b",
     "gameSystemRevision": 54,
-    "revision": 6,
+    "revision": 7,
     "battleScribeVersion": 2.03,
     "type": "catalogue",
     "categoryEntries": [],

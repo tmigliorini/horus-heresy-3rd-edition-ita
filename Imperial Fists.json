@@ -297,7 +297,7 @@
                 "hidden": false
               },
               {
-                "description": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Campione della Morte: gli Attacchi effettuati da questo Modello nella seguente Fase di Attacco hanno la Regola Speciale Colpo Critico (5+).",
+                "description": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto:\nCampione della Morte: gli Attacchi effettuati da questo Modello nella seguente Fase di Attacco hanno la Regola Speciale Colpo Critico (5+).",
                 "name": "Campione della Morte",
                 "id": "4fd5-8d29-5bfe-984e",
                 "hidden": false
@@ -607,7 +607,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Quando un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Baluardo dell’Imperium: quando questo Gambetto è selezionato, i Tiri per Ferire effettuati contro il Modello per cui è stato selezionato che hanno un risultato non modificato di 1, 2, 3 e 4 non hanno successo, indipendentemente dalla Caratteristica Forza del Colpo o da qualsiasi Regola Speciale che stabilisca il Numero Obiettivo per i Tiri per Ferire.",
+                    "$text": "Quando un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto:\nBaluardo dell’Imperium: quando questo Gambetto è selezionato, i Tiri per Ferire effettuati contro il Modello per cui è stato selezionato che hanno un risultato non modificato di 1, 2, 3 e 4 non hanno successo, indipendentemente dalla Caratteristica Forza del Colpo o da qualsiasi Regola Speciale che stabilisca il Numero Obiettivo per i Tiri per Ferire.",
                     "name": "Descrizione",
                     "typeId": "2d7d-b1d9-dead-605a"
                   }
@@ -3045,7 +3045,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: La Linea Invalicata: se questo Modello non ha il Vantaggio, la sua Caratteristica Attacchi è modificata di +2.",
+                    "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto:\nLa Linea Invalicata: se questo Modello non ha il Vantaggio, la sua Caratteristica Attacchi è modificata di +2.",
                     "name": "Descrizione",
                     "typeId": "2d7d-b1d9-dead-605a"
                   }
@@ -3539,7 +3539,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Colpo di Martello: quando questo Gambetto viene selezionato, questo Modello ottiene il Profilo Arma Colpo di Martello e non può scegliere di effettuare attacchi con nessun’altra Arma nel Passaggio di Attacco.",
+                    "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto:\nColpo di Martello: quando questo Gambetto viene selezionato, questo Modello ottiene il Profilo Arma Colpo di Martello e non può scegliere di effettuare attacchi con nessun’altra Arma nel Passaggio di Attacco.",
                     "name": "Descrizione",
                     "typeId": "2d7d-b1d9-dead-605a"
                   }
@@ -7619,7 +7619,7 @@
                   {
                     "characteristics": [
                       {
-                        "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Un Muro Incrollabile: il Giocatore Controllante non aggiunge l’Iniziativa di Combattimento al risultato del Tiro Concentrazione, ma ottiene la Regola Speciale Guerriero Eterno (1) per la durata del Passaggio di Attacco.",
+                        "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto:\nUn Muro Incrollabile: il Giocatore Controllante non aggiunge l’Iniziativa di Combattimento al risultato del Tiro Concentrazione, ma ottiene la Regola Speciale Guerriero Eterno (1) per la durata del Passaggio di Attacco.",
                         "name": "Descrizione",
                         "typeId": "2d7d-b1d9-dead-605a"
                       }
@@ -7666,7 +7666,7 @@
                         "typeId": "02e4-3f90-3125-f8b4"
                       },
                       {
-                        "$text": "1 Punto Reazione.",
+                        "$text": "1 Punto Reazione",
                         "name": "Costo",
                         "typeId": "954a-972f-5c94-2ede"
                       },
@@ -7732,7 +7732,7 @@
     "name": "                         VII - Magli Imperiali",
     "gameSystemId": "sys-b976-0013-2f97-437b",
     "gameSystemRevision": 1,
-    "revision": 19,
+    "revision": 20,
     "authorUrl": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita",
     "authorContact": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita/issues",
     "authorName": "Arkangelmark5",

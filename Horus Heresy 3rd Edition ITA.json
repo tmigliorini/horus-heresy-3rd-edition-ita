@@ -10682,7 +10682,7 @@
                 "value": 0
               }
             ],
-            "name": "Ausiliario - Maglio Corazzato",
+            "name": "Maglio Corazzato",
             "id": "cc51-fdce-8a34-dbcf",
             "hidden": true,
             "sortIndex": 4,
@@ -12472,7 +12472,7 @@
                 "value": 0
               }
             ],
-            "name": "Ausiliario - Supporto Tattico",
+            "name": "Supporto Tattico",
             "id": "2965-5682-3cbc-8b47",
             "hidden": true,
             "sortIndex": 5,
@@ -13992,7 +13992,7 @@
                 "value": 0
               }
             ],
-            "name": "Ausiliario - Supporto Corazzato",
+            "name": "Supporto Corazzato",
             "id": "4a2f-ac9e-195e-77cf",
             "hidden": true,
             "sortIndex": 6,
@@ -15512,7 +15512,7 @@
                 "value": 0
               }
             ],
-            "name": "Ausiliario - Supporto Pesante",
+            "name": "Supporto Pesante",
             "id": "bd1f-82a0-abd4-cd56",
             "hidden": true,
             "sortIndex": 7,
@@ -17032,7 +17032,7 @@
                 "value": 0
               }
             ],
-            "name": "Ausiliario - Pionieri da Combattimento",
+            "name": "Pionieri da Combattimento",
             "id": "edf5-6891-81d8-6309",
             "hidden": true,
             "sortIndex": 8,
@@ -18552,7 +18552,7 @@
                 "value": 0
               }
             ],
-            "name": "Ausiliario - Assalto d'Urto",
+            "name": "Assalto d'Urto",
             "id": "c9a5-3069-920b-32f1",
             "hidden": true,
             "sortIndex": 9,
@@ -20072,7 +20072,7 @@
                 "value": 0
               }
             ],
-            "name": "Ausiliario - Primo Attacco",
+            "name": "Primo Attacco",
             "id": "c444-8242-d3fc-b5b0",
             "hidden": true,
             "sortIndex": 10,
@@ -22188,7 +22188,7 @@
                 "value": 1
               }
             ],
-            "name": "Apice - Seguito da Combattimento",
+            "name": "Seguito da Combattimento",
             "id": "7203-426e-7a82-0b01",
             "hidden": true,
             "sortIndex": 11,
@@ -25591,7 +25591,7 @@
                 "value": 1
               }
             ],
-            "name": "Apice - Nucleo di Ufficiali",
+            "name": "Nucleo di Ufficiali",
             "id": "90b7-c0fa-a9e1-6765",
             "hidden": true,
             "sortIndex": 12,
@@ -27707,7 +27707,7 @@
                 "value": 1
               }
             ],
-            "name": "Apice - Avanguardia dell'Esercito",
+            "name": "Avanguardia dell'Esercito",
             "id": "0690-c05e-c301-f595",
             "hidden": true,
             "sortIndex": 13,
@@ -27909,7 +27909,7 @@
                 "value": 0
               }
             ],
-            "name": "Ausiliario - Ala di Superiorità",
+            "name": "Ala di Superiorità",
             "id": "b86b-981d-9aab-5675",
             "hidden": true,
             "sortIndex": 70,
@@ -28748,7 +28748,7 @@
                 "value": 1
               }
             ],
-            "name": "Apice - Martello di Olimpia",
+            "name": "Martello di Olimpia",
             "id": "1d3d-a6b8-94d8-443b",
             "hidden": true,
             "sortIndex": 72,
@@ -29551,7 +29551,7 @@
                 "value": 0
               }
             ],
-            "name": "Ausiliario - Coorte Tempesta di Ferro",
+            "name": "Coorte Tempesta di Ferro",
             "id": "5bc5-5224-c751-d437",
             "hidden": true,
             "sortIndex": 71,
@@ -30340,7 +30340,7 @@
                 "value": 0
               }
             ],
-            "name": "Ausiliario - Schiera Mietitrice",
+            "name": "Schiera Mietitrice",
             "id": "3b60-24c1-dccc-23db",
             "hidden": true,
             "sortIndex": 77,
@@ -31342,7 +31342,7 @@
                 "value": 0
               }
             ],
-            "name": "Ausiliario - Semicompagnia Primus",
+            "name": "Semicompagnia Primus",
             "id": "1da1-f220-0bad-5f78",
             "hidden": true,
             "sortIndex": 62,
@@ -32193,7 +32193,7 @@
                 "value": 0
               }
             ],
-            "name": "Ausiliario - Banda di Guerra Chogoriana",
+            "name": "Banda di Guerra Chogoriana",
             "id": "0f6e-3db8-8b6f-74e1",
             "hidden": true,
             "publicationId": "b905-0414-1057-bb34",
@@ -33078,7 +33078,7 @@
                 "value": 1
               }
             ],
-            "name": "Apice - Avanguardia Medusana",
+            "name": "Avanguardia Medusana",
             "id": "7ff8-9e2c-e68a-573f",
             "hidden": true,
             "sortIndex": 61,
@@ -33882,7 +33882,7 @@
                 "value": 0
               }
             ],
-            "name": "Ausiliario - Assalto Terroristico",
+            "name": "Assalto Terroristico",
             "id": "8fe1-7b62-49cf-479b",
             "hidden": true,
             "sortIndex": 73,
@@ -34031,7 +34031,7 @@
                 "value": 1
               }
             ],
-            "name": "Apice - Caccia dell’Atramentar",
+            "name": "Caccia dell’Atramentar",
             "id": "dbbe-886f-3ce1-13c0",
             "hidden": true,
             "sortIndex": 74,
@@ -34835,7 +34835,7 @@
                 "value": 0
               }
             ],
-            "name": "Ausiliario - Corpo dei Berserker",
+            "name": "Corpo dei Berserker",
             "id": "bda6-c5d3-eafc-4eb5",
             "hidden": true,
             "sortIndex": 75,
@@ -35637,7 +35637,7 @@
                 "value": 0
               }
             ],
-            "name": "Ausiliario - Artiglio Insanguinato",
+            "name": "Artiglio Insanguinato",
             "id": "06b3-c35d-da74-de37",
             "hidden": true,
             "publicationId": "b905-0414-1057-bb34",
@@ -36440,7 +36440,7 @@
                 "value": 0
               }
             ],
-            "name": "Ausiliario - Schiera della Rivelazione",
+            "name": "Schiera della Rivelazione",
             "id": "edb0-a5d8-84f1-4eee",
             "hidden": true,
             "sortIndex": 59,
@@ -37261,7 +37261,7 @@
                 "value": 0
               }
             ],
-            "name": "Ausiliario - Figli di Bodt",
+            "name": "Figli di Bodt",
             "id": "9bfb-c160-31df-9108",
             "hidden": true,
             "sortIndex": 76,
@@ -37445,7 +37445,7 @@
                 "value": 0
               }
             ],
-            "name": "Ausiliario - Falange Punta di Lancia",
+            "name": "Falange Punta di Lancia",
             "id": "4737-e73a-394e-433f",
             "hidden": true,
             "sortIndex": 60,
@@ -38235,7 +38235,7 @@
                 "value": 0
               }
             ],
-            "name": "Ausiliario - Corpo di Supremazia",
+            "name": "Corpo di Supremazia",
             "id": "2436-a714-22cc-fd31",
             "hidden": true,
             "sortIndex": 79,
@@ -39041,7 +39041,7 @@
                 "value": 0
               }
             ],
-            "name": "Ausiliario - Raduno dell’Ala della Tempesta",
+            "name": "Raduno dell’Ala della Tempesta",
             "id": "bdf9-3781-2927-bc55",
             "hidden": true,
             "sortIndex": 52,
@@ -39832,7 +39832,7 @@
                 "value": 0
               }
             ],
-            "name": "Ausiliario - Conclave dell’Ala della Morte",
+            "name": "Conclave dell’Ala della Morte",
             "id": "9b6c-2a18-7b8a-1aab",
             "hidden": true,
             "sortIndex": 53,
@@ -40636,7 +40636,7 @@
                 "value": 0
               }
             ],
-            "name": "Ausiliario - Lancia dell’Ala del Corvo",
+            "name": "Lancia dell’Ala del Corvo",
             "id": "466d-8e42-0890-721a",
             "hidden": true,
             "sortIndex": 54,
@@ -41441,7 +41441,7 @@
                 "value": 0
               }
             ],
-            "name": "Ausiliario - Scaglione dell’Ala del Fuoco",
+            "name": "Scaglione dell’Ala del Fuoco",
             "id": "3e2f-4f99-d366-7a95",
             "hidden": true,
             "sortIndex": 55,
@@ -41595,7 +41595,7 @@
                 "value": 0
               }
             ],
-            "name": "Ausiliario - Guanto dell’Ala di Ferro",
+            "name": "Guanto dell’Ala di Ferro",
             "id": "cb64-b547-1144-fd70",
             "hidden": true,
             "sortIndex": 50,
@@ -42415,7 +42415,7 @@
                 "value": 0
               }
             ],
-            "name": "Ausiliario - Corpo dell’Ala del Terrore",
+            "name": "Corpo dell’Ala del Terrore",
             "id": "4df8-3a15-6b77-1b80",
             "hidden": true,
             "sortIndex": 51,
@@ -43204,7 +43204,7 @@
                 "value": 0
               }
             ],
-            "name": "Ausiliario - Stretta d’Assedio",
+            "name": "Stretta d’Assedio",
             "id": "1581-346d-51c6-4739",
             "hidden": true,
             "publicationId": "b905-0414-1057-bb34",
@@ -43355,7 +43355,7 @@
                 "value": 0
               }
             ],
-            "name": "Ausiliario - Corpo di Decapitazione",
+            "name": "Corpo di Decapitazione",
             "id": "27bf-3e6b-587c-74bb",
             "hidden": true,
             "publicationId": "b905-0414-1057-bb34",
@@ -44130,7 +44130,7 @@
                 "value": 0
               }
             ],
-            "name": "Ausiliario - Convocazione Prosperina",
+            "name": "Convocazione Prosperina",
             "id": "450b-0ca8-0beb-ff89",
             "hidden": true,
             "sortIndex": 78,
@@ -44899,7 +44899,7 @@
                 "value": 1
               }
             ],
-            "name": "Apice - Conclave Esaltato",
+            "name": "Conclave Esaltato",
             "id": "c961-7007-0142-5d07",
             "hidden": true,
             "sortIndex": 80,
@@ -45703,7 +45703,7 @@
                 "value": 0
               }
             ],
-            "name": "Ausiliario - Leviatano Cacciatore di Teste",
+            "name": "Leviatano Cacciatore di Teste",
             "id": "74f4-a9d0-a2be-b4bd",
             "hidden": true,
             "sortIndex": 81,
@@ -46426,7 +46426,7 @@
                 ]
               }
             ],
-            "name": "Ausiliario - Manifestazione Demoniaca",
+            "name": "Manifestazione Demoniaca",
             "id": "0078-217d-19d4-a354",
             "hidden": true,
             "sortIndex": 40,
@@ -47348,7 +47348,7 @@
                 "id": "6f31-a14e-e22b-ad94"
               }
             ],
-            "name": "Ausiliario - Corpo dei Veterani",
+            "name": "Corpo dei Veterani",
             "id": "1834-a10c-a732-d989",
             "hidden": true,
             "sortIndex": 41,
@@ -48693,7 +48693,7 @@
                 "value": 0
               }
             ],
-            "name": "Ausiliario - Delegazione dell’Apothecarion",
+            "name": "Delegazione dell’Apothecarion",
             "id": "41f6-7dfc-4eb9-f6ef",
             "hidden": true,
             "sortIndex": 42,
@@ -50038,7 +50038,7 @@
                 "value": 0
               }
             ],
-            "name": "Ausiliario - Patto dei Techmarine",
+            "name": "Patto dei Techmarine",
             "id": "7993-0219-c614-f612",
             "hidden": true,
             "sortIndex": 43,
@@ -50897,7 +50897,7 @@
                 "includeChildForces": false
               }
             ],
-            "name": "Ausiliario - Batteria Tempesta",
+            "name": "Batteria Tempesta",
             "id": "d089-8cc7-96a7-903f",
             "hidden": true,
             "sortIndex": 44,
@@ -52273,7 +52273,7 @@
                 "includeChildForces": true
               }
             ],
-            "name": "Ausiliario - Semicompagnia da Ricognizione",
+            "name": "Semicompagnia da Ricognizione",
             "id": "38f7-2240-f8ee-6cce",
             "hidden": true,
             "sortIndex": 43,
@@ -53653,7 +53653,7 @@
                 "field": "hidden"
               }
             ],
-            "name": "Ausiliario - Punta di Lancia Discesa Planetaria",
+            "name": "Punta di Lancia Discesa Planetaria",
             "id": "2e50-319d-ae62-a50c",
             "hidden": true,
             "sortIndex": 82,
@@ -54286,7 +54286,7 @@
                 "id": "4256-c6d3-a3ce-63c8"
               }
             ],
-            "name": "Ausiliario - Artiglio Dreadnought",
+            "name": "Artiglio Dreadnought",
             "id": "9ffc-1414-bcb2-ca4b",
             "hidden": true,
             "sortIndex": 23,
@@ -55749,7 +55749,7 @@
                 "value": 1
               }
             ],
-            "name": "Apice - Scaglione Sfondalinee (Saturnine)",
+            "name": "Scaglione Sfondalinee (Saturnine)",
             "id": "aafc-1a40-350a-5434",
             "hidden": true,
             "sortIndex": 92,
@@ -57262,7 +57262,7 @@
                 "value": 1
               }
             ],
-            "name": "Apice - Scaglione Sfondalinee (Catafratti)",
+            "name": "Scaglione Sfondalinee (Catafratti)",
             "id": "d7b3-5d00-8524-73fa",
             "hidden": true,
             "sortIndex": 93,
@@ -58725,7 +58725,7 @@
                 "value": 1
               }
             ],
-            "name": "Apice - Scaglione Sfondalinee (Tartaros)",
+            "name": "Scaglione Sfondalinee (Tartaros)",
             "id": "dd35-dc84-98ac-237d",
             "hidden": true,
             "sortIndex": 94,
@@ -60085,7 +60085,7 @@
                 "value": 0
               }
             ],
-            "name": "Ausiliario - Batteria di Sentinelle Burrasca",
+            "name": "Batteria di Sentinelle Burrasca",
             "id": "07f0-6f5f-59f4-f95f",
             "hidden": true,
             "sortIndex": 95,
@@ -60798,7 +60798,7 @@
                 "targetId": "a46f-a465-0ead-d6b8"
               }
             ],
-            "name": "Apice - Pugno Corazzato Leviathan",
+            "name": "Pugno Corazzato Leviathan",
             "id": "d70e-7c57-6788-4adc",
             "hidden": true,
             "sortIndex": 102,
@@ -62255,7 +62255,7 @@
                 "targetId": "4f71-897f-8ae1-303b"
               }
             ],
-            "name": "Apice - Bastione di Fuoco Leviathan",
+            "name": "Bastione di Fuoco Leviathan",
             "id": "f55b-750d-fc70-6618",
             "hidden": true,
             "sortIndex": 103,
@@ -63008,7 +63008,7 @@
                 "field": "warning"
               }
             ],
-            "name": "Apice - Squadrone di Comando Corazzato",
+            "name": "Squadrone di Comando Corazzato",
             "id": "3be1-161a-ee6d-24e0",
             "hidden": true,
             "sortIndex": 105,
@@ -64572,7 +64572,7 @@
                 "value": 0
               }
             ],
-            "name": "Ausiliario - Supporto Corazzato del Comandante di Carro",
+            "name": "Supporto Corazzato del Comandante di Carro",
             "id": "3624-6932-6197-19af",
             "hidden": true,
             "sortIndex": 106,
@@ -65705,7 +65705,7 @@
         "name": "Tabella di Organizzazione dell'Esercito della Crociata",
         "id": "8562-592c-8d4b-a1f0",
         "hidden": false,
-        "childForcesLabel": "Detachments",
+        "childForcesLabel": "Distaccamenti",
         "sortIndex": 2
       },
       {
@@ -69521,7 +69521,7 @@
         "name": "Distaccamento Alleato e suo Ausiliario",
         "id": "256b-b8a8-017a-75e9",
         "hidden": false,
-        "childForcesLabel": "Detachments",
+        "childForcesLabel": "Distaccamenti",
         "sortIndex": 3
       },
       {
@@ -70389,7 +70389,7 @@
         "id": "b7a1-629f-9d60-c2a9",
         "hidden": false,
         "sortIndex": 4,
-        "childForcesLabel": "Detachments",
+        "childForcesLabel": "Distaccamenti",
         "profiles": [
           {
             "name": "Distaccamento Sovrano della Guerra",
@@ -87885,7 +87885,7 @@
         "name": "Zone Mortalis",
         "id": "0100-417d-f496-971d",
         "hidden": false,
-        "childForcesLabel": "Detachments"
+        "childForcesLabel": "Distaccamenti"
       }
     ],
     "selectionEntries": [
@@ -88075,7 +88075,7 @@
           }
         ],
         "comment": "Hidden from new list screen, but displays count",
-        "name": "Distaccamento/i Ausiliare/i",
+        "name": "Distaccamento Ausiliare",
         "id": "3e8e-05ee-be52-12d6",
         "defaultCostLimit": -1,
         "hidden": true
@@ -88090,7 +88090,7 @@
           }
         ],
         "comment": "Hidden from new list screen, but displays count",
-        "name": "Distaccamento/i Apice",
+        "name": "Distaccamento Apice",
         "id": "159d-855c-533d-f592",
         "defaultCostLimit": -1,
         "hidden": true
@@ -88116,7 +88116,7 @@
             "field": "hidden"
           }
         ],
-        "name": "Distaccamento/i di Carri",
+        "name": "Distaccamento di Carri",
         "id": "2cdf-186c-a655-d907",
         "defaultCostLimit": -1,
         "hidden": true
@@ -90665,7 +90665,7 @@
             "typeId": "02e4-3f90-3125-f8b4"
           },
           {
-            "$text": "1 Punto Reazione.",
+            "$text": "1 Punto Reazione",
             "name": "Costo",
             "typeId": "954a-972f-5c94-2ede"
           },
@@ -90694,7 +90694,7 @@
             "typeId": "02e4-3f90-3125-f8b4"
           },
           {
-            "$text": "1 Punto Reazione.",
+            "$text": "1 Punto Reazione",
             "name": "Costo",
             "typeId": "954a-972f-5c94-2ede"
           },
@@ -90723,7 +90723,7 @@
             "typeId": "02e4-3f90-3125-f8b4"
           },
           {
-            "$text": "1 Punto Reazione.",
+            "$text": "1 Punto Reazione",
             "name": "Costo",
             "typeId": "954a-972f-5c94-2ede"
           },
@@ -91358,7 +91358,7 @@
                 "typeId": "02e4-3f90-3125-f8b4"
               },
               {
-                "$text": "1 Punto Reazione.",
+                "$text": "1 Punto Reazione",
                 "name": "Costo",
                 "typeId": "954a-972f-5c94-2ede"
               },
@@ -91387,7 +91387,7 @@
                 "typeId": "02e4-3f90-3125-f8b4"
               },
               {
-                "$text": "1 Punto Reazione.",
+                "$text": "1 Punto Reazione",
                 "name": "Costo",
                 "typeId": "954a-972f-5c94-2ede"
               },
@@ -91629,7 +91629,7 @@
     "id": "sys-b976-0013-2f97-437b",
     "name": "Horus Heresy 3ª Edizione ITA",
     "battleScribeVersion": 2.03,
-    "revision": 58,
+    "revision": 59,
     "type": "gameSystem",
     "authorName": "The4D6",
     "authorContact": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita/issues",

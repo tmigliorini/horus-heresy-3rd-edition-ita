@@ -10024,7 +10024,7 @@
                   {
                     "characteristics": [
                       {
-                        "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Colpo Spietato: questo Gambetto può essere selezionato solo durante la prima Fase di Faccia a Faccia di una Sfida che coinvolga questo Modello.\nMentre questo Gambetto è selezionato, qualsiasi Arma che questo Modello usa durante questa Sfida ottiene la Regola Speciale Corrosivo (Re) per la durata di questo Passaggio di Attacco.",
+                        "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto:\nColpo Spietato: questo Gambetto può essere selezionato solo durante la prima Fase di Faccia a Faccia di una Sfida che coinvolga questo Modello.\nMentre questo Gambetto è selezionato, qualsiasi Arma che questo Modello usa durante questa Sfida ottiene la Regola Speciale Corrosivo (Re) per la durata di questo Passaggio di Attacco.",
                         "name": "Descrizione",
                         "typeId": "2d7d-b1d9-dead-605a"
                       }
@@ -10105,7 +10105,7 @@
                         "typeId": "02e4-3f90-3125-f8b4"
                       },
                       {
-                        "$text": "1 Punto Reazione.",
+                        "$text": "1 Punto Reazione",
                         "name": "Costo",
                         "typeId": "954a-972f-5c94-2ede"
                       },
@@ -10579,7 +10579,7 @@
     "name": "                        XVI - Figli di Horus",
     "gameSystemId": "sys-b976-0013-2f97-437b",
     "gameSystemRevision": 1,
-    "revision": 15,
+    "revision": 16,
     "authorUrl": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita",
     "authorContact": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita/issues",
     "authorName": "The4D6",

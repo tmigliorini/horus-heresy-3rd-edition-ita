@@ -4216,7 +4216,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Combattente Sleale: Questo Gambetto può essere selezionato solo durante il primo Passaggio di Faccia a Faccia di una Sfida che coinvolga questo Modello.\nAll’inizio del Passaggio di Concentrazione, il Giocatore Controllante di questo Modello può risolvere le fasi da 1 a 4 del Passaggio di Attacco una volta, come se questo Modello avesse una Caratteristica Attacchi pari a 1.\nIl Passaggio di Concentrazione viene quindi risolto normalmente.",
+                    "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto:\nCombattente Sleale: Questo Gambetto può essere selezionato solo durante il primo Passaggio di Faccia a Faccia di una Sfida che coinvolga questo Modello.\nAll’inizio del Passaggio di Concentrazione, il Giocatore Controllante di questo Modello può risolvere le fasi da 1 a 4 del Passaggio di Attacco una volta, come se questo Modello avesse una Caratteristica Attacchi pari a 1.\nIl Passaggio di Concentrazione viene quindi risolto normalmente.",
                     "name": "Descrizione",
                     "typeId": "2d7d-b1d9-dead-605a"
                   }
@@ -6908,7 +6908,7 @@
                   {
                     "characteristics": [
                       {
-                        "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Coraggio Nostramano: questo Gambetto può essere selezionato solo una volta per Sfida.\nAll’inizio del Passaggio di Concentrazione, il Giocatore Controllante di questo Modello può immediatamente far tornare il Modello alla propria Unità come se fosse la Sottofase di Risoluzione, ed essere sostituito nella Sfida con qualsiasi altro Modello della sua Unità.",
+                        "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto:\nCoraggio Nostramano: questo Gambetto può essere selezionato solo una volta per Sfida.\nAll’inizio del Passaggio di Concentrazione, il Giocatore Controllante di questo Modello può immediatamente far tornare il Modello alla propria Unità come se fosse la Sottofase di Risoluzione, ed essere sostituito nella Sfida con qualsiasi altro Modello della sua Unità.",
                         "name": "Descrizione",
                         "typeId": "2d7d-b1d9-dead-605a"
                       }
@@ -6955,7 +6955,7 @@
                         "typeId": "02e4-3f90-3125-f8b4"
                       },
                       {
-                        "$text": "1 Punto Reazione.",
+                        "$text": "1 Punto Reazione",
                         "name": "Costo",
                         "typeId": "954a-972f-5c94-2ede"
                       },
@@ -7073,7 +7073,7 @@
     "name": "                         VIII - Signori della Notte",
     "gameSystemId": "sys-b976-0013-2f97-437b",
     "gameSystemRevision": 1,
-    "revision": 22,
+    "revision": 23,
     "authorUrl": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita",
     "authorContact": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita/issues",
     "authorName": "The4D6",

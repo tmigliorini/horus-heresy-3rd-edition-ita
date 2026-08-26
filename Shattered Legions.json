@@ -954,7 +954,7 @@
                   {
                     "characteristics": [
                       {
-                        "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il Giocatore Controllante può selezionare il seguente Gambetto: Attacco Sprezzante: questo Gambetto può essere selezionato solo se questo Modello ha la Caratteristica di Ferite ridotta al di sotto del suo valore iniziale.\nMentre questo Gambetto è selezionato, durante il Passaggio di Concentrazione, invece di effettuare il Tiro Concentrazione, il Giocatore Controllante effettua un singolo Attacco da Mischia, beneficiando di +1 al Tiro per Colpire ed al Tiro per Ferire.\nSe il Modello nemico non è Rimosso come Perdita, questo Modello viene Rimosso come Perdita al suo posto.",
+                        "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il Giocatore Controllante può selezionare il seguente Gambetto:\nAttacco Sprezzante: questo Gambetto può essere selezionato solo se questo Modello ha la Caratteristica di Ferite ridotta al di sotto del suo valore iniziale.\nMentre questo Gambetto è selezionato, durante il Passaggio di Concentrazione, invece di effettuare il Tiro Concentrazione, il Giocatore Controllante effettua un singolo Attacco da Mischia, beneficiando di +1 al Tiro per Colpire ed al Tiro per Ferire.\nSe il Modello nemico non è Rimosso come Perdita, questo Modello viene Rimosso come Perdita al suo posto.",
                         "name": "Descrizione",
                         "typeId": "2d7d-b1d9-dead-605a"
                       }
@@ -4772,7 +4772,7 @@
     "name": "Legioni Spezzate",
     "gameSystemId": "sys-b976-0013-2f97-437b",
     "gameSystemRevision": 54,
-    "revision": 4,
+    "revision": 5,
     "authorName": "m455954",
     "battleScribeVersion": 2.03,
     "type": "catalogue",

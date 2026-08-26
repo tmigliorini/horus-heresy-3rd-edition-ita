@@ -364,7 +364,7 @@
         ],
         "rules": [
           {
-            "description": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Spadaccino Calcolatore: il Giocatore Controllante di questo Modello ottiene un modificatore positivo al Tiro Concentrazione corrispondente al numero del Turno di Battaglia corrente, fino a un massimo di +4.",
+            "description": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto:\nSpadaccino Calcolatore: il Giocatore Controllante di questo Modello ottiene un modificatore positivo al Tiro Concentrazione corrispondente al numero del Turno di Battaglia corrente, fino a un massimo di +4.",
             "name": "Spadaccino Calcolatore",
             "id": "6632-7df5-ab7f-5077",
             "hidden": false
@@ -7581,7 +7581,7 @@
                   {
                     "characteristics": [
                       {
-                        "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Egida della Saggezza: il Giocatore Controllante non ottiene alcun bonus per il Supporto Esterno al suo Tiro Concentrazione, ma aggiunge invece un modificatore di +1 al suo Tiro Concentrazione per ogni Modello amico con sia il Sottotipo Comando che il Tratto Ultramarine sul Campo di Battaglia, escluso il Modello per cui è stato selezionato questo Gambetto.",
+                        "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto:\nEgida della Saggezza: il Giocatore Controllante non ottiene alcun bonus per il Supporto Esterno al suo Tiro Concentrazione, ma aggiunge invece un modificatore di +1 al suo Tiro Concentrazione per ogni Modello amico con sia il Sottotipo Comando che il Tratto Ultramarine sul Campo di Battaglia, escluso il Modello per cui è stato selezionato questo Gambetto.",
                         "name": "Descrizione",
                         "typeId": "2d7d-b1d9-dead-605a"
                       }
@@ -7628,7 +7628,7 @@
                         "typeId": "02e4-3f90-3125-f8b4"
                       },
                       {
-                        "$text": "1 Punto Reazione.",
+                        "$text": "1 Punto Reazione",
                         "name": "Costo",
                         "typeId": "954a-972f-5c94-2ede"
                       },
@@ -7694,7 +7694,7 @@
     "name": "                        XIII - Ultramarine",
     "gameSystemId": "sys-b976-0013-2f97-437b",
     "gameSystemRevision": 1,
-    "revision": 18,
+    "revision": 19,
     "authorUrl": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita",
     "authorContact": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita/issues",
     "authorName": "The4D6",

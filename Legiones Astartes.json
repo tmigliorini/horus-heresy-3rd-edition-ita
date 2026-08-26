@@ -106237,7 +106237,7 @@
                 "typeId": "02e4-3f90-3125-f8b4"
               },
               {
-                "$text": "1 Punto Reazione.",
+                "$text": "1 Punto Reazione",
                 "name": "Costo",
                 "typeId": "954a-972f-5c94-2ede"
               },
@@ -219611,7 +219611,7 @@
                     "typeId": "02e4-3f90-3125-f8b4"
                   },
                   {
-                    "$text": "1 Punto Reazione.",
+                    "$text": "1 Punto Reazione",
                     "name": "Costo",
                     "typeId": "954a-972f-5c94-2ede"
                   },
@@ -238765,7 +238765,7 @@
     "name": "Legiones Astartes",
     "gameSystemId": "sys-b976-0013-2f97-437b",
     "gameSystemRevision": 1,
-    "revision": 62,
+    "revision": 63,
     "authorName": "The4D6",
     "battleScribeVersion": 2.03,
     "type": "catalogue",

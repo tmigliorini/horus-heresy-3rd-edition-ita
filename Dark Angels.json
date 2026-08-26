@@ -3970,7 +3970,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, se ha 2 o meno Ferite rimanenti, il suo Giocatore Controllante può selezionare il seguente Gambetto: La Collera del Leone: Il Modello per cui è stato selezionato questo Gambetto aggiunge un Modificatore +2 al Tiro Concentrazione e non subisce un modificatore -1 per ogni punto di differenza tra la Caratteristica Ferite Base di questo Modello e la sua Caratteristica Ferite attuale.",
+                    "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, se ha 2 o meno Ferite rimanenti, il suo Giocatore Controllante può selezionare il seguente Gambetto:\nLa Collera del Leone: Il Modello per cui è stato selezionato questo Gambetto aggiunge un Modificatore +2 al Tiro Concentrazione e non subisce un modificatore -1 per ogni punto di differenza tra la Caratteristica Ferite Base di questo Modello e la sua Caratteristica Ferite attuale.",
                     "name": "Descrizione",
                     "typeId": "2d7d-b1d9-dead-605a"
                   }
@@ -11774,7 +11774,7 @@
                         "typeId": "02e4-3f90-3125-f8b4"
                       },
                       {
-                        "$text": "1 Punto Reazione.",
+                        "$text": "1 Punto Reazione",
                         "name": "Costo",
                         "typeId": "954a-972f-5c94-2ede"
                       },
@@ -11826,7 +11826,7 @@
                   {
                     "characteristics": [
                       {
-                        "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Spada dell’Ordine: finché il Modello sotto il controllo di questo Giocatore sta usando una spada a catena, una spada potenziata, una spada psionica, una lama esemplare o un’Arma con il Tratto Spada dell’Ordine, nel Passaggio 3 della Sottofase Sfida, la Caratteristica Modificatore di Attacchi di quell’Arma viene modificata di -1 e ottiene la Regola Speciale Colpo Critico (6+), oppure aumenta di +1 il valore di X di una versione esistente di Colpo Critico (X) che già possiede.",
+                        "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto:\nSpada dell’Ordine: finché il Modello sotto il controllo di questo Giocatore sta usando una spada a catena, una spada potenziata, una spada psionica, una lama esemplare o un’Arma con il Tratto Spada dell’Ordine, nel Passaggio 3 della Sottofase Sfida, la Caratteristica Modificatore di Attacchi di quell’Arma viene modificata di -1 e ottiene la Regola Speciale Colpo Critico (6+), oppure aumenta di +1 il valore di X di una versione esistente di Colpo Critico (X) che già possiede.",
                         "name": "Descrizione",
                         "typeId": "2d7d-b1d9-dead-605a"
                       }
@@ -11916,7 +11916,7 @@
     "name": "                         I - Angeli Oscuri",
     "gameSystemId": "sys-b976-0013-2f97-437b",
     "gameSystemRevision": 1,
-    "revision": 18,
+    "revision": 19,
     "authorUrl": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita",
     "authorContact": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita/issues",
     "authorName": "The4D6",

@@ -1461,7 +1461,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Mentre un Modello con questa Regola Speciale è in Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Il Fuoco Immortale: il Giocatore Controllante di questo Modello non può applicare alcun modificatore positivo al Tiro Concentrazione.\nTuttavia, se questo Modello non scende a 0 Ferite nel Passaggio 4 del Passaggio di Attacco, questo Modello aumenta la sua Caratteristica Ferite di +D3, fino a un massimo della sua Caratteristica Ferite Base, prima che i Giocatori tornino al Passaggio 2 della procedura di Sfida o passino alla Fase della Gloria.",
+                    "$text": "Mentre un Modello con questa Regola Speciale è in Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto:\nIl Fuoco Immortale: il Giocatore Controllante di questo Modello non può applicare alcun modificatore positivo al Tiro Concentrazione.\nTuttavia, se questo Modello non scende a 0 Ferite nel Passaggio 4 del Passaggio di Attacco, questo Modello aumenta la sua Caratteristica Ferite di +D3, fino a un massimo della sua Caratteristica Ferite Base, prima che i Giocatori tornino al Passaggio 2 della procedura di Sfida o passino alla Fase della Gloria.",
                     "name": "Descrizione",
                     "typeId": "2d7d-b1d9-dead-605a"
                   }
@@ -1772,7 +1772,7 @@
                 "hidden": false
               },
               {
-                "description": "Mentre un Modello con questa Regola Speciale è in Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Il Fuoco Immortale: il Giocatore Controllante di questo Modello non può applicare alcun modificatore positivo al Tiro Concentrazione.\nTuttavia, se questo Modello non scende a 0 Ferite nel Passaggio 4 del Passaggio di Attacco, questo Modello aumenta la sua Caratteristica Ferite di +D3, fino a un massimo della sua Caratteristica Ferite Base, prima che i Giocatori tornino al Passaggio 2 della procedura di Sfida o passino alla Fase della Gloria.",
+                "description": "Mentre un Modello con questa Regola Speciale è in Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto:\nIl Fuoco Immortale: il Giocatore Controllante di questo Modello non può applicare alcun modificatore positivo al Tiro Concentrazione.\nTuttavia, se questo Modello non scende a 0 Ferite nel Passaggio 4 del Passaggio di Attacco, questo Modello aumenta la sua Caratteristica Ferite di +D3, fino a un massimo della sua Caratteristica Ferite Base, prima che i Giocatori tornino al Passaggio 2 della procedura di Sfida o passino alla Fase della Gloria.",
                 "comment": "Rule",
                 "name": "Il Fuoco Immortale",
                 "id": "1ecc-db65-4f4c-31d0",
@@ -7473,7 +7473,7 @@
       {
         "characteristics": [
           {
-            "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Il Dovere è Sacrificio: il Giocatore Controllante può aggiungere un bonus di 1, 2 o 3 al suo Tiro Concentrazione.\nNel Passaggio Applicare il Danno del Processo di Attacco, il Modello per cui è stato selezionato questo Gambetto subisce un numero di ferite, ciascuna con una Caratteristica VP di ‘5’ e un Danno di ‘1’, pari al bonus al Tiro Concentrazione applicato da questo Gambetto.",
+            "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto:\nIl Dovere è Sacrificio: il Giocatore Controllante può aggiungere un bonus di 1, 2 o 3 al suo Tiro Concentrazione.\nNel Passaggio Applicare il Danno del Processo di Attacco, il Modello per cui è stato selezionato questo Gambetto subisce un numero di ferite, ciascuna con una Caratteristica VP di ‘5’ e un Danno di ‘1’, pari al bonus al Tiro Concentrazione applicato da questo Gambetto.",
             "name": "Descrizione",
             "typeId": "2d7d-b1d9-dead-605a"
           }
@@ -7492,7 +7492,7 @@
             "typeId": "02e4-3f90-3125-f8b4"
           },
           {
-            "$text": "1 Punto Reazione.",
+            "$text": "1 Punto Reazione",
             "name": "Costo",
             "typeId": "954a-972f-5c94-2ede"
           },
@@ -7586,7 +7586,7 @@
                   {
                     "characteristics": [
                       {
-                        "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Il Dovere è Sacrificio: il Giocatore Controllante può aggiungere un bonus di 1, 2 o 3 al suo Tiro Concentrazione.\nNel Passaggio Applicare il Danno del Processo di Attacco, il Modello per cui è stato selezionato questo Gambetto subisce un numero di ferite, ciascuna con una Caratteristica VP di ‘5’ e un Danno di ‘1’, pari al bonus al Tiro Concentrazione applicato da questo Gambetto.",
+                        "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto:\nIl Dovere è Sacrificio: il Giocatore Controllante può aggiungere un bonus di 1, 2 o 3 al suo Tiro Concentrazione.\nNel Passaggio Applicare il Danno del Processo di Attacco, il Modello per cui è stato selezionato questo Gambetto subisce un numero di ferite, ciascuna con una Caratteristica VP di ‘5’ e un Danno di ‘1’, pari al bonus al Tiro Concentrazione applicato da questo Gambetto.",
                         "name": "Descrizione",
                         "typeId": "2d7d-b1d9-dead-605a"
                       }
@@ -7633,7 +7633,7 @@
                         "typeId": "02e4-3f90-3125-f8b4"
                       },
                       {
-                        "$text": "1 Punto Reazione.",
+                        "$text": "1 Punto Reazione",
                         "name": "Costo",
                         "typeId": "954a-972f-5c94-2ede"
                       },
@@ -7699,7 +7699,7 @@
     "name": "                        XVIII - Salamandre",
     "gameSystemId": "sys-b976-0013-2f97-437b",
     "gameSystemRevision": 1,
-    "revision": 16,
+    "revision": 17,
     "authorUrl": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita",
     "authorContact": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita/issues",
     "authorName": "The4D6",

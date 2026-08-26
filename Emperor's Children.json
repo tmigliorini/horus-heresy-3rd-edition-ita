@@ -2511,7 +2511,7 @@
             ],
             "rules": [
               {
-                "description": "Mentre un Modello con questa Regola Speciale è in Sfida con un Modello nemico con i Tratti Figli dell’Imperatore, Divoratori di Mondi, Figli di Horus o Guardia della Morte, il suo Giocatore Controllante può selezionare il seguente Gambetto: Morso del Tradito: questo Gambetto può essere selezionato solo durante il primo Passaggio di Faccia a Faccia di una Sfida.\nFino al termine della Sfida, modifica le Caratteristiche Abilità di Combattimento, Forza e Resistenza di questo Modello di +1.",
+                "description": "Mentre un Modello con questa Regola Speciale è in Sfida con un Modello nemico con i Tratti Figli dell’Imperatore, Divoratori di Mondi, Figli di Horus o Guardia della Morte, il suo Giocatore Controllante può selezionare il seguente Gambetto:\nMorso del Tradito: questo Gambetto può essere selezionato solo durante il primo Passaggio di Faccia a Faccia di una Sfida.\nFino al termine della Sfida, modifica le Caratteristiche Abilità di Combattimento, Forza e Resistenza di questo Modello di +1.",
                 "name": "Un Fratello Tradito",
                 "id": "65b3-d1e0-2056-54a2",
                 "hidden": false
@@ -8396,7 +8396,7 @@
                   {
                     "characteristics": [
                       {
-                        "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il Giocatore Controllante può selezionare il seguente Gambetto: Esemplare di Eccellenza: questo Gambetto può essere selezionato solo durante la prima Fase di Faccia a Faccia di una Sfida che coinvolge questo Modello.\nDurante la Fase di Concentrazione, il Giocatore che lo controlla ottiene un modificatore di +2 al Tiro Concentrazione.",
+                        "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il Giocatore Controllante può selezionare il seguente Gambetto:\nEsemplare di Eccellenza: questo Gambetto può essere selezionato solo durante la prima Fase di Faccia a Faccia di una Sfida che coinvolge questo Modello.\nDurante la Fase di Concentrazione, il Giocatore che lo controlla ottiene un modificatore di +2 al Tiro Concentrazione.",
                         "name": "Descrizione",
                         "typeId": "2d7d-b1d9-dead-605a"
                       }
@@ -8443,7 +8443,7 @@
                         "typeId": "02e4-3f90-3125-f8b4"
                       },
                       {
-                        "$text": "1 Punto Reazione.",
+                        "$text": "1 Punto Reazione",
                         "name": "Costo",
                         "typeId": "954a-972f-5c94-2ede"
                       },
@@ -8562,7 +8562,7 @@
                   {
                     "characteristics": [
                       {
-                        "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Lo Specchio Rotto: il Modello ottiene il doppio del normale modificatore per il Supporto Esterno durante il Passaggio di Concentrazione.\nSe l’Unità di cui fa parte questo Modello è Stupefatta, aggiungi un modificatore aggiuntivo di +1.",
+                        "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto:\nLo Specchio Rotto: il Modello ottiene il doppio del normale modificatore per il Supporto Esterno durante il Passaggio di Concentrazione.\nSe l’Unità di cui fa parte questo Modello è Stupefatta, aggiungi un modificatore aggiuntivo di +1.",
                         "name": "Descrizione",
                         "typeId": "2d7d-b1d9-dead-605a"
                       }
@@ -8609,7 +8609,7 @@
                         "typeId": "02e4-3f90-3125-f8b4"
                       },
                       {
-                        "$text": "1 Punto Reazione.",
+                        "$text": "1 Punto Reazione",
                         "name": "Costo",
                         "typeId": "954a-972f-5c94-2ede"
                       },
@@ -8973,7 +8973,7 @@
     "name": "                         III - Figli dell’Imperatore",
     "gameSystemId": "sys-b976-0013-2f97-437b",
     "gameSystemRevision": 1,
-    "revision": 20,
+    "revision": 21,
     "authorUrl": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita",
     "authorContact": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita/issues",
     "authorName": "The4D6",

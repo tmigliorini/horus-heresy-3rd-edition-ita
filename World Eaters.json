@@ -3159,7 +3159,7 @@
                 "typeId": "02e4-3f90-3125-f8b4"
               },
               {
-                "$text": "3 Punti Reazione.",
+                "$text": "3 Punti Reazione",
                 "name": "Costo",
                 "typeId": "954a-972f-5c94-2ede"
               },
@@ -7297,7 +7297,7 @@
                   {
                     "characteristics": [
                       {
-                        "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Smembramento Brutale: se il Modello nemico viene Rimosso come Perdita durante il Passaggio di Attacco, durante il successivo Passaggio della Gloria il Giocatore Controllante ottiene 2 Punti Risoluzione Combattimento aggiuntivi.",
+                        "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto:\nSmembramento Brutale: se il Modello nemico viene Rimosso come Perdita durante il Passaggio di Attacco, durante il successivo Passaggio della Gloria il Giocatore Controllante ottiene 2 Punti Risoluzione Combattimento aggiuntivi.",
                         "name": "Descrizione",
                         "typeId": "2d7d-b1d9-dead-605a"
                       }
@@ -7344,7 +7344,7 @@
                         "typeId": "02e4-3f90-3125-f8b4"
                       },
                       {
-                        "$text": "1 Punto Reazione.",
+                        "$text": "1 Punto Reazione",
                         "name": "Costo",
                         "typeId": "954a-972f-5c94-2ede"
                       },
@@ -7480,7 +7480,7 @@
                   {
                     "characteristics": [
                       {
-                        "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Violenza Eccessiva: se questo Gambetto viene selezionato, quando questo Modello effettua attacchi durante il Passaggio di Attacco, se l’altro Modello coinvolto nella Sfida viene Rimosso come Perdita, tutte le ferite rimanenti devono essere invece assegnate ad altri Modelli nemici idonei nello stesso Combattimento.",
+                        "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto:\nViolenza Eccessiva: se questo Gambetto viene selezionato, quando questo Modello effettua attacchi durante il Passaggio di Attacco, se l’altro Modello coinvolto nella Sfida viene Rimosso come Perdita, tutte le ferite rimanenti devono essere invece assegnate ad altri Modelli nemici idonei nello stesso Combattimento.",
                         "name": "Descrizione",
                         "typeId": "2d7d-b1d9-dead-605a"
                       }
@@ -7527,7 +7527,7 @@
                         "typeId": "02e4-3f90-3125-f8b4"
                       },
                       {
-                        "$text": "1 Punto Reazione.",
+                        "$text": "1 Punto Reazione",
                         "name": "Costo",
                         "typeId": "954a-972f-5c94-2ede"
                       },
@@ -7895,7 +7895,7 @@
     "name": "                        XII - Divoratori di Mondi",
     "gameSystemId": "sys-b976-0013-2f97-437b",
     "gameSystemRevision": 1,
-    "revision": 21,
+    "revision": 22,
     "authorUrl": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita",
     "authorContact": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita/issues",
     "authorName": "The4D6",

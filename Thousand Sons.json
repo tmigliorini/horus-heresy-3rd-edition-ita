@@ -110,7 +110,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Battaglia tra Volontà: Il Giocatore Controllante ottiene un modificatore positivo al suo Tiro Concentrazione pari alla Caratteristica Volontà Base di Magnus il Rosso meno la Caratteristica Volontà Base del Modello avversario nella Sfida.",
+                    "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto:\nBattaglia tra Volontà: Il Giocatore Controllante ottiene un modificatore positivo al suo Tiro Concentrazione pari alla Caratteristica Volontà Base di Magnus il Rosso meno la Caratteristica Volontà Base del Modello avversario nella Sfida.",
                     "name": "Descrizione",
                     "typeId": "2d7d-b1d9-dead-605a"
                   }
@@ -10332,7 +10332,7 @@
                   {
                     "characteristics": [
                       {
-                        "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Duellante Profetico: subito dopo che il Giocatore Controllante ha effettuato il suo Tiro Concentrazione nella Fase Concentrazione, può scegliere di sostituire il risultato del suo Tiro Concentrazione, dopo i modificatori, con la Volontà di questo Modello.",
+                        "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto:\nDuellante Profetico: subito dopo che il Giocatore Controllante ha effettuato il suo Tiro Concentrazione nella Fase Concentrazione, può scegliere di sostituire il risultato del suo Tiro Concentrazione, dopo i modificatori, con la Volontà di questo Modello.",
                         "name": "Descrizione",
                         "typeId": "2d7d-b1d9-dead-605a"
                       }
@@ -10379,7 +10379,7 @@
                         "typeId": "02e4-3f90-3125-f8b4"
                       },
                       {
-                        "$text": "1 Punto Reazione.",
+                        "$text": "1 Punto Reazione",
                         "name": "Costo",
                         "typeId": "954a-972f-5c94-2ede"
                       },
@@ -10450,7 +10450,7 @@
           {
             "name": "Costo",
             "typeId": "954a-972f-5c94-2ede",
-            "$text": "1 Punto Reazione."
+            "$text": "1 Punto Reazione"
           },
           {
             "name": "Bersaglio",
@@ -10772,7 +10772,7 @@
     "name": "                        XV - Stirpe dei Mille",
     "gameSystemId": "sys-b976-0013-2f97-437b",
     "gameSystemRevision": 1,
-    "revision": 18,
+    "revision": 19,
     "authorUrl": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita",
     "authorContact": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita/issues",
     "authorName": "Arkangelmark5",

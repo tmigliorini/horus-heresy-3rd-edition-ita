@@ -6870,7 +6870,7 @@
                   {
                     "characteristics": [
                       {
-                        "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il Giocatore Controllante può selezionare il seguente Gambetto: Io Sono Alpharius: questo Gambetto può essere selezionato solo durante il Primo Passaggio di Faccia a Faccia di una Sfida che coinvolga questo Modello.\nSe questo Gambetto viene selezionato, il Modello avversario nella Sfida imposta la propria Iniziativa di Combattimento a ‘1’ fino alla fine di questo Passaggio di Attacco.",
+                        "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il Giocatore Controllante può selezionare il seguente Gambetto:\nIo Sono Alpharius: questo Gambetto può essere selezionato solo durante il Primo Passaggio di Faccia a Faccia di una Sfida che coinvolga questo Modello.\nSe questo Gambetto viene selezionato, il Modello avversario nella Sfida imposta la propria Iniziativa di Combattimento a ‘1’ fino alla fine di questo Passaggio di Attacco.",
                         "name": "Descrizione",
                         "typeId": "2d7d-b1d9-dead-605a"
                       }
@@ -6951,7 +6951,7 @@
                         "typeId": "02e4-3f90-3125-f8b4"
                       },
                       {
-                        "$text": "1 Punto Reazione.",
+                        "$text": "1 Punto Reazione",
                         "name": "Costo",
                         "typeId": "954a-972f-5c94-2ede"
                       },
@@ -9570,7 +9570,7 @@
     "name": "                       XX - Legione Alfa",
     "gameSystemId": "sys-b976-0013-2f97-437b",
     "gameSystemRevision": 1,
-    "revision": 21,
+    "revision": 22,
     "authorUrl": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita",
     "authorContact": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita/issues",
     "authorName": "The4D6",

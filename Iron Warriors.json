@@ -632,7 +632,7 @@
           {
             "characteristics": [
               {
-                "$text": "Mentre un Modello con questa Regola Speciale è in Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Il Frantumatore: Questo Gambetto può essere selezionato solo durante il primo Passaggio di Faccia a Faccia di una Sfida.\nQuesto Modello non effettua attacchi durante il successivo Passaggio di Attacco.\nInvece, il Giocatore Controllante di questo Modello può selezionare una singola Unità amica composta da Modelli con il Tratto Guerrieri di Ferro che si trovi entro 12\" da qualsiasi Modello nemico in quel Combattimento e che non sia Bloccata in Combattimento, ed effettuare un Attacco a Distanza con quell’Unità.\nTutti questi attacchi vengono risolti come Colpi alla Cieca, con l’eccezione che le Armi con la Regola Speciale Area (X) o Sagoma non possono essere utilizzate, e le ferite derivanti da questo Attacco a Distanza possono essere assegnate solo al Modello nemico in Sfida.",
+                "$text": "Mentre un Modello con questa Regola Speciale è in Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto:\nIl Frantumatore: Questo Gambetto può essere selezionato solo durante il primo Passaggio di Faccia a Faccia di una Sfida.\nQuesto Modello non effettua attacchi durante il successivo Passaggio di Attacco.\nInvece, il Giocatore Controllante di questo Modello può selezionare una singola Unità amica composta da Modelli con il Tratto Guerrieri di Ferro che si trovi entro 12\" da qualsiasi Modello nemico in quel Combattimento e che non sia Bloccata in Combattimento, ed effettuare un Attacco a Distanza con quell’Unità.\nTutti questi attacchi vengono risolti come Colpi alla Cieca, con l’eccezione che le Armi con la Regola Speciale Area (X) o Sagoma non possono essere utilizzate, e le ferite derivanti da questo Attacco a Distanza possono essere assegnate solo al Modello nemico in Sfida.",
                 "name": "Descrizione",
                 "typeId": "2d7d-b1d9-dead-605a"
               }
@@ -716,7 +716,7 @@
           {
             "characteristics": [
               {
-                "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Morte Sprezzante: se questo Modello perde la sua ultima Ferita durante il successivo Passaggio di Attacco, il Giocatore Controllante può scegliere di infliggere immediatamente un singolo Colpo automatico al Modello avversario, risolto con una Caratteristica Forza di ‘6’, VP di ‘4’, Danno di ‘2’ e la Regola Speciale Perforante (5+).",
+                "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto:\nMorte Sprezzante: se questo Modello perde la sua ultima Ferita durante il successivo Passaggio di Attacco, il Giocatore Controllante può scegliere di infliggere immediatamente un singolo Colpo automatico al Modello avversario, risolto con una Caratteristica Forza di ‘6’, VP di ‘4’, Danno di ‘2’ e la Regola Speciale Perforante (5+).",
                 "name": "Descrizione",
                 "typeId": "2d7d-b1d9-dead-605a"
               }
@@ -7461,7 +7461,7 @@
           {
             "name": "Costo",
             "typeId": "954a-972f-5c94-2ede",
-            "$text": "1 Punto Reazione."
+            "$text": "1 Punto Reazione"
           },
           {
             "name": "Bersaglio",
@@ -7748,7 +7748,7 @@
                   {
                     "characteristics": [
                       {
-                        "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Morte Sprezzante: se questo Modello perde la sua ultima Ferita durante il successivo Passaggio di Attacco, il Giocatore Controllante può scegliere di infliggere immediatamente un singolo Colpo automatico al Modello avversario, risolto con una Caratteristica Forza di ‘6’, VP di ‘4’, Danno di ‘2’ e la Regola Speciale Perforante (5+).",
+                        "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto:\nMorte Sprezzante: se questo Modello perde la sua ultima Ferita durante il successivo Passaggio di Attacco, il Giocatore Controllante può scegliere di infliggere immediatamente un singolo Colpo automatico al Modello avversario, risolto con una Caratteristica Forza di ‘6’, VP di ‘4’, Danno di ‘2’ e la Regola Speciale Perforante (5+).",
                         "name": "Descrizione",
                         "typeId": "2d7d-b1d9-dead-605a"
                       }
@@ -7839,7 +7839,7 @@
                         "typeId": "02e4-3f90-3125-f8b4"
                       },
                       {
-                        "$text": "1 Punto Reazione.",
+                        "$text": "1 Punto Reazione",
                         "name": "Costo",
                         "typeId": "954a-972f-5c94-2ede"
                       },
@@ -7905,7 +7905,7 @@
     "name": "                         IV - Guerrieri di Ferro",
     "gameSystemId": "sys-b976-0013-2f97-437b",
     "gameSystemRevision": 1,
-    "revision": 12,
+    "revision": 13,
     "authorUrl": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita",
     "authorContact": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita/issues",
     "authorName": "The4D6",

@@ -3324,7 +3324,7 @@
         ],
         "rules": [
           {
-            "description": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Spiccateste: Il Giocatore Avversario non può richiedere un bonus di Supporto Esterno durante la Fase di Concentrazione.",
+            "description": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto:\nSpiccateste: Il Giocatore Avversario non può richiedere un bonus di Supporto Esterno durante la Fase di Concentrazione.",
             "name": "Spiccateste",
             "id": "af30-0474-201d-7310",
             "hidden": false,
@@ -13101,7 +13101,7 @@
                   {
                     "characteristics": [
                       {
-                        "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Una Saga Intessuta di Gloria: se il Modello avversario viene Rimosso come Perdita, tutti i Modelli nella stessa Unità di questo Modello ottengono un modificatore di +1 alla loro Caratteristica Attacchi nella Sottofase di Combattimento successiva.",
+                        "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto:\nUna Saga Intessuta di Gloria: se il Modello avversario viene Rimosso come Perdita, tutti i Modelli nella stessa Unità di questo Modello ottengono un modificatore di +1 alla loro Caratteristica Attacchi nella Sottofase di Combattimento successiva.",
                         "name": "Descrizione",
                         "typeId": "2d7d-b1d9-dead-605a"
                       }
@@ -13115,7 +13115,7 @@
                   {
                     "characteristics": [
                       {
-                        "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Nessuna Preda Scappa: il Giocatore Avversario non può mai scegliere di passare alla Fase Gloria, per alcuna ragione, finché uno o entrambi i Modelli sfidanti non vengono Rimossi come Perdite.\nUna Saga Intessuta di Gloria Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Una Saga Intessuta di Gloria: se il Modello avversario viene Rimosso come Perdita, tutti i Modelli nella stessa Unità di questo Modello ottengono un modificatore di +1 alla loro Caratteristica Attacchi nella Sottofase di Combattimento successiva.",
+                        "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto:\nNessuna Preda Scappa: il Giocatore Avversario non può mai scegliere di passare alla Fase Gloria, per alcuna ragione, finché uno o entrambi i Modelli sfidanti non vengono Rimossi come Perdite.\nUna Saga Intessuta di Gloria Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto:\nUna Saga Intessuta di Gloria: se il Modello avversario viene Rimosso come Perdita, tutti i Modelli nella stessa Unità di questo Modello ottengono un modificatore di +1 alla loro Caratteristica Attacchi nella Sottofase di Combattimento successiva.",
                         "name": "Descrizione",
                         "typeId": "2d7d-b1d9-dead-605a"
                       }
@@ -13196,7 +13196,7 @@
                         "typeId": "02e4-3f90-3125-f8b4"
                       },
                       {
-                        "$text": "1 Punto Reazione.",
+                        "$text": "1 Punto Reazione",
                         "name": "Costo",
                         "typeId": "954a-972f-5c94-2ede"
                       },
@@ -13303,7 +13303,7 @@
     "name": "                         VI - Lupi Siderali",
     "gameSystemId": "sys-b976-0013-2f97-437b",
     "gameSystemRevision": 1,
-    "revision": 21,
+    "revision": 22,
     "authorUrl": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita",
     "authorContact": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita/issues",
     "authorName": "The4D6",

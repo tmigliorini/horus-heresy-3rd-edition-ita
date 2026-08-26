@@ -461,7 +461,7 @@
                 "typeId": "4e6b-ebca-53df-fcf7"
               },
               {
-                "$text": "1 Punto Reazione.",
+                "$text": "1 Punto Reazione",
                 "name": "Costo",
                 "typeId": "f25a-9ced-eb9b-4587"
               },
@@ -842,7 +842,7 @@
                 "typeId": "4e6b-ebca-53df-fcf7"
               },
               {
-                "$text": "1 Punto Reazione.",
+                "$text": "1 Punto Reazione",
                 "name": "Costo",
                 "typeId": "f25a-9ced-eb9b-4587"
               },
@@ -1508,7 +1508,7 @@
             "typeId": "4e6b-ebca-53df-fcf7"
           },
           {
-            "$text": "1 Punto Reazione.",
+            "$text": "1 Punto Reazione",
             "name": "Costo",
             "typeId": "f25a-9ced-eb9b-4587"
           },
@@ -1565,7 +1565,7 @@
     "name": "Psionica",
     "gameSystemId": "sys-b976-0013-2f97-437b",
     "gameSystemRevision": 2,
-    "revision": 8,
+    "revision": 9,
     "battleScribeVersion": 2.03,
     "authorContact": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita/issues",
     "authorUrl": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita",

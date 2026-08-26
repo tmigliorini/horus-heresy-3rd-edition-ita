@@ -428,7 +428,7 @@
             "publicationId": "b905-0414-1057-bb34"
           },
           {
-            "description": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il Giocatore che lo Controlla può selezionare il seguente Gambetto: Morte per Mille Tagli: durante il Passaggio di Attacco, la Forza degli attacchi effettuati dal Modello nemico viene modificata di -1 se la Caratteristica Ferite di quel Modello è stata ridotta rispetto al suo Valore Base.\nQuesto non può ridurre la Caratteristica Forza di un attacco a meno di 1.",
+            "description": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il Giocatore che lo Controlla può selezionare il seguente Gambetto:\nMorte per Mille Tagli: durante il Passaggio di Attacco, la Forza degli attacchi effettuati dal Modello nemico viene modificata di -1 se la Caratteristica Ferite di quel Modello è stata ridotta rispetto al suo Valore Base.\nQuesto non può ridurre la Caratteristica Forza di un attacco a meno di 1.",
             "comment": "Rule",
             "name": "Morte per Mille Tagli",
             "id": "da8b-ef22-b3d8-b966",
@@ -545,7 +545,7 @@
           {
             "characteristics": [
               {
-                "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il Giocatore che lo Controlla può selezionare il seguente Gambetto: Morte per Mille Tagli: durante il Passaggio di Attacco, la Forza degli attacchi effettuati dal Modello nemico viene modificata di -1 se la Caratteristica Ferite di quel Modello è stata ridotta rispetto al suo Valore Base.\nQuesto non può ridurre la Caratteristica Forza di un attacco a meno di 1.",
+                "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il Giocatore che lo Controlla può selezionare il seguente Gambetto:\nMorte per Mille Tagli: durante il Passaggio di Attacco, la Forza degli attacchi effettuati dal Modello nemico viene modificata di -1 se la Caratteristica Ferite di quel Modello è stata ridotta rispetto al suo Valore Base.\nQuesto non può ridurre la Caratteristica Forza di un attacco a meno di 1.",
                 "name": "Descrizione",
                 "typeId": "2d7d-b1d9-dead-605a"
               }
@@ -2062,7 +2062,7 @@
         ],
         "rules": [
           {
-            "description": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Cercatore di Espiazione: Se questo Modello viene ridotto a 0 Ferite nel Passaggio 4 del Passaggio di Attacco, il Giocatore Controllante può tirare un Dado.\nCon un risultato di 4+, questo Modello non viene Rimosso come Perdita, ma rimane invece Impegnato nella Sfida con una Caratteristica Ferite pari a 1 e il Giocatore Controllante ottiene il Vantaggio.",
+            "description": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto:\nCercatore di Espiazione: Se questo Modello viene ridotto a 0 Ferite nel Passaggio 4 del Passaggio di Attacco, il Giocatore Controllante può tirare un Dado.\nCon un risultato di 4+, questo Modello non viene Rimosso come Perdita, ma rimane invece Impegnato nella Sfida con una Caratteristica Ferite pari a 1 e il Giocatore Controllante ottiene il Vantaggio.",
             "comment": "Rule",
             "name": "Cercatore di Espiazione",
             "id": "998a-db76-ca15-6ff1",
@@ -2073,7 +2073,7 @@
           {
             "characteristics": [
               {
-                "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Cercatore di Espiazione: Se questo Modello viene ridotto a 0 Ferite nel Passaggio 4 del Passaggio di Attacco, il Giocatore Controllante può tirare un Dado.\nCon un risultato di 4+, questo Modello non viene Rimosso come Perdita, ma rimane invece Impegnato nella Sfida con una Caratteristica Ferite pari a 1 e il Giocatore Controllante ottiene il Vantaggio.",
+                "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto:\nCercatore di Espiazione: Se questo Modello viene ridotto a 0 Ferite nel Passaggio 4 del Passaggio di Attacco, il Giocatore Controllante può tirare un Dado.\nCon un risultato di 4+, questo Modello non viene Rimosso come Perdita, ma rimane invece Impegnato nella Sfida con una Caratteristica Ferite pari a 1 e il Giocatore Controllante ottiene il Vantaggio.",
                 "name": "Descrizione",
                 "typeId": "2d7d-b1d9-dead-605a"
               }
@@ -10720,7 +10720,7 @@
       {
         "characteristics": [
           {
-            "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Il Sentiero del Guerriero: prima di effettuare il Tiro Concentrazione, il Giocatore Controllante deve dichiarare una scelta tra “Colpire Basso”, prevedendo che il risultato del Tiro Concentrazione successivo sia 1-3, o “Colpire Alto”, prevedendo che il risultato del Tiro Concentrazione successivo sia 4-6, prima che vengano applicati eventuali modificatori.\nSe il risultato del Tiro Concentrazione corrisponde alla sua scelta, può ignorare tutti i modificatori negativi e applicare solo quelli positivi al suo Tiro Concentrazione.",
+            "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto:\nIl Sentiero del Guerriero: prima di effettuare il Tiro Concentrazione, il Giocatore Controllante deve dichiarare una scelta tra “Colpire Basso”, prevedendo che il risultato del Tiro Concentrazione successivo sia 1-3, o “Colpire Alto”, prevedendo che il risultato del Tiro Concentrazione successivo sia 4-6, prima che vengano applicati eventuali modificatori.\nSe il risultato del Tiro Concentrazione corrisponde alla sua scelta, può ignorare tutti i modificatori negativi e applicare solo quelli positivi al suo Tiro Concentrazione.",
             "name": "Descrizione",
             "typeId": "2d7d-b1d9-dead-605a"
           }
@@ -10777,7 +10777,7 @@
                   {
                     "characteristics": [
                       {
-                        "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Il Sentiero del Guerriero: prima di effettuare il Tiro Concentrazione, il Giocatore Controllante deve dichiarare una scelta tra “Colpire Basso”, prevedendo che il risultato del Tiro Concentrazione successivo sia 1-3, o “Colpire Alto”, prevedendo che il risultato del Tiro Concentrazione successivo sia 4-6, prima che vengano applicati eventuali modificatori.\nSe il risultato del Tiro Concentrazione corrisponde alla sua scelta, può ignorare tutti i modificatori negativi e applicare solo quelli positivi al suo Tiro Concentrazione.",
+                        "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto:\nIl Sentiero del Guerriero: prima di effettuare il Tiro Concentrazione, il Giocatore Controllante deve dichiarare una scelta tra “Colpire Basso”, prevedendo che il risultato del Tiro Concentrazione successivo sia 1-3, o “Colpire Alto”, prevedendo che il risultato del Tiro Concentrazione successivo sia 4-6, prima che vengano applicati eventuali modificatori.\nSe il risultato del Tiro Concentrazione corrisponde alla sua scelta, può ignorare tutti i modificatori negativi e applicare solo quelli positivi al suo Tiro Concentrazione.",
                         "name": "Descrizione",
                         "typeId": "2d7d-b1d9-dead-605a"
                       }
@@ -10824,7 +10824,7 @@
                         "typeId": "02e4-3f90-3125-f8b4"
                       },
                       {
-                        "$text": "1 Punto Reazione.",
+                        "$text": "1 Punto Reazione",
                         "name": "Costo",
                         "typeId": "954a-972f-5c94-2ede"
                       },
@@ -10890,7 +10890,7 @@
     "name": "                         V - Furie Bianche",
     "gameSystemId": "sys-b976-0013-2f97-437b",
     "gameSystemRevision": 1,
-    "revision": 15,
+    "revision": 16,
     "authorUrl": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita",
     "authorContact": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita/issues",
     "authorName": "The4D6",
