@@ -76108,7 +76108,8 @@
                 "targetId": "c85c-2963-658f-1bb9",
                 "id": "c1dc-0919-397c-4986",
                 "primary": false,
-                "name": "Comando (Primario)"
+                "name": "Comando (Primario)",
+                "hidden": false
               }
             ],
             "rules": [
@@ -77122,6 +77123,14 @@
             "scope": "parent",
             "shared": true,
             "id": "9fd4-dabb-4067-dea3"
+          },
+          {
+            "type": "min",
+            "value": 0,
+            "field": "selections",
+            "scope": "parent",
+            "shared": false,
+            "id": "5e86db3a-c049"
           }
         ],
         "name": "Benefici Primari Comuni",

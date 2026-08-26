@@ -222134,7 +222134,17 @@
         "name": "Benefici Primari di Legione",
         "id": "d3a2-e7f2-9da7-fd3c",
         "hidden": false,
-        "sortIndex": 11
+        "sortIndex": 11,
+        "constraints": [
+          {
+            "type": "min",
+            "value": 0,
+            "field": "selections",
+            "scope": "parent",
+            "shared": false,
+            "id": "92a66be3-019c"
+          }
+        ]
       },
       {
         "entryLinks": [
@@ -222195,6 +222205,14 @@
             "shared": false,
             "id": "9175-4a41-5c72-c801",
             "includeChildSelections": true
+          },
+          {
+            "type": "min",
+            "value": 0,
+            "field": "selections",
+            "scope": "parent",
+            "shared": false,
+            "id": "f7a5a8a3-e837"
           }
         ],
         "selectionEntries": [
