@@ -214,6 +214,14 @@
             "typeName": "Potere Psionico",
             "hidden": false,
             "id": "fe7f-a6ad-b858-a3a0"
+          },
+          {
+            "characteristics": [],
+            "name": "Biomante",
+            "typeId": "d5a9-9164-1e30-7a35",
+            "typeName": "Tratti",
+            "hidden": false,
+            "id": "ea01-0003-0000-0001"
           }
         ],
         "infoLinks": [
@@ -358,6 +366,14 @@
             "typeName": "Arma Psionica da Mischia",
             "hidden": false,
             "id": "345e-6b0d-03c7-1e44"
+          },
+          {
+            "characteristics": [],
+            "name": "Piromante",
+            "typeId": "d5a9-9164-1e30-7a35",
+            "typeName": "Tratti",
+            "hidden": false,
+            "id": "ea01-0003-0000-0002"
           }
         ],
         "infoLinks": [
@@ -535,6 +551,14 @@
             "typeName": "Arma Psionica a Distanza",
             "hidden": false,
             "id": "31de-4d17-0779-5524"
+          },
+          {
+            "characteristics": [],
+            "name": "Telecineta",
+            "typeId": "d5a9-9164-1e30-7a35",
+            "typeName": "Tratti",
+            "hidden": false,
+            "id": "ea01-0003-0000-0003"
           }
         ],
         "infoLinks": [
@@ -655,6 +679,14 @@
             "typeName": "Potere Psionico",
             "hidden": false,
             "id": "58c6-f57d-ec06-9c39"
+          },
+          {
+            "characteristics": [],
+            "name": "Divinatore",
+            "typeId": "d5a9-9164-1e30-7a35",
+            "typeName": "Tratti",
+            "hidden": false,
+            "id": "ea01-0003-0000-0004"
           }
         ],
         "infoLinks": [
@@ -799,6 +831,14 @@
             "typeName": "Arma Psionica a Distanza",
             "hidden": false,
             "id": "0bb5-a147-4251-fde0"
+          },
+          {
+            "characteristics": [],
+            "name": "Telepate",
+            "typeId": "d5a9-9164-1e30-7a35",
+            "typeName": "Tratti",
+            "hidden": false,
+            "id": "ea01-0003-0000-0005"
           }
         ],
         "type": "upgrade",
@@ -906,6 +946,14 @@
             "typeName": "Potere Psionico",
             "hidden": false,
             "id": "cfb2-5d69-b138-0097"
+          },
+          {
+            "characteristics": [],
+            "name": "Taumaturgo",
+            "typeId": "d5a9-9164-1e30-7a35",
+            "typeName": "Tratti",
+            "hidden": false,
+            "id": "ea01-0003-0000-0006"
           }
         ],
         "type": "upgrade",
@@ -977,7 +1025,7 @@
             "targetId": "e590-9996-7a9e-e74a"
           },
           {
-            "name": "Breccia nel Velo",
+            "name": "Squarciare il Velo",
             "id": "47cb-3dbd-757b-d5f7",
             "hidden": false,
             "type": "profile",
@@ -1450,7 +1498,7 @@
       {
         "characteristics": [
           {
-            "$text": "Il Giocatore Attivo può scegliere di Manifestare il Potere Psionico Breccia nel Velo all’inizio della Sottofase delle Riserve della sua Fase di Movimento.",
+            "$text": "Il Giocatore Attivo può scegliere di Manifestare il Potere Psionico Squarciare il Velo all’inizio della Sottofase delle Riserve della sua Fase di Movimento.",
             "name": "Innesco",
             "typeId": "1be9-f118-1cf3-357e"
           },
@@ -1494,7 +1542,7 @@
             "field": "hidden"
           }
         ],
-        "name": "Breccia nel Velo",
+        "name": "Squarciare il Velo",
         "typeId": "9dfb-2fa3-00e7-8cfd",
         "typeName": "Potere Psionico",
         "hidden": false,
@@ -1565,7 +1613,7 @@
     "name": "Psionica",
     "gameSystemId": "sys-b976-0013-2f97-437b",
     "gameSystemRevision": 2,
-    "revision": 11,
+    "revision": 12,
     "battleScribeVersion": 2.03,
     "authorContact": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita/issues",
     "authorUrl": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita",

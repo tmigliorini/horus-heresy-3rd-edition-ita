@@ -4372,8 +4372,8 @@
               }
             ],
             "name": "Fulmine a Ciel Sereno",
-            "typeId": "c591-09ed-3e6f-eb2b",
-            "typeName": "Arma a Distanza",
+            "typeId": "7d31-7144-3b28-c850",
+            "typeName": "Arma Psionica a Distanza",
             "hidden": false,
             "id": "70a9-6064-63a5-8de3"
           }
@@ -10884,7 +10884,7 @@
     "name": "                         V - Furie Bianche",
     "gameSystemId": "sys-b976-0013-2f97-437b",
     "gameSystemRevision": 1,
-    "revision": 18,
+    "revision": 19,
     "authorUrl": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita",
     "authorContact": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita/issues",
     "authorName": "The4D6",

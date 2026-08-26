@@ -1334,7 +1334,7 @@
           {
             "characteristics": [
               {
-                "$text": "Template",
+                "$text": "Sagoma",
                 "name": "G",
                 "typeId": "cdb0-8654-6840-1037"
               },
@@ -1961,7 +1961,7 @@
           {
             "characteristics": [
               {
-                "$text": "Template",
+                "$text": "Sagoma",
                 "name": "G",
                 "typeId": "cdb0-8654-6840-1037"
               },
@@ -2382,7 +2382,7 @@
           {
             "characteristics": [
               {
-                "$text": "Template",
+                "$text": "Sagoma",
                 "name": "G",
                 "typeId": "cdb0-8654-6840-1037"
               },
@@ -2474,7 +2474,7 @@
           {
             "characteristics": [
               {
-                "$text": "Template",
+                "$text": "Sagoma",
                 "name": "G",
                 "typeId": "cdb0-8654-6840-1037"
               },
@@ -4027,7 +4027,7 @@
           {
             "characteristics": [
               {
-                "$text": "Template",
+                "$text": "Sagoma",
                 "name": "G",
                 "typeId": "cdb0-8654-6840-1037"
               },
@@ -4106,7 +4106,7 @@
           {
             "characteristics": [
               {
-                "$text": "Template",
+                "$text": "Sagoma",
                 "name": "G",
                 "typeId": "cdb0-8654-6840-1037"
               },
@@ -4185,7 +4185,7 @@
           {
             "characteristics": [
               {
-                "$text": "Template",
+                "$text": "Sagoma",
                 "name": "G",
                 "typeId": "cdb0-8654-6840-1037"
               },
@@ -4254,7 +4254,7 @@
           {
             "characteristics": [
               {
-                "$text": "Template",
+                "$text": "Sagoma",
                 "name": "G",
                 "typeId": "cdb0-8654-6840-1037"
               },
@@ -4333,7 +4333,7 @@
           {
             "characteristics": [
               {
-                "$text": "Template",
+                "$text": "Sagoma",
                 "name": "G",
                 "typeId": "cdb0-8654-6840-1037"
               },
@@ -10233,7 +10233,7 @@
           {
             "characteristics": [
               {
-                "$text": "Template",
+                "$text": "Sagoma",
                 "name": "G",
                 "typeId": "cdb0-8654-6840-1037"
               },
@@ -11330,8 +11330,8 @@
               }
             ],
             "name": "Bombe Fosfex",
-            "typeId": "ea01-0001-0000-0001",
-            "typeName": "Equipaggiamento - Arma a Distanza",
+            "typeId": "c591-09ed-3e6f-eb2b",
+            "typeName": "Arma a Distanza",
             "hidden": false,
             "id": "346b-bb91-350b-6e1d"
           }
@@ -11575,8 +11575,8 @@
               }
             ],
             "name": "Granate radioattive",
-            "typeId": "ea01-0001-0000-0001",
-            "typeName": "Equipaggiamento - Arma a Distanza",
+            "typeId": "c591-09ed-3e6f-eb2b",
+            "typeName": "Arma a Distanza",
             "hidden": false,
             "id": "cd07-ddf1-caeb-fcdd",
             "page": 55,
@@ -14571,8 +14571,8 @@
               }
             ],
             "name": "Granate perforanti",
-            "typeId": "ea01-0001-0000-0002",
-            "typeName": "Equipaggiamento - Arma da Mischia",
+            "typeId": "3587-6dcd-005c-c263",
+            "typeName": "Arma da Mischia",
             "hidden": false,
             "id": "18b8-b0a0-a95e-3236",
             "page": 57,
@@ -14635,8 +14635,8 @@
               }
             ],
             "name": "Bombe termiche",
-            "typeId": "ea01-0001-0000-0002",
-            "typeName": "Equipaggiamento - Arma da Mischia",
+            "typeId": "3587-6dcd-005c-c263",
+            "typeName": "Arma da Mischia",
             "hidden": false,
             "id": "d0b8-6aa6-9753-e0d9",
             "page": 57,
@@ -15576,8 +15576,8 @@
               }
             ],
             "name": "Ascia psionica",
-            "typeId": "3587-6dcd-005c-c263",
-            "typeName": "Arma da Mischia",
+            "typeId": "f553-2eab-e909-ee56",
+            "typeName": "Arma Psionica da Mischia",
             "hidden": false,
             "id": "a982-f5a5-a449-457a"
           }
@@ -15646,8 +15646,8 @@
               }
             ],
             "name": "Spada psionica",
-            "typeId": "3587-6dcd-005c-c263",
-            "typeName": "Arma da Mischia",
+            "typeId": "f553-2eab-e909-ee56",
+            "typeName": "Arma Psionica da Mischia",
             "hidden": false,
             "id": "b676-37a6-25b9-89be"
           }
@@ -15716,8 +15716,8 @@
               }
             ],
             "name": "Mazza psionica",
-            "typeId": "3587-6dcd-005c-c263",
-            "typeName": "Arma da Mischia",
+            "typeId": "f553-2eab-e909-ee56",
+            "typeName": "Arma Psionica da Mischia",
             "hidden": false,
             "id": "ea68-026b-12e9-1159"
           }
@@ -15786,8 +15786,8 @@
               }
             ],
             "name": "Bastone psionico",
-            "typeId": "3587-6dcd-005c-c263",
-            "typeName": "Arma da Mischia",
+            "typeId": "f553-2eab-e909-ee56",
+            "typeName": "Arma Psionica da Mischia",
             "hidden": false,
             "id": "9b87-fdc9-fc21-e7f4"
           }
@@ -17251,7 +17251,7 @@
           {
             "characteristics": [
               {
-                "$text": "Template",
+                "$text": "Sagoma",
                 "name": "G",
                 "typeId": "cdb0-8654-6840-1037"
               },
@@ -17343,7 +17343,7 @@
           {
             "characteristics": [
               {
-                "$text": "Template",
+                "$text": "Sagoma",
                 "name": "G",
                 "typeId": "cdb0-8654-6840-1037"
               },
@@ -17427,7 +17427,7 @@
           {
             "characteristics": [
               {
-                "$text": "Template",
+                "$text": "Sagoma",
                 "name": "G",
                 "typeId": "cdb0-8654-6840-1037"
               },
@@ -18011,7 +18011,7 @@
           {
             "characteristics": [
               {
-                "$text": "Template",
+                "$text": "Sagoma",
                 "name": "G",
                 "typeId": "cdb0-8654-6840-1037"
               },
@@ -18566,8 +18566,8 @@
               }
             ],
             "name": "Spada psionica Achea",
-            "typeId": "3587-6dcd-005c-c263",
-            "typeName": "Arma da Mischia",
+            "typeId": "f553-2eab-e909-ee56",
+            "typeName": "Arma Psionica da Mischia",
             "hidden": false,
             "id": "3f6c-10f5-a004-fa89"
           }
@@ -20461,7 +20461,7 @@
           {
             "characteristics": [
               {
-                "$text": "Template",
+                "$text": "Sagoma",
                 "name": "G",
                 "typeId": "cdb0-8654-6840-1037"
               },
@@ -20605,7 +20605,7 @@
           {
             "characteristics": [
               {
-                "$text": "Template",
+                "$text": "Sagoma",
                 "name": "G",
                 "typeId": "cdb0-8654-6840-1037"
               },
@@ -20839,8 +20839,8 @@
               }
             ],
             "name": "Pistola a fuoco eterico",
-            "typeId": "c591-09ed-3e6f-eb2b",
-            "typeName": "Arma a Distanza",
+            "typeId": "7d31-7144-3b28-c850",
+            "typeName": "Arma Psionica a Distanza",
             "hidden": false,
             "id": "9b96-7fe2-b89d-bfa4"
           }
@@ -20917,8 +20917,8 @@
               }
             ],
             "name": "Raggio a fuoco eterico",
-            "typeId": "c591-09ed-3e6f-eb2b",
-            "typeName": "Arma a Distanza",
+            "typeId": "7d31-7144-3b28-c850",
+            "typeName": "Arma Psionica a Distanza",
             "hidden": false,
             "id": "a08e-eace-92ac-3236"
           }
@@ -20986,8 +20986,8 @@
               }
             ],
             "name": "Megacannone a fuoco eterico",
-            "typeId": "c591-09ed-3e6f-eb2b",
-            "typeName": "Arma a Distanza",
+            "typeId": "7d31-7144-3b28-c850",
+            "typeName": "Arma Psionica a Distanza",
             "hidden": false,
             "id": "f5fc-ba60-2eab-528e"
           }
@@ -21353,8 +21353,8 @@
               }
             ],
             "name": "Arma corrotta",
-            "typeId": "3587-6dcd-005c-c263",
-            "typeName": "Arma da Mischia",
+            "typeId": "f553-2eab-e909-ee56",
+            "typeName": "Arma Psionica da Mischia",
             "hidden": false,
             "id": "23ae-c819-22a9-5634"
           }
@@ -22632,8 +22632,8 @@
               }
             ],
             "name": " Cannone a fuoco eterico",
-            "typeId": "c591-09ed-3e6f-eb2b",
-            "typeName": "Arma a Distanza",
+            "typeId": "7d31-7144-3b28-c850",
+            "typeName": "Arma Psionica a Distanza",
             "hidden": false,
             "id": "d334-9834-ded1-a0e7"
           }
@@ -22703,7 +22703,7 @@
           {
             "characteristics": [
               {
-                "$text": "Template",
+                "$text": "Sagoma",
                 "name": "G",
                 "typeId": "cdb0-8654-6840-1037"
               },
@@ -22789,7 +22789,7 @@
           {
             "characteristics": [
               {
-                "$text": "Template",
+                "$text": "Sagoma",
                 "name": "G",
                 "typeId": "cdb0-8654-6840-1037"
               },
@@ -22939,7 +22939,7 @@
           {
             "characteristics": [
               {
-                "$text": "Template",
+                "$text": "Sagoma",
                 "name": "G",
                 "typeId": "cdb0-8654-6840-1037"
               },
@@ -24752,7 +24752,7 @@
     "name": "Armi",
     "gameSystemId": "sys-b976-0013-2f97-437b",
     "gameSystemRevision": 1,
-    "revision": 32,
+    "revision": 33,
     "authorName": "The4D6",
     "battleScribeVersion": 2.03,
     "type": "catalogue",

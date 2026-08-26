@@ -623,8 +623,8 @@
                       }
                     ],
                     "name": "Pistola a fuoco psionico",
-                    "typeId": "c591-09ed-3e6f-eb2b",
-                    "typeName": "Arma a Distanza",
+                    "typeId": "7d31-7144-3b28-c850",
+                    "typeName": "Arma Psionica a Distanza",
                     "hidden": false,
                     "id": "5ef1-d183-36c4-d65a"
                   }
@@ -698,8 +698,8 @@
                       }
                     ],
                     "name": "La Lama di Ahn-nunurta",
-                    "typeId": "3587-6dcd-005c-c263",
-                    "typeName": "Arma da Mischia",
+                    "typeId": "f553-2eab-e909-ee56",
+                    "typeName": "Arma Psionica da Mischia",
                     "hidden": false,
                     "id": "9082-9904-f012-1675"
                   }
@@ -1706,8 +1706,8 @@
                       }
                     ],
                     "name": "Il Reliquario della Polvere",
-                    "typeId": "c591-09ed-3e6f-eb2b",
-                    "typeName": "Arma a Distanza",
+                    "typeId": "7d31-7144-3b28-c850",
+                    "typeName": "Arma Psionica a Distanza",
                     "hidden": false,
                     "id": "152d-9772-1f02-abc5"
                   },
@@ -1750,8 +1750,8 @@
                       }
                     ],
                     "name": "Il Reliquario della Polvere",
-                    "typeId": "3587-6dcd-005c-c263",
-                    "typeName": "Arma da Mischia",
+                    "typeId": "f553-2eab-e909-ee56",
+                    "typeName": "Arma Psionica da Mischia",
                     "hidden": false,
                     "id": "2267-8bc0-4242-514c"
                   }
@@ -2290,8 +2290,8 @@
                   }
                 ],
                 "name": "Schianto Biomantico",
-                "typeId": "3587-6dcd-005c-c263",
-                "typeName": "Arma da Mischia",
+                "typeId": "f553-2eab-e909-ee56",
+                "typeName": "Arma Psionica da Mischia",
                 "hidden": false,
                 "id": "4148-d052-395b-e838"
               },
@@ -2341,8 +2341,8 @@
                   }
                 ],
                 "name": "Forza Inamovibile",
-                "typeId": "c591-09ed-3e6f-eb2b",
-                "typeName": "Arma a Distanza",
+                "typeId": "7d31-7144-3b28-c850",
+                "typeName": "Arma Psionica a Distanza",
                 "hidden": false,
                 "id": "19a5-628a-ccbf-67a7"
               },
@@ -2392,8 +2392,8 @@
                   }
                 ],
                 "name": "Fuoco Selvaggio",
-                "typeId": "c591-09ed-3e6f-eb2b",
-                "typeName": "Arma a Distanza",
+                "typeId": "7d31-7144-3b28-c850",
+                "typeName": "Arma Psionica a Distanza",
                 "hidden": false,
                 "id": "f1f8-a26d-3d03-84fa"
               }
@@ -2553,8 +2553,8 @@
                       }
                     ],
                     "name": "Bastone Prosperino",
-                    "typeId": "3587-6dcd-005c-c263",
-                    "typeName": "Arma da Mischia",
+                    "typeId": "f553-2eab-e909-ee56",
+                    "typeName": "Arma Psionica da Mischia",
                     "hidden": false,
                     "id": "3140-b808-5f5f-0370"
                   }
@@ -4374,8 +4374,8 @@
               }
             ],
             "name": "Spada psionica Achea in coppia",
-            "typeId": "3587-6dcd-005c-c263",
-            "typeName": "Arma da Mischia",
+            "typeId": "f553-2eab-e909-ee56",
+            "typeName": "Arma Psionica da Mischia",
             "hidden": false,
             "id": "f922-8ed8-f5f2-6e1f"
           }
@@ -5301,6 +5301,14 @@
             "typeName": "Reazione Psionica",
             "hidden": false,
             "id": "8efd-a0ab-75fb-c62a"
+          },
+          {
+            "characteristics": [],
+            "name": "Khenetai",
+            "typeId": "d5a9-9164-1e30-7a35",
+            "typeName": "Tratti",
+            "hidden": false,
+            "id": "ea01-0003-0000-00ff"
           }
         ],
         "infoLinks": [
@@ -5708,8 +5716,8 @@
                       }
                     ],
                     "name": "Lama psionica Gravis",
-                    "typeId": "3587-6dcd-005c-c263",
-                    "typeName": "Arma da Mischia",
+                    "typeId": "f553-2eab-e909-ee56",
+                    "typeName": "Arma Psionica da Mischia",
                     "hidden": false,
                     "id": "9d69-997f-7ad1-2026"
                   }
@@ -6616,8 +6624,8 @@
                       }
                     ],
                     "name": "Artigli psionici Achea",
-                    "typeId": "3587-6dcd-005c-c263",
-                    "typeName": "Arma da Mischia",
+                    "typeId": "f553-2eab-e909-ee56",
+                    "typeName": "Arma Psionica da Mischia",
                     "hidden": false,
                     "id": "0d8d-2b42-d63f-6a23"
                   }
@@ -6807,8 +6815,8 @@
                           }
                         ],
                         "name": "Cannone requiem Asphyx",
-                        "typeId": "c591-09ed-3e6f-eb2b",
-                        "typeName": "Arma a Distanza",
+                        "typeId": "7d31-7144-3b28-c850",
+                        "typeName": "Arma Psionica a Distanza",
                         "hidden": false,
                         "id": "87e5-2f76-8682-9b53"
                       }
@@ -10772,7 +10780,7 @@
     "name": "                        XV - Stirpe dei Mille",
     "gameSystemId": "sys-b976-0013-2f97-437b",
     "gameSystemRevision": 1,
-    "revision": 21,
+    "revision": 22,
     "authorUrl": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita",
     "authorContact": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita/issues",
     "authorName": "Arkangelmark5",

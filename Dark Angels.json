@@ -5019,7 +5019,7 @@
           {
             "characteristics": [
               {
-                "$text": "Template",
+                "$text": "Sagoma",
                 "name": "G",
                 "typeId": "cdb0-8654-6840-1037"
               },
@@ -5063,7 +5063,7 @@
           {
             "characteristics": [
               {
-                "$text": "Template",
+                "$text": "Sagoma",
                 "name": "G",
                 "typeId": "cdb0-8654-6840-1037"
               },
@@ -5163,7 +5163,7 @@
           {
             "characteristics": [
               {
-                "$text": "Template",
+                "$text": "Sagoma",
                 "name": "G",
                 "typeId": "cdb0-8654-6840-1037"
               },
@@ -5207,7 +5207,7 @@
           {
             "characteristics": [
               {
-                "$text": "Template",
+                "$text": "Sagoma",
                 "name": "G",
                 "typeId": "cdb0-8654-6840-1037"
               },
@@ -5307,7 +5307,7 @@
           {
             "characteristics": [
               {
-                "$text": "Template",
+                "$text": "Sagoma",
                 "name": "G",
                 "typeId": "cdb0-8654-6840-1037"
               },
@@ -5351,7 +5351,7 @@
           {
             "characteristics": [
               {
-                "$text": "Template",
+                "$text": "Sagoma",
                 "name": "G",
                 "typeId": "cdb0-8654-6840-1037"
               },
@@ -9708,7 +9708,7 @@
                   {
                     "characteristics": [
                       {
-                        "$text": "Template",
+                        "$text": "Sagoma",
                         "name": "G",
                         "typeId": "cdb0-8654-6840-1037"
                       },
@@ -11916,7 +11916,7 @@
     "name": "                         I - Angeli Oscuri",
     "gameSystemId": "sys-b976-0013-2f97-437b",
     "gameSystemRevision": 1,
-    "revision": 21,
+    "revision": 22,
     "authorUrl": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita",
     "authorContact": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita/issues",
     "authorName": "The4D6",

@@ -222372,6 +222372,14 @@
                 "hidden": false,
                 "id": "c129-33fb-09a4-158e",
                 "publicationId": "e54c-7040-0f35-d85d"
+              },
+              {
+                "characteristics": [],
+                "name": "Athanaean",
+                "typeId": "d5a9-9164-1e30-7a35",
+                "typeName": "Tratti",
+                "hidden": false,
+                "id": "ea01-0003-0000-0007"
               }
             ],
             "infoLinks": [
@@ -222612,6 +222620,14 @@
                 "typeName": "Arma Psionica a Distanza",
                 "hidden": false,
                 "id": "19a5-f8c9-01a8-0815"
+              },
+              {
+                "characteristics": [],
+                "name": "Pavoni",
+                "typeId": "d5a9-9164-1e30-7a35",
+                "typeName": "Tratti",
+                "hidden": false,
+                "id": "ea01-0003-0000-0008"
               }
             ],
             "infoLinks": [
@@ -222743,6 +222759,14 @@
                 "typeName": "Arma Psionica da Mischia",
                 "hidden": false,
                 "id": "edb9-a11c-a6f4-a6c6"
+              },
+              {
+                "characteristics": [],
+                "name": "Pirae",
+                "typeId": "d5a9-9164-1e30-7a35",
+                "typeName": "Tratti",
+                "hidden": false,
+                "id": "ea01-0003-0000-0009"
               }
             ],
             "infoLinks": [
@@ -222948,6 +222972,14 @@
                 "typeName": "Arma Psionica a Distanza",
                 "hidden": false,
                 "id": "6839-ed41-6a24-3f0d"
+              },
+              {
+                "characteristics": [],
+                "name": "Raptora",
+                "typeId": "d5a9-9164-1e30-7a35",
+                "typeName": "Tratti",
+                "hidden": false,
+                "id": "ea01-0003-0000-000a"
               }
             ],
             "type": "upgrade",
@@ -223025,6 +223057,14 @@
                 "typeName": "Potere Psionico",
                 "hidden": false,
                 "id": "d3b1-69d4-87ed-4dfa"
+              },
+              {
+                "characteristics": [],
+                "name": "Osiraean",
+                "typeId": "d5a9-9164-1e30-7a35",
+                "typeName": "Tratti",
+                "hidden": false,
+                "id": "ea01-0003-0000-000b"
               }
             ],
             "costs": [
@@ -228648,7 +228688,7 @@
                   {
                     "characteristics": [
                       {
-                        "$text": "\"I Modelli con questa Regola Speciale subiscono danni maggiori dai Pericoli del Warp.\"\n\n\nQuando un’Unità che include Modelli con questa Regola Speciale subisce i Pericoli del Warp e ottiene un risultato di Frattura Warp, tutti i Modelli con questa Regola Speciale in quell’Unità hanno la loro Caratteristica Volontà impostata a 5 mentre si risolve quel caso di Pericoli del Warp.",
+                        "$text": "Quando un’Unità che include Modelli con questa Regola Speciale subisce i Pericoli del Warp e ottiene un risultato di Frattura Warp, tutti i Modelli con questa Regola Speciale in quell’Unità hanno la loro Caratteristica Volontà impostata a 5 mentre si risolve quel caso di Pericoli del Warp.",
                         "name": "Descrizione",
                         "typeId": "d5eb-0b8b-0f26-6233"
                       }
@@ -238063,7 +238103,7 @@
     "name": "Legiones Astartes",
     "gameSystemId": "sys-b976-0013-2f97-437b",
     "gameSystemRevision": 1,
-    "revision": 65,
+    "revision": 66,
     "authorName": "The4D6",
     "battleScribeVersion": 2.03,
     "type": "catalogue",

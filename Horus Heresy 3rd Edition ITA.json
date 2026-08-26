@@ -88772,42 +88772,6 @@
         "id": "ea01-0001-0000-0001",
         "hidden": false,
         "sortIndex": 10
-      },
-      {
-        "characteristicTypes": [
-          {
-            "name": "MI",
-            "id": "6eec-4093-f946-1014"
-          },
-          {
-            "name": "MA",
-            "id": "03d0-6094-84f0-e27e"
-          },
-          {
-            "name": "MF",
-            "id": "4505-de6f-d4ae-6280"
-          },
-          {
-            "name": "VP",
-            "id": "a014-126b-3b7b-27e8"
-          },
-          {
-            "name": "D",
-            "id": "6a9d-4feb-065a-33e7"
-          },
-          {
-            "name": "Regole Speciali",
-            "id": "ebe0-7b28-b40c-694e"
-          },
-          {
-            "name": "Tratti",
-            "id": "76e3-c188-bc65-3467"
-          }
-        ],
-        "name": "Equipaggiamento - Arma da Mischia",
-        "id": "ea01-0001-0000-0002",
-        "hidden": false,
-        "sortIndex": 11
       }
     ],
     "sharedSelectionEntryGroups": [
@@ -91701,7 +91665,7 @@
     "id": "sys-b976-0013-2f97-437b",
     "name": "Horus Heresy 3ª Edizione ITA",
     "battleScribeVersion": 2.03,
-    "revision": 61,
+    "revision": 62,
     "type": "gameSystem",
     "authorName": "The4D6",
     "authorContact": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita/issues",

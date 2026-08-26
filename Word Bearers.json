@@ -881,7 +881,7 @@
                   {
                     "characteristics": [
                       {
-                        "$text": "Template",
+                        "$text": "Sagoma",
                         "name": "G",
                         "typeId": "cdb0-8654-6840-1037"
                       },
@@ -1259,8 +1259,8 @@
                       }
                     ],
                     "name": "Crux malefica",
-                    "typeId": "3587-6dcd-005c-c263",
-                    "typeName": "Arma da Mischia",
+                    "typeId": "f553-2eab-e909-ee56",
+                    "typeName": "Arma Psionica da Mischia",
                     "hidden": false,
                     "id": "a179-a540-f854-2471"
                   }
@@ -1836,8 +1836,8 @@
                       }
                     ],
                     "name": "Artigli demoniaci",
-                    "typeId": "3587-6dcd-005c-c263",
-                    "typeName": "Arma da Mischia",
+                    "typeId": "f553-2eab-e909-ee56",
+                    "typeName": "Arma Psionica da Mischia",
                     "hidden": false,
                     "id": "2f25-68b2-0e9d-654e"
                   }
@@ -2147,7 +2147,7 @@
                 "targetId": "0612-95d5-46ae-c5ee"
               },
               {
-                "name": "Breccia nel Velo",
+                "name": "Squarciare il Velo",
                 "id": "fd29-0fd6-dfc1-656e",
                 "hidden": false,
                 "type": "profile",
@@ -2382,8 +2382,8 @@
                       }
                     ],
                     "name": "Azurda Char’is",
-                    "typeId": "3587-6dcd-005c-c263",
-                    "typeName": "Arma da Mischia",
+                    "typeId": "f553-2eab-e909-ee56",
+                    "typeName": "Arma Psionica da Mischia",
                     "hidden": false,
                     "id": "858a-6c3c-4bad-bf7c"
                   }
@@ -2747,8 +2747,8 @@
                       }
                     ],
                     "name": "Lama Anakatis",
-                    "typeId": "3587-6dcd-005c-c263",
-                    "typeName": "Arma da Mischia",
+                    "typeId": "f553-2eab-e909-ee56",
+                    "typeName": "Arma Psionica da Mischia",
                     "hidden": false,
                     "id": "c75c-97d5-4581-b361"
                   }
@@ -3277,8 +3277,8 @@
                       }
                     ],
                     "name": "Artigli corrotti",
-                    "typeId": "3587-6dcd-005c-c263",
-                    "typeName": "Arma da Mischia",
+                    "typeId": "f553-2eab-e909-ee56",
+                    "typeName": "Arma Psionica da Mischia",
                     "hidden": false,
                     "id": "a100-88a6-6152-95a7"
                   }
@@ -3919,7 +3919,7 @@
                   {
                     "characteristics": [
                       {
-                        "$text": "Template",
+                        "$text": "Sagoma",
                         "name": "G",
                         "typeId": "cdb0-8654-6840-1037"
                       },
@@ -4083,8 +4083,8 @@
                       }
                     ],
                     "name": "Chela corrotta",
-                    "typeId": "3587-6dcd-005c-c263",
-                    "typeName": "Arma da Mischia",
+                    "typeId": "f553-2eab-e909-ee56",
+                    "typeName": "Arma Psionica da Mischia",
                     "hidden": false,
                     "id": "948e-f9b6-ad83-0a55"
                   }
@@ -5283,7 +5283,7 @@
           {
             "characteristics": [
               {
-                "$text": "Template",
+                "$text": "Sagoma",
                 "name": "G",
                 "typeId": "cdb0-8654-6840-1037"
               },
@@ -12890,7 +12890,7 @@
     "name": "                        XVII - Predicatori",
     "gameSystemId": "sys-b976-0013-2f97-437b",
     "gameSystemRevision": 1,
-    "revision": 23,
+    "revision": 24,
     "authorUrl": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita",
     "authorContact": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita/issues",
     "authorName": "Arkangelmark5",

@@ -5596,7 +5596,17 @@
         "hidden": false,
         "id": "0fe3-fde9-4086-e3ab",
         "publicationId": "b905-0414-1057-bb34",
-        "page": 172
+        "page": 172,
+        "profiles": [
+          {
+            "characteristics": [],
+            "name": "Sacerdote delle Rune",
+            "typeId": "d5a9-9164-1e30-7a35",
+            "typeName": "Tratti",
+            "hidden": false,
+            "id": "ea01-0003-0000-000c"
+          }
+        ]
       },
       {
         "profiles": [
@@ -6353,7 +6363,7 @@
           {
             "characteristics": [
               {
-                "$text": "Template",
+                "$text": "Sagoma",
                 "name": "G",
                 "typeId": "cdb0-8654-6840-1037"
               },
@@ -6389,20 +6399,20 @@
               }
             ],
             "name": "Ira del Lupo della Morte",
-            "typeId": "c591-09ed-3e6f-eb2b",
-            "typeName": "Arma a Distanza",
+            "typeId": "7d31-7144-3b28-c850",
+            "typeName": "Arma Psionica a Distanza",
             "hidden": false,
             "id": "1e55-1082-b12a-97cb"
           },
           {
             "characteristics": [
               {
-                "$text": "Il Giocatore Reattivo può scegliere di dichiarare una Reazione Psionica Forgiato dalla Tempesta nella Fase di Tiro, all’inizio del Passaggio 3 di un Attacco a Distanza effettuato dal Giocatore Attivo.",
+                "$text": "Il Giocatore Reattivo può scegliere di dichiarare una Reazione Psionica Avvolto dalla Tempesta nella Fase di Tiro, all’inizio del Passaggio 3 di un Attacco a Distanza effettuato dal Giocatore Attivo.",
                 "name": "Innesco",
                 "typeId": "4e6b-ebca-53df-fcf7"
               },
               {
-                "$text": "Il Giocatore Reattivo deve spendere 1 Punto Reazione per dichiarare una Reazione Psionica Forgiato dalla Tempesta; questo costo viene pagato non appena viene effettuata la dichiarazione.",
+                "$text": "Il Giocatore Reattivo deve spendere 1 Punto Reazione per dichiarare una Reazione Psionica Avvolto dalla Tempesta; questo costo viene pagato non appena viene effettuata la dichiarazione.",
                 "name": "Costo",
                 "typeId": "f25a-9ced-eb9b-4587"
               },
@@ -6427,7 +6437,7 @@
                 "typeId": "8d43-934e-e511-0cfd"
               }
             ],
-            "name": "Forgiato dalla Tempesta",
+            "name": "Avvolto dalla Tempesta",
             "typeId": "d59e-df4b-630f-f185",
             "typeName": "Reazione Psionica",
             "hidden": false,
@@ -13303,7 +13313,7 @@
     "name": "                         VI - Lupi Siderali",
     "gameSystemId": "sys-b976-0013-2f97-437b",
     "gameSystemRevision": 1,
-    "revision": 24,
+    "revision": 25,
     "authorUrl": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita",
     "authorContact": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita/issues",
     "authorName": "The4D6",
