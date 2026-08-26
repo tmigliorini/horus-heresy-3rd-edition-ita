@@ -266,7 +266,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Duellist's Edge (2)",
+                    "value": "Maestria del Duellante (2)",
                     "field": "name"
                   }
                 ],
@@ -877,7 +877,7 @@
                   },
                   {
                     "import": true,
-                    "name": "Armi Combi di Legione",
+                    "name": "Combiarmi della Legione",
                     "hidden": false,
                     "id": "9353-43c9-156c-7bc3",
                     "type": "selectionEntryGroup",
@@ -1358,7 +1358,7 @@
                       },
                       {
                         "type": "replace",
-                        "value": "Sergeant, Champion",
+                        "value": "Sergente, Campione",
                         "field": "50fc-9241-d4a2-045b",
                         "arg": "Sergeant"
                       }
@@ -1516,7 +1516,7 @@
                   },
                   {
                     "import": true,
-                    "name": "Armi Combi di Legione",
+                    "name": "Combiarmi della Legione",
                     "hidden": false,
                     "id": "4877-e1a7-5b42-067d",
                     "type": "selectionEntryGroup",
@@ -1912,7 +1912,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Eternal Warrior (1)",
+                "value": "Guerriero Eterno (1)",
                 "field": "name"
               }
             ],
@@ -2373,7 +2373,7 @@
                       },
                       {
                         "type": "replace",
-                        "value": "Sergeant, Champion",
+                        "value": "Sergente, Campione",
                         "field": "50fc-9241-d4a2-045b",
                         "arg": "Sergeant"
                       }
@@ -2525,7 +2525,7 @@
                   }
                 ],
                 "import": true,
-                "name": "Bombe phosphex",
+                "name": "Bombe Fosfex",
                 "hidden": false,
                 "id": "dfe4-79b6-a18b-b3b0",
                 "type": "selectionEntry",
@@ -2831,7 +2831,7 @@
                           }
                         ],
                         "import": true,
-                        "name": "Lanciamissili Distruttore con missili Rad e missili Stasi",
+                        "name": "Lanciamissili dei Distruttori con Missile Rad e Missile Stasi",
                         "hidden": false,
                         "id": "8507-5662-c6b1-71d6",
                         "type": "selectionEntry",
@@ -2982,7 +2982,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Support Unit (1)",
+                "value": "Unità di Supporto (1)",
                 "field": "name"
               }
             ],
@@ -3486,7 +3486,7 @@
                       },
                       {
                         "type": "replace",
-                        "value": "Sergeant, Champion",
+                        "value": "Sergente, Campione",
                         "field": "50fc-9241-d4a2-045b",
                         "arg": "Sergeant"
                       }
@@ -3769,7 +3769,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Bulky (2)",
+                "value": "Imponente (2)",
                 "field": "name"
               }
             ],
@@ -4029,7 +4029,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Bulky (4)",
+                    "value": "Imponente (4)",
                     "field": "name"
                   }
                 ],
@@ -4068,7 +4068,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Eternal Warrior (2)",
+                    "value": "Guerriero Eterno (2)",
                     "field": "name"
                   }
                 ],
@@ -4230,7 +4230,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Breaching (4+)",
+                    "value": "Perforante (4+)",
                     "field": "name"
                   }
                 ],
@@ -4468,7 +4468,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Shred (4+)",
+                        "value": "Lacerante (4+)",
                         "field": "name"
                       }
                     ],
@@ -4482,7 +4482,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Breaching (4+)",
+                        "value": "Perforante (4+)",
                         "field": "name"
                       }
                     ],
@@ -4497,7 +4497,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Reaping Blow (2)",
+                        "value": "Colpo Mietitore (2)",
                         "field": "name"
                       }
                     ],
@@ -4598,7 +4598,7 @@
               }
             ],
             "import": true,
-            "name": "Bombe phosphex",
+            "name": "Bombe Fosfex",
             "hidden": false,
             "id": "00b1-d389-28be-b163",
             "type": "selectionEntry",
@@ -4760,7 +4760,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Bulky (2)",
+                    "value": "Imponente (2)",
                     "field": "name"
                   }
                 ],
@@ -5054,7 +5054,7 @@
                 "typeId": "1247-79d2-6cc1-8a03"
               }
             ],
-            "name": "Bruciatore plasma (Sustained)",
+            "name": "Bruciatore plasma (Fuoco sostenuto)",
             "typeId": "c591-09ed-3e6f-eb2b",
             "typeName": "Arma a Distanza",
             "hidden": false,
@@ -5098,7 +5098,7 @@
                 "typeId": "1247-79d2-6cc1-8a03"
               }
             ],
-            "name": "Bruciatore plasma (Maximal)",
+            "name": "Bruciatore plasma (Fuoco massiccio)",
             "typeId": "c591-09ed-3e6f-eb2b",
             "typeName": "Arma a Distanza",
             "hidden": false,
@@ -5110,7 +5110,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (6+) (Sustained)",
+                "value": "Perforante (6+) (Fuoco sostenuto)",
                 "field": "name"
               }
             ],
@@ -5125,7 +5125,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (5+) (Maximal)",
+                "value": "Perforante (5+) (Fuoco massiccio)",
                 "field": "name"
               }
             ],
@@ -5140,7 +5140,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Overload (1)",
+                "value": "Surriscaldamento (1)",
                 "field": "name"
               }
             ],
@@ -5198,7 +5198,7 @@
                 "typeId": "1247-79d2-6cc1-8a03"
               }
             ],
-            "name": "Eiettore plasma (Sustained)",
+            "name": "Eiettore plasma (Fuoco sostenuto)",
             "typeId": "c591-09ed-3e6f-eb2b",
             "typeName": "Arma a Distanza",
             "hidden": false,
@@ -5242,7 +5242,7 @@
                 "typeId": "1247-79d2-6cc1-8a03"
               }
             ],
-            "name": "Eiettore plasma (Maximal)",
+            "name": "Eiettore plasma (Fuoco massiccio)",
             "typeId": "c591-09ed-3e6f-eb2b",
             "typeName": "Arma a Distanza",
             "hidden": false,
@@ -5254,7 +5254,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (6+) (Sustained)",
+                "value": "Perforante (6+) (Fuoco sostenuto)",
                 "field": "name"
               }
             ],
@@ -5269,7 +5269,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (5+) (Maximal)",
+                "value": "Perforante (5+) (Fuoco massiccio)",
                 "field": "name"
               }
             ],
@@ -5284,7 +5284,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Overload (1)",
+                "value": "Surriscaldamento (1)",
                 "field": "name"
               }
             ],
@@ -5342,7 +5342,7 @@
                 "typeId": "1247-79d2-6cc1-8a03"
               }
             ],
-            "name": "Inceneritore plasma (Sustained)",
+            "name": "Inceneritore plasma (Fuoco sostenuto)",
             "typeId": "c591-09ed-3e6f-eb2b",
             "typeName": "Arma a Distanza",
             "hidden": false,
@@ -5386,7 +5386,7 @@
                 "typeId": "1247-79d2-6cc1-8a03"
               }
             ],
-            "name": "Inceneritore plasma (Maximal)",
+            "name": "Inceneritore plasma (Fuoco massiccio)",
             "typeId": "c591-09ed-3e6f-eb2b",
             "typeName": "Arma a Distanza",
             "hidden": false,
@@ -5398,7 +5398,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (6+) (Sustained)",
+                "value": "Perforante (6+) (Fuoco sostenuto)",
                 "field": "name"
               }
             ],
@@ -5413,7 +5413,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (5+) (Maximal)",
+                "value": "Perforante (5+) (Fuoco massiccio)",
                 "field": "name"
               }
             ],
@@ -5428,7 +5428,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Overload (1)",
+                "value": "Surriscaldamento (1)",
                 "field": "name"
               }
             ],
@@ -5476,7 +5476,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Poisoned (2+)",
+                "value": "Avvelenato (2+)",
                 "field": "name"
               }
             ],
@@ -5490,7 +5490,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Phage (T)",
+                "value": "Corrosivo (Re)",
                 "field": "name"
               }
             ],
@@ -5504,7 +5504,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Blast (3\")",
+                "value": "Area (3\")",
                 "field": "name"
               }
             ],
@@ -5518,7 +5518,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Stun (3)",
+                "value": "Stordimento (3)",
                 "field": "name"
               }
             ],
@@ -5621,7 +5621,7 @@
         ],
         "type": "upgrade",
         "import": true,
-        "name": "Lanciamissili Distruttore con missili Rad e missili Stasi",
+        "name": "Lanciamissili dei Distruttori con Missile Rad e Missile Stasi",
         "hidden": false,
         "id": "1109-8c89-3feb-323f"
       },
@@ -5788,7 +5788,7 @@
                     "type": "and"
                   }
                 ],
-                "name": "Compagno Cataphractii",
+                "name": "Compagno Catafratto",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo",
                 "hidden": false,
@@ -5923,7 +5923,7 @@
                     "entryLinks": [
                       {
                         "import": true,
-                        "name": "Armi Combi di Legione",
+                        "name": "Combiarmi della Legione",
                         "hidden": false,
                         "id": "71a1-d9e5-5f8c-b94c",
                         "type": "selectionEntryGroup",
@@ -6090,7 +6090,7 @@
             ],
             "type": "model",
             "import": true,
-            "name": "Compagno Cataphractii",
+            "name": "Compagno Catafratto",
             "hidden": false,
             "id": "052b-35d4-ecc9-ac9c",
             "collective": false,
@@ -6229,7 +6229,7 @@
                       },
                       {
                         "type": "replace",
-                        "value": "Sergeant, Champion",
+                        "value": "Sergente, Campione",
                         "field": "50fc-9241-d4a2-045b",
                         "arg": "Sergeant"
                       }
@@ -6307,7 +6307,7 @@
                     "type": "and"
                   }
                 ],
-                "name": "Portatore del Giuramento Cataphractii",
+                "name": "Vincolato Catafratto",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo",
                 "hidden": false,
@@ -6442,7 +6442,7 @@
                     "entryLinks": [
                       {
                         "import": true,
-                        "name": "Armi Combi di Legione",
+                        "name": "Combiarmi della Legione",
                         "hidden": false,
                         "id": "06c8-440b-fb34-068b",
                         "type": "selectionEntryGroup",
@@ -6661,7 +6661,7 @@
             ],
             "type": "model",
             "import": true,
-            "name": "Portatore del Giuramento Cataphractii",
+            "name": "Vincolato Catafratto",
             "hidden": false,
             "id": "0955-0337-89e4-c40b",
             "sortIndex": 1
@@ -6730,7 +6730,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Eternal Warrior (1)",
+                "value": "Guerriero Eterno (1)",
                 "field": "name"
               }
             ],
@@ -6752,7 +6752,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Bulky (2)",
+                "value": "Imponente (2)",
                 "field": "name"
               }
             ],
@@ -6809,7 +6809,7 @@
         "comment": "Retinue",
         "type": "unit",
         "import": false,
-        "name": "Compagni dell’Ala di Morte Terminator Cataphractii",
+        "name": "Compagni Terminator Catafratti dell’Ala della Morte",
         "hidden": false,
         "id": "cb0f-4537-6a7e-4ed7"
       },
@@ -7111,7 +7111,7 @@
                     "entryLinks": [
                       {
                         "import": true,
-                        "name": "Armi Combi di Legione",
+                        "name": "Combiarmi della Legione",
                         "hidden": false,
                         "id": "5d1e-47f4-a0a1-89c4",
                         "type": "selectionEntryGroup",
@@ -7405,7 +7405,7 @@
                       },
                       {
                         "type": "replace",
-                        "value": "Sergeant, Champion",
+                        "value": "Sergente, Campione",
                         "field": "50fc-9241-d4a2-045b",
                         "arg": "Sergeant"
                       }
@@ -7618,7 +7618,7 @@
                     "entryLinks": [
                       {
                         "import": true,
-                        "name": "Armi Combi di Legione",
+                        "name": "Combiarmi della Legione",
                         "hidden": false,
                         "id": "d53b-98e2-085c-b29f",
                         "type": "selectionEntryGroup",
@@ -7890,7 +7890,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Eternal Warrior (1)",
+                "value": "Guerriero Eterno (1)",
                 "field": "name"
               }
             ],
@@ -7912,7 +7912,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Bulky (2)",
+                "value": "Imponente (2)",
                 "field": "name"
               }
             ],
@@ -8415,7 +8415,7 @@
                       },
                       {
                         "type": "replace",
-                        "value": "Sergeant, Champion",
+                        "value": "Sergente, Campione",
                         "field": "50fc-9241-d4a2-045b",
                         "arg": "Sergeant"
                       }
@@ -8708,7 +8708,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Bulky (2)",
+                "value": "Imponente (2)",
                 "field": "name"
               }
             ],
@@ -9089,7 +9089,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Breaching (5+)",
+                    "value": "Perforante (5+)",
                     "field": "name"
                   }
                 ],
@@ -9103,7 +9103,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Reaping Blow (2)",
+                    "value": "Colpo Mietitore (2)",
                     "field": "name"
                   }
                 ],
@@ -9206,7 +9206,7 @@
               }
             ],
             "import": true,
-            "name": "Missile cacciatore",
+            "name": "Missile Cacciatore",
             "hidden": false,
             "id": "3097-5511-b291-9218",
             "type": "selectionEntry",
@@ -9225,7 +9225,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Bulky (6)",
+                "value": "Imponente (6)",
                 "field": "name"
               }
             ],
@@ -9240,7 +9240,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Explodes (5+)",
+                "value": "Esplosione (5+)",
                 "field": "name"
               }
             ],
@@ -9256,7 +9256,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Firing Protocols (3)",
+                "value": "Protocolli di Tiro (3)",
                 "field": "name"
               }
             ],
@@ -9271,7 +9271,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Eternal Warrior (1)",
+                "value": "Guerriero Eterno (1)",
                 "field": "name"
               }
             ],
@@ -9380,7 +9380,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Blast (3\")",
+                        "value": "Area (3\")",
                         "field": "name"
                       }
                     ],
@@ -9395,7 +9395,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Barrage (2)",
+                        "value": "Bombardamento (2)",
                         "field": "name"
                       }
                     ],
@@ -9410,7 +9410,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Pinning (3)",
+                        "value": "Inchiodamento (3)",
                         "field": "name"
                       }
                     ],
@@ -9425,7 +9425,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Poisoned (2+)",
+                        "value": "Avvelenato (2+)",
                         "field": "name"
                       }
                     ],
@@ -9440,7 +9440,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Phage (T)",
+                        "value": "Corrosivo (Re)",
                         "field": "name"
                       }
                     ],
@@ -9492,7 +9492,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Poisoned (2+)",
+                        "value": "Avvelenato (2+)",
                         "field": "name"
                       }
                     ],
@@ -9507,7 +9507,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Panic (1)",
+                        "value": "Panico (1)",
                         "field": "name"
                       }
                     ],
@@ -9658,7 +9658,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Shock (Suppressed)",
+                        "value": "Scossa (Soppresso)",
                         "field": "name"
                       }
                     ],
@@ -9763,7 +9763,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Breaching (5+)",
+                        "value": "Perforante (5+)",
                         "field": "name"
                       }
                     ],
@@ -9778,7 +9778,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Shock (Pinned)",
+                        "value": "Scossa (Inchiodato)",
                         "field": "name"
                       }
                     ],
@@ -9793,7 +9793,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Pinning (3)",
+                        "value": "Inchiodamento (3)",
                         "field": "name"
                       }
                     ],
@@ -10112,7 +10112,7 @@
                     "scope": "roster",
                     "childId": "1792-ddc3-0761-cccd",
                     "shared": true,
-                    "childName": "Primary - Crusade Primary Detachment"
+                    "childName": "Principale - Distaccamento Principale da Crociata"
                   },
                   {
                     "type": "atLeast",
@@ -10121,7 +10121,7 @@
                     "scope": "roster",
                     "childId": "33cf-087a-39ee-2532",
                     "shared": true,
-                    "childName": "Primary - Zone Mortalis Strike Force"
+                    "childName": "Principale - Forza d’Attacco Zone Mortalis"
                   },
                   {
                     "type": "atLeast",
@@ -10130,7 +10130,7 @@
                     "scope": "roster",
                     "childId": "a4bf-9629-2065-4885",
                     "shared": true,
-                    "childName": "Primary - Zone Mortalis Bulkwark"
+                    "childName": "Principale - Bastione Zone Mortalis"
                   },
                   {
                     "type": "atLeast",
@@ -10139,7 +10139,7 @@
                     "scope": "roster",
                     "childId": "e46a-e7a0-2dfe-66cf",
                     "shared": true,
-                    "childName": "Primary - Zone Mortalis Linebreaker"
+                    "childName": "Principale - Spezzalinee Zone Mortalis"
                   }
                 ],
                 "type": "or"
@@ -10442,7 +10442,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Breaching (6+)",
+                        "value": "Perforante (6+)",
                         "field": "name"
                       }
                     ],
@@ -10532,7 +10532,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Poisoned (3+)",
+                        "value": "Avvelenato (3+)",
                         "field": "name"
                       }
                     ],
@@ -10554,7 +10554,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Pinning (1)",
+                        "value": "Inchiodamento (1)",
                         "field": "name"
                       }
                     ],
@@ -10665,7 +10665,7 @@
                     "typeId": "1247-79d2-6cc1-8a03"
                   }
                 ],
-                "name": "Lanciamissili Enigmatus (Frag missile)",
+                "name": "Lanciamissili Enigmatus (Missile a frammentazione)",
                 "typeId": "c591-09ed-3e6f-eb2b",
                 "typeName": "Arma a Distanza",
                 "hidden": false,
@@ -10709,7 +10709,7 @@
                     "typeId": "1247-79d2-6cc1-8a03"
                   }
                 ],
-                "name": "Lanciamissili Enigmatus (Krak missile)",
+                "name": "Lanciamissili Enigmatus (Missile perforante)",
                 "typeId": "c591-09ed-3e6f-eb2b",
                 "typeName": "Arma a Distanza",
                 "hidden": false,
@@ -10753,7 +10753,7 @@
                     "typeId": "1247-79d2-6cc1-8a03"
                   }
                 ],
-                "name": "Lanciamissili Enigmatus (Stasis missile)",
+                "name": "Lanciamissili Enigmatus (Missile Stasi)",
                 "typeId": "c591-09ed-3e6f-eb2b",
                 "typeName": "Arma a Distanza",
                 "hidden": false,
@@ -10933,7 +10933,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Bulky (2)",
+                "value": "Imponente (2)",
                 "field": "name"
               }
             ],
@@ -10955,7 +10955,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Vanguard (2)",
+                "value": "Avanguardia (2)",
                 "field": "name"
               }
             ],
@@ -10980,7 +10980,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Marked for Death (1)",
+                "value": "Marchiato per la Morte (1)",
                 "field": "name"
               }
             ],
@@ -11599,7 +11599,7 @@
           }
         ],
         "import": true,
-        "name": "Compagni dell’Ala di Morte Terminator Cataphractii",
+        "name": "Compagni Terminator Catafratti dell’Ala della Morte",
         "hidden": false,
         "id": "291e-d41c-92b7-9863",
         "type": "selectionEntry",

@@ -456,7 +456,7 @@
                           }
                         ],
                         "import": true,
-                        "name": "Armi Combi di Legione",
+                        "name": "Combiarmi della Legione",
                         "hidden": false,
                         "id": "729d-c224-be53-308d",
                         "type": "selectionEntryGroup",
@@ -743,7 +743,7 @@
                       },
                       {
                         "type": "replace",
-                        "value": "Sergeant, Champion",
+                        "value": "Sergente, Campione",
                         "field": "50fc-9241-d4a2-045b",
                         "arg": "Sergeant"
                       }
@@ -1176,7 +1176,7 @@
                           }
                         ],
                         "import": true,
-                        "name": "Armi Combi di Legione",
+                        "name": "Combiarmi della Legione",
                         "hidden": false,
                         "id": "6790-641f-2344-b683",
                         "type": "selectionEntryGroup",
@@ -1256,7 +1256,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Bulky (2)",
+                "value": "Imponente (2)",
                 "field": "name"
               }
             ],
@@ -1284,7 +1284,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Vanguard (4)",
+                "value": "Avanguardia (4)",
                 "field": "name"
               }
             ],
@@ -1547,7 +1547,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Panic (1)",
+                        "value": "Panico (1)",
                         "field": "name"
                       }
                     ],
@@ -1638,7 +1638,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Critical Hit (5+)",
+                        "value": "Colpo Critico (5+)",
                         "field": "name"
                       }
                     ],
@@ -1737,7 +1737,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Panic (2)",
+                        "value": "Panico (2)",
                         "field": "name"
                       }
                     ],
@@ -1844,7 +1844,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Eternal Warrior (3)",
+                    "value": "Guerriero Eterno (3)",
                     "field": "name"
                   }
                 ],
@@ -1858,7 +1858,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Bulky (5)",
+                    "value": "Imponente (5)",
                     "field": "name"
                   }
                 ],
@@ -2367,7 +2367,7 @@
                       },
                       {
                         "type": "replace",
-                        "value": "Sergeant, Champion",
+                        "value": "Sergente, Campione",
                         "field": "50fc-9241-d4a2-045b",
                         "arg": "Sergeant"
                       }
@@ -2981,7 +2981,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Explodes (5+)",
+                    "value": "Esplosione (5+)",
                     "field": "name"
                   }
                 ],
@@ -2995,7 +2995,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Bulky (6)",
+                    "value": "Imponente (6)",
                     "field": "name"
                   }
                 ],
@@ -3016,7 +3016,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Battlesmith (1)",
+                    "value": "Fabbro da Battaglia (1)",
                     "field": "name"
                   }
                 ],
@@ -3361,7 +3361,7 @@
                       },
                       {
                         "type": "replace",
-                        "value": "Sergeant, Champion",
+                        "value": "Sergente, Campione",
                         "field": "50fc-9241-d4a2-045b",
                         "arg": "Sergeant"
                       }
@@ -4347,7 +4347,7 @@
                       },
                       {
                         "type": "replace",
-                        "value": "Sergeant, Champion",
+                        "value": "Sergente, Campione",
                         "field": "50fc-9241-d4a2-045b",
                         "arg": "Sergeant"
                       }
@@ -5665,7 +5665,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Vanguard (3)",
+                "value": "Avanguardia (3)",
                 "field": "name"
               }
             ],

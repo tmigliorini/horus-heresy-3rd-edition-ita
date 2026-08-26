@@ -147,7 +147,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Bulky (5)",
+                    "value": "Imponente (5)",
                     "field": "name"
                   }
                 ],
@@ -161,7 +161,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Eternal Warrior (2)",
+                    "value": "Guerriero Eterno (2)",
                     "field": "name"
                   }
                 ],
@@ -176,7 +176,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Shrouded (6+)",
+                    "value": "Ammantato (6+)",
                     "field": "name"
                   }
                 ],
@@ -709,7 +709,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Force (D)",
+                        "value": "Psichicità (D)",
                         "field": "name"
                       }
                     ],
@@ -1245,7 +1245,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Force (D)",
+                        "value": "Psichicità (D)",
                         "field": "name"
                       }
                     ],
@@ -1260,7 +1260,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Critical Hit (6+)",
+                        "value": "Colpo Critico (6+)",
                         "field": "name"
                       }
                     ],
@@ -1781,7 +1781,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Poisoned (5+)",
+                        "value": "Avvelenato (5+)",
                         "field": "name"
                       }
                     ],
@@ -1796,7 +1796,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Poisoned (2+)",
+                        "value": "Avvelenato (2+)",
                         "field": "name"
                       }
                     ],
@@ -1811,7 +1811,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Breaching (5+)",
+                        "value": "Perforante (5+)",
                         "field": "name"
                       }
                     ],
@@ -1826,7 +1826,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Stun (3)",
+                        "value": "Stordimento (3)",
                         "field": "name"
                       }
                     ],
@@ -1841,7 +1841,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Limited (1)",
+                        "value": "Limitato (1)",
                         "field": "name"
                       }
                     ],
@@ -2424,7 +2424,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Blast (5\")",
+                    "value": "Area (5\")",
                     "field": "name"
                   }
                 ],
@@ -2439,7 +2439,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Force (D)",
+                    "value": "Psichicità (D)",
                     "field": "name"
                   }
                 ],
@@ -2454,7 +2454,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Force (S)",
+                    "value": "Psichicità (Fo)",
                     "field": "name"
                   }
                 ],
@@ -2469,7 +2469,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Force (FP)",
+                    "value": "Psichicità (PF)",
                     "field": "name"
                   }
                 ],
@@ -2484,7 +2484,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Panic (1)",
+                    "value": "Panico (1)",
                     "field": "name"
                   }
                 ],
@@ -2499,7 +2499,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Pinning (2)",
+                    "value": "Inchiodamento (2)",
                     "field": "name"
                   }
                 ],
@@ -2656,7 +2656,7 @@
               },
               {
                 "import": true,
-                "name": "Legiones Astartes — trait",
+                "name": "Tratto Legiones Astartes",
                 "hidden": false,
                 "id": "cdce-7294-dfe2-68a0",
                 "type": "selectionEntryGroup",
@@ -3024,7 +3024,7 @@
                       },
                       {
                         "type": "replace",
-                        "value": "Sergeant, Champion",
+                        "value": "Sergente, Campione",
                         "field": "50fc-9241-d4a2-045b",
                         "arg": "Sergeant"
                       }
@@ -3087,7 +3087,7 @@
                   },
                   {
                     "import": true,
-                    "name": "Armi Combi di Legione",
+                    "name": "Combiarmi della Legione",
                     "hidden": false,
                     "id": "0c2b-04fa-ec46-5044",
                     "type": "selectionEntryGroup",
@@ -3476,7 +3476,7 @@
               },
               {
                 "import": true,
-                "name": "Legiones Astartes — trait",
+                "name": "Tratto Legiones Astartes",
                 "hidden": false,
                 "id": "b9ca-cba0-2ab1-d439",
                 "type": "selectionEntryGroup",
@@ -3810,7 +3810,7 @@
                       }
                     ],
                     "import": true,
-                    "name": "Armi Combi di Legione",
+                    "name": "Combiarmi della Legione",
                     "hidden": false,
                     "id": "cfe5-0efd-80b8-4c85",
                     "type": "selectionEntryGroup",
@@ -4199,7 +4199,7 @@
               },
               {
                 "import": true,
-                "name": "Legiones Astartes — trait",
+                "name": "Tratto Legiones Astartes",
                 "hidden": false,
                 "id": "c9de-4227-4590-06f8",
                 "type": "selectionEntryGroup",
@@ -4250,7 +4250,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Vanguard (3)",
+                "value": "Avanguardia (3)",
                 "field": "name"
               }
             ],
@@ -4272,7 +4272,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Bulky (2)",
+                "value": "Imponente (2)",
                 "field": "name"
               }
             ],
@@ -4385,7 +4385,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (5+)",
+                "value": "Perforante (5+)",
                 "field": "name"
               }
             ],
@@ -4600,7 +4600,7 @@
                       },
                       {
                         "type": "replace",
-                        "value": "Sergeant, Champion",
+                        "value": "Sergente, Campione",
                         "field": "50fc-9241-d4a2-045b",
                         "arg": "Sergeant"
                       }
@@ -4736,7 +4736,7 @@
               },
               {
                 "import": true,
-                "name": "Legiones Astartes — trait",
+                "name": "Tratto Legiones Astartes",
                 "hidden": false,
                 "id": "e6f4-a3ad-2a4f-d2b6",
                 "type": "selectionEntryGroup",
@@ -4977,7 +4977,7 @@
                     "type": "and"
                   }
                 ],
-                "name": "Khenetai Blade",
+                "name": "Lama Khenetai",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo",
                 "hidden": false,
@@ -5025,7 +5025,7 @@
               },
               {
                 "import": true,
-                "name": "Legiones Astartes — trait",
+                "name": "Tratto Legiones Astartes",
                 "hidden": false,
                 "id": "3268-6b64-72dc-eac6",
                 "type": "selectionEntryGroup",
@@ -5205,7 +5205,7 @@
             ],
             "type": "model",
             "import": true,
-            "name": "Khenetai Blade",
+            "name": "Lama Khenetai",
             "hidden": false,
             "id": "5ffc-2d00-d1b9-73e8",
             "sortIndex": 2
@@ -5308,7 +5308,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Precision (5+)",
+                "value": "Precisione (5+)",
                 "field": "name"
               }
             ],
@@ -5651,7 +5651,7 @@
               },
               {
                 "import": true,
-                "name": "Legiones Astartes — trait",
+                "name": "Tratto Legiones Astartes",
                 "hidden": false,
                 "id": "a03b-99b3-ee98-750d",
                 "type": "selectionEntryGroup",
@@ -5739,7 +5739,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Force (D)",
+                        "value": "Psichicità (D)",
                         "field": "name"
                       }
                     ],
@@ -5754,7 +5754,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Reaping Blow (2)",
+                        "value": "Colpo Mietitore (2)",
                         "field": "name"
                       }
                     ],
@@ -5779,7 +5779,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Bulky (6)",
+                    "value": "Imponente (6)",
                     "field": "name"
                   }
                 ],
@@ -5801,7 +5801,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Explodes (5+)",
+                    "value": "Esplosione (5+)",
                     "field": "name"
                   }
                 ],
@@ -6567,7 +6567,7 @@
               },
               {
                 "import": true,
-                "name": "Legiones Astartes — trait",
+                "name": "Tratto Legiones Astartes",
                 "hidden": false,
                 "id": "7675-7a3c-b66b-9da2",
                 "type": "selectionEntryGroup",
@@ -6647,7 +6647,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Breaching (5+)",
+                        "value": "Perforante (5+)",
                         "field": "name"
                       }
                     ],
@@ -6680,7 +6680,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Bulky (4)",
+                    "value": "Imponente (4)",
                     "field": "name"
                   }
                 ],
@@ -6702,7 +6702,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Firing Protocols (3)",
+                    "value": "Protocolli di Tiro (3)",
                     "field": "name"
                   }
                 ],
@@ -6717,7 +6717,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Explodes (6+)",
+                    "value": "Esplosione (6+)",
                     "field": "name"
                   }
                 ],
@@ -6818,7 +6818,7 @@
                         "modifiers": [
                           {
                             "type": "set",
-                            "value": "Rending (4+)",
+                            "value": "Dilaniante (4+)",
                             "field": "name"
                           }
                         ],
@@ -7668,7 +7668,7 @@
                       },
                       {
                         "type": "replace",
-                        "value": "Sergeant, Champion",
+                        "value": "Sergente, Campione",
                         "field": "50fc-9241-d4a2-045b",
                         "arg": "Sergeant"
                       }
@@ -7739,7 +7739,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Battlesmith (2)",
+                    "value": "Fabbro da Battaglia (2)",
                     "field": "name"
                   }
                 ],
@@ -8129,7 +8129,7 @@
                   },
                   {
                     "import": true,
-                    "name": "Armi Combi di Legione",
+                    "name": "Combiarmi della Legione",
                     "hidden": false,
                     "id": "ebf7-80f7-6e9f-4b4b",
                     "type": "selectionEntryGroup",
@@ -9021,7 +9021,7 @@
                       },
                       {
                         "type": "replace",
-                        "value": "Sergeant, Champion",
+                        "value": "Sergente, Campione",
                         "field": "50fc-9241-d4a2-045b",
                         "arg": "Sergeant"
                       }
@@ -9265,7 +9265,7 @@
               {
                 "type": "set",
                 "field": "name",
-                "value": "Infiltrate (9)"
+                "value": "Infiltrazione (9)"
               }
             ],
             "name": "Infiltrazione (X)",
@@ -9286,7 +9286,7 @@
               {
                 "type": "set",
                 "field": "name",
-                "value": "Support Unit (2)"
+                "value": "Unità di Supporto (2)"
               }
             ],
             "name": "Unità di Supporto (X)",

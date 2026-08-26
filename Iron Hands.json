@@ -202,7 +202,7 @@
                   {
                     "comment": "5",
                     "type": "set",
-                    "value": "Critical Hit (5+)",
+                    "value": "Colpo Critico (5+)",
                     "field": "name"
                   }
                 ],
@@ -379,7 +379,7 @@
                   {
                     "comment": "4",
                     "type": "set",
-                    "value": "Breaching (4+)",
+                    "value": "Perforante (4+)",
                     "field": "name"
                   }
                 ],
@@ -394,7 +394,7 @@
                   {
                     "comment": "Pinned",
                     "type": "set",
-                    "value": "Shock (Pinned)",
+                    "value": "Scossa (Inchiodato)",
                     "field": "name"
                   }
                 ],
@@ -408,7 +408,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Pinning (1)",
+                    "value": "Inchiodamento (1)",
                     "field": "name"
                   }
                 ],
@@ -430,7 +430,7 @@
                   {
                     "comment": "2",
                     "type": "set",
-                    "value": "Panic (2)",
+                    "value": "Panico (2)",
                     "field": "name"
                   }
                 ],
@@ -549,7 +549,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Bulky (5)",
+                "value": "Imponente (5)",
                 "field": "name"
               }
             ],
@@ -563,7 +563,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Battlesmith (4)",
+                "value": "Fabbro da Battaglia (4)",
                 "field": "name"
               }
             ],
@@ -577,7 +577,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Eternal Warrior (2)",
+                "value": "Guerriero Eterno (2)",
                 "field": "name"
               }
             ],
@@ -708,7 +708,7 @@
                 "typeId": "76e3-c188-bc65-3467"
               }
             ],
-            "name": "Ascia potenziata artificer",
+            "name": "Ascia potenziata dell’artefice",
             "typeId": "3587-6dcd-005c-c263",
             "typeName": "Arma da Mischia",
             "hidden": false,
@@ -721,7 +721,7 @@
               {
                 "comment": "5",
                 "type": "set",
-                "value": "Breaching (5+)",
+                "value": "Perforante (5+)",
                 "field": "name"
               }
             ],
@@ -736,7 +736,7 @@
               {
                 "comment": "5",
                 "type": "set",
-                "value": "Shred (5+)",
+                "value": "Lacerante (5+)",
                 "field": "name"
               }
             ],
@@ -749,7 +749,7 @@
         ],
         "type": "upgrade",
         "import": true,
-        "name": "Ascia potenziata artificer",
+        "name": "Ascia potenziata dell’artefice",
         "hidden": false,
         "id": "68e3-de15-d977-3c36"
       },
@@ -1030,7 +1030,7 @@
               {
                 "comment": "2",
                 "type": "set",
-                "value": "Bulky (2)",
+                "value": "Imponente (2)",
                 "field": "name"
               }
             ],
@@ -1045,7 +1045,7 @@
               {
                 "comment": "2",
                 "type": "set",
-                "value": "Battlesmith (2)",
+                "value": "Fabbro da Battaglia (2)",
                 "field": "name"
               }
             ],
@@ -1059,7 +1059,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Feel no Pain (5+)",
+                "value": "Insensibile al Dolore (5+)",
                 "field": "name"
               }
             ],
@@ -1118,7 +1118,7 @@
             "entryLinks": [
               {
                 "import": true,
-                "name": "Armi Combi di Legione",
+                "name": "Combiarmi della Legione",
                 "hidden": false,
                 "id": "6195-5fb5-f96d-f6d4",
                 "type": "selectionEntryGroup",
@@ -1161,7 +1161,7 @@
             "entryLinks": [
               {
                 "import": true,
-                "name": "Ascia potenziata artificer",
+                "name": "Ascia potenziata dell’artefice",
                 "hidden": false,
                 "id": "45c7-f237-6dc1-ec15",
                 "type": "selectionEntry",
@@ -1216,7 +1216,7 @@
                 "id": "45eb-858b-481d-fa13"
               }
             ],
-            "name": "Può sostituire Ascia potenziata artificer con:",
+            "name": "Può sostituire Ascia potenziata dell’artefice con:",
             "id": "6c25-dcb1-f312-fdc5",
             "hidden": false,
             "defaultSelectionEntryId": "45c7-f237-6dc1-ec15",
@@ -1601,7 +1601,7 @@
                       },
                       {
                         "type": "replace",
-                        "value": "Sergeant, Champion",
+                        "value": "Sergente, Campione",
                         "field": "50fc-9241-d4a2-045b",
                         "arg": "Sergeant"
                       }
@@ -1722,7 +1722,7 @@
                   },
                   {
                     "import": true,
-                    "name": "Armi Combi di Legione",
+                    "name": "Combiarmi della Legione",
                     "hidden": false,
                     "id": "106b-59dc-af16-93a7",
                     "type": "selectionEntryGroup",
@@ -2260,7 +2260,7 @@
               {
                 "comment": "5",
                 "type": "set",
-                "value": "Feel No Pain (5+)",
+                "value": "Insensibile al Dolore (5+)",
                 "field": "name"
               }
             ],
@@ -2281,7 +2281,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Expendable (2)",
+                "value": "Sacrificabile (2)",
                 "field": "name"
               }
             ],
@@ -2412,7 +2412,7 @@
               {
                 "comment": "1",
                 "type": "set",
-                "value": "Battlesmith (1)",
+                "value": "Fabbro da Battaglia (1)",
                 "field": "name"
               }
             ],
@@ -2627,7 +2627,7 @@
                   {
                     "comment": "6",
                     "type": "set",
-                    "value": "Breaching (6+)",
+                    "value": "Perforante (6+)",
                     "field": "name"
                   }
                 ],
@@ -2698,7 +2698,7 @@
                   {
                     "comment": "6",
                     "type": "set",
-                    "value": "Breaching (6+)",
+                    "value": "Perforante (6+)",
                     "field": "name"
                   }
                 ],
@@ -3143,7 +3143,7 @@
                       },
                       {
                         "type": "replace",
-                        "value": "Sergeant, Champion",
+                        "value": "Sergente, Campione",
                         "field": "50fc-9241-d4a2-045b",
                         "arg": "Sergeant"
                       }
@@ -3204,7 +3204,7 @@
                   },
                   {
                     "import": true,
-                    "name": "Armi Combi di Legione",
+                    "name": "Combiarmi della Legione",
                     "hidden": false,
                     "id": "3b7c-3bd3-4090-3724",
                     "type": "selectionEntryGroup",
@@ -3500,7 +3500,7 @@
                     "entryLinks": [
                       {
                         "import": true,
-                        "name": "Ascia potenziata artificer",
+                        "name": "Ascia potenziata dell’artefice",
                         "hidden": false,
                         "id": "0ca5-5726-fe15-2ba8",
                         "type": "selectionEntry",
@@ -3591,7 +3591,7 @@
                         "field": "bc02-8f08-edf8-18ff"
                       }
                     ],
-                    "name": "Sostituisci Ascia potenziata artificer con:",
+                    "name": "Sostituisci Ascia potenziata dell’artefice con:",
                     "id": "3356-44d1-7848-5d1f",
                     "hidden": false,
                     "defaultSelectionEntryId": "0ca5-5726-fe15-2ba8",
@@ -3609,7 +3609,7 @@
                       },
                       {
                         "import": true,
-                        "name": "Armi Combi di Legione",
+                        "name": "Combiarmi della Legione",
                         "hidden": false,
                         "id": "7bc3-02eb-5d5f-8243",
                         "type": "selectionEntryGroup",
@@ -3870,7 +3870,7 @@
               {
                 "comment": "2",
                 "type": "set",
-                "value": "Bulky (2)",
+                "value": "Imponente (2)",
                 "field": "name"
               }
             ],
@@ -3892,7 +3892,7 @@
               {
                 "comment": "5",
                 "type": "set",
-                "value": "Feel No Pain (5+)",
+                "value": "Insensibile al Dolore (5+)",
                 "field": "name"
               }
             ],
@@ -3907,7 +3907,7 @@
               {
                 "comment": "3",
                 "type": "set",
-                "value": "Vanguard (3)",
+                "value": "Avanguardia (3)",
                 "field": "name"
               }
             ],
@@ -4212,7 +4212,7 @@
                   }
                 ],
                 "id": "bb55-2126-4a64-830c",
-                "name": "Padre di Ferro in armatura Artificer",
+                "name": "Patriarca del Ferro in armatura perfezionata",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo"
               }
@@ -4468,7 +4468,7 @@
                     "type": "selectionEntry",
                     "targetId": "68e3-de15-d977-3c36",
                     "id": "26bd-725d-4307-9c96",
-                    "name": "Ascia potenziata artificer",
+                    "name": "Ascia potenziata dell’artefice",
                     "sortIndex": 5
                   },
                   {
@@ -4914,7 +4914,7 @@
                       }
                     ],
                     "import": true,
-                    "name": "Armi Combi di Legione",
+                    "name": "Combiarmi della Legione",
                     "hidden": false,
                     "id": "a17d-f246-ddfa-2869",
                     "type": "selectionEntryGroup",
@@ -5011,7 +5011,7 @@
                       }
                     ],
                     "import": true,
-                    "name": "Ascia potenziata artificer",
+                    "name": "Ascia potenziata dell’artefice",
                     "hidden": false,
                     "id": "0d56-6d31-ec7c-192d",
                     "type": "selectionEntry",
@@ -5095,7 +5095,7 @@
               }
             ],
             "type": "model",
-            "name": "Padre di Ferro in armatura Artificer",
+            "name": "Patriarca del Ferro in armatura perfezionata",
             "id": "ba60-ee8d-4eb4-b75d",
             "page": 115,
             "publicationId": "5469-14da-d0a1-6092",
@@ -5108,7 +5108,7 @@
               {
                 "type": "set",
                 "field": "name",
-                "value": "Battlesmith (2)"
+                "value": "Fabbro da Battaglia (2)"
               }
             ],
             "name": "Fabbro da Battaglia (X)",
@@ -5122,7 +5122,7 @@
               {
                 "type": "set",
                 "field": "name",
-                "value": "Feel No Pain (5+)"
+                "value": "Insensibile al Dolore (5+)"
               }
             ],
             "name": "Insensibile al Dolore (X)",
@@ -5224,7 +5224,7 @@
             "sortIndex": 4
           }
         ],
-        "name": "Padre di Ferro in armatura Artificer",
+        "name": "Patriarca del Ferro in armatura perfezionata",
         "type": "unit",
         "id": "6c8c-9770-46e5-81b6",
         "page": 115,
@@ -5567,7 +5567,7 @@
                       }
                     ],
                     "import": true,
-                    "name": "Ascia potenziata artificer",
+                    "name": "Ascia potenziata dell’artefice",
                     "hidden": false,
                     "id": "fc55-fdb4-b5ce-1b68",
                     "type": "selectionEntry",
@@ -5862,7 +5862,7 @@
                       },
                       {
                         "type": "replace",
-                        "value": "Sergeant, Champion",
+                        "value": "Sergente, Campione",
                         "field": "50fc-9241-d4a2-045b",
                         "arg": "Sergeant"
                       }
@@ -5932,7 +5932,7 @@
                     "type": "selectionEntry",
                     "targetId": "68e3-de15-d977-3c36",
                     "id": "e0af-5bd3-4f5d-b38b",
-                    "name": "Ascia potenziata artificer",
+                    "name": "Ascia potenziata dell’artefice",
                     "sortIndex": 2
                   },
                   {
@@ -6248,7 +6248,7 @@
               {
                 "type": "set",
                 "field": "name",
-                "value": "Bulky (2)"
+                "value": "Imponente (2)"
               }
             ],
             "name": "Imponente (X)",
@@ -6276,7 +6276,7 @@
               {
                 "type": "set",
                 "field": "name",
-                "value": "Eternal Warrior (1)"
+                "value": "Guerriero Eterno (1)"
               }
             ],
             "name": "Guerriero Eterno (X)",
@@ -6648,7 +6648,7 @@
                     "type": "selectionEntry",
                     "targetId": "5ad2-c3b4-f5eb-5b10",
                     "id": "84c2-0847-4555-a95d",
-                    "name": "Bombe phosphex"
+                    "name": "Bombe Fosfex"
                   }
                 ],
                 "constraints": [
@@ -6670,7 +6670,7 @@
                     "includeChildSelections": true
                   }
                 ],
-                "name": "Un inductii in questa Unità può selezionare Bombe phosphex ",
+                "name": "Un inductii in questa Unità può selezionare Bombe Fosfex ",
                 "id": "01ba-ae1c-4668-8ccd",
                 "sortIndex": 5
               },
@@ -7008,7 +7008,7 @@
           }
         ],
         "import": true,
-        "name": "Padre di Ferro in armatura Artificer",
+        "name": "Patriarca del Ferro in armatura perfezionata",
         "hidden": false,
         "id": "0a6f-220a-b758-21c0",
         "type": "selectionEntry",

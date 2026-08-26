@@ -526,7 +526,7 @@
               {
                 "comment": "5",
                 "type": "set",
-                "value": "Bulky (5)",
+                "value": "Imponente (5)",
                 "field": "name"
               }
             ],
@@ -541,7 +541,7 @@
               {
                 "comment": "2",
                 "type": "set",
-                "value": "Eternal Warrior (2)",
+                "value": "Guerriero Eterno (2)",
                 "field": "name"
               }
             ],
@@ -1445,7 +1445,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Breaching (4+)",
+                    "value": "Perforante (4+)",
                     "field": "name"
                   }
                 ],
@@ -2225,7 +2225,7 @@
                       },
                       {
                         "type": "replace",
-                        "value": "Sergeant, Champion",
+                        "value": "Sergente, Campione",
                         "field": "50fc-9241-d4a2-045b",
                         "arg": "Sergeant"
                       }
@@ -3005,7 +3005,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Line (2)",
+                "value": "Linea (2)",
                 "field": "name"
               }
             ],
@@ -3275,7 +3275,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Bulky (2)",
+                "value": "Imponente (2)",
                 "field": "name"
               }
             ],
@@ -3290,7 +3290,7 @@
               {
                 "comment": "1",
                 "type": "set",
-                "value": "Fear (1)",
+                "value": "Paura (1)",
                 "field": "name"
               }
             ],
@@ -3827,7 +3827,7 @@
                       },
                       {
                         "import": true,
-                        "name": "Armi Combi di Legione",
+                        "name": "Combiarmi della Legione",
                         "hidden": false,
                         "id": "1e3b-59da-d5bb-9059",
                         "type": "selectionEntryGroup",
@@ -4282,7 +4282,7 @@
                       },
                       {
                         "import": true,
-                        "name": "Armi Combi di Legione",
+                        "name": "Combiarmi della Legione",
                         "hidden": false,
                         "id": "49eb-7b12-8ab8-b2cd",
                         "type": "selectionEntryGroup",
@@ -4410,7 +4410,7 @@
               {
                 "comment": "2",
                 "type": "set",
-                "value": "Bulky (2)",
+                "value": "Imponente (2)",
                 "field": "name"
               }
             ],
@@ -4439,7 +4439,7 @@
               {
                 "comment": "4",
                 "type": "set",
-                "value": "Vanguard (4)",
+                "value": "Avanguardia (4)",
                 "field": "name"
               }
             ],
@@ -4454,7 +4454,7 @@
               {
                 "comment": "1",
                 "type": "set",
-                "value": "Fear (1)",
+                "value": "Paura (1)",
                 "field": "name"
               }
             ],
@@ -4868,7 +4868,7 @@
               {
                 "comment": "1",
                 "type": "set",
-                "value": "Fear (1)",
+                "value": "Paura (1)",
                 "field": "name"
               }
             ],
@@ -4889,7 +4889,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Bulky (4)",
+                "value": "Imponente (4)",
                 "field": "name"
               }
             ],
@@ -4904,7 +4904,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Feel No Pain (5+)",
+                "value": "Insensibile al Dolore (5+)",
                 "field": "name"
               }
             ],
@@ -4919,7 +4919,7 @@
               {
                 "comment": "2",
                 "type": "set",
-                "value": "Fast (2)",
+                "value": "Veloce (2)",
                 "field": "name"
               }
             ],
@@ -5651,7 +5651,7 @@
               {
                 "comment": "4",
                 "type": "set",
-                "value": "Breaching (4+)",
+                "value": "Perforante (4+)",
                 "field": "name"
               }
             ],
@@ -5666,7 +5666,7 @@
               {
                 "comment": "1",
                 "type": "set",
-                "value": "Reaping Blow (1)",
+                "value": "Colpo Mietitore (1)",
                 "field": "name"
               }
             ],
@@ -6237,7 +6237,7 @@
               {
                 "comment": "2",
                 "type": "set",
-                "value": "Bulky (2)",
+                "value": "Imponente (2)",
                 "field": "name"
               }
             ],
@@ -6988,7 +6988,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Bulky (2)",
+                "value": "Imponente (2)",
                 "field": "name"
               }
             ],
@@ -7204,7 +7204,7 @@
                     "type": "and"
                   }
                 ],
-                "name": "Hunter",
+                "name": "Cacciatore",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo",
                 "hidden": false,
@@ -7550,7 +7550,7 @@
             ],
             "type": "model",
             "import": true,
-            "name": "Hunter",
+            "name": "Cacciatore",
             "hidden": false,
             "id": "6058-1643-456c-b94e",
             "page": 106,
@@ -7714,7 +7714,7 @@
                       },
                       {
                         "type": "replace",
-                        "value": "Sergeant, Champion",
+                        "value": "Sergente, Campione",
                         "field": "50fc-9241-d4a2-045b",
                         "arg": "Sergeant"
                       }
@@ -7735,7 +7735,7 @@
                     "type": "and"
                   }
                 ],
-                "name": "Hunt-master",
+                "name": "Capocaccia",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo",
                 "hidden": false,
@@ -7886,7 +7886,7 @@
                     "id": "fcee-a7f5-4593-8ab1"
                   }
                 ],
-                "name": "L’hunt-master può sostituire Pistola lanciafiamme con: ",
+                "name": "Il Capocaccia può sostituire Pistola lanciafiamme con: ",
                 "id": "f50f-14c1-4e33-ad82",
                 "hidden": false,
                 "sortIndex": 1,
@@ -8029,7 +8029,7 @@
                     "id": "b847-5a6c-4fa5-aac7"
                   }
                 ],
-                "name": "L’hunt-master può sostituire Spada a catena con uno dei seguenti:",
+                "name": "Il Capocaccia può sostituire Spada a catena con uno dei seguenti:",
                 "id": "28de-18be-47f9-a677",
                 "hidden": false,
                 "sortIndex": 2,
@@ -8114,7 +8114,7 @@
             ],
             "type": "model",
             "import": true,
-            "name": "Hunt-master",
+            "name": "Capocaccia",
             "hidden": false,
             "id": "b8c2-7a1c-47a8-818d",
             "page": 106,
@@ -8141,7 +8141,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Vanguard (3)",
+                "value": "Avanguardia (3)",
                 "field": "name"
               }
             ],
@@ -8301,7 +8301,7 @@
                       },
                       {
                         "type": "replace",
-                        "value": ", Antigrav)",
+                        "value": ", Antigravitazionale)",
                         "field": "50fc-9241-d4a2-045b",
                         "arg": ")"
                       },
@@ -8463,7 +8463,7 @@
                       }
                     ],
                     "type": "set",
-                    "value": "Bulky (2)",
+                    "value": "Imponente (2)",
                     "field": "name"
                   },
                   {
@@ -8479,7 +8479,7 @@
                       }
                     ],
                     "type": "set",
-                    "value": "Bulky (3)",
+                    "value": "Imponente (3)",
                     "field": "name"
                   }
                 ],
@@ -8701,7 +8701,7 @@
               },
               {
                 "import": true,
-                "name": "Mount",
+                "name": "Montatura",
                 "hidden": false,
                 "id": "bc02-7f7a-d38d-661a",
                 "type": "selectionEntryGroup",
@@ -9896,7 +9896,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Medic (5+)",
+                    "value": "Medico (5+)",
                     "field": "name"
                   }
                 ],
@@ -10548,7 +10548,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Medic (5+)",
+                    "value": "Medico (5+)",
                     "field": "name"
                   }
                 ],
@@ -10652,7 +10652,7 @@
                           }
                         ],
                         "import": true,
-                        "name": "Armi Combi di Legione",
+                        "name": "Combiarmi della Legione",
                         "hidden": false,
                         "id": "a35d-6c3d-1934-e1b7",
                         "type": "selectionEntryGroup",
@@ -10758,7 +10758,7 @@
               {
                 "comment": "2",
                 "type": "set",
-                "value": "Bulky (2)",
+                "value": "Imponente (2)",
                 "field": "name"
               }
             ],
@@ -10941,7 +10941,7 @@
                       },
                       {
                         "type": "replace",
-                        "value": ", Antigrav)",
+                        "value": ", Antigravitazionale)",
                         "field": "50fc-9241-d4a2-045b",
                         "arg": ")"
                       },
@@ -11103,7 +11103,7 @@
                       }
                     ],
                     "type": "set",
-                    "value": "Bulky (2)",
+                    "value": "Imponente (2)",
                     "field": "name"
                   },
                   {
@@ -11119,7 +11119,7 @@
                       }
                     ],
                     "type": "set",
-                    "value": "Bulky (3)",
+                    "value": "Imponente (3)",
                     "field": "name"
                   }
                 ],
@@ -11368,7 +11368,7 @@
               },
               {
                 "import": true,
-                "name": "Mount",
+                "name": "Montatura",
                 "hidden": false,
                 "id": "1fbc-8c29-1fc2-2963",
                 "type": "selectionEntryGroup",

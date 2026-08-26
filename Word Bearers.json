@@ -122,7 +122,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Eternal Warrior (2)",
+                    "value": "Guerriero Eterno (2)",
                     "field": "name"
                   }
                 ],
@@ -137,7 +137,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Bulky (4)",
+                    "value": "Imponente (4)",
                     "field": "name"
                   }
                 ],
@@ -311,7 +311,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Critical Hit (5+)",
+                        "value": "Colpo Critico (5+)",
                         "field": "name"
                       }
                     ],
@@ -326,7 +326,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Phage (S)",
+                        "value": "Corrosivo (Fo)",
                         "field": "name"
                       }
                     ],
@@ -341,7 +341,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Reaping Blow (2)",
+                        "value": "Colpo Mietitore (2)",
                         "field": "name"
                       }
                     ],
@@ -432,7 +432,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Shock (Pinned)",
+                        "value": "Scossa (Inchiodato)",
                         "field": "name"
                       }
                     ],
@@ -447,7 +447,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Pinning (0)",
+                        "value": "Inchiodamento (0)",
                         "field": "name"
                       }
                     ],
@@ -731,7 +731,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Bulky (2)",
+                    "value": "Imponente (2)",
                     "field": "name"
                   }
                 ],
@@ -837,7 +837,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Shred (6+)",
+                        "value": "Lacerante (6+)",
                         "field": "name"
                       }
                     ],
@@ -1270,7 +1270,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Phage (S)",
+                        "value": "Corrosivo (Fo)",
                         "field": "name"
                       }
                     ],
@@ -1665,7 +1665,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Bulky (3)",
+                    "value": "Imponente (3)",
                     "field": "name"
                   }
                 ],
@@ -1687,7 +1687,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Fear (1)",
+                    "value": "Paura (1)",
                     "field": "name"
                   }
                 ],
@@ -1702,7 +1702,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Feel No Pain (5+)",
+                    "value": "Insensibile al Dolore (5+)",
                     "field": "name"
                   }
                 ],
@@ -2393,7 +2393,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Force (D)",
+                        "value": "Psichicità (D)",
                         "field": "name"
                       }
                     ],
@@ -2463,7 +2463,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Bulky (2)",
+                    "value": "Imponente (2)",
                     "field": "name"
                   }
                 ],
@@ -2478,7 +2478,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Feel No Pain (5+)",
+                    "value": "Insensibile al Dolore (5+)",
                     "field": "name"
                   }
                 ],
@@ -2493,7 +2493,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Fear (1)",
+                    "value": "Paura (1)",
                     "field": "name"
                   }
                 ],
@@ -2508,7 +2508,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Explodes (6+)",
+                    "value": "Esplosione (6+)",
                     "field": "name"
                   }
                 ],
@@ -2758,7 +2758,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Breaching (6+)",
+                        "value": "Perforante (6+)",
                         "field": "name"
                       }
                     ],
@@ -2773,7 +2773,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Phage (S)",
+                        "value": "Corrosivo (Fo)",
                         "field": "name"
                       }
                     ],
@@ -3063,7 +3063,7 @@
               },
               {
                 "import": true,
-                "name": "Legiones Astartes — trait",
+                "name": "Tratto Legiones Astartes",
                 "hidden": false,
                 "id": "7438-30ba-e40a-2adc",
                 "type": "selectionEntryGroup",
@@ -3288,7 +3288,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Phage (S)",
+                        "value": "Corrosivo (Fo)",
                         "field": "name"
                       }
                     ],
@@ -3303,7 +3303,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Shred (6+)",
+                        "value": "Lacerante (6+)",
                         "field": "name"
                       }
                     ],
@@ -3318,7 +3318,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Breaching (6+)",
+                        "value": "Perforante (6+)",
                         "field": "name"
                       }
                     ],
@@ -3342,7 +3342,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Bulky (2)",
+                    "value": "Imponente (2)",
                     "field": "name"
                   }
                 ],
@@ -3357,7 +3357,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Vanguard (3)",
+                    "value": "Avanguardia (3)",
                     "field": "name"
                   }
                 ],
@@ -3372,7 +3372,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Fear (1)",
+                    "value": "Paura (1)",
                     "field": "name"
                   }
                 ],
@@ -3394,7 +3394,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Feel No Pain (5+)",
+                    "value": "Insensibile al Dolore (5+)",
                     "field": "name"
                   }
                 ],
@@ -3837,7 +3837,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Bulky (6)",
+                    "value": "Imponente (6)",
                     "field": "name"
                   }
                 ],
@@ -3852,7 +3852,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Explodes (5+)",
+                    "value": "Esplosione (5+)",
                     "field": "name"
                   }
                 ],
@@ -3867,7 +3867,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Fear (1)",
+                    "value": "Paura (1)",
                     "field": "name"
                   }
                 ],
@@ -3966,7 +3966,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Panic (2)",
+                        "value": "Panico (2)",
                         "field": "name"
                       }
                     ],
@@ -3981,7 +3981,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Breaching (4+)",
+                        "value": "Perforante (4+)",
                         "field": "name"
                       }
                     ],
@@ -3996,7 +3996,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Shred (6+)",
+                        "value": "Lacerante (6+)",
                         "field": "name"
                       }
                     ],
@@ -4100,7 +4100,7 @@
             "entryLinks": [
               {
                 "import": true,
-                "name": "Legiones Astartes — trait",
+                "name": "Tratto Legiones Astartes",
                 "hidden": false,
                 "id": "7d43-9206-ad4a-26a9",
                 "type": "selectionEntryGroup",
@@ -4187,7 +4187,7 @@
                         "modifiers": [
                           {
                             "type": "set",
-                            "value": "Heavy (RS)",
+                            "value": "Pesante (FD)",
                             "field": "name"
                           }
                         ],
@@ -4202,7 +4202,7 @@
                         "modifiers": [
                           {
                             "type": "set",
-                            "value": "Breaching (4+)",
+                            "value": "Perforante (4+)",
                             "field": "name"
                           }
                         ],
@@ -4217,7 +4217,7 @@
                         "modifiers": [
                           {
                             "type": "set",
-                            "value": "Shred (6+)",
+                            "value": "Lacerante (6+)",
                             "field": "name"
                           }
                         ],
@@ -4232,7 +4232,7 @@
                         "modifiers": [
                           {
                             "type": "set",
-                            "value": "Blast (3\")",
+                            "value": "Area (3\")",
                             "field": "name"
                           }
                         ],
@@ -4590,7 +4590,7 @@
             "entryLinks": [
               {
                 "import": true,
-                "name": "Legiones Astartes — trait",
+                "name": "Tratto Legiones Astartes",
                 "hidden": false,
                 "id": "6da9-374d-83a2-fe3d",
                 "type": "selectionEntryGroup",
@@ -4880,7 +4880,7 @@
                       },
                       {
                         "type": "replace",
-                        "value": "Sergeant, Champion",
+                        "value": "Sergente, Campione",
                         "field": "50fc-9241-d4a2-045b",
                         "arg": "Sergeant"
                       }
@@ -4911,7 +4911,7 @@
             "entryLinks": [
               {
                 "import": true,
-                "name": "Legiones Astartes — trait",
+                "name": "Tratto Legiones Astartes",
                 "hidden": false,
                 "id": "d4f4-45e6-d019-a15d",
                 "type": "selectionEntryGroup",
@@ -4985,7 +4985,7 @@
                   }
                 ],
                 "import": true,
-                "name": "Bombe phosphex",
+                "name": "Bombe Fosfex",
                 "hidden": false,
                 "id": "c747-7b7a-a036-c66c",
                 "type": "selectionEntry",
@@ -5213,7 +5213,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Bulky (2)",
+                "value": "Imponente (2)",
                 "field": "name"
               }
             ],
@@ -5235,7 +5235,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Vanguard (3)",
+                "value": "Avanguardia (3)",
                 "field": "name"
               }
             ],
@@ -5338,7 +5338,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Panic (2)",
+                "value": "Panico (2)",
                 "field": "name"
               }
             ],
@@ -5432,7 +5432,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Melta (3)",
+                "value": "Termico (3)",
                 "field": "name"
               }
             ],
@@ -5508,7 +5508,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Critical Hit (6+)",
+                "value": "Colpo Critico (6+)",
                 "field": "name"
               }
             ],
@@ -5523,7 +5523,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Phage (M)",
+                "value": "Corrosivo (M)",
                 "field": "name"
               }
             ],
@@ -5736,7 +5736,7 @@
                           }
                         ],
                         "type": "replace",
-                        "value": ", Antigrav)",
+                        "value": ", Antigravitazionale)",
                         "field": "50fc-9241-d4a2-045b",
                         "arg": ")"
                       }
@@ -6171,7 +6171,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Bulky (2)",
+                "value": "Imponente (2)",
                 "field": "name"
               },
               {
@@ -6472,7 +6472,7 @@
                       },
                       {
                         "type": "set",
-                        "value": "Tartaros Diabolist",
+                        "value": "Diabolista Tartaros",
                         "field": "name"
                       }
                     ],
@@ -6491,7 +6491,7 @@
                   }
                 ],
                 "id": "8078-274f-4814-833b",
-                "name": "Diabolista Cataphractii",
+                "name": "Diabolista Catafratto",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo"
               }
@@ -6527,7 +6527,7 @@
                   {
                     "type": "set",
                     "field": "name",
-                    "value": "Bulky (2)"
+                    "value": "Imponente (2)"
                   }
                 ],
                 "name": "Imponente (X)",
@@ -6615,7 +6615,7 @@
                   },
                   {
                     "import": true,
-                    "name": "Armi Combi di Legione",
+                    "name": "Combiarmi della Legione",
                     "hidden": false,
                     "id": "999c-6b73-ece2-8a11",
                     "type": "selectionEntryGroup",
@@ -6755,7 +6755,7 @@
                   }
                 ],
                 "type": "set",
-                "value": "Tartaros Diabolist",
+                "value": "Diabolista Tartaros",
                 "field": "name"
               },
               {
@@ -6776,7 +6776,7 @@
               }
             ],
             "type": "model",
-            "name": "Diabolista Cataphractii",
+            "name": "Diabolista Catafratto",
             "id": "3b3c-42db-4812-b856",
             "page": 132,
             "publicationId": "5469-14da-d0a1-6092"
@@ -6959,7 +6959,7 @@
                       },
                       {
                         "type": "replace",
-                        "value": ", Antigrav)",
+                        "value": ", Antigravitazionale)",
                         "field": "50fc-9241-d4a2-045b",
                         "arg": ")"
                       },
@@ -7120,7 +7120,7 @@
                       }
                     ],
                     "type": "set",
-                    "value": "Bulky (2)",
+                    "value": "Imponente (2)",
                     "field": "name"
                   },
                   {
@@ -7136,7 +7136,7 @@
                       }
                     ],
                     "type": "set",
-                    "value": "Bulky (3)",
+                    "value": "Imponente (3)",
                     "field": "name"
                   }
                 ],
@@ -7309,7 +7309,7 @@
               },
               {
                 "import": true,
-                "name": "Mount",
+                "name": "Montatura",
                 "hidden": false,
                 "id": "6f2f-1f32-b7f4-c0f4",
                 "type": "selectionEntryGroup",
@@ -8504,7 +8504,7 @@
                       },
                       {
                         "type": "replace",
-                        "value": "Sergeant, Champion",
+                        "value": "Sergente, Campione",
                         "field": "50fc-9241-d4a2-045b",
                         "arg": "Sergeant"
                       }
@@ -8746,7 +8746,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Medic (4+)",
+                    "value": "Medico (4+)",
                     "field": "name"
                   }
                 ],
@@ -8865,7 +8865,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Support Unit (1)",
+                "value": "Unità di Supporto (1)",
                 "field": "name"
               }
             ],
@@ -9623,7 +9623,7 @@
                       },
                       {
                         "type": "replace",
-                        "value": "Sergeant, Champion",
+                        "value": "Sergente, Campione",
                         "field": "50fc-9241-d4a2-045b",
                         "arg": "Sergeant"
                       }
@@ -9880,7 +9880,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Medic (4+)",
+                    "value": "Medico (4+)",
                     "field": "name"
                   }
                 ],
@@ -10002,7 +10002,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Support Unit (1)",
+                "value": "Unità di Supporto (1)",
                 "field": "name"
               }
             ],
@@ -10031,7 +10031,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Bulky (2)",
+                "value": "Imponente (2)",
                 "field": "name"
               }
             ],
@@ -12268,7 +12268,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Bulky (4)",
+                "value": "Imponente (4)",
                 "field": "name"
               }
             ],
@@ -12297,7 +12297,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Explodes (5+)",
+                "value": "Esplosione (5+)",
                 "field": "name"
               }
             ],
@@ -12312,7 +12312,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Aflame (2)",
+                "value": "Infuocato (2)",
                 "field": "name"
               }
             ],
@@ -12327,7 +12327,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Eternal Warrior (1)",
+                "value": "Guerriero Eterno (1)",
                 "field": "name"
               }
             ],

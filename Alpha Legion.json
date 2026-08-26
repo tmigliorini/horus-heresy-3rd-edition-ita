@@ -233,7 +233,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Breaching (5+)",
+                    "value": "Perforante (5+)",
                     "field": "name"
                   }
                 ],
@@ -453,7 +453,7 @@
               }
             ],
             "import": true,
-            "name": "Bombe phosphex",
+            "name": "Bombe Fosfex",
             "hidden": false,
             "id": "c8b4-80f3-3f4a-f121",
             "type": "selectionEntry",
@@ -781,7 +781,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Infiltrate (6)",
+                "value": "Infiltrazione (6)",
                 "field": "name"
               }
             ],
@@ -1253,7 +1253,7 @@
                       },
                       {
                         "type": "replace",
-                        "value": "Sergeant, Champion",
+                        "value": "Sergente, Campione",
                         "field": "50fc-9241-d4a2-045b",
                         "arg": "Sergeant"
                       }
@@ -1457,7 +1457,7 @@
                 "entryLinks": [
                   {
                     "import": true,
-                    "name": "Armi Combi di Legione",
+                    "name": "Combiarmi della Legione",
                     "hidden": false,
                     "id": "0cb7-6656-7fc6-20bf",
                     "type": "selectionEntryGroup",
@@ -1814,7 +1814,7 @@
                     "entryLinks": [
                       {
                         "import": true,
-                        "name": "Armi Combi di Legione",
+                        "name": "Combiarmi della Legione",
                         "hidden": false,
                         "id": "d4cf-7f93-ff48-bfaf",
                         "type": "selectionEntryGroup",
@@ -1980,7 +1980,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Infiltrate (9)",
+                "value": "Infiltrazione (9)",
                 "field": "name"
               }
             ],
@@ -1995,7 +1995,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Precision (4+)",
+                "value": "Precisione (4+)",
                 "field": "name"
               }
             ],
@@ -2469,7 +2469,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Heavy (D)",
+                    "value": "Pesante (D)",
                     "field": "name"
                   }
                 ],
@@ -2484,7 +2484,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Pinning (1)",
+                    "value": "Inchiodamento (1)",
                     "field": "name"
                   }
                 ],
@@ -2528,7 +2528,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Shrouded (5+)",
+                "value": "Ammantato (5+)",
                 "field": "name"
               }
             ],
@@ -2542,7 +2542,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Precision (4+)",
+                "value": "Precisione (4+)",
                 "field": "name"
               }
             ],
@@ -2558,7 +2558,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Support Unit (1)",
+                "value": "Unità di Supporto (1)",
                 "field": "name"
               }
             ],
@@ -2572,7 +2572,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Infiltrate (9)",
+                "value": "Infiltrazione (9)",
                 "field": "name"
               }
             ],
@@ -2989,7 +2989,7 @@
                       },
                       {
                         "type": "replace",
-                        "value": "Sergeant, Champion",
+                        "value": "Sergente, Campione",
                         "field": "50fc-9241-d4a2-045b",
                         "arg": "Sergeant"
                       }
@@ -3169,7 +3169,7 @@
                     "entryLinks": [
                       {
                         "import": true,
-                        "name": "Armi Combi di Legione",
+                        "name": "Combiarmi della Legione",
                         "hidden": false,
                         "id": "3b30-67f6-8067-8b2d",
                         "type": "selectionEntryGroup",
@@ -3703,7 +3703,7 @@
                     "entryLinks": [
                       {
                         "import": true,
-                        "name": "Armi Combi di Legione",
+                        "name": "Combiarmi della Legione",
                         "hidden": false,
                         "id": "b8a9-0b0b-66ee-fb55",
                         "type": "selectionEntryGroup",
@@ -4025,7 +4025,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Bulky (2)",
+                "value": "Imponente (2)",
                 "field": "name"
               }
             ],
@@ -4047,7 +4047,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Line (1)",
+                "value": "Linea (1)",
                 "field": "name"
               }
             ],
@@ -4336,7 +4336,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Breaching (4+)",
+                    "value": "Perforante (4+)",
                     "field": "name"
                   }
                 ],
@@ -4443,7 +4443,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Phage (S)",
+                    "value": "Corrosivo (Fo)",
                     "field": "name"
                   }
                 ],
@@ -4458,7 +4458,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Critical Hit (5+)",
+                    "value": "Colpo Critico (5+)",
                     "field": "name"
                   }
                 ],
@@ -4524,7 +4524,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Feel No Pain (4+) Vs Poisoned (X)",
+                    "value": "Insensibile al Dolore (4+) Vs Avvelenato (X)",
                     "field": "name"
                   }
                 ],
@@ -4614,7 +4614,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Eternal Warrior (2)",
+                "value": "Guerriero Eterno (2)",
                 "field": "name"
               }
             ],
@@ -4630,7 +4630,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Bulky (4)",
+                "value": "Imponente (4)",
                 "field": "name"
               }
             ],
@@ -5428,7 +5428,7 @@
                       },
                       {
                         "type": "replace",
-                        "value": "Sergeant, Champion",
+                        "value": "Sergente, Campione",
                         "field": "50fc-9241-d4a2-045b",
                         "arg": "Sergeant"
                       }
@@ -6010,7 +6010,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Infiltrate (8)",
+                "value": "Infiltrazione (8)",
                 "field": "name"
               }
             ],
@@ -6632,7 +6632,7 @@
                           }
                         ],
                         "import": true,
-                        "name": "Armi Combi di Legione",
+                        "name": "Combiarmi della Legione",
                         "hidden": false,
                         "id": "1d93-6ad5-431c-b634",
                         "type": "selectionEntryGroup",
@@ -8486,7 +8486,7 @@
           }
         ],
         "import": true,
-        "name": "Iron Havoc",
+        "name": "Distruttori di Ferro",
         "hidden": false,
         "id": "7ed0-7993-b9b0-b411",
         "type": "selectionEntry",
@@ -8946,7 +8946,7 @@
           }
         ],
         "import": true,
-        "name": "Squadra Aggressore Reaver",
+        "name": "Squadra d’Attacco di Razziatori con reattori dorsali",
         "hidden": false,
         "id": "a4c7-d918-5c75-21e1",
         "type": "selectionEntry",
@@ -9610,7 +9610,7 @@
           }
         ],
         "import": true,
-        "name": "Compagni dell’Ala di Morte Terminator Cataphractii",
+        "name": "Compagni Terminator Catafratti dell’Ala della Morte",
         "hidden": false,
         "id": "c750-90e4-7643-084c",
         "type": "selectionEntry",

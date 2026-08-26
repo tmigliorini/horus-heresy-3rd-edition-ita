@@ -129,7 +129,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Bulky (6)",
+                    "value": "Imponente (6)",
                     "field": "name"
                   }
                 ],
@@ -150,7 +150,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Eternal Warrior (2)",
+                    "value": "Guerriero Eterno (2)",
                     "field": "name"
                   }
                 ],
@@ -229,7 +229,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Breaching (6+)",
+                        "value": "Perforante (6+)",
                         "field": "name"
                       }
                     ],
@@ -319,7 +319,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Breaching (6+)",
+                        "value": "Perforante (6+)",
                         "field": "name"
                       }
                     ],
@@ -363,7 +363,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Critical Hit (6+)",
+                        "value": "Colpo Critico (6+)",
                         "field": "name"
                       }
                     ],
@@ -822,7 +822,7 @@
                         "typeId": "1247-79d2-6cc1-8a03"
                       }
                     ],
-                    "name": "Cannoni portatili Fulcrum (Ranged)",
+                    "name": "Cannoni portatili Fulcrum - Distanza",
                     "typeId": "c591-09ed-3e6f-eb2b",
                     "typeName": "Arma a Distanza",
                     "hidden": false,
@@ -866,7 +866,7 @@
                         "typeId": "76e3-c188-bc65-3467"
                       }
                     ],
-                    "name": "Cannoni portatili Fulcrum (Melee)",
+                    "name": "Cannoni portatili Fulcrum - Mischia",
                     "typeId": "3587-6dcd-005c-c263",
                     "typeName": "Arma da Mischia",
                     "hidden": false,
@@ -898,7 +898,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Heavy (FP)",
+                        "value": "Pesante (PF)",
                         "field": "name"
                       }
                     ],
@@ -912,7 +912,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Breaching (6+)",
+                        "value": "Perforante (6+)",
                         "field": "name"
                       }
                     ],
@@ -926,7 +926,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Stun (0)",
+                        "value": "Stordimento (0)",
                         "field": "name"
                       }
                     ],
@@ -940,7 +940,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Shred (5+)",
+                        "value": "Lacerante (5+)",
                         "field": "name"
                       }
                     ],
@@ -1110,7 +1110,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Infiltrate (8)",
+                    "value": "Infiltrazione (8)",
                     "field": "name"
                   }
                 ],
@@ -1124,7 +1124,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Precision (5+)",
+                    "value": "Precisione (5+)",
                     "field": "name"
                   }
                 ],
@@ -1472,7 +1472,7 @@
                   },
                   {
                     "import": true,
-                    "name": "Armi Combi di Legione",
+                    "name": "Combiarmi della Legione",
                     "hidden": false,
                     "id": "389d-3ffe-5955-488c",
                     "type": "selectionEntryGroup",
@@ -1949,7 +1949,7 @@
                       },
                       {
                         "type": "replace",
-                        "value": "Sergeant, Champion",
+                        "value": "Sergente, Campione",
                         "field": "50fc-9241-d4a2-045b",
                         "arg": "Sergeant"
                       }
@@ -2020,7 +2020,7 @@
                   },
                   {
                     "import": true,
-                    "name": "Armi Combi di Legione",
+                    "name": "Combiarmi della Legione",
                     "hidden": false,
                     "id": "a3f9-f7bc-1fae-c1a7",
                     "type": "selectionEntryGroup",
@@ -2243,7 +2243,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Infiltrate (8)",
+                "value": "Infiltrazione (8)",
                 "field": "name"
               }
             ],
@@ -2264,7 +2264,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Support Unit (1)",
+                "value": "Unità di Supporto (1)",
                 "field": "name"
               }
             ],
@@ -2541,7 +2541,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Precision (6+)",
+                    "value": "Precisione (6+)",
                     "field": "name"
                   }
                 ],
@@ -2787,7 +2787,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Precision (6+)",
+                    "value": "Precisione (6+)",
                     "field": "name"
                   }
                 ],
@@ -3150,7 +3150,7 @@
                       },
                       {
                         "type": "replace",
-                        "value": "Sergeant, Champion",
+                        "value": "Sergente, Campione",
                         "field": "50fc-9241-d4a2-045b",
                         "arg": "Sergeant"
                       }
@@ -3672,7 +3672,7 @@
                     "type": "selectionEntryGroup",
                     "targetId": "f335-622e-6b0a-6b08",
                     "id": "9038-3cbf-4853-81eb",
-                    "name": "Armi Combi di Legione",
+                    "name": "Combiarmi della Legione",
                     "flatten": true
                   }
                 ],
@@ -4130,7 +4130,7 @@
                       },
                       {
                         "type": "replace",
-                        "value": "Sergeant, Champion",
+                        "value": "Sergente, Campione",
                         "field": "50fc-9241-d4a2-045b",
                         "arg": "Sergeant"
                       }
@@ -4369,7 +4369,7 @@
                     "type": "selectionEntryGroup",
                     "targetId": "f335-622e-6b0a-6b08",
                     "id": "8e07-0d0b-4a60-b45f",
-                    "name": "Armi Combi di Legione",
+                    "name": "Combiarmi della Legione",
                     "flatten": true
                   }
                 ],
@@ -4516,7 +4516,7 @@
               {
                 "type": "set",
                 "field": "name",
-                "value": "Bulky (2)"
+                "value": "Imponente (2)"
               }
             ],
             "name": "Imponente (X)",
@@ -4544,7 +4544,7 @@
               {
                 "type": "set",
                 "field": "name",
-                "value": "Vanguard (3)"
+                "value": "Avanguardia (3)"
               }
             ],
             "name": "Avanguardia (X)",

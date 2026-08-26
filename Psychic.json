@@ -221,7 +221,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Force (D)",
+                "value": "Psichicità (D)",
                 "field": "name"
               }
             ],
@@ -243,7 +243,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Impact (S)",
+                "value": "Impatto (Fo)",
                 "field": "name"
               }
             ],
@@ -365,7 +365,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Force (S)",
+                "value": "Psichicità (Fo)",
                 "field": "name"
               }
             ],
@@ -380,7 +380,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Panic (1)",
+                "value": "Panico (1)",
                 "field": "name"
               }
             ],
@@ -395,7 +395,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Blast (5\")",
+                "value": "Area (5\")",
                 "field": "name"
               }
             ],
@@ -410,7 +410,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Deflagrate (5)",
+                "value": "Deflagrazione (5)",
                 "field": "name"
               }
             ],
@@ -425,7 +425,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Explodes (4+)",
+                "value": "Esplosione (4+)",
                 "field": "name"
               }
             ],
@@ -542,7 +542,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Pinning (2)",
+                "value": "Inchiodamento (2)",
                 "field": "name"
               }
             ],
@@ -557,7 +557,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Force (FP)",
+                "value": "Psichicità (PF)",
                 "field": "name"
               }
             ],
@@ -572,7 +572,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Shrouded (4+)",
+                "value": "Ammantato (4+)",
                 "field": "name"
               }
             ],
@@ -662,7 +662,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Duellist's Edge (2)",
+                "value": "Maestria del Duellante (2)",
                 "field": "name"
               }
             ],
@@ -694,7 +694,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Fear (1)",
+                "value": "Paura (1)",
                 "field": "name"
               }
             ],
@@ -709,7 +709,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Stun (-)",
+                "value": "Stordimento (-)",
                 "field": "name"
               }
             ],
@@ -929,7 +929,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Force (D)",
+                "value": "Psichicità (D)",
                 "field": "name"
               }
             ],
@@ -944,7 +944,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Fear (1)",
+                "value": "Paura (1)",
                 "field": "name"
               }
             ],
@@ -959,7 +959,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Shred (5+)",
+                "value": "Lacerante (5+)",
                 "field": "name"
               }
             ],
@@ -1043,7 +1043,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Fear (1)",
+                "value": "Paura (1)",
                 "field": "name"
               }
             ],
@@ -1058,7 +1058,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (6+)",
+                "value": "Perforante (6+)",
                 "field": "name"
               }
             ],
@@ -1072,7 +1072,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Deflagrate (7)",
+                "value": "Deflagrazione (7)",
                 "field": "name"
               }
             ],
@@ -1087,7 +1087,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Force (D)",
+                "value": "Psichicità (D)",
                 "field": "name"
               }
             ],

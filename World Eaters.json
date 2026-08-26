@@ -406,7 +406,7 @@
               {
                 "comment": "4",
                 "type": "set",
-                "value": "Bulky (4)",
+                "value": "Imponente (4)",
                 "field": "name"
               }
             ],
@@ -420,7 +420,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Impact (S)",
+                "value": "Impatto (Fo)",
                 "field": "name"
               }
             ],
@@ -434,7 +434,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Eternal Warrior (2)",
+                "value": "Guerriero Eterno (2)",
                 "field": "name"
               }
             ],
@@ -1441,7 +1441,7 @@
                       },
                       {
                         "type": "replace",
-                        "value": "Sergeant, Champion",
+                        "value": "Sergente, Campione",
                         "field": "50fc-9241-d4a2-045b",
                         "arg": "Sergeant"
                       }
@@ -1572,7 +1572,7 @@
                           {
                             "comment": "4",
                             "type": "set",
-                            "value": "Breaching (4+)",
+                            "value": "Perforante (4+)",
                             "field": "name"
                           }
                         ],
@@ -1655,7 +1655,7 @@
                           {
                             "comment": "6",
                             "type": "set",
-                            "value": "Shred (6+)",
+                            "value": "Lacerante (6+)",
                             "field": "name"
                           }
                         ],
@@ -1934,7 +1934,7 @@
                       },
                       {
                         "import": true,
-                        "name": "Armi Combi di Legione",
+                        "name": "Combiarmi della Legione",
                         "hidden": false,
                         "id": "5e56-a4a9-f051-d6ad",
                         "type": "selectionEntryGroup",
@@ -2365,7 +2365,7 @@
                           {
                             "comment": "4",
                             "type": "set",
-                            "value": "Breaching (4+)",
+                            "value": "Perforante (4+)",
                             "field": "name"
                           }
                         ],
@@ -2589,7 +2589,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Bulky (2)",
+                "value": "Imponente (2)",
                 "field": "name"
               }
             ],
@@ -2617,7 +2617,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Eternal Warrior (1)",
+                "value": "Guerriero Eterno (1)",
                 "field": "name"
               }
             ],
@@ -3266,7 +3266,7 @@
               {
                 "comment": "7",
                 "type": "set",
-                "value": "Bulky (7)",
+                "value": "Imponente (7)",
                 "field": "name"
               }
             ],
@@ -3281,7 +3281,7 @@
               {
                 "comment": "2",
                 "type": "set",
-                "value": "Eternal Warrior (2)",
+                "value": "Guerriero Eterno (2)",
                 "field": "name"
               }
             ],
@@ -3295,7 +3295,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Fear (2)",
+                "value": "Paura (2)",
                 "field": "name"
               }
             ],
@@ -3567,7 +3567,7 @@
                   {
                     "comment": "2",
                     "type": "set",
-                    "value": "Reaping Blow (2)",
+                    "value": "Colpo Mietitore (2)",
                     "field": "name"
                   }
                 ],
@@ -3582,7 +3582,7 @@
                   {
                     "comment": "6",
                     "type": "set",
-                    "value": "Critical Hit (6+)",
+                    "value": "Colpo Critico (6+)",
                     "field": "name"
                   }
                 ],
@@ -3824,7 +3824,7 @@
               {
                 "comment": "2",
                 "type": "set",
-                "value": "Reaping Blow (2)",
+                "value": "Colpo Mietitore (2)",
                 "field": "name"
               }
             ],
@@ -3839,7 +3839,7 @@
               {
                 "comment": "1",
                 "type": "set",
-                "value": "Eternal Warrior (1)",
+                "value": "Guerriero Eterno (1)",
                 "field": "name"
               }
             ],
@@ -3854,7 +3854,7 @@
               {
                 "comment": "5",
                 "type": "set",
-                "value": "Precision (5+)",
+                "value": "Precisione (5+)",
                 "field": "name"
               }
             ],
@@ -4051,7 +4051,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Critical Hit (6+)",
+                        "value": "Colpo Critico (6+)",
                         "field": "name"
                       }
                     ],
@@ -4121,7 +4121,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Critical Hit (6+)",
+                        "value": "Colpo Critico (6+)",
                         "field": "name"
                       }
                     ],
@@ -4135,7 +4135,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Shred (5+)",
+                        "value": "Lacerante (5+)",
                         "field": "name"
                       }
                     ],
@@ -4564,7 +4564,7 @@
                   {
                     "type": "set",
                     "field": "name",
-                    "value": "Two bolt pistols"
+                    "value": "Due Pistole requiem"
                   }
                 ],
                 "constraints": [
@@ -4958,7 +4958,7 @@
                       },
                       {
                         "type": "replace",
-                        "value": "Sergeant, Champion",
+                        "value": "Sergente, Campione",
                         "field": "50fc-9241-d4a2-045b",
                         "arg": "Sergeant"
                       }
@@ -5016,7 +5016,7 @@
                   {
                     "type": "set",
                     "field": "name",
-                    "value": "Two bolt pistols"
+                    "value": "Due Pistole requiem"
                   }
                 ],
                 "constraints": [
@@ -5088,7 +5088,7 @@
                   }
                 ],
                 "import": true,
-                "name": "Bombe phosphex",
+                "name": "Bombe Fosfex",
                 "hidden": false,
                 "id": "2ecc-2032-43d6-ab99",
                 "type": "selectionEntry",
@@ -5571,7 +5571,7 @@
                   {
                     "type": "set",
                     "field": "name",
-                    "value": "Two bolt pistols"
+                    "value": "Due Pistole requiem"
                   }
                 ],
                 "constraints": [
@@ -5970,7 +5970,7 @@
                       },
                       {
                         "type": "replace",
-                        "value": "Sergeant, Champion",
+                        "value": "Sergente, Campione",
                         "field": "50fc-9241-d4a2-045b",
                         "arg": "Sergeant"
                       }
@@ -6028,7 +6028,7 @@
                   {
                     "type": "set",
                     "field": "name",
-                    "value": "Two bolt pistols"
+                    "value": "Due Pistole requiem"
                   }
                 ],
                 "constraints": [
@@ -6101,7 +6101,7 @@
                   }
                 ],
                 "import": true,
-                "name": "Bombe phosphex",
+                "name": "Bombe Fosfex",
                 "hidden": false,
                 "id": "6f8f-0a53-12f3-f7c5",
                 "type": "selectionEntry",
@@ -6226,7 +6226,7 @@
               {
                 "type": "set",
                 "field": "name",
-                "value": "Bulky (2)"
+                "value": "Imponente (2)"
               }
             ],
             "name": "Imponente (X)",

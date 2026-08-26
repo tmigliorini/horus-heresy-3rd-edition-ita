@@ -196,7 +196,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Melta (12)",
+                        "value": "Termico (12)",
                         "field": "name"
                       }
                     ],
@@ -210,7 +210,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Limited (1)",
+                        "value": "Limitato (1)",
                         "field": "name"
                       }
                     ],
@@ -313,7 +313,7 @@
                         "modifiers": [
                           {
                             "type": "set",
-                            "value": "Critical Hit (5+)",
+                            "value": "Colpo Critico (5+)",
                             "field": "name"
                           }
                         ],
@@ -327,7 +327,7 @@
                         "modifiers": [
                           {
                             "type": "set",
-                            "value": "Impact (AM)",
+                            "value": "Impatto (MA)",
                             "field": "name"
                           }
                         ],
@@ -452,7 +452,7 @@
                         "modifiers": [
                           {
                             "type": "set",
-                            "value": "Shocked (Suppressed)",
+                            "value": "Scossa (Soppresso)",
                             "field": "name"
                           }
                         ],
@@ -473,7 +473,7 @@
                         "modifiers": [
                           {
                             "type": "set",
-                            "value": "Duellist's Edge (1)",
+                            "value": "Maestria del Duellante (1)",
                             "field": "name"
                           }
                         ],
@@ -598,7 +598,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Bulky (6)",
+                    "value": "Imponente (6)",
                     "field": "name"
                   }
                 ],
@@ -612,7 +612,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Eternal Warrior (2)",
+                    "value": "Guerriero Eterno (2)",
                     "field": "name"
                   }
                 ],
@@ -850,7 +850,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Critical Hit (6+)",
+                        "value": "Colpo Critico (6+)",
                         "field": "name"
                       }
                     ],
@@ -864,7 +864,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Impact (AM)",
+                        "value": "Impatto (MA)",
                         "field": "name"
                       }
                     ],
@@ -1484,7 +1484,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Deflagrate (5)",
+                        "value": "Deflagrazione (5)",
                         "field": "name"
                       }
                     ],
@@ -1498,7 +1498,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Stun (1)",
+                        "value": "Stordimento (1)",
                         "field": "name"
                       }
                     ],
@@ -1588,7 +1588,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Reaping Blow (1)",
+                        "value": "Colpo Mietitore (1)",
                         "field": "name"
                       }
                     ],
@@ -1721,7 +1721,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Bulky (2)",
+                    "value": "Imponente (2)",
                     "field": "name"
                   }
                 ],
@@ -1735,7 +1735,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Eternal Warrior (1)",
+                    "value": "Guerriero Eterno (1)",
                     "field": "name"
                   }
                 ],
@@ -2118,7 +2118,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Breaching (4+)",
+                        "value": "Perforante (4+)",
                         "field": "name"
                       }
                     ],
@@ -2249,7 +2249,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "hand flamers",
+                    "value": "Pistole lanciafiamme",
                     "field": "name"
                   }
                 ],
@@ -2508,7 +2508,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Aflame (2)",
+                        "value": "Infuocato (2)",
                         "field": "name"
                       }
                     ],
@@ -2814,7 +2814,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Explodes (4+)",
+                    "value": "Esplosione (4+)",
                     "field": "name"
                   }
                 ],
@@ -2828,7 +2828,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Bulky (7)",
+                    "value": "Imponente (7)",
                     "field": "name"
                   }
                 ],
@@ -3256,7 +3256,7 @@
                       },
                       {
                         "type": "replace",
-                        "value": "Sergeant, Champion",
+                        "value": "Sergente, Campione",
                         "field": "50fc-9241-d4a2-045b",
                         "arg": "Sergeant"
                       }
@@ -3309,7 +3309,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Bulky (2)",
+                    "value": "Imponente (2)",
                     "field": "name"
                   }
                 ],
@@ -4026,7 +4026,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Bulky (2)",
+                    "value": "Imponente (2)",
                     "field": "name"
                   }
                 ],
@@ -4280,7 +4280,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Line (1)",
+                "value": "Linea (1)",
                 "field": "name"
               }
             ],
@@ -4577,7 +4577,7 @@
                       },
                       {
                         "type": "replace",
-                        "value": "Sergeant, Champion",
+                        "value": "Sergente, Campione",
                         "field": "50fc-9241-d4a2-045b",
                         "arg": "Sergeant"
                       }
@@ -4724,7 +4724,7 @@
                         "modifiers": [
                           {
                             "type": "set",
-                            "value": "Breaching (6+)",
+                            "value": "Perforante (6+)",
                             "field": "name"
                           }
                         ],
@@ -4838,7 +4838,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Bulky (2)",
+                    "value": "Imponente (2)",
                     "field": "name"
                   }
                 ],
@@ -5032,7 +5032,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Bulky (2)",
+                    "value": "Imponente (2)",
                     "field": "name"
                   }
                 ],
@@ -5231,7 +5231,7 @@
                         "modifiers": [
                           {
                             "type": "set",
-                            "value": "Breaching (6+)",
+                            "value": "Perforante (6+)",
                             "field": "name"
                           }
                         ],
@@ -5592,7 +5592,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Two volkite serpenta",
+                        "value": "Due Pistole volkite",
                         "field": "name"
                       }
                     ],
@@ -5794,7 +5794,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Bulky (2)",
+                    "value": "Imponente (2)",
                     "field": "name"
                   }
                 ],
@@ -5998,7 +5998,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Two volkite serpenta",
+                        "value": "Due Pistole volkite",
                         "field": "name"
                       }
                     ],
@@ -6345,7 +6345,7 @@
                       },
                       {
                         "type": "replace",
-                        "value": "Sergeant, Champion",
+                        "value": "Sergente, Campione",
                         "field": "50fc-9241-d4a2-045b",
                         "arg": "Sergeant"
                       }
@@ -6398,7 +6398,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Bulky (2)",
+                    "value": "Imponente (2)",
                     "field": "name"
                   }
                 ],
@@ -6475,7 +6475,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Vanguard (3)",
+                "value": "Avanguardia (3)",
                 "field": "name"
               }
             ],
@@ -6711,7 +6711,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Impact (SM)",
+                "value": "Impatto (MF)",
                 "field": "name"
               }
             ],
@@ -6725,7 +6725,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (5+)",
+                "value": "Perforante (5+)",
                 "field": "name"
               }
             ],
@@ -6783,7 +6783,7 @@
                 "typeId": "1247-79d2-6cc1-8a03"
               }
             ],
-            "name": "Scaricatore di granate - Frag",
+            "name": "Sganciagranate - Frammentazione",
             "typeId": "c591-09ed-3e6f-eb2b",
             "typeName": "Arma a Distanza",
             "hidden": false,
@@ -6828,7 +6828,7 @@
                 "typeId": "1247-79d2-6cc1-8a03"
               }
             ],
-            "name": "Scaricatore di granate - Krak",
+            "name": "Sganciagranate - Perforante",
             "typeId": "c591-09ed-3e6f-eb2b",
             "typeName": "Arma a Distanza",
             "hidden": false,
@@ -6897,7 +6897,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Phage (T)",
+                "value": "Corrosivo (Re)",
                 "field": "name"
               }
             ],
@@ -6911,7 +6911,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Poisoned (2+)",
+                "value": "Avvelenato (2+)",
                 "field": "name"
               }
             ],
@@ -7440,7 +7440,7 @@
               {
                 "type": "set",
                 "field": "name",
-                "value": "Bulky (2)"
+                "value": "Imponente (2)"
               }
             ],
             "name": "Imponente (X)",
@@ -8317,7 +8317,7 @@
               {
                 "type": "set",
                 "field": "name",
-                "value": "Bulky (2)"
+                "value": "Imponente (2)"
               }
             ],
             "name": "Imponente (X)",
@@ -8447,7 +8447,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (5+)",
+                "value": "Perforante (5+)",
                 "field": "name"
               }
             ],
@@ -8462,7 +8462,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Critical Hit (6+)",
+                "value": "Colpo Critico (6+)",
                 "field": "name"
               }
             ],

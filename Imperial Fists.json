@@ -195,7 +195,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Duellist's Edge (2)",
+                        "value": "Maestria del Duellante (2)",
                         "field": "name"
                       }
                     ],
@@ -210,7 +210,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Critical Hit (6+)",
+                        "value": "Colpo Critico (6+)",
                         "field": "name"
                       }
                     ],
@@ -256,7 +256,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Precision (4+)",
+                    "value": "Precisione (4+)",
                     "field": "name"
                   }
                 ],
@@ -278,7 +278,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Eternal Warrior (1)",
+                    "value": "Guerriero Eterno (1)",
                     "field": "name"
                   }
                 ],
@@ -645,7 +645,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Eternal Warrior (2)",
+                    "value": "Guerriero Eterno (2)",
                     "field": "name"
                   }
                 ],
@@ -660,7 +660,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Bulky (4)",
+                    "value": "Imponente (4)",
                     "field": "name"
                   }
                 ],
@@ -752,7 +752,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Shred (4+)",
+                        "value": "Lacerante (4+)",
                         "field": "name"
                       }
                     ],
@@ -767,7 +767,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Reaping Blow (2)",
+                        "value": "Colpo Mietitore (2)",
                         "field": "name"
                       }
                     ],
@@ -858,7 +858,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Breaching (5+)",
+                        "value": "Perforante (5+)",
                         "field": "name"
                       }
                     ],
@@ -1089,7 +1089,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Critical Hit (6+)",
+                "value": "Colpo Critico (6+)",
                 "field": "name"
               }
             ],
@@ -1202,7 +1202,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Heavy (FP)",
+                "value": "Pesante (PF)",
                 "field": "name"
               }
             ],
@@ -1217,7 +1217,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (6+)",
+                "value": "Perforante (6+)",
                 "field": "name"
               }
             ],
@@ -1232,7 +1232,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Overload (1)",
+                "value": "Surriscaldamento (1)",
                 "field": "name"
               }
             ],
@@ -1399,7 +1399,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Deflagrate (6)",
+                        "value": "Deflagrazione (6)",
                         "field": "name"
                       }
                     ],
@@ -1566,7 +1566,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Bulky (2)",
+                    "value": "Imponente (2)",
                     "field": "name"
                   }
                 ],
@@ -1595,7 +1595,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Feel No Pain (5)",
+                    "value": "Insensibile al Dolore (5)",
                     "field": "name"
                   }
                 ],
@@ -1759,7 +1759,7 @@
               },
               {
                 "import": true,
-                "name": "Legiones Astartes — trait",
+                "name": "Tratto Legiones Astartes",
                 "hidden": false,
                 "id": "06c0-a821-d13e-a206",
                 "type": "selectionEntryGroup",
@@ -1949,7 +1949,7 @@
                       },
                       {
                         "type": "replace",
-                        "value": "Sergeant, Champion",
+                        "value": "Sergente, Campione",
                         "field": "50fc-9241-d4a2-045b",
                         "arg": "Sergeant"
                       }
@@ -2183,7 +2183,7 @@
               },
               {
                 "import": true,
-                "name": "Legiones Astartes — trait",
+                "name": "Tratto Legiones Astartes",
                 "hidden": false,
                 "id": "504b-2750-632f-7e93",
                 "type": "selectionEntryGroup",
@@ -2503,7 +2503,7 @@
                       }
                     ],
                     "import": true,
-                    "name": "Armi Combi di Legione",
+                    "name": "Combiarmi della Legione",
                     "hidden": false,
                     "id": "1bd1-cb80-4b72-f8d0",
                     "type": "selectionEntryGroup",
@@ -3146,7 +3146,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Breaching (5+)",
+                        "value": "Perforante (5+)",
                         "field": "name"
                       }
                     ],
@@ -3601,7 +3601,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Feel No Pain (5+)",
+                    "value": "Insensibile al Dolore (5+)",
                     "field": "name"
                   }
                 ],
@@ -3616,7 +3616,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Critical Hit (6+)",
+                    "value": "Colpo Critico (6+)",
                     "field": "name"
                   }
                 ],
@@ -3916,7 +3916,7 @@
               },
               {
                 "import": true,
-                "name": "Legiones Astartes — trait",
+                "name": "Tratto Legiones Astartes",
                 "hidden": false,
                 "id": "c178-9087-0b40-91fd",
                 "type": "selectionEntryGroup",
@@ -4322,7 +4322,7 @@
               },
               {
                 "import": true,
-                "name": "Legiones Astartes — trait",
+                "name": "Tratto Legiones Astartes",
                 "hidden": false,
                 "id": "85a4-19c9-82ff-5a2c",
                 "type": "selectionEntryGroup",
@@ -5010,7 +5010,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Breaching (4+)",
+                        "value": "Perforante (4+)",
                         "field": "name"
                       }
                     ],
@@ -5162,7 +5162,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Critical Hit (6+)",
+                    "value": "Colpo Critico (6+)",
                     "field": "name"
                   }
                 ],
@@ -5184,7 +5184,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Impact (A)",
+                    "value": "Impatto (A)",
                     "field": "name"
                   }
                 ],
@@ -5938,7 +5938,7 @@
                       },
                       {
                         "type": "replace",
-                        "value": "Sergeant, Champion",
+                        "value": "Sergente, Campione",
                         "field": "50fc-9241-d4a2-045b",
                         "arg": "Sergeant"
                       }
@@ -6158,7 +6158,7 @@
               {
                 "type": "set",
                 "field": "name",
-                "value": "Bulky (2)"
+                "value": "Imponente (2)"
               }
             ],
             "name": "Imponente (X)",
@@ -6186,7 +6186,7 @@
               {
                 "type": "set",
                 "field": "name",
-                "value": "Eternal Warrior (1)"
+                "value": "Guerriero Eterno (1)"
               }
             ],
             "name": "Guerriero Eterno (X)",
@@ -6569,7 +6569,7 @@
               {
                 "type": "set",
                 "field": "name",
-                "value": "Void Shields (1)"
+                "value": "Scudi Vacuum (1)"
               }
             ],
             "name": "Scudi Vacuum (X)",

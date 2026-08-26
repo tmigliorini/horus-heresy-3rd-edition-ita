@@ -245,7 +245,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Breaching (6+",
+                    "value": "Perforante (6+",
                     "field": "name"
                   }
                 ],
@@ -261,7 +261,7 @@
                   {
                     "comment": "3",
                     "type": "set",
-                    "value": "Reaping Blow (3)",
+                    "value": "Colpo Mietitore (3)",
                     "field": "name"
                   }
                 ],
@@ -276,7 +276,7 @@
                   {
                     "comment": "6",
                     "type": "set",
-                    "value": "Shred (6+)",
+                    "value": "Lacerante (6+)",
                     "field": "name"
                   }
                 ],
@@ -364,7 +364,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Critical Hit (5+)",
+                    "value": "Colpo Critico (5+)",
                     "field": "name"
                   }
                 ],
@@ -524,7 +524,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Bulky (6)",
+                "value": "Imponente (6)",
                 "field": "name"
               }
             ],
@@ -545,7 +545,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Eternal Warrior (2)",
+                "value": "Guerriero Eterno (2)",
                 "field": "name"
               }
             ],
@@ -846,7 +846,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Bulky (2)",
+                "value": "Imponente (2)",
                 "field": "name"
               }
             ],
@@ -881,7 +881,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Eternal Warrior (1)",
+                "value": "Guerriero Eterno (1)",
                 "field": "name"
               }
             ],
@@ -1750,7 +1750,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Critical Hit (6+)",
+                    "value": "Colpo Critico (6+)",
                     "field": "name"
                   }
                 ],
@@ -1845,7 +1845,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Breaching (6+)",
+                    "value": "Perforante (6+)",
                     "field": "name"
                   }
                 ],
@@ -2301,7 +2301,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Breaching (6+",
+                    "value": "Perforante (6+",
                     "field": "name"
                   }
                 ],
@@ -2317,7 +2317,7 @@
                   {
                     "comment": "3",
                     "type": "set",
-                    "value": "Reaping Blow (3)",
+                    "value": "Colpo Mietitore (3)",
                     "field": "name"
                   }
                 ],
@@ -2332,7 +2332,7 @@
                   {
                     "comment": "6",
                     "type": "set",
-                    "value": "Shred (6+)",
+                    "value": "Lacerante (6+)",
                     "field": "name"
                   }
                 ],
@@ -2420,7 +2420,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Critical Hit (5+)",
+                    "value": "Colpo Critico (5+)",
                     "field": "name"
                   }
                 ],
@@ -2597,7 +2597,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Bulky (6)",
+                "value": "Imponente (6)",
                 "field": "name"
               }
             ],
@@ -2618,7 +2618,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Eternal Warrior (3)",
+                "value": "Guerriero Eterno (3)",
                 "field": "name"
               }
             ],
@@ -2632,7 +2632,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Feel No Pain (5+)",
+                "value": "Insensibile al Dolore (5+)",
                 "field": "name"
               }
             ],
@@ -2646,7 +2646,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Fear (1)",
+                "value": "Paura (1)",
                 "field": "name"
               }
             ],
@@ -2920,7 +2920,7 @@
                       },
                       {
                         "import": true,
-                        "name": "Armi Combi di Legione",
+                        "name": "Combiarmi della Legione",
                         "hidden": false,
                         "id": "8c8f-3fbf-a19a-42e0",
                         "type": "selectionEntryGroup",
@@ -3058,7 +3058,7 @@
                         "hidden": false
                       }
                     ],
-                    "name": "Può sostituire Arma combi Banestrike con:",
+                    "name": "Può sostituire Combirequiem Banestrike con:",
                     "id": "d646-bfc2-2389-42e8",
                     "hidden": false,
                     "defaultSelectionEntryId": "964e-79f0-50be-8682",
@@ -3350,7 +3350,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Bulky (2)",
+                "value": "Imponente (2)",
                 "field": "name"
               }
             ],
@@ -3378,7 +3378,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Vanguard (4)",
+                "value": "Avanguardia (4)",
                 "field": "name"
               }
             ],
@@ -3633,7 +3633,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Critical Hit (6+)",
+                    "value": "Colpo Critico (6+)",
                     "field": "name"
                   }
                 ],
@@ -3861,7 +3861,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Impact (I)",
+                "value": "Impatto (I)",
                 "field": "name"
               }
             ],
@@ -4530,7 +4530,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Poisoned (2+)",
+                    "value": "Avvelenato (2+)",
                     "field": "name"
                   }
                 ],
@@ -4544,7 +4544,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Critical Hit (6+)",
+                    "value": "Colpo Critico (6+)",
                     "field": "name"
                   }
                 ],
@@ -4558,7 +4558,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Breaching (5+)",
+                    "value": "Perforante (5+)",
                     "field": "name"
                   }
                 ],
@@ -4979,7 +4979,7 @@
                       },
                       {
                         "type": "replace",
-                        "value": "Sergeant, Champion",
+                        "value": "Sergente, Campione",
                         "field": "50fc-9241-d4a2-045b",
                         "arg": "Sergeant"
                       }
@@ -5000,7 +5000,7 @@
                     "type": "and"
                   }
                 ],
-                "name": "Chieftain Reaver",
+                "name": "Caporazziatore",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo",
                 "hidden": false,
@@ -5347,7 +5347,7 @@
             ],
             "type": "model",
             "import": true,
-            "name": "Chieftain Reaver",
+            "name": "Caporazziatore",
             "hidden": false,
             "id": "a7c6-6507-5322-173f",
             "sortIndex": 1
@@ -5491,7 +5491,7 @@
                     "type": "and"
                   }
                 ],
-                "name": "Reaver",
+                "name": "Razziatore",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo",
                 "hidden": false,
@@ -6006,7 +6006,7 @@
             ],
             "type": "model",
             "import": true,
-            "name": "Reaver",
+            "name": "Razziatore",
             "hidden": false,
             "id": "0d9d-8a8f-b0f0-abeb",
             "sortIndex": 2
@@ -6106,7 +6106,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Precision (6+)",
+                "value": "Precisione (6+)",
                 "field": "name"
               }
             ],
@@ -6120,7 +6120,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Vanguard (3+)",
+                "value": "Avanguardia (3+)",
                 "field": "name"
               }
             ],
@@ -6781,7 +6781,7 @@
                     "type": "and"
                   }
                 ],
-                "name": "Reaver con Reattori Dorsali",
+                "name": "Razziatore con reattori dorsali",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo",
                 "hidden": false,
@@ -7346,7 +7346,7 @@
             ],
             "type": "model",
             "import": true,
-            "name": "Reaver con Reattori Dorsali",
+            "name": "Razziatore con reattori dorsali",
             "hidden": false,
             "id": "e42e-4036-4be7-b4d9",
             "page": 129,
@@ -7510,7 +7510,7 @@
                       },
                       {
                         "type": "replace",
-                        "value": "Sergeant, Champion",
+                        "value": "Sergente, Campione",
                         "field": "50fc-9241-d4a2-045b",
                         "arg": "Sergeant"
                       }
@@ -7531,7 +7531,7 @@
                     "type": "and"
                   }
                 ],
-                "name": "Chieftain Reaver con Reattori Dorsali",
+                "name": "Caporazziatore con reattori dorsali",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo",
                 "hidden": false,
@@ -8105,7 +8105,7 @@
             ],
             "type": "model",
             "import": true,
-            "name": "Chieftain Reaver con Reattori Dorsali",
+            "name": "Caporazziatore con reattori dorsali",
             "hidden": false,
             "id": "11eb-847d-4522-9999",
             "page": 129,
@@ -8118,7 +8118,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Precision (6+)",
+                "value": "Precisione (6+)",
                 "field": "name"
               }
             ],
@@ -8132,7 +8132,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Vanguard (3)",
+                "value": "Avanguardia (3)",
                 "field": "name"
               }
             ],
@@ -8146,7 +8146,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Bulky (2)",
+                "value": "Imponente (2)",
                 "field": "name"
               }
             ],
@@ -8200,7 +8200,7 @@
         ],
         "type": "unit",
         "import": true,
-        "name": "Squadra Aggressore Reaver",
+        "name": "Squadra d’Attacco di Razziatori con reattori dorsali",
         "hidden": false,
         "id": "8357-2e10-4d5c-b134",
         "page": 129,
@@ -8494,7 +8494,7 @@
                           }
                         ],
                         "import": true,
-                        "name": "Armi Combi di Legione",
+                        "name": "Combiarmi della Legione",
                         "hidden": false,
                         "id": "4b5d-792d-96d0-4462",
                         "type": "selectionEntryGroup",
@@ -8630,7 +8630,7 @@
               {
                 "comment": "2",
                 "type": "set",
-                "value": "Bulky (2)",
+                "value": "Imponente (2)",
                 "field": "name"
               }
             ],
@@ -8823,7 +8823,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Critical Hit (6+)",
+                "value": "Colpo Critico (6+)",
                 "field": "name"
               }
             ],
@@ -10506,7 +10506,7 @@
           }
         ],
         "import": true,
-        "name": "Squadra Aggressore Reaver",
+        "name": "Squadra d’Attacco di Razziatori con reattori dorsali",
         "hidden": false,
         "id": "d42c-6b17-0445-5921",
         "type": "selectionEntry",

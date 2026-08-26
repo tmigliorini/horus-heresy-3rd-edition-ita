@@ -330,7 +330,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Bulky (4)",
+                "value": "Imponente (4)",
                 "field": "name"
               }
             ],
@@ -344,7 +344,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Eternal Warrior (2)",
+                "value": "Guerriero Eterno (2)",
                 "field": "name"
               }
             ],
@@ -1758,7 +1758,7 @@
                       },
                       {
                         "type": "replace",
-                        "value": "Sergeant, Champion",
+                        "value": "Sergente, Campione",
                         "field": "50fc-9241-d4a2-045b",
                         "arg": "Sergeant"
                       }
@@ -2498,7 +2498,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (5+)",
+                "value": "Perforante (5+)",
                 "field": "name"
               }
             ],
@@ -2567,7 +2567,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (5+)  ",
+                "value": "Perforante (5+)",
                 "field": "name"
               }
             ],
@@ -2581,7 +2581,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Duellist's Edge (1)",
+                "value": "Maestria del Duellante (1)",
                 "field": "name"
               }
             ],
@@ -2712,7 +2712,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (6+)",
+                "value": "Perforante (6+)",
                 "field": "name"
               }
             ],
@@ -2726,7 +2726,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Duellist's Edge (1)",
+                "value": "Maestria del Duellante (1)",
                 "field": "name"
               }
             ],
@@ -3586,7 +3586,7 @@
               {
                 "type": "set",
                 "field": "name",
-                "value": "Bulky (2)"
+                "value": "Imponente (2)"
               }
             ],
             "name": "Imponente (X)",
@@ -3607,7 +3607,7 @@
               {
                 "type": "set",
                 "field": "name",
-                "value": "Precision (6+)"
+                "value": "Precisione (6+)"
               }
             ],
             "name": "Precisione (X)",
@@ -4228,7 +4228,7 @@
                       },
                       {
                         "type": "replace",
-                        "value": "Sergeant, Champion",
+                        "value": "Sergente, Campione",
                         "field": "50fc-9241-d4a2-045b",
                         "arg": "Sergeant"
                       }
@@ -4508,7 +4508,7 @@
               {
                 "type": "set",
                 "field": "name",
-                "value": "Bulky (2)"
+                "value": "Imponente (2)"
               }
             ],
             "name": "Imponente (X)",
@@ -4536,7 +4536,7 @@
               {
                 "type": "set",
                 "field": "name",
-                "value": "Firing Protocols (2)"
+                "value": "Protocolli di Tiro (2)"
               }
             ],
             "name": "Protocolli di Tiro (X)",
@@ -4550,7 +4550,7 @@
               {
                 "type": "set",
                 "field": "name",
-                "value": "Support Unit (1)"
+                "value": "Unità di Supporto (1)"
               }
             ],
             "name": "Unità di Supporto (X)",
@@ -5302,7 +5302,7 @@
                       },
                       {
                         "type": "replace",
-                        "value": "Sergeant, Champion",
+                        "value": "Sergente, Campione",
                         "field": "50fc-9241-d4a2-045b",
                         "arg": "Sergeant"
                       }
@@ -5452,7 +5452,7 @@
                   }
                 ],
                 "import": true,
-                "name": "Bombe phosphex",
+                "name": "Bombe Fosfex",
                 "hidden": false,
                 "id": "f50e-dcc0-4e38-970f",
                 "type": "selectionEntry",
@@ -5912,7 +5912,7 @@
               {
                 "type": "set",
                 "field": "name",
-                "value": "Bulky (6)"
+                "value": "Imponente (6)"
               }
             ],
             "name": "Imponente (X)",
@@ -5926,7 +5926,7 @@
               {
                 "type": "set",
                 "field": "name",
-                "value": "Explodes (5+)"
+                "value": "Esplosione (5+)"
               }
             ],
             "name": "Esplosione (X)",
@@ -6076,7 +6076,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (5+)",
+                "value": "Perforante (5+)",
                 "field": "name"
               }
             ],
@@ -6213,7 +6213,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Suppressive (1)",
+                "value": "Soppressione (1)",
                 "field": "name"
               }
             ],
@@ -6228,7 +6228,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (5+)",
+                "value": "Perforante (5+)",
                 "field": "name"
               }
             ],
@@ -6298,7 +6298,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Panic (1)",
+                "value": "Panico (1)",
                 "field": "name"
               }
             ],
@@ -7086,7 +7086,7 @@
                       }
                     ],
                     "import": true,
-                    "name": "Armi Combi di Legione",
+                    "name": "Combiarmi della Legione",
                     "hidden": false,
                     "id": "5d85-e555-4352-ac11",
                     "type": "selectionEntryGroup",

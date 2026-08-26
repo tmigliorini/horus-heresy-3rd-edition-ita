@@ -405,7 +405,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Bulky (4)",
+                "value": "Imponente (4)",
                 "field": "name"
               }
             ],
@@ -420,7 +420,7 @@
               {
                 "comment": "2",
                 "type": "set",
-                "value": "Fear (2)",
+                "value": "Paura (2)",
                 "field": "name"
               }
             ],
@@ -435,7 +435,7 @@
               {
                 "comment": "2",
                 "type": "set",
-                "value": "Eternal Warrior (2)",
+                "value": "Guerriero Eterno (2)",
                 "field": "name"
               }
             ],
@@ -667,7 +667,7 @@
                       },
                       {
                         "type": "replace",
-                        "value": "Sergeant, Champion",
+                        "value": "Sergente, Campione",
                         "field": "50fc-9241-d4a2-045b",
                         "arg": "Sergeant"
                       }
@@ -1081,7 +1081,7 @@
               {
                 "comment": "2",
                 "type": "set",
-                "value": "Bulky (2)",
+                "value": "Imponente (2)",
                 "field": "name"
               }
             ],
@@ -1110,7 +1110,7 @@
               {
                 "comment": "3",
                 "type": "set",
-                "value": "Vanguard (3)",
+                "value": "Avanguardia (3)",
                 "field": "name"
               }
             ],
@@ -1125,7 +1125,7 @@
               {
                 "comment": "1",
                 "type": "set",
-                "value": "Fear (1)",
+                "value": "Paura (1)",
                 "field": "name"
               }
             ],
@@ -1478,7 +1478,7 @@
                       },
                       {
                         "type": "replace",
-                        "value": "Sergeant, Champion",
+                        "value": "Sergente, Campione",
                         "field": "50fc-9241-d4a2-045b",
                         "arg": "Sergeant"
                       }
@@ -2321,7 +2321,7 @@
               {
                 "comment": "I",
                 "type": "set",
-                "value": "Impact (I)",
+                "value": "Impatto (I)",
                 "field": "name"
               }
             ],
@@ -2336,7 +2336,7 @@
               {
                 "comment": "1",
                 "type": "set",
-                "value": "Fear (1)",
+                "value": "Paura (1)",
                 "field": "name"
               }
             ],
@@ -2351,7 +2351,7 @@
               {
                 "comment": "4",
                 "type": "set",
-                "value": "Vanguard (4)",
+                "value": "Avanguardia (4)",
                 "field": "name"
               }
             ],
@@ -2366,7 +2366,7 @@
               {
                 "comment": "2",
                 "type": "set",
-                "value": "Bulky (2)",
+                "value": "Imponente (2)",
                 "field": "name"
               }
             ],
@@ -2662,7 +2662,7 @@
                       },
                       {
                         "type": "replace",
-                        "value": "Sergeant, Champion",
+                        "value": "Sergente, Campione",
                         "field": "50fc-9241-d4a2-045b",
                         "arg": "Sergeant"
                       }
@@ -3181,7 +3181,7 @@
             "modifiers": [
               {
                 "type": "replace",
-                "value": "Sergeant, Champion",
+                "value": "Sergente, Campione",
                 "field": "50fc-9241-d4a2-045b",
                 "arg": "Sergeant"
               },
@@ -3902,7 +3902,7 @@
               {
                 "comment": "1",
                 "type": "set",
-                "value": "Fear (1)",
+                "value": "Paura (1)",
                 "field": "name"
               }
             ],
@@ -3917,7 +3917,7 @@
               {
                 "comment": "2",
                 "type": "set",
-                "value": "Vanguard (2)",
+                "value": "Avanguardia (2)",
                 "field": "name"
               }
             ],
@@ -3962,7 +3962,7 @@
               },
               {
                 "type": "set",
-                "value": "Infiltrate (12)",
+                "value": "Infiltrazione (12)",
                 "field": "name"
               }
             ],
@@ -4304,7 +4304,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Critical Hit (6+)",
+                    "value": "Colpo Critico (6+)",
                     "field": "name"
                   }
                 ],
@@ -4318,7 +4318,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Shred (5+)",
+                    "value": "Lacerante (5+)",
                     "field": "name"
                   }
                 ],
@@ -4385,7 +4385,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Precision (4+)",
+                "value": "Precisione (4+)",
                 "field": "name"
               }
             ],
@@ -4400,7 +4400,7 @@
               {
                 "comment": "2",
                 "type": "set",
-                "value": "Fear (2)",
+                "value": "Paura (2)",
                 "field": "name"
               }
             ],
@@ -4645,7 +4645,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (6+)",
+                "value": "Perforante (6+)",
                 "field": "name"
               }
             ],
@@ -4659,7 +4659,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Shred (6+)",
+                "value": "Lacerante (6+)",
                 "field": "name"
               }
             ],
@@ -4849,7 +4849,7 @@
                       },
                       {
                         "type": "replace",
-                        "value": "Sergeant, Champion",
+                        "value": "Sergente, Campione",
                         "field": "50fc-9241-d4a2-045b",
                         "arg": "Sergeant"
                       }
@@ -4902,7 +4902,7 @@
                       },
                       {
                         "import": true,
-                        "name": "Armi Combi di Legione",
+                        "name": "Combiarmi della Legione",
                         "hidden": false,
                         "id": "2005-a87b-5206-4242",
                         "type": "selectionEntryGroup",
@@ -5066,7 +5066,7 @@
                         "modifiers": [
                           {
                             "type": "set",
-                            "value": "Nostraman chainglaive ",
+                            "value": "Alabarda a catena Nostramana",
                             "field": "name"
                           }
                         ],
@@ -5453,7 +5453,7 @@
                       },
                       {
                         "import": true,
-                        "name": "Armi Combi di Legione",
+                        "name": "Combiarmi della Legione",
                         "hidden": false,
                         "id": "bb7c-c2d3-f32b-03c4",
                         "type": "selectionEntryGroup",
@@ -5719,7 +5719,7 @@
                         "modifiers": [
                           {
                             "type": "set",
-                            "value": "Nostraman chainglaive  ",
+                            "value": "Alabarda a catena Nostramana",
                             "field": "name"
                           }
                         ],
@@ -5958,7 +5958,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Bulky (2)",
+                "value": "Imponente (2)",
                 "field": "name"
               }
             ],
@@ -5980,7 +5980,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Impact (I)",
+                "value": "Impatto (I)",
                 "field": "name"
               }
             ],
@@ -5995,7 +5995,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Vanguard (3)",
+                "value": "Avanguardia (3)",
                 "field": "name"
               }
             ],
@@ -7030,7 +7030,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Impact (I)",
+                    "value": "Impatto (I)",
                     "field": "name"
                   }
                 ],

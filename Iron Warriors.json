@@ -270,7 +270,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Shred (4+)",
+                    "value": "Lacerante (4+)",
                     "field": "name"
                   }
                 ],
@@ -285,7 +285,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Suppressive (1)",
+                    "value": "Soppressione (1)",
                     "field": "name"
                   }
                 ],
@@ -378,7 +378,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Critical Hit (5+)",
+                    "value": "Colpo Critico (5+)",
                     "field": "name"
                   }
                 ],
@@ -504,7 +504,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Battlesmith (3)",
+                "value": "Fabbro da Battaglia (3)",
                 "field": "name"
               }
             ],
@@ -519,7 +519,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Bulky (6)",
+                "value": "Imponente (6)",
                 "field": "name"
               }
             ],
@@ -534,7 +534,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Eternal Warrior (2)",
+                "value": "Guerriero Eterno (2)",
                 "field": "name"
               }
             ],
@@ -754,7 +754,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (5+)",
+                "value": "Perforante (5+)",
                 "field": "name"
               }
             ],
@@ -818,7 +818,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Expendable (1)",
+                    "value": "Sacrificabile (1)",
                     "field": "name"
                   }
                 ],
@@ -1088,7 +1088,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Bulky (2)",
+                "value": "Imponente (2)",
                 "field": "name"
               }
             ],
@@ -1103,7 +1103,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Battlesmith (2)",
+                "value": "Fabbro da Battaglia (2)",
                 "field": "name"
               }
             ],
@@ -1564,7 +1564,7 @@
                       },
                       {
                         "type": "replace",
-                        "value": "Sergeant, Champion",
+                        "value": "Sergente, Campione",
                         "field": "50fc-9241-d4a2-045b",
                         "arg": "Sergeant"
                       }
@@ -1636,7 +1636,7 @@
                       },
                       {
                         "import": true,
-                        "name": "Armi Combi di Legione",
+                        "name": "Combiarmi della Legione",
                         "hidden": false,
                         "id": "5f7c-fa7e-dbd0-9d08",
                         "type": "selectionEntryGroup",
@@ -2121,7 +2121,7 @@
                       },
                       {
                         "import": true,
-                        "name": "Armi Combi di Legione",
+                        "name": "Combiarmi della Legione",
                         "hidden": false,
                         "id": "577b-933d-ec74-3c06",
                         "type": "selectionEntryGroup",
@@ -2520,7 +2520,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Heavy (D)",
+                    "value": "Pesante (D)",
                     "field": "name"
                   }
                 ],
@@ -2535,7 +2535,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Breaching (6+)",
+                    "value": "Perforante (6+)",
                     "field": "name"
                   }
                 ],
@@ -2550,7 +2550,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Heavy (FP)",
+                    "value": "Pesante (PF)",
                     "field": "name"
                   }
                 ],
@@ -2612,7 +2612,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Firing Protocols (2)",
+                "value": "Protocolli di Tiro (2)",
                 "field": "name"
               }
             ],
@@ -2640,7 +2640,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Bulky (2)",
+                "value": "Imponente (2)",
                 "field": "name"
               }
             ],
@@ -2656,7 +2656,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Support Unit (1)",
+                "value": "Unità di Supporto (1)",
                 "field": "name"
               }
             ],
@@ -2955,7 +2955,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Pinning (1)",
+                    "value": "Inchiodamento (1)",
                     "field": "name"
                   }
                 ],
@@ -2970,7 +2970,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Shred (5+)",
+                    "value": "Lacerante (5+)",
                     "field": "name"
                   }
                 ],
@@ -3072,7 +3072,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Impact (A)",
+                "value": "Impatto (A)",
                 "field": "name"
               }
             ],
@@ -3087,7 +3087,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Bulky (4)",
+                "value": "Imponente (4)",
                 "field": "name"
               }
             ],
@@ -3358,7 +3358,7 @@
                   }
                 ],
                 "id": "0549-b84d-415b-9a5e",
-                "name": "Warsmith in armatura Artificer",
+                "name": "Fabbro da Guerra con Armatura dell’Artefice",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo"
               }
@@ -3784,7 +3784,7 @@
                       },
                       {
                         "import": true,
-                        "name": "Armi Combi di Legione",
+                        "name": "Combiarmi della Legione",
                         "hidden": false,
                         "id": "95eb-1ba7-80fa-7dd1",
                         "type": "selectionEntryGroup",
@@ -4178,7 +4178,7 @@
               }
             ],
             "type": "model",
-            "name": "Warsmith in armatura Artificer",
+            "name": "Fabbro da Guerra con Armatura dell’Artefice",
             "id": "3eeb-2e5d-4e06-be27",
             "page": 89,
             "publicationId": "5469-14da-d0a1-6092",
@@ -4191,7 +4191,7 @@
               {
                 "type": "set",
                 "field": "name",
-                "value": "Battlesmith (2)"
+                "value": "Fabbro da Battaglia (2)"
               }
             ],
             "name": "Fabbro da Battaglia (X)",
@@ -4265,7 +4265,7 @@
             "targetId": "3fa2-78b1-637f-7fb2"
           }
         ],
-        "name": "Warsmith in armatura Artificer",
+        "name": "Fabbro da Guerra con Armatura dell’Artefice",
         "type": "unit",
         "id": "269e-a6c3-41a0-8cc3",
         "sortIndex": 5,
@@ -4591,7 +4591,7 @@
               {
                 "type": "set",
                 "field": "name",
-                "value": "Battlesmith (1)"
+                "value": "Fabbro da Battaglia (1)"
               }
             ],
             "name": "Fabbro da Battaglia (X)",
@@ -4605,7 +4605,7 @@
               {
                 "type": "set",
                 "field": "name",
-                "value": "Feel No Pain (5+)"
+                "value": "Insensibile al Dolore (5+)"
               }
             ],
             "name": "Insensibile al Dolore (X)",
@@ -5082,7 +5082,7 @@
                   },
                   {
                     "import": true,
-                    "name": "Armi Combi di Legione",
+                    "name": "Combiarmi della Legione",
                     "hidden": false,
                     "id": "58bd-5858-a22a-6d6c",
                     "type": "selectionEntryGroup",
@@ -5224,7 +5224,7 @@
               {
                 "type": "set",
                 "field": "name",
-                "value": "Bulky (2)"
+                "value": "Imponente (2)"
               }
             ],
             "name": "Imponente (X)",
@@ -5252,7 +5252,7 @@
               {
                 "type": "set",
                 "field": "name",
-                "value": "Expendable (1)"
+                "value": "Sacrificabile (1)"
               }
             ],
             "name": "Sacrificabile (X)",
@@ -5474,7 +5474,7 @@
                   }
                 ],
                 "id": "e3b4-1a48-4c2f-a92d",
-                "name": "Iron Havoc",
+                "name": "Distruttore di Ferro",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo"
               }
@@ -5570,7 +5570,7 @@
                     "id": "b638-372a-4dd5-94bd"
                   }
                 ],
-                "name": "Un Iron Havoc in questa Unità può selezionare un Vessillo per +10 punti.",
+                "name": "Un Distruttore di Ferro in questa Unità può selezionare un Vessillo per +10 punti.",
                 "id": "00e0-49c0-4d06-a243",
                 "sortIndex": 3
               },
@@ -5596,7 +5596,7 @@
                     "includeChildSelections": true
                   }
                 ],
-                "name": "Fino a due Iron Havoc in questa Unità possono avere ciascuno un elemento da:",
+                "name": "Fino a due Distruttori di Ferro in questa Unità possono avere ciascuno un elemento da:",
                 "id": "3c37-b167-4b8b-3f9a",
                 "hidden": false
               }
@@ -5610,7 +5610,7 @@
               }
             ],
             "type": "model",
-            "name": "Iron Havoc",
+            "name": "Distruttore di Ferro",
             "id": "5739-ff73-43a3-aaa9",
             "page": 92,
             "publicationId": "5469-14da-d0a1-6092",
@@ -5716,7 +5716,7 @@
                       },
                       {
                         "type": "replace",
-                        "value": "Sergeant, Champion",
+                        "value": "Sergente, Campione",
                         "field": "50fc-9241-d4a2-045b",
                         "arg": "Sergeant"
                       }
@@ -5795,7 +5795,7 @@
                   }
                 ],
                 "id": "528e-7029-4ef6-842f",
-                "name": "Sergente Iron Havoc",
+                "name": "Sergente Distruttore di Ferro",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo"
               }
@@ -5922,7 +5922,7 @@
               }
             ],
             "type": "model",
-            "name": "Sergente Iron Havoc",
+            "name": "Sergente Distruttore di Ferro",
             "id": "cafa-bfb0-44fe-9c01",
             "page": 92,
             "publicationId": "5469-14da-d0a1-6092",
@@ -6089,7 +6089,7 @@
               {
                 "type": "set",
                 "field": "name",
-                "value": "Support Unit (1)"
+                "value": "Unità di Supporto (1)"
               }
             ],
             "name": "Unità di Supporto (X)",
@@ -6195,7 +6195,7 @@
             "hidden": false
           }
         ],
-        "name": "Iron Havoc",
+        "name": "Distruttori di Ferro",
         "type": "unit",
         "id": "ed0b-1070-4e20-b597",
         "sortIndex": 8,
@@ -6654,7 +6654,7 @@
                       {
                         "type": "set",
                         "field": "name",
-                        "value": "Un Missile cacciatore (Arco Frontale)"
+                        "value": "Un Missile Cacciatore (Arco Frontale)"
                       }
                     ],
                     "constraints": [
@@ -6671,7 +6671,7 @@
                     "type": "selectionEntry",
                     "targetId": "b9b7-8297-35b5-74ad",
                     "id": "b029-d9ee-4292-bc97",
-                    "name": "Missile cacciatore"
+                    "name": "Missile Cacciatore"
                   },
                   {
                     "costs": [
@@ -6766,7 +6766,7 @@
               {
                 "type": "set",
                 "field": "name",
-                "value": "Void Shields (1)"
+                "value": "Scudi Vacuum (1)"
               }
             ],
             "name": "Scudi Vacuum (X)",
@@ -7619,7 +7619,7 @@
           }
         ],
         "import": true,
-        "name": "Warsmith in armatura Artificer",
+        "name": "Fabbro da Guerra con Armatura dell’Artefice",
         "hidden": false,
         "id": "c912-c48f-da79-3d45",
         "type": "selectionEntry",
@@ -7667,7 +7667,7 @@
           }
         ],
         "import": true,
-        "name": "Iron Havoc",
+        "name": "Distruttori di Ferro",
         "hidden": false,
         "id": "1eb3-3595-8c82-7990",
         "type": "selectionEntry",

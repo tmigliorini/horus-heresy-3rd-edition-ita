@@ -810,7 +810,7 @@
                                 "childId": "5c83-6804-cc46-8a88",
                                 "shared": true,
                                 "includeChildSelections": true,
-                                "childName": "Three Legions"
+                                "childName": "Tre Legioni"
                               }
                             ],
                             "type": "set",
@@ -827,7 +827,7 @@
                                 "childId": "5c83-6804-cc46-8a88",
                                 "shared": true,
                                 "includeChildSelections": true,
-                                "childName": "Three Legions"
+                                "childName": "Tre Legioni"
                               }
                             ],
                             "type": "set",
@@ -2013,7 +2013,7 @@
           }
         ],
         "import": true,
-        "name": "Iron Havoc",
+        "name": "Distruttori di Ferro",
         "hidden": false,
         "id": "d585-ab13-97d4-ff77",
         "type": "selectionEntry",
@@ -4070,7 +4070,7 @@
           }
         ],
         "import": true,
-        "name": "Squadra Aggressore Reaver",
+        "name": "Squadra d’Attacco di Razziatori con reattori dorsali",
         "hidden": false,
         "id": "e1fe-b8e9-c6dd-a7dc",
         "type": "selectionEntry",

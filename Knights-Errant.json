@@ -345,7 +345,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Critical Hit (6+)",
+                        "value": "Colpo Critico (6+)",
                         "field": "name"
                       }
                     ],
@@ -411,7 +411,7 @@
               {
                 "type": "set",
                 "field": "name",
-                "value": "Eternal Warrior (1)"
+                "value": "Guerriero Eterno (1)"
               }
             ],
             "name": "Guerriero Eterno (X)",
@@ -921,7 +921,7 @@
               {
                 "type": "set",
                 "field": "name",
-                "value": "Eternal Warrior (1)"
+                "value": "Guerriero Eterno (1)"
               }
             ],
             "name": "Guerriero Eterno (X)",

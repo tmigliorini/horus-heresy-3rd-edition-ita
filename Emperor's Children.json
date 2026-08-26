@@ -221,7 +221,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Duelist's Edge (1)",
+                        "value": "Maestria del Duellante (1)",
                         "field": "name"
                       }
                     ],
@@ -314,7 +314,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Shred (5+)",
+                        "value": "Lacerante (5+)",
                         "field": "name"
                       }
                     ],
@@ -329,7 +329,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Deflagrate (6)",
+                        "value": "Deflagrazione (6)",
                         "field": "name"
                       }
                     ],
@@ -396,7 +396,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Bulky (4)",
+                    "value": "Imponente (4)",
                     "field": "name"
                   }
                 ],
@@ -411,7 +411,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Eternal Warrior (2)",
+                    "value": "Guerriero Eterno (2)",
                     "field": "name"
                   }
                 ],
@@ -782,7 +782,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Critical Hit (6+)",
+                        "value": "Colpo Critico (6+)",
                         "field": "name"
                       }
                     ],
@@ -797,7 +797,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Duelist's Edge (1)",
+                        "value": "Maestria del Duellante (1)",
                         "field": "name"
                       }
                     ],
@@ -839,7 +839,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Bulky (7)",
+                    "value": "Imponente (7)",
                     "field": "name"
                   }
                 ],
@@ -861,7 +861,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Fear (2)",
+                    "value": "Paura (2)",
                     "field": "name"
                   }
                 ],
@@ -876,7 +876,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Eternal Warrior (2)",
+                    "value": "Guerriero Eterno (2)",
                     "field": "name"
                   }
                 ],
@@ -1255,7 +1255,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Critical Hit (6+)",
+                        "value": "Colpo Critico (6+)",
                         "field": "name"
                       }
                     ],
@@ -1351,7 +1351,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Breaching (6+)",
+                        "value": "Perforante (6+)",
                         "field": "name"
                       }
                     ],
@@ -1366,7 +1366,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Pinning (0)",
+                        "value": "Inchiodamento (0)",
                         "field": "name"
                       }
                     ],
@@ -1519,7 +1519,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Impact (A)",
+                    "value": "Impatto (A)",
                     "field": "name"
                   }
                 ],
@@ -1534,7 +1534,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Bulky (2)",
+                    "value": "Imponente (2)",
                     "field": "name"
                   }
                 ],
@@ -1905,7 +1905,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Duellist's Edge (1)",
+                        "value": "Maestria del Duellante (1)",
                         "field": "name"
                       }
                     ],
@@ -2347,7 +2347,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Breaching (5+)",
+                        "value": "Perforante (5+)",
                         "field": "name"
                       }
                     ],
@@ -2362,7 +2362,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Duellist's Edge (1)",
+                        "value": "Maestria del Duellante (1)",
                         "field": "name"
                       }
                     ],
@@ -3214,7 +3214,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Bulky (2)",
+                "value": "Imponente (2)",
                 "field": "name"
               }
             ],
@@ -3448,7 +3448,7 @@
                         "modifiers": [
                           {
                             "type": "set",
-                            "value": "Breaching (6+)",
+                            "value": "Perforante (6+)",
                             "field": "name"
                           }
                         ],
@@ -3462,7 +3462,7 @@
                         "modifiers": [
                           {
                             "type": "set",
-                            "value": "Impact (D)",
+                            "value": "Impatto (D)",
                             "field": "name"
                           }
                         ],
@@ -4121,7 +4121,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Vanguard (3)",
+                "value": "Avanguardia (3)",
                 "field": "name"
               }
             ],
@@ -4487,7 +4487,7 @@
                       },
                       {
                         "type": "replace",
-                        "value": "Sergeant, Champion",
+                        "value": "Sergente, Campione",
                         "field": "50fc-9241-d4a2-045b",
                         "arg": "Sergeant"
                       }
@@ -5155,7 +5155,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Overload (1)",
+                "value": "Surriscaldamento (1)",
                 "field": "name"
               }
             ],
@@ -5170,7 +5170,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Stun (2)",
+                "value": "Stordimento (2)",
                 "field": "name"
               }
             ],
@@ -5185,7 +5185,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Critical Hit (6+)",
+                "value": "Colpo Critico (6+)",
                 "field": "name"
               }
             ],
@@ -5938,7 +5938,7 @@
               {
                 "type": "set",
                 "field": "name",
-                "value": "Vanguard (3)"
+                "value": "Avanguardia (3)"
               }
             ],
             "name": "Avanguardia (X)",
@@ -5952,7 +5952,7 @@
               {
                 "type": "set",
                 "field": "name",
-                "value": "Bulky (2)"
+                "value": "Imponente (2)"
               }
             ],
             "name": "Imponente (X)",
@@ -6422,7 +6422,7 @@
               {
                 "type": "set",
                 "field": "name",
-                "value": "Bulky (6)"
+                "value": "Imponente (6)"
               }
             ],
             "name": "Imponente (X)",
@@ -6436,7 +6436,7 @@
               {
                 "type": "set",
                 "field": "name",
-                "value": "Explodes (5+)"
+                "value": "Esplosione (5+)"
               }
             ],
             "name": "Esplosione (X)",
@@ -7000,7 +7000,7 @@
                       },
                       {
                         "type": "replace",
-                        "value": "Sergeant, Champion",
+                        "value": "Sergente, Campione",
                         "field": "50fc-9241-d4a2-045b",
                         "arg": "Sergeant"
                       }
@@ -7495,7 +7495,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (5+)",
+                "value": "Perforante (5+)",
                 "field": "name"
               }
             ],
@@ -7510,7 +7510,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Duellist's Edge (1)",
+                "value": "Maestria del Duellante (1)",
                 "field": "name"
               }
             ],
