@@ -255,6 +255,7 @@
           {
             "description": "Un'Unità che include solo Modelli con il Sottotipo Antigravitazionale può ignorare gli effetti di qualsiasi Terreno che attraversa durante il movimento, può superare un Terreno Intransitabile purché non termini il movimento su di esso, e può ignorare sia i Modelli e le Unità amiche che nemiche durante lo spostamento purché termini il movimento ad almeno 1\" di distanza da qualsiasi Modello nemico.",
             "alias": [
+              "Antigravitazionale",
               "Antigrav"
             ],
             "name": "Sottotipo Antigravitazionale",
@@ -91665,7 +91666,7 @@
     "id": "sys-b976-0013-2f97-437b",
     "name": "Horus Heresy 3ª Edizione ITA",
     "battleScribeVersion": 2.03,
-    "revision": 62,
+    "revision": 63,
     "type": "gameSystem",
     "authorName": "The4D6",
     "authorContact": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita/issues",

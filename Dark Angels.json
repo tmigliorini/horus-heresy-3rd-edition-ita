@@ -8816,7 +8816,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Artificia (Champion)",
+                    "$text": "Artificia (Campione)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -11916,7 +11916,7 @@
     "name": "                         I - Angeli Oscuri",
     "gameSystemId": "sys-b976-0013-2f97-437b",
     "gameSystemRevision": 1,
-    "revision": 22,
+    "revision": 23,
     "authorUrl": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita",
     "authorContact": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita/issues",
     "authorName": "The4D6",
