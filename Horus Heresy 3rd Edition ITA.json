@@ -1965,7 +1965,8 @@
                 "name": "Alto Comando",
                 "hidden": false,
                 "id": "8993-5961-a0af-458a",
-                "targetId": "d9a6-9b5f-b18a-4d63"
+                "targetId": "d9a6-9b5f-b18a-4d63",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -2068,7 +2069,8 @@
                 "name": "Comando",
                 "hidden": false,
                 "id": "139b-622f-8ad2-dc95",
-                "targetId": "6dbf-654a-f06f-2d69"
+                "targetId": "6dbf-654a-f06f-2d69",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -2735,7 +2737,8 @@
                 "name": "Truppe",
                 "hidden": false,
                 "id": "e5db-d69e-628f-beb5",
-                "targetId": "88e6-d373-4152-0dd8"
+                "targetId": "88e6-d373-4152-0dd8",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -5575,7 +5578,8 @@
                 "name": "Trasporto",
                 "hidden": false,
                 "id": "a55e-c41f-3804-cfb2",
-                "targetId": "d162-4711-5d60-0a48"
+                "targetId": "d162-4711-5d60-0a48",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -8334,7 +8338,8 @@
                 "name": "Seguito",
                 "hidden": false,
                 "id": "98a4-441b-4896-7070",
-                "targetId": "a38e-50ff-310f-f19e"
+                "targetId": "a38e-50ff-310f-f19e",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -8350,7 +8355,8 @@
                 "name": "Trasporto Pesante",
                 "hidden": false,
                 "id": "3557-3aaa-70d4-fa04",
-                "targetId": "52d0-8b78-439e-18e5"
+                "targetId": "52d0-8b78-439e-18e5",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -9104,7 +9110,8 @@
                 "name": "Trasporto",
                 "hidden": false,
                 "id": "c11a-80ab-d85b-9f76",
-                "targetId": "d162-4711-5d60-0a48"
+                "targetId": "d162-4711-5d60-0a48",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -9172,7 +9179,8 @@
                 "name": "Trasporto Pesante",
                 "hidden": false,
                 "id": "d433-141d-baf3-6d7a",
-                "targetId": "52d0-8b78-439e-18e5"
+                "targetId": "52d0-8b78-439e-18e5",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -10797,7 +10805,8 @@
                 "name": "Truppe",
                 "hidden": false,
                 "id": "fd21-c94c-01e2-5612",
-                "targetId": "88e6-d373-4152-0dd8"
+                "targetId": "88e6-d373-4152-0dd8",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -10865,7 +10874,8 @@
                 "name": "Supporto",
                 "hidden": false,
                 "id": "3b23-0381-3ee4-b239",
-                "targetId": "345f-9ba6-9b02-ed5c"
+                "targetId": "345f-9ba6-9b02-ed5c",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -12551,7 +12561,8 @@
                 "name": "Corazzato",
                 "hidden": false,
                 "id": "9ced-e8ed-408f-615e",
-                "targetId": "643a-1012-bd51-6537"
+                "targetId": "643a-1012-bd51-6537",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -14070,7 +14081,8 @@
                 "name": "Macchina da Guerra",
                 "hidden": false,
                 "id": "b5b6-e00e-cfa1-d714",
-                "targetId": "2499-7239-685f-8465"
+                "targetId": "2499-7239-685f-8465",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -15589,7 +15601,8 @@
                 "name": "Ricognizione",
                 "hidden": false,
                 "id": "e1ca-d1de-f422-d5b3",
-                "targetId": "2b65-a3f2-620a-dc58"
+                "targetId": "2b65-a3f2-620a-dc58",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -17108,7 +17121,8 @@
                 "name": "Assalto Pesante",
                 "hidden": false,
                 "id": "b5a6-4082-06e1-a253",
-                "targetId": "3235-bd79-e9b1-60fa"
+                "targetId": "3235-bd79-e9b1-60fa",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -18627,7 +18641,8 @@
                 "name": "Supporto Leggero",
                 "hidden": false,
                 "id": "ac30-1788-0918-4098",
-                "targetId": "cf96-8891-3f9a-8921"
+                "targetId": "cf96-8891-3f9a-8921",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -20112,7 +20127,8 @@
                 "name": "Seguito",
                 "hidden": false,
                 "id": "23ec-dc41-3a5c-ba70",
-                "targetId": "a38e-50ff-310f-f19e"
+                "targetId": "a38e-50ff-310f-f19e",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -22237,7 +22253,8 @@
                 "name": "Comando",
                 "hidden": false,
                 "id": "1e36-d9bb-bb9c-7eee",
-                "targetId": "6dbf-654a-f06f-2d69"
+                "targetId": "6dbf-654a-f06f-2d69",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -25646,7 +25663,8 @@
                 "name": "Reparto Speciale",
                 "hidden": false,
                 "id": "1231-f483-2169-3cb7",
-                "targetId": "5d5e-958f-e388-50b5"
+                "targetId": "5d5e-958f-e388-50b5",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -27774,7 +27792,8 @@
                 "name": "Seguito",
                 "hidden": false,
                 "id": "0519-2a37-5f9e-72de",
-                "targetId": "a38e-50ff-310f-f19e"
+                "targetId": "a38e-50ff-310f-f19e",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -27790,7 +27809,8 @@
                 "name": "Reparto Speciale",
                 "hidden": false,
                 "id": "2eae-b50c-fba3-2fad",
-                "targetId": "5d5e-958f-e388-50b5"
+                "targetId": "5d5e-958f-e388-50b5",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -27806,7 +27826,8 @@
                 "name": "Supporto Leggero",
                 "hidden": false,
                 "id": "9a30-4f70-50fa-2200",
-                "targetId": "cf96-8891-3f9a-8921"
+                "targetId": "cf96-8891-3f9a-8921",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -28144,7 +28165,8 @@
                 "name": "Truppe",
                 "hidden": false,
                 "id": "3465-a0d8-2d33-1e7d",
-                "targetId": "88e6-d373-4152-0dd8"
+                "targetId": "88e6-d373-4152-0dd8",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -28330,7 +28352,8 @@
                 "name": "Assalto Pesante",
                 "hidden": false,
                 "id": "8c00-fbf2-6d15-a8f9",
-                "targetId": "3235-bd79-e9b1-60fa"
+                "targetId": "3235-bd79-e9b1-60fa",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -28382,7 +28405,8 @@
                 "name": "Trasporto Pesante",
                 "hidden": false,
                 "id": "c2ac-935f-6f8e-52fa",
-                "targetId": "52d0-8b78-439e-18e5"
+                "targetId": "52d0-8b78-439e-18e5",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -29081,7 +29105,8 @@
                 "name": "Supporto",
                 "hidden": false,
                 "id": "85cc-2d6d-1e8f-43cc",
-                "targetId": "345f-9ba6-9b02-ed5c"
+                "targetId": "345f-9ba6-9b02-ed5c",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -29782,7 +29807,8 @@
                 "name": "Truppe",
                 "hidden": false,
                 "id": "a1e6-4411-59ba-7b3a",
-                "targetId": "88e6-d373-4152-0dd8"
+                "targetId": "88e6-d373-4152-0dd8",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -29834,7 +29860,8 @@
                 "name": "Supporto",
                 "hidden": false,
                 "id": "afbb-48d2-7648-2be5",
-                "targetId": "345f-9ba6-9b02-ed5c"
+                "targetId": "345f-9ba6-9b02-ed5c",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -29952,7 +29979,8 @@
                 "name": "Assalto Pesante",
                 "hidden": false,
                 "id": "0555-7bc0-aa03-3840",
-                "targetId": "3235-bd79-e9b1-60fa"
+                "targetId": "3235-bd79-e9b1-60fa",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -30615,7 +30643,8 @@
                 "name": "Truppe",
                 "hidden": false,
                 "id": "bd77-70c0-7359-021a",
-                "targetId": "88e6-d373-4152-0dd8"
+                "targetId": "88e6-d373-4152-0dd8",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -30666,7 +30695,8 @@
                 "name": "Supporto",
                 "hidden": false,
                 "id": "e675-732e-12d0-779e",
-                "targetId": "345f-9ba6-9b02-ed5c"
+                "targetId": "345f-9ba6-9b02-ed5c",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -31052,7 +31082,8 @@
                 "name": "Supporto Leggero",
                 "hidden": false,
                 "id": "36a5-9b5a-d06f-b9d4",
-                "targetId": "cf96-8891-3f9a-8921"
+                "targetId": "cf96-8891-3f9a-8921",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -32388,7 +32419,8 @@
                 "name": "Macchina da Guerra",
                 "hidden": false,
                 "id": "6dfa-1dc6-3c4d-9757",
-                "targetId": "2499-7239-685f-8465"
+                "targetId": "2499-7239-685f-8465",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -32506,7 +32538,8 @@
                 "name": "Supporto",
                 "hidden": false,
                 "id": "5438-017f-f3e1-3b2d",
-                "targetId": "345f-9ba6-9b02-ed5c"
+                "targetId": "345f-9ba6-9b02-ed5c",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -32624,7 +32657,8 @@
                 "name": "Assalto Pesante",
                 "hidden": false,
                 "id": "4c7b-79ad-73dd-abcb",
-                "targetId": "3235-bd79-e9b1-60fa"
+                "targetId": "3235-bd79-e9b1-60fa",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -33756,7 +33790,8 @@
                 "name": "Supporto Leggero",
                 "hidden": false,
                 "id": "db92-2893-b361-36d0",
-                "targetId": "cf96-8891-3f9a-8921"
+                "targetId": "cf96-8891-3f9a-8921",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -34152,7 +34187,8 @@
                 "name": "Reparto Speciale",
                 "hidden": false,
                 "id": "6e5b-e7e0-1af7-6e54",
-                "targetId": "5d5e-958f-e388-50b5"
+                "targetId": "5d5e-958f-e388-50b5",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -34270,7 +34306,8 @@
                 "name": "Truppe",
                 "hidden": false,
                 "id": "2369-a289-974e-6a11",
-                "targetId": "88e6-d373-4152-0dd8"
+                "targetId": "88e6-d373-4152-0dd8",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -35240,7 +35277,8 @@
                 "name": "Assalto Pesante",
                 "hidden": false,
                 "id": "3b52-249b-3b2a-a5a5",
-                "targetId": "3235-bd79-e9b1-60fa"
+                "targetId": "3235-bd79-e9b1-60fa",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -36694,7 +36732,8 @@
                 "name": "Truppe",
                 "hidden": false,
                 "id": "3a65-be42-2127-3748",
-                "targetId": "88e6-d373-4152-0dd8"
+                "targetId": "88e6-d373-4152-0dd8",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -37292,7 +37331,8 @@
                 "name": "Corazzato",
                 "hidden": false,
                 "id": "d6ea-8f97-0b06-eb1e",
-                "targetId": "643a-1012-bd51-6537"
+                "targetId": "643a-1012-bd51-6537",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -37325,7 +37365,8 @@
                 "name": "Assalto Pesante",
                 "hidden": false,
                 "id": "e925-afad-b74a-7337",
-                "targetId": "3235-bd79-e9b1-60fa"
+                "targetId": "3235-bd79-e9b1-60fa",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -37528,7 +37569,8 @@
                 "name": "Reparto Speciale",
                 "hidden": false,
                 "id": "7175-704d-43a5-53b2",
-                "targetId": "5d5e-958f-e388-50b5"
+                "targetId": "5d5e-958f-e388-50b5",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -37646,7 +37688,8 @@
                 "name": "Truppe",
                 "hidden": false,
                 "id": "1bea-097c-0100-5823",
-                "targetId": "88e6-d373-4152-0dd8"
+                "targetId": "88e6-d373-4152-0dd8",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -37832,7 +37875,8 @@
                 "name": "Assalto Pesante",
                 "hidden": false,
                 "id": "454f-6953-6fe5-5c8b",
-                "targetId": "3235-bd79-e9b1-60fa"
+                "targetId": "3235-bd79-e9b1-60fa",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -38449,7 +38493,8 @@
                 "name": "Truppe",
                 "hidden": false,
                 "id": "2c91-20e0-3046-20af",
-                "targetId": "88e6-d373-4152-0dd8"
+                "targetId": "88e6-d373-4152-0dd8",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -38568,7 +38613,8 @@
                 "name": "Trasporto",
                 "hidden": false,
                 "id": "1fd3-737c-70a2-acec",
-                "targetId": "d162-4711-5d60-0a48"
+                "targetId": "d162-4711-5d60-0a48",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -39052,7 +39098,8 @@
                 "name": "Seguito",
                 "hidden": false,
                 "id": "f13c-d2e0-2616-7a6a",
-                "targetId": "a38e-50ff-310f-f19e"
+                "targetId": "a38e-50ff-310f-f19e",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -39104,7 +39151,8 @@
                 "name": "Reparto Speciale",
                 "hidden": false,
                 "id": "aee2-3d0f-8828-fd37",
-                "targetId": "5d5e-958f-e388-50b5"
+                "targetId": "5d5e-958f-e388-50b5",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -39423,7 +39471,8 @@
                 "name": "Assalto Pesante",
                 "hidden": false,
                 "id": "7ecf-45f1-9724-31e7",
-                "targetId": "3235-bd79-e9b1-60fa"
+                "targetId": "3235-bd79-e9b1-60fa",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -40494,7 +40543,8 @@
                 "name": "Supporto Leggero",
                 "hidden": false,
                 "id": "aabf-ce86-338b-7eab",
-                "targetId": "cf96-8891-3f9a-8921"
+                "targetId": "cf96-8891-3f9a-8921",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -41230,7 +41280,8 @@
                 "name": "Ricognizione",
                 "hidden": false,
                 "id": "24be-6df9-157f-f736",
-                "targetId": "2b65-a3f2-620a-dc58"
+                "targetId": "2b65-a3f2-620a-dc58",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -41429,7 +41480,8 @@
                 "name": "Trasporto Pesante",
                 "hidden": false,
                 "id": "5b6e-8b8d-0fd3-9ed3",
-                "targetId": "52d0-8b78-439e-18e5"
+                "targetId": "52d0-8b78-439e-18e5",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -41462,7 +41514,8 @@
                 "name": "Corazzato",
                 "hidden": false,
                 "id": "7b7f-a07b-5acc-85b8",
-                "targetId": "643a-1012-bd51-6537"
+                "targetId": "643a-1012-bd51-6537",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -42672,7 +42725,8 @@
                 "name": "Supporto",
                 "hidden": false,
                 "id": "0599-c8c1-6699-3cd3",
-                "targetId": "345f-9ba6-9b02-ed5c"
+                "targetId": "345f-9ba6-9b02-ed5c",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -42790,7 +42844,8 @@
                 "name": "Assalto Pesante",
                 "hidden": false,
                 "id": "eb50-1c74-6974-e2cb",
-                "targetId": "3235-bd79-e9b1-60fa"
+                "targetId": "3235-bd79-e9b1-60fa",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -43456,7 +43511,8 @@
                 "name": "Reparto Speciale",
                 "hidden": false,
                 "id": "908a-ba6a-bb26-654c",
-                "targetId": "5d5e-958f-e388-50b5"
+                "targetId": "5d5e-958f-e388-50b5",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -43574,7 +43630,8 @@
                 "name": "Truppe",
                 "hidden": false,
                 "id": "cc93-932b-f43d-0da0",
-                "targetId": "88e6-d373-4152-0dd8"
+                "targetId": "88e6-d373-4152-0dd8",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -43827,7 +43884,8 @@
                 "name": "Trasporto Pesante",
                 "hidden": false,
                 "id": "d5cb-8fe7-9e3d-3973",
-                "targetId": "52d0-8b78-439e-18e5"
+                "targetId": "52d0-8b78-439e-18e5",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -44012,7 +44070,8 @@
                 "name": "Supporto Leggero",
                 "hidden": false,
                 "id": "33c7-d845-073f-6422",
-                "targetId": "cf96-8891-3f9a-8921"
+                "targetId": "cf96-8891-3f9a-8921",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -44142,7 +44201,8 @@
                 "name": "Truppe",
                 "hidden": false,
                 "id": "b3b2-bd18-c654-d809",
-                "targetId": "88e6-d373-4152-0dd8"
+                "targetId": "88e6-d373-4152-0dd8",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -44176,7 +44236,8 @@
                 "name": "Reparto Speciale",
                 "hidden": false,
                 "id": "8416-75f5-3e71-2c12",
-                "targetId": "5d5e-958f-e388-50b5"
+                "targetId": "5d5e-958f-e388-50b5",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -45514,7 +45575,8 @@
                 "name": "Ricognizione",
                 "hidden": false,
                 "id": "3b1a-d398-cae2-1543",
-                "targetId": "2b65-a3f2-620a-dc58"
+                "targetId": "2b65-a3f2-620a-dc58",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -46945,7 +47007,8 @@
                       }
                     ]
                   }
-                ]
+                ],
+                "tracked": true
               },
               {
                 "constraints": [
@@ -46989,7 +47052,8 @@
                       }
                     ]
                   }
-                ]
+                ],
+                "tracked": true
               },
               {
                 "constraints": [
@@ -47033,7 +47097,8 @@
                       }
                     ]
                   }
-                ]
+                ],
+                "tracked": true
               },
               {
                 "constraints": [
@@ -51915,7 +51980,8 @@
                 "name": "Supporto Leggero",
                 "hidden": false,
                 "id": "56de-f452-920e-f1e2",
-                "targetId": "cf96-8891-3f9a-8921"
+                "targetId": "cf96-8891-3f9a-8921",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -55174,7 +55240,8 @@
                 "name": "Macchina da Guerra",
                 "hidden": false,
                 "id": "0485-650a-16ec-3d1a",
-                "targetId": "2499-7239-685f-8465"
+                "targetId": "2499-7239-685f-8465",
+                "tracked": true
               }
             ],
             "modifiers": [
@@ -56686,7 +56753,8 @@
                 "name": "Macchina da Guerra",
                 "hidden": false,
                 "id": "c7d6-bbe5-8f40-efea",
-                "targetId": "2499-7239-685f-8465"
+                "targetId": "2499-7239-685f-8465",
+                "tracked": true
               }
             ],
             "modifiers": [
@@ -58148,7 +58216,8 @@
                 "name": "Macchina da Guerra",
                 "hidden": false,
                 "id": "f6a0-7086-514c-f8bc",
-                "targetId": "2499-7239-685f-8465"
+                "targetId": "2499-7239-685f-8465",
+                "tracked": true
               }
             ],
             "modifiers": [
@@ -61750,7 +61819,8 @@
                 "name": "Supporto",
                 "hidden": false,
                 "id": "908f-1eac-c7de-fa89",
-                "targetId": "345f-9ba6-9b02-ed5c"
+                "targetId": "345f-9ba6-9b02-ed5c",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -62259,7 +62329,8 @@
                 "name": "Corazzato",
                 "hidden": false,
                 "id": "f499-a0eb-e238-1ec1",
-                "targetId": "643a-1012-bd51-6537"
+                "targetId": "643a-1012-bd51-6537",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -63026,7 +63097,8 @@
                 "name": "Corazzato",
                 "hidden": false,
                 "id": "d6a8-87ae-42fb-2169",
-                "targetId": "643a-1012-bd51-6537"
+                "targetId": "643a-1012-bd51-6537",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -65739,7 +65811,8 @@
                 "name": "Comando",
                 "hidden": false,
                 "id": "7866-0c42-0336-a2c9",
-                "targetId": "6dbf-654a-f06f-2d69"
+                "targetId": "6dbf-654a-f06f-2d69",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -66206,7 +66279,8 @@
                 "name": "Truppe",
                 "hidden": false,
                 "id": "a391-e586-d854-ede3",
-                "targetId": "88e6-d373-4152-0dd8"
+                "targetId": "88e6-d373-4152-0dd8",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -70421,7 +70495,8 @@
                 "name": "Alto Comando",
                 "hidden": false,
                 "id": "9198-5509-41a5-9bc1",
-                "targetId": "d9a6-9b5f-b18a-4d63"
+                "targetId": "d9a6-9b5f-b18a-4d63",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -70524,7 +70599,8 @@
                 "name": "Comando",
                 "hidden": false,
                 "id": "a74f-5efd-c69d-f315",
-                "targetId": "6dbf-654a-f06f-2d69"
+                "targetId": "6dbf-654a-f06f-2d69",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -71092,7 +71168,8 @@
                 "name": "Truppe",
                 "hidden": false,
                 "id": "a2b8-0e1c-c57b-7405",
-                "targetId": "88e6-d373-4152-0dd8"
+                "targetId": "88e6-d373-4152-0dd8",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -71356,7 +71433,8 @@
                 "name": "Assalto Pesante",
                 "hidden": false,
                 "id": "803a-371a-a71c-c60f",
-                "targetId": "3235-bd79-e9b1-60fa"
+                "targetId": "3235-bd79-e9b1-60fa",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -73745,7 +73823,8 @@
                 "name": "Alto Comando",
                 "hidden": false,
                 "id": "43fa-2706-a1e6-dada",
-                "targetId": "d9a6-9b5f-b18a-4d63"
+                "targetId": "d9a6-9b5f-b18a-4d63",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -73848,7 +73927,8 @@
                 "name": "Comando",
                 "hidden": false,
                 "id": "2a25-be12-a974-7de1",
-                "targetId": "6dbf-654a-f06f-2d69"
+                "targetId": "6dbf-654a-f06f-2d69",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -74265,7 +74345,8 @@
                 "name": "Macchina da Guerra",
                 "hidden": false,
                 "id": "cf6e-52e5-ce1c-1022",
-                "targetId": "2499-7239-685f-8465"
+                "targetId": "2499-7239-685f-8465",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -74401,7 +74482,8 @@
                 "name": "Truppe",
                 "hidden": false,
                 "id": "36bf-1bbf-304e-c8a0",
-                "targetId": "88e6-d373-4152-0dd8"
+                "targetId": "88e6-d373-4152-0dd8",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -74530,7 +74612,8 @@
                 "name": "Supporto",
                 "hidden": false,
                 "id": "beb3-be37-a224-86a4",
-                "targetId": "345f-9ba6-9b02-ed5c"
+                "targetId": "345f-9ba6-9b02-ed5c",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -77009,7 +77092,8 @@
                 "name": "Alto Comando",
                 "hidden": false,
                 "id": "3591-fcea-e8ce-aa2e",
-                "targetId": "d9a6-9b5f-b18a-4d63"
+                "targetId": "d9a6-9b5f-b18a-4d63",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -77112,7 +77196,8 @@
                 "name": "Comando",
                 "hidden": false,
                 "id": "5ecc-8a58-127b-7722",
-                "targetId": "6dbf-654a-f06f-2d69"
+                "targetId": "6dbf-654a-f06f-2d69",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -77255,7 +77340,8 @@
                 "name": "Reparto Speciale",
                 "hidden": false,
                 "id": "8140-ce2a-5ab2-e11d",
-                "targetId": "5d5e-958f-e388-50b5"
+                "targetId": "5d5e-958f-e388-50b5",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -77541,7 +77627,8 @@
                 "name": "Truppe",
                 "hidden": false,
                 "id": "2abf-8c40-fcf4-359c",
-                "targetId": "88e6-d373-4152-0dd8"
+                "targetId": "88e6-d373-4152-0dd8",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -77779,7 +77866,8 @@
                 "name": "Assalto Pesante",
                 "hidden": false,
                 "id": "8667-6622-a57d-5ff5",
-                "targetId": "3235-bd79-e9b1-60fa"
+                "targetId": "3235-bd79-e9b1-60fa",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -80077,7 +80165,8 @@
                 "name": "Alto Comando",
                 "hidden": false,
                 "id": "2392-013d-9de7-fe3a",
-                "targetId": "d9a6-9b5f-b18a-4d63"
+                "targetId": "d9a6-9b5f-b18a-4d63",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -80180,7 +80269,8 @@
                 "name": "Comando",
                 "hidden": false,
                 "id": "eea9-bb33-444c-a407",
-                "targetId": "6dbf-654a-f06f-2d69"
+                "targetId": "6dbf-654a-f06f-2d69",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -80836,7 +80926,8 @@
                 "name": "Truppe",
                 "hidden": false,
                 "id": "c883-5ca4-f641-e7ee",
-                "targetId": "88e6-d373-4152-0dd8"
+                "targetId": "88e6-d373-4152-0dd8",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -83642,7 +83733,8 @@
                 "name": "Trasporto",
                 "hidden": false,
                 "id": "6ca3-3cd6-5cc4-8e00",
-                "targetId": "d162-4711-5d60-0a48"
+                "targetId": "d162-4711-5d60-0a48",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -87983,7 +88075,7 @@
           }
         ],
         "comment": "Hidden from new list screen, but displays count",
-        "name": "Distaccamenti Ausiliari",
+        "name": "Distaccamento/i Ausiliare/i",
         "id": "3e8e-05ee-be52-12d6",
         "defaultCostLimit": -1,
         "hidden": true
@@ -87998,7 +88090,7 @@
           }
         ],
         "comment": "Hidden from new list screen, but displays count",
-        "name": "Distaccamenti Apice",
+        "name": "Distaccamento/i Apice",
         "id": "159d-855c-533d-f592",
         "defaultCostLimit": -1,
         "hidden": true
@@ -88024,7 +88116,7 @@
             "field": "hidden"
           }
         ],
-        "name": "Distaccamenti di Carri",
+        "name": "Distaccamento/i di Carri",
         "id": "2cdf-186c-a655-d907",
         "defaultCostLimit": -1,
         "hidden": true
@@ -91537,7 +91629,7 @@
     "id": "sys-b976-0013-2f97-437b",
     "name": "Horus Heresy 3ª Edizione ITA",
     "battleScribeVersion": 2.03,
-    "revision": 57,
+    "revision": 58,
     "type": "gameSystem",
     "authorName": "The4D6",
     "authorContact": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita/issues",
