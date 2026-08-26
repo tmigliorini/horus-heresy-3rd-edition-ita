@@ -52,7 +52,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Paragon (Unique)",
+                    "$text": "Esemplare (Unico)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -501,7 +501,7 @@
         ],
         "infoLinks": [
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "bdc9-eb9d-493c-b436",
             "hidden": false,
             "type": "profile",
@@ -587,11 +587,6 @@
             "id": "6525-3936-4aef-a458",
             "characteristics": [
               {
-                "$text": "Quando questo Gambetto viene selezionato, Leman Russ ottiene un bonus fisso al Tiro Concentrazione nelle Sfide finché non fallisce nel ferire il suo avversario.",
-                "name": "Riepilogo",
-                "typeId": "98f3-41cf-e3be-2ae7"
-              },
-              {
                 "$text": "se con il nemico, l’Unità Reattiva conta come se avesse effettuato con successo una Carica durante la successiva Fase di Assalto, e supera automaticamente tutte le Prove che è tenuta a effettuare nella successiva Sottofase del Morale, come se il Giocatore Controllante avesse ottenuto una coppia di “1\" per ogni Prova richiesta.\nDistaccamenti Addizionali\nArtiglio Insanguinato\nDistaccamento Ausiliario\n1 Riquadro Truppe (Primario);\n2 Riquadri Assalto Pesante;\n1 Riquadro Truppe.\nI Riquadri Truppe in questo Distaccamento possono essere utilizzati solo per selezionare le Unità di Branco di Sventratori Grigi.\n\n \n \n \n \nRegole Speciali\nUlulato del Lupo della Morte\nUna volta per Battaglia, mentre un Modello con questa Regola Speciale è Impegnato in una Sfida, il suo Giocatore Controllante Gambetto: Ululato del Lupo della Morte: Una volta selezionato questo Gambetto e finché i suoi effetti non cessano, nessun altro Gambetto può essere selezionato per quel Modello. Quando questo Gambetto viene selezionato, il Giocatore Controllante di questo Modello ottiene un bonus di +5 al Tiro Concentrazione seguente e ai Tiri Concentrazione successivi effettuati durante la Sfida, finché questo Modello fallisce nell’infliggere una Ferita non Salvata nel Passaggio di Attacco. Quando questo Modello fallisce nell’infliggere una Ferita non Salvata nel Passaggio di Attacco, gli effetti del Gambetto cessano. Sire dei Lupi Siderali Se quattro o più Riquadri Truppe nel Distaccamento Principale sono occupati da Unità di Branco di Sventratori Grigi, allora tutti i Riquadri Truppe nel Distaccamento Principale sono considerati Riquadri Primari. Inoltre, fino alla fine del primo Turno di Battaglia, tutti i Modelli di questa Armata con il Tipo Fanteria o Esemplare, ed il Tratto Lupi Siderali hanno la Regola Speciale Movimento in Copertura.",
                 "name": "Descrizione",
                 "typeId": "2d7d-b1d9-dead-605a"
@@ -642,7 +637,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry",
+                    "$text": "Fanteria",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -1184,7 +1179,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "7a74-2c23-4246-e239",
             "type": "selectionEntry",
@@ -1193,7 +1188,7 @@
         ],
         "infoLinks": [
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "0531-8e00-430b-b8e3",
             "hidden": false,
             "type": "profile",
@@ -1253,7 +1248,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Unique, Command)",
+                    "$text": "Fanteria (Unico, Comando)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -1527,7 +1522,7 @@
         ],
         "infoLinks": [
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "90b1-18c4-ea74-f6cc",
             "hidden": false,
             "type": "profile",
@@ -1660,7 +1655,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "4906-12c3-48ad-a2f3",
             "type": "selectionEntry",
@@ -2079,7 +2074,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Sergeant)",
+                    "$text": "Fanteria (Sergente)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -2319,7 +2314,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry",
+                    "$text": "Fanteria",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -2983,7 +2978,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "87b7-dc34-fec8-6bfb",
             "type": "selectionEntry",
@@ -2992,7 +2987,7 @@
         ],
         "infoLinks": [
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "30a4-6255-1c8c-dcbf",
             "hidden": false,
             "type": "profile",
@@ -3075,7 +3070,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Unique, Command)",
+                    "$text": "Fanteria (Unico, Comando)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -3306,7 +3301,7 @@
             "targetId": "0ebc-0c92-2209-6393"
           },
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "ada4-3936-2b67-c980",
             "hidden": false,
             "type": "profile",
@@ -3375,7 +3370,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "6770-eb3d-492a-91e4",
             "type": "selectionEntry",
@@ -3455,7 +3450,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Champion, Sergeant, Heavy)",
+                    "$text": "Fanteria (Campione, Sergente, Pesante)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -3967,7 +3962,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Heavy)",
+                    "$text": "Fanteria (Pesante)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -4470,7 +4465,7 @@
             "targetId": "0ebc-0c92-2209-6393"
           },
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "0937-4c5c-2298-c55a",
             "hidden": false,
             "type": "profile",
@@ -4505,7 +4500,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "b1f2-c805-7c8d-4b47",
             "type": "selectionEntry",
@@ -4570,7 +4565,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Unique)",
+                    "$text": "Fanteria (Unico)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -4694,7 +4689,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Unique)",
+                    "$text": "Fanteria (Unico)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -4942,7 +4937,7 @@
             "targetId": "641c-ca0a-7093-4525"
           },
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "9624-5991-69cc-939d",
             "hidden": false,
             "type": "profile",
@@ -4989,7 +4984,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "ca33-2ab0-46d0-9f2d",
             "type": "selectionEntry",
@@ -5066,7 +5061,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Command)",
+                    "$text": "Fanteria (Comando)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -5387,7 +5382,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "a00e-e5ba-443b-ccdd",
             "type": "selectionEntry",
@@ -5403,7 +5398,7 @@
             "targetId": "641c-ca0a-7093-4525"
           },
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "4bc4-c529-67a0-3052",
             "hidden": false,
             "type": "profile",
@@ -5739,7 +5734,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Command, Heavy)",
+                    "$text": "Fanteria (Comando, Pesante)",
                     "typeId": "50fc-9241-d4a2-045b",
                     "name": "Tipo"
                   },
@@ -5829,7 +5824,7 @@
                     ],
                     "comment": "Tartaros",
                     "type": "set",
-                    "value": "Infantry (Command)",
+                    "value": "Fanteria (Comando)",
                     "field": "50fc-9241-d4a2-045b"
                   },
                   {
@@ -6260,7 +6255,7 @@
             "targetId": "3898-aafb-35e0-141b"
           },
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "a3a9-2785-ee07-9011",
             "hidden": false,
             "type": "profile",
@@ -6295,7 +6290,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "4f87-ebbc-b028-c57f",
             "type": "selectionEntry",
@@ -6343,7 +6338,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Hatred (Psykers)",
+                "value": "Odio (Psykers)",
                 "field": "name"
               }
             ],
@@ -6402,10 +6397,6 @@
           {
             "characteristics": [
               {
-                "name": "Riepilogo",
-                "typeId": "c8a8-29f2-605b-5969"
-              },
-              {
                 "$text": "Il Giocatore Reattivo può scegliere di dichiarare una Reazione Psionica Forgiato dalla Tempesta nella Fase di Tiro, all'inizio del Passaggio 3 di un Attacco a Distanza effettuato dal Giocatore Attivo.",
                 "name": "Innesco",
                 "typeId": "4e6b-ebca-53df-fcf7"
@@ -6463,7 +6454,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Command, Antigrav)",
+                    "$text": "Fanteria (Comando, Antigravitazionale)",
                     "typeId": "50fc-9241-d4a2-045b",
                     "name": "Tipo"
                   },
@@ -7015,7 +7006,7 @@
             "targetId": "0553-d06b-52b9-34db"
           },
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "7e8c-72e2-8eb8-8f1f",
             "hidden": false,
             "type": "profile",
@@ -7050,7 +7041,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "13aa-2f41-9844-c7d6",
             "type": "selectionEntry",
@@ -7079,7 +7070,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry",
+                    "$text": "Fanteria",
                     "typeId": "50fc-9241-d4a2-045b",
                     "name": "Tipo"
                   },
@@ -7571,7 +7562,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Sergeant)",
+                    "$text": "Fanteria (Sergente)",
                     "typeId": "50fc-9241-d4a2-045b",
                     "name": "Tipo"
                   },
@@ -8161,7 +8152,7 @@
             "targetId": "530f-b733-993c-ec84"
           },
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "da9e-be8b-add7-1bcc",
             "hidden": false,
             "type": "profile",
@@ -8188,7 +8179,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "7cbb-dbf3-bc09-90ed",
             "type": "selectionEntry",
@@ -8225,7 +8216,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Cavalry (Command)",
+                    "$text": "Cavalleria (Comando)",
                     "typeId": "50fc-9241-d4a2-045b",
                     "name": "Tipo"
                   },
@@ -9241,7 +9232,7 @@
         ],
         "infoLinks": [
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "a9ab-abe8-0143-ab7e",
             "hidden": false,
             "type": "profile",
@@ -9276,7 +9267,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "5cfc-e516-baf1-be46",
             "type": "selectionEntry",
@@ -9305,7 +9296,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Light)",
+                    "$text": "Fanteria (Leggero)",
                     "typeId": "50fc-9241-d4a2-045b",
                     "name": "Tipo"
                   },
@@ -9578,7 +9569,7 @@
             "targetId": "a3f3-72c6-7e01-6cab"
           },
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "228a-fcd2-0232-c9b1",
             "hidden": false,
             "type": "profile",
@@ -9605,7 +9596,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "f34a-727d-533e-828d",
             "type": "selectionEntry",
@@ -9634,7 +9625,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Command)",
+                    "$text": "Fanteria (Comando)",
                     "typeId": "50fc-9241-d4a2-045b",
                     "name": "Tipo"
                   },
@@ -9864,7 +9855,7 @@
                       }
                     ],
                     "type": "set",
-                    "value": "Infantry (Command, Antigrav)",
+                    "value": "Fanteria (Comando, Antigravitazionale)",
                     "field": "50fc-9241-d4a2-045b"
                   }
                 ],
@@ -10253,7 +10244,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "70ee-8fb8-4921-d179",
             "type": "selectionEntry",
@@ -10262,7 +10253,7 @@
         ],
         "infoLinks": [
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "1d6d-ff1d-1aaa-33a1",
             "hidden": false,
             "type": "profile",
@@ -10298,7 +10289,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Command, Heavy)",
+                    "$text": "Fanteria (Comando, Pesante)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -10388,7 +10379,7 @@
                     ],
                     "comment": "Tartaros",
                     "type": "set",
-                    "value": "Infantry (Command)",
+                    "value": "Fanteria (Comando)",
                     "field": "50fc-9241-d4a2-045b"
                   },
                   {
@@ -10809,7 +10800,7 @@
             "targetId": "6a8e-e508-abc9-cb3e"
           },
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "7139-7594-5b8f-bdf1",
             "hidden": false,
             "type": "profile",
@@ -10836,7 +10827,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "86c3-8c55-031c-b33a",
             "type": "selectionEntry",
@@ -10865,7 +10856,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Cavalry (Command)",
+                    "$text": "Cavalleria (Comando)",
                     "typeId": "50fc-9241-d4a2-045b",
                     "name": "Tipo"
                   },
@@ -11779,7 +11770,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "5f67-bc5c-7ab2-2852",
             "type": "selectionEntry",
@@ -11788,7 +11779,7 @@
         ],
         "infoLinks": [
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "0099-9bb7-d31d-a52b",
             "hidden": false,
             "type": "profile",
@@ -11877,7 +11868,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry",
+                    "$text": "Fanteria",
                     "typeId": "50fc-9241-d4a2-045b",
                     "name": "Tipo"
                   },
@@ -12555,7 +12546,7 @@
         ],
         "infoLinks": [
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "1a72-a2c8-6f18-1bab",
             "hidden": false,
             "type": "profile",
@@ -12771,7 +12762,7 @@
             "targetId": "5d5e-958f-e388-50b5",
             "id": "2c3e-0f05-a6a2-bae7",
             "primary": true,
-            "name": "Reparti Speciali"
+            "name": "Reparto Speciale"
           }
         ],
         "import": true,
@@ -13110,11 +13101,6 @@
                   {
                     "characteristics": [
                       {
-                        "$text": "Questo Gambetto aumenta la Caratteristica Attacchi di un'Unità che accompagna un Modello che combatte in una Sfida.",
-                        "name": "Riepilogo",
-                        "typeId": "98f3-41cf-e3be-2ae7"
-                      },
-                      {
                         "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto:\nNessuna Preda Scappa: il Giocatore Avversario non può mai scegliere di passare alla Fase Gloria, per alcuna ragione, finché uno o entrambi i Modelli sfidanti non vengono Rimossi come Perdite.\nUna Saga Intessuta di Gloria\nMentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante Gambetto: Una Saga Intessuta di Gloria: se il Modello avversario viene Rimosso come Perdita, tutti i Modelli nella stessa Unità di questo Modello ottengono un modificatore di +1 alla loro Caratteristica Attacchi nella Sottofase di Combattimento successiva.",
                         "name": "Descrizione",
                         "typeId": "2d7d-b1d9-dead-605a"
@@ -13128,11 +13114,6 @@
                   },
                   {
                     "characteristics": [
-                      {
-                        "$text": "Questo Gambetto fa sì che la Sfida termini solo quando uno o entrambi i Modelli vengono Rimossi come Perdite.",
-                        "name": "Riepilogo",
-                        "typeId": "98f3-41cf-e3be-2ae7"
-                      },
                       {
                         "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Nessuna Preda Scappa: il Giocatore Avversario non può mai scegliere di passare alla Fase Gloria, per alcuna ragione, finché uno o entrambi i Modelli sfidanti non vengono Rimossi come Perdite. Una Saga Intessuta di Gloria Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Una Saga Intessuta di Gloria: se il Modello avversario viene Rimosso come Perdita, tutti i Modelli nella stessa Unità di questo Modello ottengono un modificatore di +1 alla loro Caratteristica Attacchi nella Sottofase di Combattimento successiva.",
                         "name": "Descrizione",
@@ -13209,11 +13190,6 @@
                 "profiles": [
                   {
                     "characteristics": [
-                      {
-                        "$text": "Questa Reazione consente all'Unità Reattiva di effettuare un Tiro Mitigazione contro le Ferite subite durante la Fase di Tiro in corso e anche di muoversi verso un'Unità Nemica.",
-                        "name": "Riepilogo",
-                        "typeId": "5d02-0e54-0f6a-0f0b"
-                      },
                       {
                         "$text": "una volta per battaglia, durante il Passaggio 3 di qualsiasi Attacco a Distanza effettuato dal Giocatore Attivo che prenda di mira un’Unità che includa solo Modelli con il Tratto Lupi Siderali.",
                         "name": "Innesco",
@@ -13332,6 +13308,8 @@
     "authorContact": "https://github.com/BSData/horus-heresy-3rd-edition/issues",
     "authorName": "The4D6",
     "battleScribeVersion": 2.03,
-    "type": "catalogue"
+    "type": "catalogue",
+    "categoryEntries": [],
+    "costTypes": []
   }
 }

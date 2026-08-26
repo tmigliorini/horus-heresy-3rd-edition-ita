@@ -8,7 +8,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Paragon (Unique, Antigrav)",
+                    "$text": "Esemplare (Unico, Antigravitazionale)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -91,11 +91,6 @@
               },
               {
                 "characteristics": [
-                  {
-                    "$text": "Questo Gambetto consente a Corax di combattere come se non avesse subito alcuna Ferita.",
-                    "name": "Riepilogo",
-                    "typeId": "98f3-41cf-e3be-2ae7"
-                  },
                   {
                     "$text": "se di Tiro in corso e il Giocatore Attivo può passare alla Fase 2 della sequenza di Attacco in Tiro.\nDistaccamenti Addizionali\nCorpo di Decapitazione\nDistaccamento Ausiliario\n2 Riquadri Reparti Speciali;\n2 Riquadri Ricognizione.\nI Riquadri Ricognizione in questo Distaccamento possono essere utilizzati solo per selezionare Unità di Squadra da Ricognizione.\nI Riquadri Reparti Speciali in questo Distaccamento possono essere utilizzati solo per selezionare Unità di Squadra Assaltatrice Veterana o di Squadra di Furie Oscure.\n\n \n \nRegole Speciali\nIl Signore Ammantato\nMentre un Modello con questa Regola Speciale è Ingaggiato in una Sfida, il suo Giocatore Controllante Gambetto: Il Signore Ammantato: Il Giocatore Controllante deve selezionare Talionis all’inizio della Fase Concentrazione e ignora qualsiasi modificatore negativo al Tiro Concentrazione per avere una Caratteristica Ferite Attuali inferiore alla sua Caratteristica Ferite Base. Inoltre, se il Giocatore che ha selezionato questo Gambetto è il Giocatore Attivo e ha messo a segno almeno un Colpo con Talionis sull’avversario durante il Passaggio di Attacco, può scegliere di passare alla Fase Gloria dopo che entrambi i Giocatori hanno risolto la Fase 4 del Passaggio di Attacco corrente, anche se non ha il Vantaggio. Sire della Guardia del Corvo Se quattro o più Riquadri Truppe nel Distaccamento Principale sono occupati da Unità di Squadre Tattiche e/o Squadra Assaltatrice, allora tutti i Riquadri Truppe nel Distaccamento Principale sono considerati Riquadri Primari. Inoltre, fino alla fine del primo Turno di Battaglia, tutti i Modelli di questo Esercito con il Tipo Fanteria e il Tratto Guardia del Corvo hanno la Regola Speciale Movimento in Copertura.",
                     "name": "Descrizione",
@@ -598,7 +593,7 @@
             "targetId": "641c-ca0a-7093-4525"
           },
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "5626-469b-ad63-4478",
             "hidden": false,
             "type": "profile",
@@ -671,11 +666,6 @@
           {
             "characteristics": [
               {
-                "$text": "Ottieni Ammantato (5+) o migliore se sei ad almeno 12\" di distanza dall'Unità che Tira.",
-                "name": "Riepilogo",
-                "typeId": "8e7d-a0ae-fd85-983c"
-              },
-              {
                 "$text": "Se un’Unità che includa Modelli con Camaleolina è il bersaglio di un Attacco da Tiro, se la distanza tra il Modello più vicino nell’Unità Attaccante e l’Unità Bersaglio è pari o superiore a 12\", i Modelli in quell’Unità ottengono la Regola Speciale Ammantato (5+) o, se hanno già o ottengono una versione della Regola Speciale Ammantato (X) da un’altra fonte, modificano il numero variabile di +1, fino a un massimo di Ammantato (4+).",
                 "name": "Descrizione",
                 "typeId": "9944-2f6d-d61b-03b5"
@@ -709,7 +699,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Unique, Specialist)",
+                    "$text": "Fanteria (Unico, Specialista)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -1186,7 +1176,7 @@
         ],
         "infoLinks": [
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "92f7-9e74-4b0a-ce40",
             "hidden": false,
             "type": "profile",
@@ -1238,7 +1228,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "66ad-9716-4dc7-a904",
             "type": "selectionEntry",
@@ -1259,7 +1249,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Skirmish)",
+                    "$text": "Fanteria (Schermagliatore)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -1807,7 +1797,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Sergeant, Skirmish)",
+                    "$text": "Fanteria (Sergente, Schermagliatore)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -2285,7 +2275,7 @@
             "targetId": "313f-7ed6-3833-e97c"
           },
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "f67d-8ecc-7601-3e00",
             "hidden": false,
             "type": "profile",
@@ -2337,7 +2327,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "1292-a48a-4082-a594",
             "type": "selectionEntry",
@@ -2599,7 +2589,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Antigrav)",
+                    "$text": "Fanteria (Antigravitazionale)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -3008,7 +2998,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Sergeant, Antigrav)",
+                    "$text": "Fanteria (Sergente, Antigravitazionale)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -3200,7 +3190,7 @@
         ],
         "infoLinks": [
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "0bce-7056-113b-3aef",
             "hidden": false,
             "type": "profile",
@@ -3251,7 +3241,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "07db-dc6a-483f-aa0e",
             "type": "selectionEntry",
@@ -3332,7 +3322,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Heavy)",
+                    "$text": "Fanteria (Pesante)",
                     "typeId": "50fc-9241-d4a2-045b",
                     "name": "Tipo"
                   },
@@ -3988,7 +3978,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Sergeant, Heavy)",
+                    "$text": "Fanteria (Sergente, Pesante)",
                     "typeId": "50fc-9241-d4a2-045b",
                     "name": "Tipo"
                   },
@@ -4571,7 +4561,7 @@
             "id": "3746-d646-4079-8339"
           },
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "b511-e6ce-c8a3-31db",
             "hidden": false,
             "type": "profile",
@@ -4606,7 +4596,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "6151-2dd0-8440-392e",
             "type": "selectionEntry",
@@ -4642,7 +4632,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry",
+                    "$text": "Fanteria",
                     "typeId": "50fc-9241-d4a2-045b",
                     "name": "Tipo"
                   },
@@ -5101,7 +5091,7 @@
         ],
         "infoLinks": [
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "c6fc-3295-4827-4ac5",
             "hidden": false,
             "type": "profile",
@@ -5238,7 +5228,7 @@
             "targetId": "5d5e-958f-e388-50b5",
             "id": "a530-e86b-027a-fb46",
             "primary": true,
-            "name": "Reparti Speciali"
+            "name": "Reparto Speciale"
           },
           {
             "targetId": "4346-67d5-360d-89fa",
@@ -5260,7 +5250,7 @@
             "targetId": "5d5e-958f-e388-50b5",
             "id": "82f4-82c8-7c08-e9d6",
             "primary": true,
-            "name": "Reparti Speciali"
+            "name": "Reparto Speciale"
           },
           {
             "targetId": "4346-67d5-360d-89fa",
@@ -5316,7 +5306,7 @@
             "targetId": "5d5e-958f-e388-50b5",
             "id": "c505-d0dd-b551-fac4",
             "primary": true,
-            "name": "Reparti Speciali"
+            "name": "Reparto Speciale"
           }
         ],
         "import": true,
@@ -5355,11 +5345,6 @@
     "sharedProfiles": [
       {
         "characteristics": [
-          {
-            "$text": "Questo Gambetto consente al Modello di effettuare prima un singolo attacco, seguito dal resto dei suoi attacchi, se il primo ha successo.",
-            "name": "Riepilogo",
-            "typeId": "98f3-41cf-e3be-2ae7"
-          },
           {
             "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il Giocatore Controllante può selezionare il seguente Gambetto: Colpo Decapitante: questo Gambetto può essere selezionato una volta per Sfida. Non viene effettuato alcun Tiro Concentrazione, ma il Giocatore Controllante del Modello per cui è stato selezionato questo Gambetto effettua un singolo attacco alla fine del Passaggio di Concentrazione. Se il Tiro per Colpire e Tiro per Ferire effettuati per questo attacco hanno entrambi successo, il Giocatore Controllante del Modello con questo Gambetto può quindi effettuare i restanti attacchi che il Modello è idoneo a effettuare nel Passaggio di Attacco corrente, meno il singolo attacco già effettuato. Se il Tiro per Colpire o il Tiro per Ferire effettuati per l’attacco iniziale non hanno successo, il Modello per cui è stato selezionato questo Gambetto non può effettuare ulteriori attacchi durante questo Passaggio di Attacco.",
             "name": "Descrizione",
@@ -5417,11 +5402,6 @@
                   {
                     "characteristics": [
                       {
-                        "$text": "Questo Gambetto consente al Modello di effettuare prima un singolo attacco, seguito dal resto dei suoi attacchi, se il primo ha successo.",
-                        "name": "Riepilogo",
-                        "typeId": "98f3-41cf-e3be-2ae7"
-                      },
-                      {
                         "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il Giocatore Controllante può selezionare il seguente Gambetto: Colpo Decapitante: questo Gambetto può essere selezionato una volta per Sfida. Non viene effettuato alcun Tiro Concentrazione, ma il Giocatore Controllante del Modello per cui è stato selezionato questo Gambetto effettua un singolo attacco alla fine del Passaggio di Concentrazione. Se il Tiro per Colpire e Tiro per Ferire effettuati per questo attacco hanno entrambi successo, il Giocatore Controllante del Modello con questo Gambetto può quindi effettuare i restanti attacchi che il Modello è idoneo a effettuare nel Passaggio di Attacco corrente, meno il singolo attacco già effettuato. Se il Tiro per Colpire o il Tiro per Ferire effettuati per l’attacco iniziale non hanno successo, il Modello per cui è stato selezionato questo Gambetto non può effettuare ulteriori attacchi durante questo Passaggio di Attacco.",
                         "name": "Descrizione",
                         "typeId": "2d7d-b1d9-dead-605a"
@@ -5463,11 +5443,6 @@
                 "profiles": [
                   {
                     "characteristics": [
-                      {
-                        "$text": "Questa Reazione consente all'Unità Reattiva di effettuare un Movimento quando viene presa di mira da un Attacco a Distanza e di ottenere un Tiro Mitigazione per la durata della Fase di Tiro.",
-                        "name": "Riepilogo",
-                        "typeId": "5d02-0e54-0f6a-0f0b"
-                      },
                       {
                         "$text": "una volta per battaglia, quando il Giocatore Attivo prende di mira con un Attacco a Distanza un’Unità sotto il suo controllo che includa solo modelli con il Tratto Guardia del Corvo, che non hanno il tipo Veicolo.",
                         "name": "Innesco",
@@ -5545,6 +5520,8 @@
     "authorContact": "https://github.com/BSData/horus-heresy-3rd-edition/issues",
     "authorName": "The4D6",
     "battleScribeVersion": 2.03,
-    "type": "catalogue"
+    "type": "catalogue",
+    "categoryEntries": [],
+    "costTypes": []
   }
 }

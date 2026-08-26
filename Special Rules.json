@@ -712,7 +712,7 @@
       },
       {
         "description": "Questo Vantaggio Primario può essere selezionato solo per un’Unità con il Ruolo Truppe che includa solo Modelli con il Tratto Guardia del Corvo. I Modelli di quell’Unità sono chiamati “Spettri” e, dopo che il Giocatore Controllante ha effettuato uno Scatto con un’Unità che includa solo Modelli Spettri, può anche scegliere di effettuare una Prova di Volontà per quell’Unità. Se la Prova di Volontà ha successo, tutte le Cariche che prendono di mira l’Unità nella Fase di Assalto del Turno del Giocatore successivo vengono Scomposte. Se la Prova di Volontà fallisce, l’Unità ottiene invece lo Status Tattico Stordito.",
-        "comment": "(Raven Guard Only)",
+        "comment": "(Guardia del Corvo Only)",
         "name": "Spettri",
         "id": "84fd-366e-517d-e228",
         "hidden": false
@@ -734,7 +734,7 @@
       },
       {
         "description": "Quando si effettua un Tiro per Colpire per un Attacco da Mischia di un Modello soggetto alla Regola Speciale Tattiche Mutabili, un risultato di 4+ è sempre un successo.",
-        "comment": "Emperor's Children",
+        "comment": "Figli dell’Imperatore",
         "name": "Abilità Impareggiabile",
         "id": "d8ff-b46c-215c-6976",
         "hidden": false
@@ -1086,6 +1086,7 @@
     "sharedProfiles": [],
     "entryLinks": [],
     "infoLinks": [],
-    "categoryEntries": []
+    "categoryEntries": [],
+    "costTypes": []
   }
 }

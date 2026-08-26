@@ -8,7 +8,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Paragon (Unique)",
+                    "$text": "Esemplare (Unico)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -486,11 +486,6 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Mentre questo Gambetto è selezionato, Ferrus Manus ha una Caratteristica Resistenza aumentata.",
-                    "name": "Riepilogo",
-                    "typeId": "98f3-41cf-e3be-2ae7"
-                  },
-                  {
                     "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il Giocatore che lo Controlla Gambetto: Temprato dalla Guerra: la Caratteristica Resistenza di questo Modello è impostata a 8 per la durata del successivo Passaggio di Attacco. Sire delle Mani di Ferro Se quattro o più Riquadri Truppe nel Distaccamento Principale sono occupati da Squadre Tattiche e/o Squadre d’Abbordaggio, allora tutti i Riquadri Truppe nel Distaccamento Principale sono considerati Riquadri Primari. Inoltre, fino alla fine del primo Turno di Battaglia, tutti i Modelli di questa Armata con il Tipo Fanteria e il Tratto Mani di Ferro hanno la Regola Speciale Insensibile al Dolore (6+).",
                     "name": "Descrizione",
                     "typeId": "2d7d-b1d9-dead-605a"
@@ -530,7 +525,7 @@
         ],
         "infoLinks": [
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "b5eb-37f6-6fac-b94a",
             "hidden": false,
             "type": "profile",
@@ -763,11 +758,6 @@
           {
             "characteristics": [
               {
-                "$text": "I Veicoli possono ridurre il Numero Obiettivo dei Test di Riparazione se dei Modelli sono stati Rimossi come Perdite da Unità vicine.",
-                "name": "Riepilogo",
-                "typeId": "8e7d-a0ae-fd85-983c"
-              },
-              {
                 "$text": "Un Modello con Armatus Necrotechnika ottiene la Regola Speciale Auto-riparazione (5+). Inoltre, se dei Modelli vengono Rimossi come Perdite entro 6\" da un Modello con Armatus Necrotechnika, il Giocatore Controllante può aggiungere 1 al risultato del suo Tiro Riparazione effettuato nel medesimo turno. Vantaggio Primario Il Corazzato Questo Vantaggio Primario può essere selezionato solo per un’Unità con il Ruolo Comando, che includa solo Modelli con il Tratto Mani di Ferro, una singola volta per Armata. Aggiungi un Riquadro Macchina da Guerra aggiuntivo al Distaccamento che includa il Riquadro con questo Vantaggio Primario. Un’Unità selezionata per occupare tale Riquadro ottiene il Sottotipo Campione, se non lo possedeva già.",
                 "name": "Descrizione",
                 "typeId": "9944-2f6d-d61b-03b5"
@@ -811,7 +801,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Command, Heavy)",
+                    "$text": "Fanteria (Comando, Pesante)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -1095,7 +1085,7 @@
             "targetId": "6a8e-e508-abc9-cb3e"
           },
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "de56-cc2c-c2f3-a803",
             "hidden": false,
             "type": "profile",
@@ -1280,7 +1270,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "0b0d-e5e4-3387-598d",
             "type": "selectionEntry",
@@ -1459,7 +1449,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Sergeant, Heavy)",
+                    "$text": "Fanteria (Sergente, Pesante)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -1889,7 +1879,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Heavy)",
+                    "$text": "Fanteria (Pesante)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -2302,7 +2292,7 @@
             "targetId": "c4d4-e053-9564-540b"
           },
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "55c6-217b-5b58-6581",
             "hidden": false,
             "type": "profile",
@@ -2356,7 +2346,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "effc-3725-1a58-e670",
             "type": "selectionEntry",
@@ -2397,7 +2387,7 @@
       {
         "infoLinks": [
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "08f0-5e0c-db9a-c9f5",
             "hidden": false,
             "type": "profile",
@@ -2439,7 +2429,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Unique, Command)",
+                    "$text": "Fanteria (Unico, Comando)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -2838,7 +2828,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "54b0-5d1b-4712-a2eb",
             "type": "selectionEntry",
@@ -3001,7 +2991,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Sergeant, Heavy)",
+                    "$text": "Fanteria (Sergente, Pesante)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -3331,7 +3321,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Heavy)",
+                    "$text": "Fanteria (Pesante)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -3862,11 +3852,6 @@
           {
             "characteristics": [
               {
-                "$text": "I Test Corazza e i Test Invulnerabilità riusciti possono infliggere Status Tattici ai Modelli nemici.",
-                "name": "Riepilogo",
-                "typeId": "8e7d-a0ae-fd85-983c"
-              },
-              {
                 "$text": "Un Modello con armatura Terminator Gorgon guadagna la Regola Speciale Insensibile al Dolore (5+). Inoltre, al termine del Passaggio 4 della Fase di Assalto, se un Modello con armatura Terminator Gorgon ha superato almeno un Tiro Armatura o Invulnerabilità contro Ferite causate da Attacchi da Tiro nella stessa Fase d’Assalto, l’Unità che ha inflitto tali ferite deve effettuare una Prova di Coraggio. Se la Prova fallisce, l’Unità ottiene lo Status Soppresso.",
                 "name": "Descrizione",
                 "typeId": "9944-2f6d-d61b-03b5"
@@ -3933,7 +3918,7 @@
             "targetId": "530f-b733-993c-ec84"
           },
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "8838-553a-47ec-618e",
             "hidden": false,
             "type": "profile",
@@ -3977,7 +3962,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "d53d-8791-a0f5-0800",
             "type": "selectionEntry",
@@ -4057,7 +4042,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Command)",
+                    "$text": "Fanteria (Comando)",
                     "typeId": "50fc-9241-d4a2-045b",
                     "name": "Tipo"
                   },
@@ -5147,7 +5132,7 @@
             "id": "b7c5-94c9-435f-96ee"
           },
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "9645-6c0d-2df7-6015",
             "hidden": false,
             "type": "profile",
@@ -5231,7 +5216,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "f724-de3e-1756-1afd",
             "type": "selectionEntry",
@@ -5259,7 +5244,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Heavy)",
+                    "$text": "Fanteria (Pesante)",
                     "typeId": "50fc-9241-d4a2-045b",
                     "name": "Tipo"
                   },
@@ -5725,7 +5710,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Sergeant, Heavy)",
+                    "$text": "Fanteria (Sergente, Pesante)",
                     "typeId": "50fc-9241-d4a2-045b",
                     "name": "Tipo"
                   },
@@ -6301,7 +6286,7 @@
             "id": "dfb6-2a15-4564-89f1"
           },
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "290e-bc36-23f3-7aa5",
             "hidden": false,
             "type": "profile",
@@ -6364,7 +6349,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "a936-b56c-3e37-1863",
             "type": "selectionEntry",
@@ -6410,7 +6395,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry",
+                    "$text": "Fanteria",
                     "typeId": "50fc-9241-d4a2-045b",
                     "name": "Tipo"
                   },
@@ -6822,7 +6807,7 @@
         ],
         "infoLinks": [
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "b811-465f-1351-ce6f",
             "hidden": false,
             "type": "profile",
@@ -7122,11 +7107,6 @@
                   {
                     "characteristics": [
                       {
-                        "$text": "Il Modello ottiene maggiori benefici dal supporto esterno quando questo Gambetto viene selezionato.",
-                        "name": "Riepilogo",
-                        "typeId": "98f3-41cf-e3be-2ae7"
-                      },
-                      {
                         "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Una Legione da Solo: questo Modello ottiene il doppio del normale bonus al suo Tiro Concentrazione che normalmente otterrebbe dal Supporto Esterno, e il suo avversario può ottenere solo un bonus massimo di +2 dal Supporto Esterno.",
                         "name": "Descrizione",
                         "typeId": "2d7d-b1d9-dead-605a"
@@ -7168,11 +7148,6 @@
                 "profiles": [
                   {
                     "characteristics": [
-                      {
-                        "$text": "Questa Reazione consente all'Unità Reattiva di effettuare un Attacco a Distanza prendendo di mira un'Unità che effettua una Carica.",
-                        "name": "Riepilogo",
-                        "typeId": "5d02-0e54-0f6a-0f0b"
-                      },
                       {
                         "$text": "una volta per battaglia, all’inizio del Passaggio 3 del Processo di Carica di qualsiasi Carica dichiarata dal Giocatore Attivo che prenda di mira un’Unità sotto il controllo del Giocatore Reattivo che includa solo Modelli con il Tratto Mani di Ferro.",
                         "name": "Innesco",
@@ -7301,6 +7276,8 @@
     "authorContact": "https://github.com/BSData/horus-heresy-3rd-edition/issues",
     "authorName": "The4D6",
     "battleScribeVersion": 2.03,
-    "type": "catalogue"
+    "type": "catalogue",
+    "categoryEntries": [],
+    "costTypes": []
   }
 }

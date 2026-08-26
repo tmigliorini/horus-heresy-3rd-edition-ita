@@ -8,7 +8,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Unique, Command)",
+                    "$text": "Fanteria (Unico, Comando)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -284,7 +284,7 @@
         ],
         "infoLinks": [
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "52bb-6c3b-c1fe-1a9e",
             "hidden": false,
             "type": "profile",
@@ -501,7 +501,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "b14c-3249-4a17-9dfa",
             "type": "selectionEntry",
@@ -566,7 +566,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Specialist, Skirmish)",
+                    "$text": "Fanteria (Specialista, Schermagliatore)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -757,7 +757,7 @@
         ],
         "infoLinks": [
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "25c0-3d23-8fb6-8d99",
             "hidden": false,
             "type": "profile",
@@ -987,7 +987,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "4222-8fb6-2588-6c9f",
             "type": "selectionEntry",
@@ -1101,7 +1101,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Sergeant, Skirmish)",
+                    "$text": "Fanteria (Sergente, Schermagliatore)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -1544,7 +1544,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Skirmish)",
+                    "$text": "Fanteria (Schermagliatore)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -1965,7 +1965,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Hatred (Command)",
+                "value": "Odio (Comando)",
                 "field": "name"
               }
             ],
@@ -2007,7 +2007,7 @@
             "targetId": "4fbd-e0bc-8f72-6e3f"
           },
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "88dc-871b-90f5-3878",
             "hidden": false,
             "type": "profile",
@@ -2170,7 +2170,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "781e-bd61-9fdb-5e93",
             "type": "selectionEntry",
@@ -2191,7 +2191,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Light)",
+                    "$text": "Fanteria (Leggero)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -2591,7 +2591,7 @@
             "targetId": "12ec-97aa-0b8a-7573"
           },
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "1bf3-1317-bb2f-098b",
             "hidden": false,
             "type": "profile",
@@ -2795,7 +2795,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "58b2-7b96-9a40-60d1",
             "type": "selectionEntry",
@@ -2837,7 +2837,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Sergeant, Heavy)",
+                    "$text": "Fanteria (Sergente, Pesante)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -3409,7 +3409,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Heavy)",
+                    "$text": "Fanteria (Pesante)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -3998,7 +3998,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "0b8a-dfc3-8767-06c3",
             "type": "selectionEntry",
@@ -4007,7 +4007,7 @@
         ],
         "infoLinks": [
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "4aa6-5f86-ffa8-cbff",
             "hidden": false,
             "type": "profile",
@@ -4068,7 +4068,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Hatred (Legiones Astartes)",
+                "value": "Odio (Legiones Astartes)",
                 "field": "name"
               }
             ],
@@ -4121,7 +4121,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Paragon (Unique, Light)",
+                    "$text": "Esemplare (Unico, Leggero)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -4489,10 +4489,6 @@
               {
                 "characteristics": [
                   {
-                    "name": "Riepilogo",
-                    "typeId": "8e7d-a0ae-fd85-983c"
-                  },
-                  {
                     "$text": "Questo Modello ottiene la Regola Speciale Insensibile al Dolore (4+) contro gli Attacchi effettuati con Armi con la Regola Speciale Avvelenato (X).",
                     "name": "Descrizione",
                     "typeId": "9944-2f6d-d61b-03b5"
@@ -4594,7 +4590,7 @@
         ],
         "infoLinks": [
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "0087-c792-0f63-277d",
             "hidden": false,
             "type": "profile",
@@ -4851,7 +4847,7 @@
             "targetId": "641c-ca0a-7093-4525"
           },
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "899a-36f7-3039-d300",
             "hidden": false,
             "type": "profile",
@@ -4885,7 +4881,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "6c15-46c9-4e01-078c",
             "type": "selectionEntry",
@@ -5058,7 +5054,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Unique, Command)",
+                    "$text": "Fanteria (Unico, Comando)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -5280,7 +5276,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Sergeant, Skirmish)",
+                    "$text": "Fanteria (Sergente, Schermagliatore)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -5677,7 +5673,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Skirmish)",
+                    "$text": "Fanteria (Schermagliatore)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -6026,7 +6022,7 @@
             "targetId": "f330-254e-1a98-798a"
           },
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "830b-3f9a-e8d1-edd3",
             "hidden": false,
             "type": "profile",
@@ -6148,7 +6144,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "c7a8-09ae-2348-7cef",
             "type": "selectionEntry",
@@ -6273,7 +6269,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry",
+                    "$text": "Fanteria",
                     "typeId": "50fc-9241-d4a2-045b",
                     "name": "Tipo"
                   },
@@ -6730,7 +6726,7 @@
         ],
         "infoLinks": [
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "69fb-9b1f-1d4b-e72f",
             "hidden": false,
             "type": "profile",
@@ -6928,11 +6924,6 @@
                   {
                     "characteristics": [
                       {
-                        "$text": "Quando questo Gambetto viene selezionato, l'Iniziativa di Combattimento del Modello del Giocatore Avversario viene ridotta.",
-                        "name": "Riepilogo",
-                        "typeId": "98f3-41cf-e3be-2ae7"
-                      },
-                      {
                         "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il Giocatore Controllante può selezionare il seguente Gambetto: Io Sono Alpharius: questo Gambetto può essere selezionato solo durante il Primo Passaggio di Faccia a Faccia di una Sfida che coinvolga questo Modello. Se questo Gambetto viene selezionato, il Modello avversario nella Sfida imposta la propria Iniziativa di Combattimento a ‘1’ fino alla fine di questo Passaggio di Attacco. Reazione Avanzata Fumo e Specchi Attivazione: durante il passaggio 3 della sequenza di Attacco a Distanza di qualsiasi Attacco a Distanza effettuato dal Giocatore Attivo che prende di mira un’Unità che includa solo modelli con il Tratto Legione Alfa. Costo: 1 Punto Reazione. Bersaglio: l’Unità il cui Attacco a Distanza ha innescato la Reazione. L’Unità Reattiva è l’Unità che è stata bersaglio dell’Attacco a Distanza che ha innescato la Reazione. Procedura: Una volta dichiarata questa reazione, finché non viene risolto l’Attacco a Distanza dell’Unità bersaglio, la Regola Speciale Precisione (X) ha efficacia solo con un risultato del Tiro per Colpire pari o superiore a 6. Distaccamenti Addizionali Leviatano Cacciatore di Teste Distaccamento Ausiliario 2 Riquadri Ricognizione (Primario); 2 Riquadri Reparti Speciali. I Riquadri Reparti Speciali in questo Distaccamento possono essere utilizzati solo per selezionare Unità di Squadra di Cacciatori o le Unità di Squadra d’Uccisione Cacciateste.",
                         "name": "Descrizione",
                         "typeId": "2d7d-b1d9-dead-605a"
@@ -7008,11 +6999,6 @@
                 "profiles": [
                   {
                     "characteristics": [
-                      {
-                        "$text": "Questa Reazione modifica il Numero Obiettivo dei Test di Colpi di Precisione effettuati contro l'Unità Reattiva.",
-                        "name": "Riepilogo",
-                        "typeId": "5d02-0e54-0f6a-0f0b"
-                      },
                       {
                         "$text": "durante il passaggio 3 della sequenza di Attacco a Distanza di qualsiasi Attacco a Distanza effettuato dal Giocatore Attivo che prende di mira un’Unità che includa solo modelli con il Tratto Legione Alfa.",
                         "name": "Innesco",
@@ -7202,7 +7188,7 @@
             "targetId": "5d5e-958f-e388-50b5",
             "id": "8fb9-3ca1-8cfd-7340",
             "primary": true,
-            "name": "Reparti Speciali"
+            "name": "Reparto Speciale"
           },
           {
             "targetId": "a114-fe5b-0a4f-632e",
@@ -7242,7 +7228,7 @@
             "targetId": "5d5e-958f-e388-50b5",
             "id": "b616-0939-c10f-36d1",
             "primary": true,
-            "name": "Reparti Speciali"
+            "name": "Reparto Speciale"
           },
           {
             "targetId": "a114-fe5b-0a4f-632e",
@@ -7264,7 +7250,7 @@
             "targetId": "5d5e-958f-e388-50b5",
             "id": "c830-926d-4233-727e",
             "primary": true,
-            "name": "Reparti Speciali"
+            "name": "Reparto Speciale"
           },
           {
             "targetId": "a114-fe5b-0a4f-632e",
@@ -9102,7 +9088,7 @@
         "modifiers": [
           {
             "type": "prepend",
-            "value": "Dark Angels",
+            "value": "Angeli Oscuri",
             "field": "name"
           }
         ],
@@ -9132,7 +9118,7 @@
         "modifiers": [
           {
             "type": "prepend",
-            "value": "Emperor's Children",
+            "value": "Figli dell’Imperatore",
             "field": "name"
           }
         ],
@@ -9162,7 +9148,7 @@
         "modifiers": [
           {
             "type": "prepend",
-            "value": "Iron Warriors",
+            "value": "Guerrieri di Ferro",
             "field": "name"
           }
         ],
@@ -9192,7 +9178,7 @@
         "modifiers": [
           {
             "type": "prepend",
-            "value": "White Scars",
+            "value": "Furie Bianche",
             "field": "name"
           }
         ],
@@ -9222,7 +9208,7 @@
         "modifiers": [
           {
             "type": "prepend",
-            "value": "Space Wolves",
+            "value": "Lupi Siderali",
             "field": "name"
           }
         ],
@@ -9252,7 +9238,7 @@
         "modifiers": [
           {
             "type": "prepend",
-            "value": "Imperial Fists",
+            "value": "Magli Imperiali",
             "field": "name"
           }
         ],
@@ -9282,7 +9268,7 @@
         "modifiers": [
           {
             "type": "prepend",
-            "value": "Night Lords",
+            "value": "Signori della Notte",
             "field": "name"
           }
         ],
@@ -9312,7 +9298,7 @@
         "modifiers": [
           {
             "type": "prepend",
-            "value": "Blood Angels",
+            "value": "Angeli Sanguinari",
             "field": "name"
           }
         ],
@@ -9342,7 +9328,7 @@
         "modifiers": [
           {
             "type": "prepend",
-            "value": "Iron Hands",
+            "value": "Mani di Ferro",
             "field": "name"
           }
         ],
@@ -9372,7 +9358,7 @@
         "modifiers": [
           {
             "type": "prepend",
-            "value": "World Eaters",
+            "value": "Divoratori di Mondi",
             "field": "name"
           }
         ],
@@ -9402,7 +9388,7 @@
         "modifiers": [
           {
             "type": "prepend",
-            "value": "Ultramarines",
+            "value": "Ultramarine",
             "field": "name"
           }
         ],
@@ -9432,7 +9418,7 @@
         "modifiers": [
           {
             "type": "prepend",
-            "value": "Death Guard",
+            "value": "Guardia della Morte",
             "field": "name"
           }
         ],
@@ -9462,7 +9448,7 @@
         "modifiers": [
           {
             "type": "prepend",
-            "value": "Thousand Sons",
+            "value": "Stirpe dei Mille",
             "field": "name"
           }
         ],
@@ -9492,7 +9478,7 @@
         "modifiers": [
           {
             "type": "prepend",
-            "value": "Sons of Horus",
+            "value": "Figli di Horus",
             "field": "name"
           }
         ],
@@ -9522,7 +9508,7 @@
         "modifiers": [
           {
             "type": "prepend",
-            "value": "Word Bearers",
+            "value": "Predicatori",
             "field": "name"
           }
         ],
@@ -9552,7 +9538,7 @@
         "modifiers": [
           {
             "type": "prepend",
-            "value": "Salamanders",
+            "value": "Salamandre",
             "field": "name"
           }
         ],
@@ -9582,7 +9568,7 @@
         "modifiers": [
           {
             "type": "prepend",
-            "value": "Raven Guard",
+            "value": "Guardia del Corvo",
             "field": "name"
           }
         ],
@@ -9643,6 +9629,8 @@
     "authorContact": "https://github.com/BSData/horus-heresy-3rd-edition/issues",
     "authorName": "The4D6",
     "battleScribeVersion": 2.03,
-    "type": "catalogue"
+    "type": "catalogue",
+    "categoryEntries": [],
+    "costTypes": []
   }
 }

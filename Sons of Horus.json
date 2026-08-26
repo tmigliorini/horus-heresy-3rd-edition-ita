@@ -8,7 +8,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Paragon (Unique)",
+                    "$text": "Esemplare (Unico)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -491,7 +491,7 @@
         "entryLinks": [
           {
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "1daf-9b28-9eee-2c45",
             "type": "selectionEntry",
@@ -500,7 +500,7 @@
         ],
         "infoLinks": [
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "d39d-c872-8128-1565",
             "hidden": false,
             "type": "profile",
@@ -600,7 +600,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Unique, Command, Heavy)",
+                    "$text": "Fanteria (Unico, Comando, Pesante)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -822,7 +822,7 @@
         ],
         "infoLinks": [
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "14be-cfa9-ce98-953b",
             "hidden": false,
             "type": "profile",
@@ -905,7 +905,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "c375-4da0-cf46-43f3",
             "type": "selectionEntry",
@@ -1109,7 +1109,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Unique, Command)",
+                    "$text": "Fanteria (Unico, Comando)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -1406,7 +1406,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "9fb2-b7dd-c7fd-4890",
             "type": "selectionEntry",
@@ -1425,7 +1425,7 @@
         ],
         "infoLinks": [
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "0265-a22a-f554-637a",
             "hidden": false,
             "type": "profile",
@@ -1553,7 +1553,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Unique, Command)",
+                    "$text": "Fanteria (Unico, Comando)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -1945,7 +1945,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "ae60-90f2-3d02-e060",
             "type": "selectionEntry",
@@ -1991,7 +1991,7 @@
         ],
         "infoLinks": [
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "b9ff-f911-e1fc-cfc5",
             "hidden": false,
             "type": "profile",
@@ -2066,7 +2066,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Paragon (Unique)",
+                    "$text": "Esemplare (Unico)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -2564,7 +2564,7 @@
         "entryLinks": [
           {
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "6b46-217a-6a8a-5ce3",
             "type": "selectionEntry",
@@ -2573,7 +2573,7 @@
         ],
         "infoLinks": [
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "878e-0222-4358-7220",
             "hidden": false,
             "type": "profile",
@@ -2718,7 +2718,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Heavy)",
+                    "$text": "Fanteria (Pesante)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -3389,7 +3389,7 @@
             "targetId": "530f-b733-993c-ec84"
           },
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "2916-e456-5464-be59",
             "hidden": false,
             "type": "profile",
@@ -3416,7 +3416,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "1ee5-e4b6-168e-7096",
             "type": "selectionEntry",
@@ -3454,7 +3454,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Unique, Command)",
+                    "$text": "Fanteria (Unico, Comando)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -3703,7 +3703,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "418d-7fcf-8f75-b96e",
             "type": "selectionEntry",
@@ -3830,7 +3830,7 @@
         ],
         "infoLinks": [
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "ae25-efc1-18ce-78e6",
             "hidden": false,
             "type": "profile",
@@ -3948,7 +3948,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Unique, Command)",
+                    "$text": "Fanteria (Unico, Comando)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -4184,7 +4184,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "05bb-bfe0-1c0f-32a3",
             "type": "selectionEntry",
@@ -4230,7 +4230,7 @@
         ],
         "infoLinks": [
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "8611-02e2-7a3d-c88f",
             "hidden": false,
             "type": "profile",
@@ -4254,7 +4254,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Hatred (Traitor)",
+                "value": "Odio (Traditore)",
                 "field": "name"
               }
             ],
@@ -4334,7 +4334,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Unique, Command)",
+                    "$text": "Fanteria (Unico, Comando)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -4712,7 +4712,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "4261-7ccb-7dc1-0344",
             "type": "selectionEntry",
@@ -4731,7 +4731,7 @@
         ],
         "infoLinks": [
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "3de9-d582-58fe-5939",
             "hidden": false,
             "type": "profile",
@@ -4755,7 +4755,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Hatred (Shattered Legions)",
+                "value": "Odio (Legioni Spezzate)",
                 "field": "name"
               }
             ],
@@ -4827,7 +4827,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Sergeant)",
+                    "$text": "Fanteria (Sergente)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -5357,7 +5357,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry",
+                    "$text": "Fanteria",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -6079,7 +6079,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "aa7b-befb-3994-605f",
             "type": "selectionEntry",
@@ -6089,7 +6089,7 @@
         ],
         "infoLinks": [
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "dedd-2308-9165-c699",
             "hidden": false,
             "type": "profile",
@@ -6161,7 +6161,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Unique, Command)",
+                    "$text": "Fanteria (Unico, Comando)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -6310,11 +6310,6 @@
             "profiles": [
               {
                 "characteristics": [
-                  {
-                    "$text": "Maloghurst può aumentare la quantità di Punti Vittoria che le Unità Amiche possono segnare.",
-                    "name": "Riepilogo",
-                    "typeId": "8e7d-a0ae-fd85-983c"
-                  },
                   {
                     "$text": "Finché un Modello con l’Icona del Signore della Guerra fa parte di un’Unità che includa modelli con la Regola Speciale Linea (X) o Avanguardia (X), modifica il valore di X su ciascuno di quei modelli di +1.",
                     "name": "Descrizione",
@@ -6465,7 +6460,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "28bf-cb68-6d66-894f",
             "type": "selectionEntry",
@@ -6502,7 +6497,7 @@
         ],
         "infoLinks": [
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "1e47-a9aa-856b-ebdf",
             "hidden": false,
             "type": "profile",
@@ -6652,7 +6647,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Antigrav)",
+                    "$text": "Fanteria (Antigravitazionale)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -7363,7 +7358,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Sergeant, Antigrav)",
+                    "$text": "Fanteria (Sergente, Antigravitazionale)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -8169,7 +8164,7 @@
             "targetId": "0553-d06b-52b9-34db"
           },
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "c937-f142-3b1f-64af",
             "hidden": false,
             "type": "profile",
@@ -8196,7 +8191,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "2dd0-7576-f9f8-f416",
             "type": "selectionEntry",
@@ -8225,7 +8220,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Unique, Command, Heavy)",
+                    "$text": "Fanteria (Unico, Comando, Pesante)",
                     "typeId": "50fc-9241-d4a2-045b",
                     "name": "Tipo"
                   },
@@ -8315,7 +8310,7 @@
                     ],
                     "comment": "Tartaros",
                     "type": "set",
-                    "value": "Infantry (Command)",
+                    "value": "Fanteria (Comando)",
                     "field": "50fc-9241-d4a2-045b"
                   },
                   {
@@ -8677,7 +8672,7 @@
             "targetId": "6a8e-e508-abc9-cb3e"
           },
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "b838-dbba-4de8-2465",
             "hidden": false,
             "type": "profile",
@@ -8704,7 +8699,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "6e0e-c166-1d39-cf0a",
             "type": "selectionEntry",
@@ -8879,7 +8874,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Heavy)",
+                    "$text": "Fanteria (Pesante)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -9359,7 +9354,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "7dab-7ee2-4e74-3efc",
             "type": "selectionEntry",
@@ -9368,7 +9363,7 @@
         ],
         "infoLinks": [
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "fae2-675f-8c25-345c",
             "hidden": false,
             "type": "profile",
@@ -9418,7 +9413,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry",
+                    "$text": "Fanteria",
                     "typeId": "50fc-9241-d4a2-045b",
                     "name": "Tipo"
                   },
@@ -9965,7 +9960,7 @@
             "targetId": "9829-1d35-5b26-51ce"
           },
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "bd7f-0773-534a-9f7c",
             "hidden": false,
             "type": "profile",
@@ -10028,11 +10023,6 @@
                 "profiles": [
                   {
                     "characteristics": [
-                      {
-                        "$text": "Quando questo Gambetto viene selezionato, il Modello del Giocatore Controllante ottiene la Regola Speciale Corrosivo (T).",
-                        "name": "Riepilogo",
-                        "typeId": "98f3-41cf-e3be-2ae7"
-                      },
                       {
                         "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Colpo Spietato: questo Gambetto può essere selezionato solo durante la prima Fase di Faccia a Faccia di una Sfida che coinvolga questo Modello. Mentre questo Gambetto è selezionato, qualsiasi Arma che questo Modello usa durante questa Sfida ottiene la Regola Speciale Corrosivo (Re) per la durata di questo Passaggio di Attacco. Reazione Avanzata Orgoglio del Guerriero Attivazione: quando un’Unità composta da Modelli con il Tratto Figli di Horus è in combattimento con un’Unità nemica e il Giocatore Attivo seleziona un Modello come sfidante. Costo: 1 Punto Reazione. Bersaglio: l’Unità che include il Modello nemico selezionato come Sfidante. L’Unità Reattiva è l’Unità che include i Modelli con il Tratto Figli di Horus che potrebbero essere selezionati come Sfidati. Procedura: Se la Caratteristica Abilità di Combattimento Base dello Sfidante è inferiore alla Caratteristica Abilità di Combattimento Base di tutti i Modelli dell’Unità Reattiva che sarebbero idonei ad accettare la Sfida, il Giocatore Reattivo può scegliere di non accettare la Sfida. In tal caso, la Sottofase di Sfida termina immediatamente e quel Modello non ottiene lo Status Tattico Disonorato. Distaccamenti Addizionali Corpo di Supremazia Distaccamento Ausiliario 2 Riquadri Truppe (Primario); 1 Riquadro Reparti Speciali; 1 Riquadro Assalto Pesante;.",
                         "name": "Descrizione",
@@ -10109,11 +10099,6 @@
                 "profiles": [
                   {
                     "characteristics": [
-                      {
-                        "$text": "Questa Reazione consente all'Unità Reattiva di ignorare le Sfide di un avversario con una Caratteristica Abilità di Combattimento inferiore.",
-                        "name": "Riepilogo",
-                        "typeId": "5d02-0e54-0f6a-0f0b"
-                      },
                       {
                         "$text": "quando un’Unità composta da Modelli con il Tratto Figli di Horus è in combattimento con un’Unità nemica e il Giocatore Attivo seleziona un Modello come sfidante.",
                         "name": "Innesco",
@@ -10281,7 +10266,7 @@
             "targetId": "5d5e-958f-e388-50b5",
             "id": "f25a-cc76-6b69-1420",
             "primary": true,
-            "name": "Reparti Speciali"
+            "name": "Reparto Speciale"
           }
         ],
         "import": true,
@@ -10599,6 +10584,8 @@
     "authorContact": "https://github.com/BSData/horus-heresy-3rd-edition/issues",
     "authorName": "The4D6",
     "battleScribeVersion": 2.03,
-    "type": "catalogue"
+    "type": "catalogue",
+    "categoryEntries": [],
+    "costTypes": []
   }
 }

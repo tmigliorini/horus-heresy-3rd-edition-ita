@@ -8,7 +8,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Paragon (Unique)",
+                    "$text": "Esemplare (Unico)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -313,11 +313,6 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Se il Giocatore Controllante supera un Tiro di Dado, può selezionare questo Gambetto al posto di qualsiasi altro normalmente disponibile.",
-                    "name": "Riepilogo",
-                    "typeId": "98f3-41cf-e3be-2ae7"
-                  },
-                  {
                     "$text": "Quando si selezionano i Gambetti per un Modello con questa Regola Speciale, il Giocatore che lo Controlla può tirare un Dado. Con un risultato di 5+, questo Gambetto può essere selezionato per quel Modello.\n\nUna Morte da Lungo Predetta: quando questo Gambetto viene selezionato, il Giocatore Controllante può effettuare una Prova di Volontà per ciascuno dei seguenti benefici. Se la Prova di Volontà ha successo, l'effetto corrispondente si applica fino all'inizio della Fase di Faccia a Faccia successiva:\n• Questo Modello guadagna la Regola Speciale Insensibile al Dolore (5+);\n• Modifica la Caratteristica Attacchi di questo Modello di +1;\n• Pietà e Perdono di questo Modello hanno un Modificatore di Iniziativa di '+2'.",
                     "name": "Descrizione",
                     "typeId": "2d7d-b1d9-dead-605a"
@@ -386,7 +381,7 @@
         ],
         "infoLinks": [
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "b200-af26-8f19-5d20",
             "hidden": false,
             "type": "profile",
@@ -520,7 +515,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Sergeant)",
+                    "$text": "Fanteria (Sergente)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -860,7 +855,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry",
+                    "$text": "Fanteria",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -1141,7 +1136,7 @@
             "targetId": "0ebc-0c92-2209-6393"
           },
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "7ee7-9734-c86f-a6ae",
             "hidden": false,
             "type": "profile",
@@ -1311,7 +1306,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "b666-20f1-f933-9db6",
             "type": "selectionEntry",
@@ -1331,7 +1326,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Sergeant, Antigrav)",
+                    "$text": "Fanteria (Sergente, Antigravitazionale)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -1791,7 +1786,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Antigrav)",
+                    "$text": "Fanteria (Antigravitazionale)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -2389,7 +2384,7 @@
             "targetId": "0553-d06b-52b9-34db"
           },
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "13b1-1418-bf95-f4ba",
             "hidden": false,
             "type": "profile",
@@ -2495,7 +2490,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "4da6-9eff-b6e8-a2d8",
             "type": "selectionEntry",
@@ -2515,7 +2510,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Sergeant)",
+                    "$text": "Fanteria (Sergente)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -3219,7 +3214,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry",
+                    "$text": "Fanteria",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -3892,7 +3887,7 @@
               {
                 "comment": "Infantry",
                 "type": "set",
-                "value": "Hatred (Infantry)",
+                "value": "Odio (Fanteria)",
                 "field": "name"
               }
             ],
@@ -3933,7 +3928,7 @@
             "targetId": "530f-b733-993c-ec84"
           },
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "912e-cce1-3660-3d34",
             "hidden": false,
             "type": "profile",
@@ -4061,7 +4056,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "6284-4960-5085-10d3",
             "type": "selectionEntry",
@@ -4107,7 +4102,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Unique, Command)",
+                    "$text": "Fanteria (Unico, Comando)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -4220,11 +4215,6 @@
             "profiles": [
               {
                 "characteristics": [
-                  {
-                    "$text": "Questo Gambetto consente a Sevatar di effettuare un attacco al di fuori della sequenza normale.",
-                    "name": "Riepilogo",
-                    "typeId": "98f3-41cf-e3be-2ae7"
-                  },
                   {
                     "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Combattente Sleale: Questo Gambetto può essere selezionato solo durante il primo Passaggio di Faccia a Faccia di una Sfida che coinvolga questo Modello. All'inizio del Passaggio di Concentrazione, il Giocatore Controllante di questo Modello può risolvere le fasi da 1 a 4 del Passaggio di Attacco una volta, come se questo Modello avesse una Caratteristica Attacchi pari a 1. Il Passaggio di Concentrazione viene quindi risolto normalmente.",
                     "name": "Descrizione",
@@ -4421,7 +4411,7 @@
             "targetId": "0ebc-0c92-2209-6393"
           },
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "f27b-4b9a-8610-7bee",
             "hidden": false,
             "type": "profile",
@@ -4550,7 +4540,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "9867-805b-47f7-a6b8",
             "type": "selectionEntry",
@@ -4707,7 +4697,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Sergeant)",
+                    "$text": "Fanteria (Sergente)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -5297,7 +5287,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry",
+                    "$text": "Fanteria",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -5950,7 +5940,7 @@
         ],
         "infoLinks": [
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "87af-cff7-93c1-6654",
             "hidden": false,
             "type": "profile",
@@ -6085,7 +6075,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "a1fc-bfb3-dafc-99aa",
             "type": "selectionEntry",
@@ -6165,7 +6155,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry",
+                    "$text": "Fanteria",
                     "typeId": "50fc-9241-d4a2-045b",
                     "name": "Tipo"
                   },
@@ -6610,7 +6600,7 @@
         ],
         "infoLinks": [
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "3c1b-b373-a80f-289e",
             "hidden": false,
             "type": "profile",
@@ -6702,7 +6692,7 @@
             "targetId": "5d5e-958f-e388-50b5",
             "id": "7967-1f53-e431-028f",
             "primary": true,
-            "name": "Reparti Speciali"
+            "name": "Reparto Speciale"
           },
           {
             "targetId": "9c9d-4e53-09d5-8748",
@@ -6918,11 +6908,6 @@
                   {
                     "characteristics": [
                       {
-                        "$text": "Questo Gambetto consente al Giocatore Controllante di cambiare il Modello che combatte in una Sfida.",
-                        "name": "Riepilogo",
-                        "typeId": "98f3-41cf-e3be-2ae7"
-                      },
-                      {
                         "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Coraggio Nostramano: questo Gambetto può essere selezionato solo una volta per Sfida. All’inizio del Passaggio di Concentrazione, il Giocatore Controllante di questo Modello può immediatamente far tornare il Modello alla propria Unità come se fosse la Sottofase di Risoluzione, ed essere sostituito nella Sfida con qualsiasi altro Modello della sua Unità. Reazione Avanzata La Parte Migliore del Valore Attivazione: durante il Passaggio 4 del processo di Carica di qualsiasi Carica dichiarata dal Giocatore Attivo che prenda di mira un’Unità che includa solo Modelli con il Tratto Signori della Notte. Costo: 1 Punto Reazione. Bersaglio: l’Unità la cui Carica ha innescato la Reazione. L’Unità Reattiva è l’Unità che è stata dichiarata come Bersaglio della Carica che ha innescato questa Reazione. Procedura: Una volta dichiarata questa reazione, l’Unità Reattiva deve immediatamente effettuare un Movimento di Ripiegamento. Distaccamenti Addizionali Caccia dell’Atramentar Distaccamento Apice 1 Riquadro Seguito (Primario); 2 Riquadri Assalto Pesante (Prime). I Riquadri Seguito in questo Distaccamento devono essere occupati da Unità di Squadra Comando Catafratta o Unità di Squadra Comando Tartaros. I Riquadri Assalto Pesante in questo Distaccamento devono essere occupati da Unità della Squadra Terminator Catafratti o Unità di Squadra Terminator Tartaros. L’unico Vantaggio Primario che può essere selezionato per i Riquadri in questo Distaccamento è Atramentar. Assalto Terroristico Distaccamento Ausiliario 1 Riquadro Truppe (Primario); 2 Riquadri Supporto Leggero; 1 Riquadro Truppe. I Riquadri Truppe in questo Distaccamento devono essere occupati da Unità di Squadra del Terrore.",
                         "name": "Descrizione",
                         "typeId": "2d7d-b1d9-dead-605a"
@@ -6964,11 +6949,6 @@
                 "profiles": [
                   {
                     "characteristics": [
-                      {
-                        "$text": "Questa Reazione consente a un'Unità di Ripiegare quando è il Bersaglio di una Carica.",
-                        "name": "Riepilogo",
-                        "typeId": "5d02-0e54-0f6a-0f0b"
-                      },
                       {
                         "$text": "durante il Passaggio 4 del processo di Carica di qualsiasi Carica dichiarata dal Giocatore Attivo che prenda di mira un’Unità che includa solo Modelli con il Tratto Signori della Notte.",
                         "name": "Innesco",
@@ -7098,6 +7078,8 @@
     "authorContact": "https://github.com/BSData/horus-heresy-3rd-edition/issues",
     "authorName": "The4D6",
     "battleScribeVersion": 2.03,
-    "type": "catalogue"
+    "type": "catalogue",
+    "categoryEntries": [],
+    "costTypes": []
   }
 }

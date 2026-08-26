@@ -4,10 +4,6 @@
       {
         "characteristicTypes": [
           {
-            "name": "Riepilogo",
-            "id": "981f-bb86-6a74-9b20"
-          },
-          {
             "name": "Innesco",
             "id": "1be9-f118-1cf3-357e"
           },
@@ -35,10 +31,6 @@
       },
       {
         "characteristicTypes": [
-          {
-            "name": "Riepilogo",
-            "id": "c8a8-29f2-605b-5969"
-          },
           {
             "name": "Innesco",
             "id": "4e6b-ebca-53df-fcf7"
@@ -191,11 +183,6 @@
           },
           {
             "characteristics": [
-              {
-                "$text": "Questo Potere viene usato nella Sottofase di Carica per aggiungere un bonus alla Forza e alla Resistenza di un'Unità.",
-                "name": "Riepilogo",
-                "typeId": "981f-bb86-6a74-9b20"
-              },
               {
                 "$text": "Fase 4 del Processo di Carica, prima che qualsiasi Unità effettui un Attacco a Raffica.",
                 "name": "Innesco",
@@ -469,11 +456,6 @@
           {
             "characteristics": [
               {
-                "$text": "Questo Potere può essere usato nella Fase di Tiro o in quella di Assalto e concede un Tiro Mitigazione Ammantato.",
-                "name": "Riepilogo",
-                "typeId": "c8a8-29f2-605b-5969"
-              },
-              {
                 "$text": "all'inizio del Passaggio 4 del Processo di Carica, prima di effettuare gli Attacchi a Raffica, o all'inizio del Passaggio 3 di un Attacco a Distanza, prima di dichiarare le Armi impiegate.",
                 "name": "Innesco",
                 "typeId": "4e6b-ebca-53df-fcf7"
@@ -629,10 +611,6 @@
           {
             "characteristics": [
               {
-                "name": "Riepilogo",
-                "typeId": "98f3-41cf-e3be-2ae7"
-              },
-              {
                 "$text": "Se questo Gambetto viene selezionato, il Giocatore Controllante deve effettuare una Prova di Volontà per il Modello che usa questo Gambetto. Se la Prova ha successo, nel Passaggio di Attacco della Sfida tutti i Tiri per Colpire effettuati per questo Modello hanno successo con un risultato di 2+, indipendentemente dalle Caratteristiche Abilità di Combattimento dei Modelli coinvolti nella Sfida. Se la Prova di Volontà non ha successo, i Tiri per Colpire vengono effettuati normalmente. Nota: questa Prova di Volontà non può infliggere Pericoli del Warp.",
                 "name": "Descrizione",
                 "typeId": "2d7d-b1d9-dead-605a"
@@ -646,11 +624,6 @@
           },
           {
             "characteristics": [
-              {
-                "$text": "Questo Potere viene usato come parte di un Attacco a Distanza per concedere a un'Unità la Regola Speciale Precisione (5+).",
-                "name": "Riepilogo",
-                "typeId": "981f-bb86-6a74-9b20"
-              },
               {
                 "$text": "quando il Giocatore Attivo effettua il Passaggio 4 di un Attacco a Distanza, determinando i Gruppi di Fuoco.",
                 "name": "Innesco",
@@ -752,11 +725,6 @@
           {
             "characteristics": [
               {
-                "$text": "Questo Potere viene usato nella Fase di Movimento e può costringere il bersaglio a Ripiegare o ad andare In Rotta.",
-                "name": "Riepilogo",
-                "typeId": "981f-bb86-6a74-9b20"
-              },
-              {
                 "$text": "durante la Fase di Movimento, quando si seleziona un'Unità che includa almeno un Modello con il Tratto Telepate da muovere, ma prima che venga effettuato qualsiasi movimento per quell'Unità.",
                 "name": "Innesco",
                 "typeId": "1be9-f118-1cf3-357e"
@@ -853,7 +821,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Hatred (Psyker)",
+                "value": "Odio (Psyker)",
                 "field": "name"
               }
             ],
@@ -868,11 +836,6 @@
         "profiles": [
           {
             "characteristics": [
-              {
-                "$text": "Questo Potere può essere usato nella Fase di Tiro e può far tornare una singola Perdita nell'Unità con tutte le Ferite ripristinate.",
-                "name": "Riepilogo",
-                "typeId": "c8a8-29f2-605b-5969"
-              },
               {
                 "$text": "all'inizio del Passaggio 11 di qualsiasi Attacco a Distanza, prima di rimuovere le Perdite.",
                 "name": "Innesco",
@@ -912,11 +875,6 @@
           },
           {
             "characteristics": [
-              {
-                "$text": "Questo Potere viene usato nella Fase Iniziale e rende più difficile per l'Unità Bersaglio usare Poteri Psionici, Reazioni Psioniche o attaccare con Armi Psioniche.",
-                "name": "Riepilogo",
-                "typeId": "981f-bb86-6a74-9b20"
-              },
               {
                 "$text": "la Fase degli Effetti della Fase Iniziale.",
                 "name": "Innesco",
@@ -1187,10 +1145,6 @@
           },
           {
             "characteristics": [
-              {
-                "name": "Riepilogo",
-                "typeId": "981f-bb86-6a74-9b20"
-              },
               {
                 "$text": "Il Giocatore Attivo può scegliere di Manifestare il Potere Psionico Incanalamento Oscuro all'inizio della Sottofase di Combattimento della sua Fase di Assalto.",
                 "name": "Innesco",
@@ -1496,10 +1450,6 @@
       {
         "characteristics": [
           {
-            "name": "Riepilogo",
-            "typeId": "981f-bb86-6a74-9b20"
-          },
-          {
             "$text": "Il Giocatore Attivo può scegliere di Manifestare il Potere Psionico Breccia nel Velo all'inizio della Sottofase delle Riserve della sua Fase di Movimento.",
             "name": "Innesco",
             "typeId": "1be9-f118-1cf3-357e"
@@ -1552,10 +1502,6 @@
       },
       {
         "characteristics": [
-          {
-            "name": "Riepilogo",
-            "typeId": "c8a8-29f2-605b-5969"
-          },
           {
             "$text": "il Giocatore Reattivo può dichiarare la Reazione Psionica Sigillare il Velo all’inizio del Passaggio 3 della Procedura di Carica per una Carica dichiarata dal Giocatore Attivo verso un’Unità che includa uno o più Modelli con il Sotto-Tipo Malefico.",
             "name": "Innesco",
@@ -1629,6 +1575,7 @@
     "sharedSelectionEntryGroups": [],
     "sharedRules": [],
     "entryLinks": [],
-    "infoLinks": []
+    "infoLinks": [],
+    "costTypes": []
   }
 }

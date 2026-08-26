@@ -8,7 +8,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Paragon (Unique)",
+                    "$text": "Esemplare (Unico)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -450,7 +450,7 @@
             "targetId": "15b4-9e4a-f361-c5a3"
           },
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "c084-53a5-70f6-5cbb",
             "hidden": false,
             "type": "profile",
@@ -723,11 +723,6 @@
           {
             "characteristics": [
               {
-                "$text": "Questo Gambetto consente a un Modello di aumentare la sua Caratteristica Resistenza.",
-                "name": "Riepilogo",
-                "typeId": "98f3-41cf-e3be-2ae7"
-              },
-              {
                 "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Resilienza Tenace: la Caratteristica Resistenza del Modello per cui è stato selezionato questo Gambetto viene sostituita dall’Abilità di Combattimento di Base del Modello avversario per la durata del successivo Passaggio di Attacco. Reazione Avanzata Resistenza Barbarana Attivazione: una volta per battaglia, durante il passaggio 4 di qualsiasi Attacco a Distanza dichiarato dal Giocatore Attivo durante la fase di tiro che prende di mira un’Unità che includa solo modelli con il Tratto Guardia della Morte che non abbiano il tipo Veicolo. Costo: 1 Punto Reazione. Bersaglio: l’Unità il cui Attacco a Distanza ha attivato la Reazione. L’Unità Reattiva è l’Unità dichiarata come bersaglio dell’Attacco a Distanza che ha attivato questa Reazione. Procedura: Tutti i Modelli dell’Unità Reattiva si riprendono immediatamente da qualsiasi Stato Tattico. Per tutta la durata della Fase di Tiro in corso, tutti i Modelli dell’Unità Reattiva ottengono la Regola Speciale “Insensibile al Dolore” (5+). Per tutta la durata della Fase di Tiro in corso, il Giocatore che Reagisce supera automaticamente tutte le Prove di Coraggio o di Disciplina effettuate per l’Unità Reattiva. Distaccamenti Addizionali Schiera Mietitrice Distaccamento Ausiliario 1 Riquadro Truppe (Primario); 1 Riquadro Assalto Pesante; 1 Riquadro Truppe; 1 Riquadro Supporto. I Riquadri Truppe in questo Distaccamento non possono essere utilizzati per selezionare Unità di Squadra Assaltatrice.",
                 "name": "Descrizione",
                 "typeId": "2d7d-b1d9-dead-605a"
@@ -756,7 +751,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Unique, Command, Heavy)",
+                    "$text": "Fanteria (Unico, Comando, Pesante)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -1152,10 +1147,6 @@
               {
                 "characteristics": [
                   {
-                    "name": "Riepilogo",
-                    "typeId": "98f3-41cf-e3be-2ae7"
-                  },
-                  {
                     "$text": "alla fine del primo Turno di Battaglia, ogni volta che il Giocatore Controllante effettua un Attacco a Distanza per un’Unità che includa solo Modelli con il Tratto Guardia della Morte, se un Gruppo di Fuoco ha una Caratteristica Potenza di Fuoco totale di 11 o più, gli Attacchi effettuati da quel Gruppo di Fuoco hanno la Regola Speciale Inchiodamento (0).\n \n \nRegole Speciali\nSangue Stregato\nQuando fa parte di un’Armata che non include Mortarion, un Modello con questa Regola Speciale ha la Disciplina Biomanzia.\nInoltre, una volta per Battaglia, mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante Gambetto: Sangue Stregato: All’inizio del Passaggio di Concentrazione, il Giocatore Controllante può effettuare una Prova di Volontà per questo Modello. Se la Prova ha successo, questo Modello ottiene un modificatore di +2 alle Caratteristiche di Attacchi e Forza nel Passaggio di Attacco successivo. Se la Prova fallisce, questo Modello subisce 1 ferita, con VP di 2 e Danno di 1, senza Tiri Copertura concessi.",
                     "name": "Descrizione",
                     "typeId": "2d7d-b1d9-dead-605a"
@@ -1299,7 +1290,7 @@
         ],
         "infoLinks": [
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "4f45-98f0-5a83-fa0c",
             "hidden": false,
             "type": "profile",
@@ -1391,7 +1382,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "2039-bd87-41dc-8fce",
             "type": "selectionEntry",
@@ -1433,7 +1424,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry",
+                    "$text": "Fanteria",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -1761,7 +1752,7 @@
         ],
         "infoLinks": [
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "c2c4-20f0-8ce0-bb2d",
             "hidden": false,
             "type": "profile",
@@ -1825,7 +1816,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "5d13-d2f5-46e5-844e",
             "type": "selectionEntry",
@@ -1846,7 +1837,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Sergeant, Heavy)",
+                    "$text": "Fanteria (Sergente, Pesante)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -2254,7 +2245,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Heavy)",
+                    "$text": "Fanteria (Pesante)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -2621,7 +2612,7 @@
         ],
         "infoLinks": [
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "b367-84b3-3352-a51d",
             "hidden": false,
             "type": "profile",
@@ -2699,7 +2690,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "6a27-4e3f-4c07-8834",
             "type": "selectionEntry",
@@ -2898,7 +2889,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry",
+                    "$text": "Fanteria",
                     "typeId": "50fc-9241-d4a2-045b",
                     "name": "Tipo"
                   },
@@ -3488,7 +3479,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Sergeant)",
+                    "$text": "Fanteria (Sergente)",
                     "typeId": "50fc-9241-d4a2-045b",
                     "name": "Tipo"
                   },
@@ -4079,7 +4070,7 @@
             "id": "c025-a63c-4116-a0ff"
           },
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "d47e-fd8f-affe-4cc2",
             "hidden": false,
             "type": "profile",
@@ -4187,7 +4178,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "34c7-79ce-2399-cb5b",
             "type": "selectionEntry",
@@ -4223,7 +4214,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry",
+                    "$text": "Fanteria",
                     "typeId": "50fc-9241-d4a2-045b",
                     "name": "Tipo"
                   },
@@ -4747,7 +4738,7 @@
         ],
         "infoLinks": [
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "835a-be6b-3243-34a0",
             "hidden": false,
             "type": "profile",
@@ -4857,11 +4848,6 @@
     "sharedProfiles": [
       {
         "characteristics": [
-          {
-            "$text": "Questa Reazione concede all'Unità Reattiva un Tiro Mitigazione e le consente di recuperare dagli Status Tattici.\n\n\nInnesco: Una volta per Battaglia, il Giocatore Reattivo può dichiarare la Reazione Avanzata Resistenza Barbarana durante il Passaggio 4 di qualsiasi Attacco a Distanza dichiarato dal Giocatore Attivo durante la Fase di Tiro che prenda di mira un'Unità che includa solo Modelli con il Tratto Guardia della Morte che non hanno il Tipo Veicolo.\n\n\nCosto: Il Giocatore Reattivo deve spendere 1 Punto Reazione per dichiarare la Reazione Avanzata Resistenza Barbarana; questo costo viene pagato non appena viene effettuata la dichiarazione.\n\n\nBersaglio: L'Unità Bersaglio è sempre l'Unità il cui Attacco a Distanza ha innescato la Reazione. L'Unità Reattiva è sempre l'Unità che è stata dichiarata come bersaglio dell'Attacco a Distanza che ha innescato questa Reazione.\n\n\nProcedura\n1. Tutti i Modelli dell'Unità Reattiva recuperano immediatamente da qualsiasi Status Tattico.\n2. Per la durata della Fase di Tiro in corso, tutti i Modelli dell'Unità Reattiva ottengono la Regola Speciale Insensibile al Dolore (5+).\n3. Per la durata della Fase di Tiro in corso, il Giocatore Reattivo supera automaticamente qualsiasi Prova di Coraggio o Prova di Disciplina effettuata per l'Unità Reattiva.",
-            "name": "Riepilogo",
-            "typeId": "5d02-0e54-0f6a-0f0b"
-          },
           {
             "name": "Innesco",
             "typeId": "02e4-3f90-3125-f8b4",
@@ -5072,7 +5058,7 @@
             "targetId": "5d5e-958f-e388-50b5",
             "id": "ba29-cabf-be8c-d8bf",
             "primary": true,
-            "name": "Reparti Speciali"
+            "name": "Reparto Speciale"
           }
         ],
         "import": true,
@@ -5143,11 +5129,6 @@
                   {
                     "characteristics": [
                       {
-                        "$text": "Questo Gambetto consente a un Modello di aumentare la sua Caratteristica Resistenza.",
-                        "name": "Riepilogo",
-                        "typeId": "98f3-41cf-e3be-2ae7"
-                      },
-                      {
                         "$text": "Se questo Gambetto viene selezionato, la Caratteristica Resistenza del Modello per cui è stato selezionato viene sostituita con la Caratteristica Abilità di Combattimento Base del Modello avversario per la durata del successivo Passaggio di Attacco.",
                         "name": "Descrizione",
                         "typeId": "2d7d-b1d9-dead-605a"
@@ -5189,11 +5170,6 @@
                 "profiles": [
                   {
                     "characteristics": [
-                      {
-                        "$text": "Questa Reazione concede all'Unità Reattiva un Tiro Mitigazione e le consente di recuperare dagli Status Tattici.",
-                        "name": "Riepilogo",
-                        "typeId": "5d02-0e54-0f6a-0f0b"
-                      },
                       {
                         "$text": "una volta per battaglia, durante il passaggio 4 di qualsiasi Attacco a Distanza dichiarato dal Giocatore Attivo durante la fase di tiro che prende di mira un’Unità che includa solo modelli con il Tratto Guardia della Morte che non abbiano il tipo Veicolo.",
                         "name": "Innesco",
@@ -5271,6 +5247,8 @@
     "authorContact": "https://github.com/BSData/horus-heresy-3rd-edition/issues",
     "authorName": "The4D6",
     "battleScribeVersion": 2.03,
-    "type": "catalogue"
+    "type": "catalogue",
+    "categoryEntries": [],
+    "costTypes": []
   }
 }

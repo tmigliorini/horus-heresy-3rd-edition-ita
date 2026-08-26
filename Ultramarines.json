@@ -8,7 +8,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Paragon (Unique)",
+                    "$text": "Esemplare (Unico)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -313,7 +313,7 @@
         ],
         "infoLinks": [
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "71fc-d4e4-f902-7d48",
             "hidden": false,
             "type": "profile",
@@ -459,7 +459,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Unique, Command)",
+                    "$text": "Fanteria (Unico, Comando)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -600,7 +600,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "d9ea-ab56-4f96-be0d",
             "type": "selectionEntry",
@@ -798,7 +798,7 @@
         ],
         "infoLinks": [
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "4291-b7ee-237f-4ba2",
             "hidden": false,
             "type": "profile",
@@ -1079,7 +1079,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Heavy)",
+                    "$text": "Fanteria (Pesante)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -1350,7 +1350,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "270e-7558-4735-8033",
             "type": "selectionEntry",
@@ -1359,7 +1359,7 @@
         ],
         "infoLinks": [
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "0c36-4391-120e-20c1",
             "hidden": false,
             "type": "profile",
@@ -1606,7 +1606,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Sergeant, Heavy)",
+                    "$text": "Fanteria (Sergente, Pesante)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -2080,7 +2080,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Heavy)",
+                    "$text": "Fanteria (Pesante)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -2349,7 +2349,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "8102-1632-4e6c-aab0",
             "type": "selectionEntry",
@@ -2412,7 +2412,7 @@
         ],
         "infoLinks": [
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "c75c-988d-0e44-b3bf",
             "hidden": false,
             "type": "profile",
@@ -2748,11 +2748,6 @@
           {
             "characteristics": [
               {
-                "$text": "La Forza Tattica dei Modelli con il Tratto Ultramarine in un'Unità che includa Modelli con un'Icona di Calth è modificata di +1.",
-                "name": "Riepilogo",
-                "typeId": "8e7d-a0ae-fd85-983c"
-              },
-              {
                 "name": "Descrizione",
                 "typeId": "9944-2f6d-d61b-03b5",
                 "$text": "La Forza Tattica dei Modelli con il Tratto Ultramarine in un’Unità che includa Modelli con un’Icona di Calth è modificata di +1."
@@ -2775,11 +2770,6 @@
         "profiles": [
           {
             "characteristics": [
-              {
-                "$text": "Questo elemento di Equipaggiamento migliora i Tiri Riserve del Giocatore Controllante.",
-                "name": "Riepilogo",
-                "typeId": "8e7d-a0ae-fd85-983c"
-              },
               {
                 "$text": "Fintanto che un Modello con Interconnessione Vox si trova sul Campo di battaglia, il Giocatore Controllante può modificare di +1 il risultato dei propri Tiri per le Riserve e per le Riserve Aeree.",
                 "name": "Descrizione",
@@ -2866,7 +2856,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Antigrav)",
+                    "$text": "Fanteria (Antigravitazionale)",
                     "typeId": "50fc-9241-d4a2-045b",
                     "name": "Tipo"
                   },
@@ -3169,7 +3159,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Champion, Antigrav)",
+                    "$text": "Fanteria (Campione, Antigravitazionale)",
                     "typeId": "50fc-9241-d4a2-045b",
                     "name": "Tipo"
                   },
@@ -3627,7 +3617,7 @@
             "id": "c69e-22f4-4e39-be4a"
           },
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "064c-28b8-2bc9-b096",
             "hidden": false,
             "type": "profile",
@@ -3716,7 +3706,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "a26a-b56b-950a-fb88",
             "type": "selectionEntry",
@@ -3743,7 +3733,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Heavy)",
+                    "$text": "Fanteria (Pesante)",
                     "typeId": "50fc-9241-d4a2-045b",
                     "name": "Tipo"
                   },
@@ -4086,7 +4076,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Sergeant, Heavy)",
+                    "$text": "Fanteria (Sergente, Pesante)",
                     "typeId": "50fc-9241-d4a2-045b",
                     "name": "Tipo"
                   },
@@ -4570,7 +4560,7 @@
             "id": "66e6-f20b-45fe-8266"
           },
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "5716-7244-54e8-c898",
             "hidden": false,
             "type": "profile",
@@ -4597,7 +4587,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "c79d-64d6-4478-daff",
             "type": "selectionEntry",
@@ -4632,7 +4622,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry",
+                    "$text": "Fanteria",
                     "typeId": "50fc-9241-d4a2-045b",
                     "name": "Tipo"
                   },
@@ -5160,7 +5150,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Sergeant)",
+                    "$text": "Fanteria (Sergente)",
                     "typeId": "50fc-9241-d4a2-045b",
                     "name": "Tipo"
                   },
@@ -5666,7 +5656,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "a7e7-b5d5-6bc0-72c1",
             "type": "selectionEntry",
@@ -5675,7 +5665,7 @@
         ],
         "infoLinks": [
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "d9e1-ea8f-9a5a-29d7",
             "hidden": false,
             "type": "profile",
@@ -5709,7 +5699,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Walker (Unique)",
+                    "$text": "Camminatore (Unico)",
                     "typeId": "50fc-9241-d4a2-045b",
                     "name": "Tipo"
                   },
@@ -5957,7 +5947,7 @@
               {
                 "type": "set",
                 "field": "name",
-                "value": "Hatred (Word Bearers)"
+                "value": "Odio (Predicatori)"
               }
             ],
             "name": "Odio (X)",
@@ -5967,7 +5957,7 @@
             "id": "3fa6-9db7-47f4-a545"
           },
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "9897-42eb-6f67-e1fa",
             "hidden": false,
             "type": "profile",
@@ -6020,7 +6010,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "e2e3-0728-9012-8f11",
             "type": "selectionEntry",
@@ -6107,10 +6097,6 @@
         "profiles": [
           {
             "characteristics": [
-              {
-                "name": "Riepilogo",
-                "typeId": "8e7d-a0ae-fd85-983c"
-              },
               {
                 "$text": "Quando un’Unità che contiene Modelli con Sistema di puntamento Peritarch viene selezionata per effettuare un Attacco da Tiro, se quell’Unità è rimasta Stazionaria nella precedente Fase di Movimento del Giocatore Controllante, i Tiri Mitigazione concessi dalla Regola Speciale Ammantato (X) non possono essere effettuati contro gli attacchi effettuati come parte di quell’Attacco da Tiro. Inoltre, il Giocatore Controllante può effettuare una Prova di Intelligenza per quell’Unità, ed in caso di successo, finché quell’Attacco da Tiro non è completamente risolto, la Caratteristica di Abilità Balistica dei Modelli nell’Unità con Sistema puntamento Peritarch viene modificata di +1.",
                 "name": "Descrizione",
@@ -6336,7 +6322,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry",
+                    "$text": "Fanteria",
                     "typeId": "50fc-9241-d4a2-045b",
                     "name": "Tipo"
                   },
@@ -6817,7 +6803,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Sergeant)",
+                    "$text": "Fanteria (Sergente)",
                     "typeId": "50fc-9241-d4a2-045b",
                     "name": "Tipo"
                   },
@@ -7276,7 +7262,7 @@
         ],
         "infoLinks": [
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "c1b4-40ed-098b-c220",
             "hidden": false,
             "type": "profile",
@@ -7411,7 +7397,7 @@
       {
         "categoryLinks": [
           {
-            "name": "Reparti Speciali",
+            "name": "Reparto Speciale",
             "hidden": false,
             "id": "1fda-785b-0c4c-4aa3",
             "targetId": "5d5e-958f-e388-50b5",
@@ -7476,7 +7462,7 @@
             "targetId": "5d5e-958f-e388-50b5",
             "id": "a9dc-fb5a-a742-ac18",
             "primary": true,
-            "name": "Reparti Speciali"
+            "name": "Reparto Speciale"
           }
         ],
         "import": true,
@@ -7595,11 +7581,6 @@
                   {
                     "characteristics": [
                       {
-                        "$text": "Questo Gambetto consente ai Modelli di ottenere bonus aggiuntivi al Tiro Concentrazione.",
-                        "name": "Riepilogo",
-                        "typeId": "98f3-41cf-e3be-2ae7"
-                      },
-                      {
                         "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Egida della Saggezza: il Giocatore Controllante non ottiene alcun bonus per il Supporto Esterno al suo Tiro Concentrazione, ma aggiunge invece un modificatore di +1 al suo Tiro Concentrazione per ogni Modello amico con sia il Sottotipo Comando che il Tratto Ultramarine sul Campo di Battaglia, escluso il Modello per cui è stato selezionato questo Gambetto. Reazione Avanzata Attacco Punitivo Attivazione: una volta per battaglia, durante il Passaggio 3 della sequenza di Attacco a Distanza di qualsiasi Attacco a Distanza effettuato dal Giocatore Attivo che prenda di mira un’Unità che includa solo modelli con il Tratto Ultramarine. Costo: 1 Punto Reazione. Bersaglio: l’Unità il cui Attacco a Distanza ha attivato la Reazione. L’Unità Reattiva è qualsiasi Unità che non sia il bersaglio dell’Attacco a Distanza nemico che ha attivato questa Reazione, con almeno un Modello con Linea di Vista verso l’Unità Bersaglio, composta interamente da Modelli con il Tratto Ultramarine. Procedura: Una volta selezionata l’Unità Reattiva, il Giocatore Attivo deve risolvere normalmente tutti i Passi rimanenti del processo di Attacco di Tiro, fino all’inizio del Passaggio 11. Prima di risolvere il Passaggio 11, il Giocatore Reattivo effettua un Attacco a Distanza con l’Unità Reattiva, prendendo di mira solo l’Unità Bersaglio. Una volta che questo Attacco a Distanza è stato completamente risolto, inclusa la rimozione di eventuali Perdite, i Giocatori devono quindi terminare la risoluzione del Passaggio 11 dell’Attacco a Distanza originale che ha attivato la Reazione. Distaccamenti Addizionali Semicompagnia Primus Distaccamento Ausiliario 1 Riquadro Comando (Primario); 1 Riquadro Supporto Leggero; 2 Riquadri Truppe; 1 Riquadro Supporto. Il Riquadro Comando in questo Distaccamento può essere utilizzato solo per selezionare un’Unità di Optae.",
                         "name": "Descrizione",
                         "typeId": "2d7d-b1d9-dead-605a"
@@ -7641,11 +7622,6 @@
                 "profiles": [
                   {
                     "characteristics": [
-                      {
-                        "$text": "Questa Reazione consente a un'Unità di rispondere al fuoco in risposta a un Attacco a Distanza nemico diretto a un'Unità amica.",
-                        "name": "Riepilogo",
-                        "typeId": "5d02-0e54-0f6a-0f0b"
-                      },
                       {
                         "$text": "una volta per battaglia, durante il Passaggio 3 della sequenza di Attacco a Distanza di qualsiasi Attacco a Distanza effettuato dal Giocatore Attivo che prenda di mira un’Unità che includa solo modelli con il Tratto Ultramarine.",
                         "name": "Innesco",
@@ -7723,6 +7699,8 @@
     "authorContact": "https://github.com/BSData/horus-heresy-3rd-edition/issues",
     "authorName": "The4D6",
     "battleScribeVersion": 2.03,
-    "type": "catalogue"
+    "type": "catalogue",
+    "categoryEntries": [],
+    "costTypes": []
   }
 }

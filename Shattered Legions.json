@@ -954,11 +954,6 @@
                   {
                     "characteristics": [
                       {
-                        "$text": "Questo Gambetto consente al Giocatore Controllante di effettuare un attacco nel Passaggio di Concentrazione, ma se quell'attacco non riesce a distruggere il Modello avversario, il suo Modello viene distrutto invece.",
-                        "name": "Riepilogo",
-                        "typeId": "98f3-41cf-e3be-2ae7"
-                      },
-                      {
                         "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il Giocatore Controllante può selezionare il seguente Gambetto: Attacco Sprezzante: questo Gambetto può essere selezionato solo se questo Modello ha la Caratteristica di Ferite ridotta al di sotto del suo valore iniziale. Mentre questo Gambetto è selezionato, durante il Passaggio di Concentrazione, invece di effettuare il Tiro Concentrazione, il Giocatore Controllante effettua un singolo Attacco da Mischia, beneficiando di +1 al Tiro per Colpire ed al Tiro per Ferire. Se il Modello nemico non è Rimosso come Perdita, questo Modello viene Rimosso come Perdita al suo posto.",
                         "name": "Descrizione",
                         "typeId": "2d7d-b1d9-dead-605a"
@@ -999,11 +994,6 @@
                 "profiles": [
                   {
                     "characteristics": [
-                      {
-                        "$text": "Questa Reazione consente all'Unità Reattiva di migliorare le proprie Caratteristiche quando viene Caricata da un'Unità nemica.",
-                        "name": "Riepilogo",
-                        "typeId": "5d02-0e54-0f6a-0f0b"
-                      },
                       {
                         "$text": "una volta per Battaglia, alla fine del Passaggio 5 del processo di Carica per qualsiasi Carica dichiarata dal Giocatore Attivo che bersagli un’Unità sotto il controllo del Giocatore Reattivo che includa solo Modelli con il Tratto Legioni Spezzate.",
                         "name": "Innesco",
@@ -1386,7 +1376,7 @@
         "modifiers": [
           {
             "type": "prepend",
-            "value": "Raven Guard",
+            "value": "Guardia del Corvo",
             "field": "name"
           }
         ],
@@ -1613,7 +1603,7 @@
           }
         ],
         "import": true,
-        "name": "Excindio Battle-automata",
+        "name": "Automa da battaglia Excindio",
         "hidden": false,
         "id": "678d-0c25-f210-339c",
         "type": "selectionEntry",
@@ -1657,7 +1647,7 @@
         "modifiers": [
           {
             "type": "prepend",
-            "value": "Dark Angels",
+            "value": "Angeli Oscuri",
             "field": "name"
           }
         ],
@@ -1862,7 +1852,7 @@
         "modifiers": [
           {
             "type": "prepend",
-            "value": "Emperor's Children",
+            "value": "Figli dell’Imperatore",
             "field": "name"
           }
         ],
@@ -2034,7 +2024,7 @@
         "modifiers": [
           {
             "type": "prepend",
-            "value": "Iron Warriors",
+            "value": "Guerrieri di Ferro",
             "field": "name"
           }
         ],
@@ -2239,7 +2229,7 @@
         "modifiers": [
           {
             "type": "prepend",
-            "value": "White Scars",
+            "value": "Furie Bianche",
             "field": "name"
           }
         ],
@@ -2444,7 +2434,7 @@
         "modifiers": [
           {
             "type": "prepend",
-            "value": "Space Wolves",
+            "value": "Lupi Siderali",
             "field": "name"
           }
         ],
@@ -2583,7 +2573,7 @@
         "modifiers": [
           {
             "type": "prepend",
-            "value": "Imperial Fists",
+            "value": "Magli Imperiali",
             "field": "name"
           }
         ],
@@ -2755,7 +2745,7 @@
         "modifiers": [
           {
             "type": "prepend",
-            "value": "Night Lords",
+            "value": "Signori della Notte",
             "field": "name"
           }
         ],
@@ -3026,7 +3016,7 @@
         "modifiers": [
           {
             "type": "prepend",
-            "value": "Blood Angels",
+            "value": "Angeli Sanguinari",
             "field": "name"
           }
         ],
@@ -3165,7 +3155,7 @@
         "modifiers": [
           {
             "type": "prepend",
-            "value": "Iron Hands",
+            "value": "Mani di Ferro",
             "field": "name"
           }
         ],
@@ -3337,7 +3327,7 @@
         "modifiers": [
           {
             "type": "prepend",
-            "value": "World Eaters",
+            "value": "Divoratori di Mondi",
             "field": "name"
           }
         ],
@@ -3542,7 +3532,7 @@
         "modifiers": [
           {
             "type": "prepend",
-            "value": "Ultramarines",
+            "value": "Ultramarine",
             "field": "name"
           }
         ],
@@ -3681,7 +3671,7 @@
         "modifiers": [
           {
             "type": "prepend",
-            "value": "Death Guard",
+            "value": "Guardia della Morte",
             "field": "name"
           }
         ],
@@ -3919,7 +3909,7 @@
         "modifiers": [
           {
             "type": "prepend",
-            "value": "Thousand Sons",
+            "value": "Stirpe dei Mille",
             "field": "name"
           }
         ],
@@ -4091,7 +4081,7 @@
         "modifiers": [
           {
             "type": "prepend",
-            "value": "Sons of Horus",
+            "value": "Figli di Horus",
             "field": "name"
           }
         ],
@@ -4296,7 +4286,7 @@
         "modifiers": [
           {
             "type": "prepend",
-            "value": "Word Bearers",
+            "value": "Predicatori",
             "field": "name"
           }
         ],
@@ -4468,7 +4458,7 @@
         "modifiers": [
           {
             "type": "prepend",
-            "value": "Salamanders",
+            "value": "Salamandre",
             "field": "name"
           }
         ],
@@ -4706,7 +4696,7 @@
         "modifiers": [
           {
             "type": "prepend",
-            "value": "Alpha Legion",
+            "value": "Legione Alfa",
             "field": "name"
           }
         ],
@@ -4785,6 +4775,8 @@
     "revision": 1,
     "authorName": "m455954",
     "battleScribeVersion": 2.03,
-    "type": "catalogue"
+    "type": "catalogue",
+    "categoryEntries": [],
+    "costTypes": []
   }
 }

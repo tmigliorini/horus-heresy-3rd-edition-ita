@@ -177,7 +177,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "adac-833d-4595-b294",
             "type": "selectionEntry",
@@ -288,7 +288,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Unique, Command)",
+                    "$text": "Fanteria (Unico, Comando)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -379,7 +379,7 @@
                 "targetId": "641c-ca0a-7093-4525"
               },
               {
-                "name": "[Allegiance]",
+                "name": "[Alleanza]",
                 "id": "12ce-f039-5d6b-6b97",
                 "hidden": false,
                 "type": "profile",
@@ -450,11 +450,6 @@
         "profiles": [
           {
             "characteristics": [
-              {
-                "$text": "Questo Equipaggiamento riduce la quantità di Danno subito da qualsiasi ferita inflitta in una Sfida.",
-                "name": "Riepilogo",
-                "typeId": "8e7d-a0ae-fd85-983c"
-              },
               {
                 "$text": "Quando un Modello con questa Regola Speciale è impegnato in una Sfida, la Caratteristica Danno di qualsiasi Ferita inflitta a quel Modello viene ridotta di 1, fino a un minimo di 1.",
                 "name": "Descrizione",
@@ -531,7 +526,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry",
+                    "$text": "Fanteria",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -1268,7 +1263,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Sergeant)",
+                    "$text": "Fanteria (Sergente)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -1896,7 +1891,7 @@
                   }
                 ],
                 "type": "set",
-                "value": "Dark Angels",
+                "value": "Angeli Oscuri",
                 "field": "name"
               }
             ],
@@ -1907,7 +1902,7 @@
             "targetId": "641c-ca0a-7093-4525"
           },
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "1671-fc45-fb2b-18bf",
             "hidden": false,
             "type": "profile",
@@ -2064,7 +2059,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "8d8e-94ec-f857-c8b1",
             "type": "selectionEntry",
@@ -2222,7 +2217,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "5225-eb05-6b7a-932f",
             "type": "selectionEntry",
@@ -2283,7 +2278,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Sergeant)",
+                    "$text": "Fanteria (Sergente)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -2623,7 +2618,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry",
+                    "$text": "Fanteria",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -3011,7 +3006,7 @@
                   }
                 ],
                 "type": "set",
-                "value": "Dark Angels",
+                "value": "Angeli Oscuri",
                 "field": "name"
               }
             ],
@@ -3022,7 +3017,7 @@
             "targetId": "641c-ca0a-7093-4525"
           },
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "ffb7-81fd-e565-f839",
             "hidden": false,
             "type": "profile",
@@ -3075,7 +3070,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Heavy)",
+                    "$text": "Fanteria (Pesante)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -3396,7 +3391,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Sergeant, Heavy)",
+                    "$text": "Fanteria (Sergente, Pesante)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -3813,7 +3808,7 @@
                   }
                 ],
                 "type": "set",
-                "value": "Dark Angels",
+                "value": "Angeli Oscuri",
                 "field": "name"
               }
             ],
@@ -3824,7 +3819,7 @@
             "targetId": "641c-ca0a-7093-4525"
           },
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "bc1b-06f7-8e3d-231f",
             "hidden": false,
             "type": "profile",
@@ -3867,7 +3862,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "4edf-74d7-ceb9-d5e2",
             "type": "selectionEntry",
@@ -3889,7 +3884,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Paragon (Unique)",
+                    "$text": "Esemplare (Unico)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -3975,11 +3970,6 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Il Leone ottiene un bonus ai Tiri Concentrazione quando viene ferito.",
-                    "name": "Riepilogo",
-                    "typeId": "98f3-41cf-e3be-2ae7"
-                  },
-                  {
                     "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, se ha 2 o meno Ferite rimanenti, il suo Giocatore Controllante Gambetto: La Collera del Leone: Il Modello per cui è stato selezionato questo Gambetto aggiunge un Modificatore +2 al Tiro Concentrazione e non subisce un modificatore -1 per ogni punto di differenza tra la Caratteristica Ferite Base di questo Modello e la sua Caratteristica Ferite attuale. Sire degli Angeli Oscuri Se quattro o più Riquadri Truppe nel Distaccamento Principale di questo Esercito contengono almeno un’Unità di Squadra Tattica, almeno un’Unità di Squadra Assaltatrice e almeno un’Unità di Squadra d’Abbordaggio, allora tutti i Riquadri Truppe nel Distaccamento Principale sono considerati Primari. Inoltre, quando il Giocatore che Controlla un Modello con questa Regola Speciale effettua un Tiro Riserve per un’Unità Squadrone Motociclisti o un’Unità Squadrone Scimitar che includa solo Modelli con il Tratto Angeli Oscuri, quel Tiro viene modificato di +1. EQUIPAGGIAMENTO Granate stasi Una volta per Battaglia, la prima volta che un Modello con granate stasi, e qualsiasi Unità a cui si sia aggregato, vengono Caricati con successo, l’Iniziativa di tutti i Modelli nell’Unità in Carica viene modificata di -2 per la durata della Fase di Assalto in corso. Questo modificatore non ha effetto sui Modelli nell’Unità in Carica impegnati in una Sfida. Armatura della Foresta Quando un Modello con questa Regola Speciale è impegnato in una Sfida, la Caratteristica Danno di qualsiasi Ferita inflitta a quel Modello viene ridotta di 1, fino a un minimo di 1.",
                     "name": "Descrizione",
                     "typeId": "2d7d-b1d9-dead-605a"
@@ -4064,7 +4054,7 @@
                       }
                     ],
                     "type": "set",
-                    "value": "Dark Angels",
+                    "value": "Angeli Oscuri",
                     "field": "name"
                   }
                 ],
@@ -4090,7 +4080,7 @@
                 "targetId": "15b4-9e4a-f361-c5a3"
               },
               {
-                "name": "[Allegiance]",
+                "name": "[Alleanza]",
                 "id": "a9a3-fb77-cdf6-6e98",
                 "hidden": false,
                 "type": "profile",
@@ -4144,11 +4134,6 @@
             "profiles": [
               {
                 "characteristics": [
-                  {
-                    "$text": "Le granate stasi riducono l'Iniziativa di Combattimento dei nemici.",
-                    "name": "Riepilogo",
-                    "typeId": "8e7d-a0ae-fd85-983c"
-                  },
                   {
                     "$text": "Una volta per Battaglia, la prima volta che un Modello con granate stasi, e qualsiasi Unità a cui si sia aggregato, vengono Caricati con successo, l’Iniziativa di tutti i Modelli nell’Unità in Carica viene modificata di -2 per la durata della Fase di Assalto in corso. Questo modificatore non ha effetto sui Modelli nell’Unità in Carica impegnati in una Sfida.",
                     "name": "Descrizione",
@@ -4659,7 +4644,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "3ba8-3c3d-4faa-a6fc",
             "type": "selectionEntry",
@@ -4751,7 +4736,7 @@
           {
             "infoLinks": [
               {
-                "name": "[Allegiance]",
+                "name": "[Alleanza]",
                 "id": "ef37-5d66-4776-513d",
                 "hidden": false,
                 "type": "profile",
@@ -4812,7 +4797,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Unique, Command, Heavy)",
+                    "$text": "Fanteria (Unico, Comando, Pesante)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -5009,10 +4994,6 @@
         "profiles": [
           {
             "characteristics": [
-              {
-                "name": "Riepilogo",
-                "typeId": "8e7d-a0ae-fd85-983c"
-              },
               {
                 "$text": "Un Modello con Egida Cytheron ha un Tiro Invulnerabilità di 5+ e guadagna il Tratto Scudo. Inoltre, il Giocatore Controllore di un’Unità che includa almeno un Modello con Egida Cytheron può dichiarare la Reazione Avanzata Muro di Scudi! per quell’Unità.",
                 "name": "Descrizione",
@@ -5673,7 +5654,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Heavy)",
+                    "$text": "Fanteria (Pesante)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -6153,7 +6134,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Sergeant, Heavy)",
+                    "$text": "Fanteria (Sergente, Pesante)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -6728,7 +6709,7 @@
                   }
                 ],
                 "type": "set",
-                "value": "Dark Angels",
+                "value": "Angeli Oscuri",
                 "field": "name"
               }
             ],
@@ -6739,7 +6720,7 @@
             "targetId": "641c-ca0a-7093-4525"
           },
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "f874-b336-073f-aedf",
             "hidden": false,
             "type": "profile",
@@ -6817,7 +6798,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "ef79-30a0-ff66-630d",
             "type": "selectionEntry",
@@ -6861,7 +6842,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry",
+                    "$text": "Fanteria",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -7329,7 +7310,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Sergeant)",
+                    "$text": "Fanteria (Sergente)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -7888,7 +7869,7 @@
                   }
                 ],
                 "type": "set",
-                "value": "Dark Angels",
+                "value": "Angeli Oscuri",
                 "field": "name"
               }
             ],
@@ -7899,7 +7880,7 @@
             "targetId": "641c-ca0a-7093-4525"
           },
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "40a4-3f18-8b86-8fc9",
             "hidden": false,
             "type": "profile",
@@ -7970,7 +7951,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "429d-920e-3e78-f0e4",
             "type": "selectionEntry",
@@ -8018,7 +7999,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Heavy)",
+                    "$text": "Fanteria (Pesante)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -8339,7 +8320,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Sergeant, Heavy)",
+                    "$text": "Fanteria (Sergente, Pesante)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -8766,7 +8747,7 @@
                   }
                 ],
                 "type": "set",
-                "value": "Dark Angels",
+                "value": "Angeli Oscuri",
                 "field": "name"
               }
             ],
@@ -8777,7 +8758,7 @@
             "targetId": "641c-ca0a-7093-4525"
           },
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "0c81-e19f-3138-119a",
             "hidden": false,
             "type": "profile",
@@ -8813,7 +8794,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "a048-9e58-b45c-cc58",
             "type": "selectionEntry",
@@ -8924,7 +8905,7 @@
                       }
                     ],
                     "type": "set",
-                    "value": "Walker (Champion)",
+                    "value": "Camminatore (Campione)",
                     "field": "50fc-9241-d4a2-045b"
                   }
                 ],
@@ -8987,7 +8968,7 @@
                     "type": "and"
                   }
                 ],
-                "name": "Excindio Battle-automata",
+                "name": "Automa da battaglia Excindio",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo",
                 "hidden": false,
@@ -9030,7 +9011,7 @@
             ],
             "type": "model",
             "import": true,
-            "name": "Excindio Battle-automata",
+            "name": "Automa da battaglia Excindio",
             "hidden": false,
             "id": "9021-4604-5292-46a6",
             "sortIndex": 1
@@ -9199,7 +9180,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "c393-1132-fedf-1693",
             "type": "selectionEntry",
@@ -9234,7 +9215,7 @@
         ],
         "infoLinks": [
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "462e-4b34-19e9-b884",
             "hidden": false,
             "type": "profile",
@@ -9305,7 +9286,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Hatred (Infantry, Cavalry, Walker, Automata)",
+                "value": "Odio (Fanteria, Cavalleria, Camminatore, Automa)",
                 "field": "name"
               }
             ],
@@ -9969,11 +9950,6 @@
                     "value": 0
                   },
                   {
-                    "name": "Beneficio Logistico Mechanicum",
-                    "typeId": "7275-cbe8-a563-7152",
-                    "value": 0
-                  },
-                  {
                     "name": "Distaccamenti di Carri",
                     "typeId": "2cdf-186c-a655-d907",
                     "value": 0
@@ -10048,11 +10024,6 @@
                     "value": 0
                   },
                   {
-                    "name": "Beneficio Logistico Mechanicum",
-                    "typeId": "7275-cbe8-a563-7152",
-                    "value": 0
-                  },
-                  {
                     "name": "Distaccamenti di Carri",
                     "typeId": "2cdf-186c-a655-d907",
                     "value": 0
@@ -10095,11 +10066,6 @@
                   {
                     "name": "Punti Combinati di Generale e Sovrano della Guerra",
                     "typeId": "14bd-cad0-cd3d-8b23",
-                    "value": 0
-                  },
-                  {
-                    "name": "Beneficio Logistico Mechanicum",
-                    "typeId": "7275-cbe8-a563-7152",
                     "value": 0
                   },
                   {
@@ -10186,7 +10152,7 @@
         ],
         "type": "unit",
         "import": true,
-        "name": "Excindio Battle-automata",
+        "name": "Automa da battaglia Excindio",
         "hidden": true,
         "id": "f369-7a8f-853b-fdc5"
       },
@@ -10237,7 +10203,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Champion, Antigrav)",
+                    "$text": "Fanteria (Campione, Antigravitazionale)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -10926,7 +10892,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "021b-d78e-3f24-202a",
             "type": "selectionEntry",
@@ -10935,7 +10901,7 @@
         ],
         "infoLinks": [
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "4f78-abfd-627a-b008",
             "hidden": false,
             "type": "profile",
@@ -11096,7 +11062,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry",
+                    "$text": "Fanteria",
                     "typeId": "50fc-9241-d4a2-045b",
                     "name": "Tipo"
                   },
@@ -11392,7 +11358,7 @@
         ],
         "infoLinks": [
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "9229-a084-a9c4-a680",
             "hidden": false,
             "type": "profile",
@@ -11412,7 +11378,7 @@
                   }
                 ],
                 "type": "set",
-                "value": "Dark Angels",
+                "value": "Angeli Oscuri",
                 "field": "name"
               }
             ],
@@ -11548,7 +11514,7 @@
             "targetId": "5d5e-958f-e388-50b5",
             "id": "abc4-6cd2-0e8c-b918",
             "primary": true,
-            "name": "Reparti Speciali"
+            "name": "Reparto Speciale"
           },
           {
             "targetId": "9776-4805-2e0b-1f0f",
@@ -11679,7 +11645,7 @@
             "targetId": "5d5e-958f-e388-50b5",
             "id": "d0ae-4329-9b38-e719",
             "primary": true,
-            "name": "Reparti Speciali"
+            "name": "Reparto Speciale"
           }
         ],
         "import": true,
@@ -11699,7 +11665,7 @@
           }
         ],
         "import": true,
-        "name": "Excindio Battle-automata",
+        "name": "Automa da battaglia Excindio",
         "hidden": false,
         "id": "1649-1108-03b0-aba9",
         "type": "selectionEntry",
@@ -11711,7 +11677,7 @@
             "targetId": "5d5e-958f-e388-50b5",
             "id": "a0c9-c043-b547-1729",
             "primary": true,
-            "name": "Reparti Speciali"
+            "name": "Reparto Speciale"
           }
         ],
         "import": true,
@@ -11778,11 +11744,6 @@
                   {
                     "characteristics": [
                       {
-                        "$text": "Questa Reazione consente al Giocatore Controllante di scegliere di ripetere la Sottofase di Combattimento.",
-                        "name": "Riepilogo",
-                        "typeId": "5d02-0e54-0f6a-0f0b"
-                      },
-                      {
                         "$text": "una volta per battaglia, dopo che è stato risolto l’ultimo Livello di Iniziativa di un Combattimento che includa un’Unità contenente soli Modelli con il Tratto Angeli Oscuri sotto il controllo del Giocatore Reattivo, prima di effettuare i Movimenti di Ammassamento finali.",
                         "name": "Innesco",
                         "typeId": "02e4-3f90-3125-f8b4"
@@ -11839,11 +11800,6 @@
                 "profiles": [
                   {
                     "characteristics": [
-                      {
-                        "$text": "Questo Gambetto può essere scelto quando si usano Armi a spada nelle Sfide.",
-                        "name": "Riepilogo",
-                        "typeId": "98f3-41cf-e3be-2ae7"
-                      },
                       {
                         "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Spada dell’Ordine: finché il Modello sotto il controllo di questo Giocatore sta usando una spada a catena, una spada potenziata, una spada psionica, una lama esemplare o un’Arma con il Tratto Spada dell’Ordine, nel Passaggio 3 della Sottofase Sfida, la Caratteristica Modificatore di Attacchi di quell’Arma viene modificata di -1 e ottiene la Regola Speciale Colpo Critico (6+), oppure aumenta di +1 il valore di X di una versione esistente di Colpo Critico (X) che già possiede.",
                         "name": "Descrizione",
@@ -11940,6 +11896,8 @@
     "authorContact": "https://github.com/BSData/horus-heresy-3rd-edition/issues",
     "authorName": "The4D6",
     "battleScribeVersion": 2.03,
-    "type": "catalogue"
+    "type": "catalogue",
+    "categoryEntries": [],
+    "costTypes": []
   }
 }

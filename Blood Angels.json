@@ -41,7 +41,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Paragon (Unique, Antigrav)",
+                    "$text": "Esemplare (Unico, Antigravitazionale)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -708,7 +708,7 @@
             "targetId": "0553-d06b-52b9-34db"
           },
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "cecf-8373-dd3a-031d",
             "hidden": false,
             "type": "profile",
@@ -1025,7 +1025,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Unique, Command)",
+                    "$text": "Fanteria (Unico, Comando)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -1219,7 +1219,7 @@
         ],
         "infoLinks": [
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "f884-49e9-eb80-85f0",
             "hidden": false,
             "type": "profile",
@@ -1299,7 +1299,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "a175-8584-483e-85d8",
             "type": "selectionEntry",
@@ -1329,7 +1329,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Unique, Command, Antigrav)",
+                    "$text": "Fanteria (Unico, Comando, Antigravitazionale)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -1818,7 +1818,7 @@
         ],
         "infoLinks": [
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "9c06-c059-0f94-5769",
             "hidden": false,
             "type": "profile",
@@ -1924,7 +1924,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "0971-c766-4e67-a4f9",
             "type": "selectionEntry",
@@ -1983,7 +1983,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Unique, Command)",
+                    "$text": "Fanteria (Unico, Comando)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -2351,7 +2351,7 @@
         ],
         "infoLinks": [
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "0559-caf2-1795-f944",
             "hidden": false,
             "type": "profile",
@@ -2438,7 +2438,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "47db-9e36-44fb-8542",
             "type": "selectionEntry",
@@ -2843,7 +2843,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Walker",
+                    "$text": "Camminatore",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -3022,7 +3022,7 @@
         ],
         "infoLinks": [
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "2687-7005-2b67-65ed",
             "hidden": false,
             "type": "profile",
@@ -3083,7 +3083,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "e8ed-232d-4ad2-a552",
             "type": "selectionEntry",
@@ -3104,7 +3104,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Sergeant, Heavy)",
+                    "$text": "Fanteria (Sergente, Pesante)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -3880,7 +3880,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Heavy)",
+                    "$text": "Fanteria (Pesante)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -4242,7 +4242,7 @@
         ],
         "infoLinks": [
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "de35-788d-54eb-df96",
             "hidden": false,
             "type": "profile",
@@ -4331,7 +4331,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "d6e7-51ce-45c7-93ba",
             "type": "selectionEntry",
@@ -4425,7 +4425,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Sergeant, Antigrav)",
+                    "$text": "Fanteria (Sergente, Antigravitazionale)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -4886,7 +4886,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Antigrav)",
+                    "$text": "Fanteria (Antigravitazionale)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -5277,7 +5277,7 @@
         ],
         "infoLinks": [
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "ba8f-4f05-1876-403a",
             "hidden": false,
             "type": "profile",
@@ -5384,7 +5384,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "b97e-762f-4ea2-a680",
             "type": "selectionEntry",
@@ -5413,7 +5413,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Antigrav)",
+                    "$text": "Fanteria (Antigravitazionale)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -6193,7 +6193,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Sergeant, Antigrav)",
+                    "$text": "Fanteria (Sergente, Antigravitazionale)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -6437,7 +6437,7 @@
         ],
         "infoLinks": [
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "634c-161e-0930-8853",
             "hidden": false,
             "type": "profile",
@@ -6526,7 +6526,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "3362-5f69-4dc6-b46b",
             "type": "selectionEntry",
@@ -6629,11 +6629,6 @@
         "profiles": [
           {
             "characteristics": [
-              {
-                "$text": "Gli scudi energetici schema Coriolis riducono il Danno delle ferite subite.",
-                "name": "Riepilogo",
-                "typeId": "8e7d-a0ae-fd85-983c"
-              },
               {
                 "$text": "Quando una Ferita viene assegnata a un Modello con uno Scudo potenziato Coriolis, la Caratteristica Danno della Ferita non Salvata viene modificata di -1, fino a un minimo di 1. Inoltre, un Modello con uno Scudo potenziato Coriolis ottiene il Tratto Scudo.",
                 "name": "Descrizione",
@@ -6949,7 +6944,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Antigrav)",
+                    "$text": "Fanteria (Antigravitazionale)",
                     "typeId": "50fc-9241-d4a2-045b",
                     "name": "Tipo"
                   },
@@ -7462,7 +7457,7 @@
             "id": "c09b-f700-415b-8d63"
           },
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "bdbd-7711-1818-8b9d",
             "hidden": false,
             "type": "profile",
@@ -7573,7 +7568,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "3897-d401-223b-69bc",
             "type": "selectionEntry",
@@ -7601,7 +7596,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Champion)",
+                    "$text": "Fanteria (Campione)",
                     "typeId": "50fc-9241-d4a2-045b",
                     "name": "Tipo"
                   },
@@ -7922,7 +7917,7 @@
         ],
         "infoLinks": [
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "45e0-712a-aadc-fe57",
             "hidden": false,
             "type": "profile",
@@ -7956,7 +7951,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "304b-6ebf-b65a-a114",
             "type": "selectionEntry",
@@ -7996,7 +7991,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Champion, Antigrav)",
+                    "$text": "Fanteria (Campione, Antigravitazionale)",
                     "typeId": "50fc-9241-d4a2-045b",
                     "name": "Tipo"
                   },
@@ -8346,7 +8341,7 @@
             "targetId": "4849-aaba-9865-c0b1"
           },
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "d007-2c6a-5a53-d62f",
             "hidden": false,
             "type": "profile",
@@ -8373,7 +8368,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "8965-09e1-56f9-90f0",
             "type": "selectionEntry",
@@ -8552,7 +8547,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry",
+                    "$text": "Fanteria",
                     "typeId": "50fc-9241-d4a2-045b",
                     "name": "Tipo"
                   },
@@ -9228,7 +9223,7 @@
         ],
         "infoLinks": [
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "657a-a151-492c-61cc",
             "hidden": false,
             "type": "profile",
@@ -9285,11 +9280,6 @@
       {
         "characteristics": [
           {
-            "$text": "Sanguinius può usare un Gambetto per ottenere un bonus quando combatte nemici più grandi.",
-            "name": "Riepilogo",
-            "typeId": "98f3-41cf-e3be-2ae7"
-          },
-          {
             "$text": "se del Morale dello stesso Turno del Giocatore.\nSe la Prova fallisce, tutti i Modelli dell’Unità Bersaglio ottengono lo Status Inchiodato.\nDistaccamenti Addizionali\nOspite della Rivelazione (Distaccamento Ausiliario)\n1 Riquadro Truppe (Primario);\n2 Riquadri Reparti Speciali;\n1 Riquadro Truppe.\nI Riquadri Truppe in questo Distaccamento possono essere utilizzati solo per selezionare Unità di Squadra Assaltatrice.\nI Riquadri Reparti Speciali in questo Distaccamento possono essere utilizzati solo per selezionare Unità di Coorte Frangialba o Unità di Squadra Assaltatrice Veterana.\n\n \n \nOpzioni\n \nRegole Speciali\nDiscesa Angelica\nMentre un Modello con questa Regola Speciale è Ingaggiato in una Sfida, il suo Giocatore Controllante Gambetto: Discesa Angelica: questo Gambetto può essere selezionato solo prima del primo Tiro Concentrazione di una Sfida e solo se Sanguinius ha effettuato una Carica con successo nella stessa Fase di Assalto. Durante il successivo Passaggio di Concentrazione, il Giocatore Controllante di Sanguinius ottiene un modificatore positivo al Tiro Concentrazione pari a qualsiasi variante di Imponente (X) posseduta dal Modello nemico con cui è Ingaggiato in una Sfida. Sire degli Angeli Sanguinari Se quattro o più Riquadri Truppe nel Distaccamento Principale sono occupati da Squadre Assaltatrici, allora tutti i Riquadri Truppe nel Distaccamento Principale sono considerati Riquadri Primari. Inoltre, una volta per Turno, quando il Giocatore che Controlla un Modello con questa Regola Speciale effettua un Tiro Riserve per un’Unità che includa solo Modelli con il Tratto Angeli Sanguinari e la Regola Speciale Attacco in Profondità, prima che il Tiro per le Riserve venga effettuato, quel Giocatore può scegliere di modificare quel Tiro di +1. Se questo modificatore viene applicato, quell’Unità deve essere schierata usando la Regola Speciale Attacco in Profondità.",
             "name": "Descrizione",
             "typeId": "2d7d-b1d9-dead-605a"
@@ -9303,11 +9293,6 @@
       },
       {
         "characteristics": [
-          {
-            "$text": "Questo Gambetto consente a Raldoron di beneficiare dei Tiri per Colpire riusciti del suo avversario in un successivo Passaggio di Attacco.",
-            "name": "Riepilogo",
-            "typeId": "98f3-41cf-e3be-2ae7"
-          },
           {
             "$text": "una volta per Turno, quando il Giocatore che Controlla un Modello con questa Regola Speciale effettua un Tiro Riserve per un’Unità che includa solo Modelli con il Tratto Angeli Sanguinari e la Regola Speciale Attacco in Profondità, prima che il Tiro per le Riserve venga effettuato, quel Giocatore può scegliere di modificare quel Tiro di +1.\nSe questo modificatore viene applicato, quell’Unità deve essere schierata usando la Regola Speciale Attacco in Profondità.\n \n \nRegole Speciali\nDominatore della Saggezza\nMentre un Modello con questa Regola Speciale è Impegnato in una Sfida, il suo Giocatore Controllante Gambetto: Dominatore della Saggezza: Il Giocatore Controllante di questo Modello ottiene un modificatore positivo al suo Tiro Concentrazione pari al numero di Tiri per Colpire riusciti effettuati dal suo avversario nella precedente Fase di Attacco della Sfida corrente.",
             "name": "Descrizione",
@@ -9447,7 +9432,7 @@
             "targetId": "5d5e-958f-e388-50b5",
             "id": "5e09-e90b-ff06-7381",
             "primary": true,
-            "name": "Reparti Speciali"
+            "name": "Reparto Speciale"
           },
           {
             "targetId": "53b2-d251-a827-8e73",
@@ -9469,7 +9454,7 @@
             "targetId": "5d5e-958f-e388-50b5",
             "id": "88b3-1cfc-f972-4e85",
             "primary": true,
-            "name": "Reparti Speciali"
+            "name": "Reparto Speciale"
           },
           {
             "targetId": "53b2-d251-a827-8e73",
@@ -9665,11 +9650,6 @@
                   {
                     "characteristics": [
                       {
-                        "$text": "Questo Modello può ignorare i modificatori negativi per le Ferite perse, ma non può ottenere Supporto Esterno.",
-                        "name": "Riepilogo",
-                        "typeId": "98f3-41cf-e3be-2ae7"
-                      },
-                      {
                         "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Schiavo della Sete Rossa: questo Modello può ignorare qualsiasi Modificatore negativo applicato al Tiro Concentrazione per le Ferite perse, e ogni ferita inflitta all’avversario ha la sua Caratteristica Danno modificata di +1. Mentre questo Gambetto viene selezionato, il Modello per cui è stato selezionato non ottiene alcun bonus al Tiro Concentrazione per Supporto Esterno.",
                         "name": "Descrizione",
                         "typeId": "2d7d-b1d9-dead-605a"
@@ -9711,11 +9691,6 @@
                 "profiles": [
                   {
                     "characteristics": [
-                      {
-                        "$text": "Questa Reazione consente all'Unità Reattiva di Muoversi verso un'Unità Nemica che la prende di mira con un Attacco a Distanza.",
-                        "name": "Riepilogo",
-                        "typeId": "5d02-0e54-0f6a-0f0b"
-                      },
                       {
                         "$text": "una volta per Battaglia, durante il Passaggio 4 della sequenza di Attacco a Distanza di qualsiasi Attacco a Distanza effettuato dal Giocatore Attivo che prenda di mira un’Unità sotto il controllo del Giocatore Reattivo che includa solo modelli con il Tratto Angeli Sanguinari.",
                         "name": "Innesco",
@@ -9793,6 +9768,8 @@
     "authorContact": "https://github.com/BSData/horus-heresy-3rd-edition/issues",
     "authorName": "LeonisAstra",
     "battleScribeVersion": 2.03,
-    "type": "catalogue"
+    "type": "catalogue",
+    "categoryEntries": [],
+    "costTypes": []
   }
 }

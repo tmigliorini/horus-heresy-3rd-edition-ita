@@ -8,7 +8,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Paragon (Unique)",
+                    "$text": "Esemplare (Unico)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -152,11 +152,11 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Hatred (Loyalist)",
+                    "value": "Odio (Lealista)",
                     "field": "name"
                   }
                 ],
-                "comment": "Loyalist",
+                "comment": "Lealista",
                 "name": "Odio (X)",
                 "id": "c72d-a844-6912-2c0e",
                 "hidden": false,
@@ -581,7 +581,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Unique, Command)",
+                    "$text": "Fanteria (Unico, Comando)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -1031,7 +1031,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "40e7-827c-4668-960b",
             "type": "selectionEntry",
@@ -1072,7 +1072,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Unique, Command)",
+                    "$text": "Fanteria (Unico, Comando)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -1510,7 +1510,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "3305-a296-49c0-9ad3",
             "type": "selectionEntry",
@@ -1551,7 +1551,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Unique, Command, Antigrav, Malefic)",
+                    "$text": "Fanteria (Unico, Comando, Antigravitazionale, Malefico)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -1953,7 +1953,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "9813-d760-47f7-91eb",
             "type": "selectionEntry",
@@ -1994,7 +1994,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Unique, Command, Malefic)",
+                    "$text": "Fanteria (Unico, Comando, Malefico)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -2078,10 +2078,6 @@
               {
                 "characteristics": [
                   {
-                    "name": "Riepilogo",
-                    "typeId": "981f-bb86-6a74-9b20"
-                  },
-                  {
                     "$text": "Il Giocatore Attivo può scegliere di Manifestare il Potere Psionico Vincolo dell'Anima nella Fase di Assalto, all'inizio del Passaggio Dichiarare le Armi e Determinare le Iniziative della Sottofase di Combattimento.",
                     "name": "Innesco",
                     "typeId": "1be9-f118-1cf3-357e"
@@ -2139,11 +2135,11 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Hatred (Loyalist)",
+                    "value": "Odio (Lealista)",
                     "field": "name"
                   }
                 ],
-                "comment": "Loyalist",
+                "comment": "Lealista",
                 "name": "Odio (X)",
                 "id": "a913-30d7-eca7-d3b7",
                 "hidden": false,
@@ -2528,7 +2524,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Champion, Malefic)",
+                    "$text": "Fanteria (Campione, Malefico)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -2899,7 +2895,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "23c6-0aa0-4542-9e55",
             "type": "selectionEntry",
@@ -2920,7 +2916,7 @@
         ],
         "infoLinks": [
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "3005-cc5a-e1ea-8d7e",
             "hidden": false,
             "type": "profile",
@@ -3078,7 +3074,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Malefic)",
+                    "$text": "Fanteria (Malefico)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -3665,7 +3661,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "9952-be5a-4881-9d15",
             "type": "selectionEntry",
@@ -3705,7 +3701,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Walker (Malefic)",
+                    "$text": "Camminatore (Malefico)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -4430,7 +4426,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "8b14-5da8-4620-a494",
             "type": "selectionEntry",
@@ -4450,7 +4446,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Antigrav)",
+                    "$text": "Fanteria (Antigravitazionale)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -4732,7 +4728,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Sergeant, Antigrav)",
+                    "$text": "Fanteria (Sergente, Antigravitazionale)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -5198,7 +5194,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "3032-e409-4d33-a113",
             "type": "selectionEntry",
@@ -5612,7 +5608,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Command)",
+                    "$text": "Fanteria (Comando)",
                     "typeId": "50fc-9241-d4a2-045b",
                     "name": "Tipo"
                   },
@@ -5710,7 +5706,7 @@
                       },
                       {
                         "type": "append",
-                        "value": "with Jump Pack",
+                        "value": "con reattori dorsali",
                         "field": "name"
                       },
                       {
@@ -6128,7 +6124,7 @@
                   }
                 ],
                 "type": "append",
-                "value": "with Jump Pack",
+                "value": "con reattori dorsali",
                 "field": "name"
               }
             ],
@@ -6150,7 +6146,7 @@
         ],
         "infoLinks": [
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "079d-f425-fab7-dbb4",
             "hidden": false,
             "type": "profile",
@@ -6248,12 +6244,7 @@
         ],
         "profiles": [
           {
-            "characteristics": [
-              {
-                "name": "Descrizione",
-                "typeId": "d5eb-0b8b-0f26-6233"
-              }
-            ],
+            "characteristics": [],
             "name": "Diabolista",
             "typeId": "d5a9-9164-1e30-7a35",
             "typeName": "Tratti",
@@ -6274,7 +6265,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "6fc6-451f-9c25-1a1f",
             "type": "selectionEntry",
@@ -6301,7 +6292,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Command, Heavy)",
+                    "$text": "Fanteria (Comando, Pesante)",
                     "typeId": "50fc-9241-d4a2-045b",
                     "name": "Tipo"
                   },
@@ -6471,7 +6462,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Infantry (Command)",
+                        "value": "Fanteria (Comando)",
                         "field": "50fc-9241-d4a2-045b"
                       },
                       {
@@ -6793,7 +6784,7 @@
         ],
         "infoLinks": [
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "0d4c-b2ec-22e6-feac",
             "hidden": false,
             "type": "profile",
@@ -6816,12 +6807,7 @@
         ],
         "profiles": [
           {
-            "characteristics": [
-              {
-                "name": "Descrizione",
-                "typeId": "d5eb-0b8b-0f26-6233"
-              }
-            ],
+            "characteristics": [],
             "name": "Diabolista",
             "typeId": "d5a9-9164-1e30-7a35",
             "typeName": "Tratti",
@@ -6861,7 +6847,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "bdf4-8bcb-c7b5-1d22",
             "type": "selectionEntry",
@@ -6888,7 +6874,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Cavalry (Command)",
+                    "$text": "Cavalleria (Comando)",
                     "typeId": "50fc-9241-d4a2-045b",
                     "name": "Tipo"
                   },
@@ -7798,7 +7784,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "a3be-2a26-a770-654b",
             "type": "selectionEntry",
@@ -7807,7 +7793,7 @@
         ],
         "infoLinks": [
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "d874-9955-68d1-b238",
             "hidden": false,
             "type": "profile",
@@ -7830,12 +7816,7 @@
         ],
         "profiles": [
           {
-            "characteristics": [
-              {
-                "name": "Descrizione",
-                "typeId": "d5eb-0b8b-0f26-6233"
-              }
-            ],
+            "characteristics": [],
             "name": "Diabolista",
             "typeId": "d5a9-9164-1e30-7a35",
             "typeName": "Tratti",
@@ -7882,7 +7863,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry",
+                    "$text": "Fanteria",
                     "typeId": "50fc-9241-d4a2-045b",
                     "name": "Tipo"
                   },
@@ -8371,7 +8352,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Sergeant)",
+                    "$text": "Fanteria (Sergente)",
                     "typeId": "50fc-9241-d4a2-045b",
                     "name": "Tipo"
                   },
@@ -8856,7 +8837,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "0190-5b7e-51c5-522d",
             "type": "selectionEntry",
@@ -8895,7 +8876,7 @@
             "targetId": "313f-7ed6-3833-e97c"
           },
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "1781-9253-dfe2-3894",
             "hidden": false,
             "type": "profile",
@@ -8968,7 +8949,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Antigrav)",
+                    "$text": "Fanteria (Antigravitazionale)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -9490,7 +9471,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Sergeant, Antigrav)",
+                    "$text": "Fanteria (Sergente, Antigravitazionale)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -9992,7 +9973,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "ac7e-c0cb-79e9-d6f0",
             "type": "selectionEntry",
@@ -10032,7 +10013,7 @@
             "targetId": "313f-7ed6-3833-e97c"
           },
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "0095-2de4-61fc-e186",
             "hidden": false,
             "type": "profile",
@@ -10109,7 +10090,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry",
+                    "$text": "Fanteria",
                     "typeId": "50fc-9241-d4a2-045b",
                     "name": "Tipo"
                   },
@@ -10759,7 +10740,7 @@
         ],
         "infoLinks": [
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "7051-37c9-be44-2e74",
             "hidden": false,
             "type": "profile",
@@ -10863,7 +10844,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Heavy, Malefic)",
+                    "$text": "Fanteria (Pesante, Malefico)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -11556,7 +11537,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Champion, Sergeant, Heavy, Malefic)",
+                    "$text": "Fanteria (Campione, Sergente, Pesante, Malefico)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -12259,7 +12240,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "3da5-7445-c170-d4c3",
             "type": "selectionEntry",
@@ -12269,7 +12250,7 @@
         ],
         "infoLinks": [
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "d280-b60c-3346-071c",
             "hidden": false,
             "type": "profile",
@@ -12367,11 +12348,6 @@
         "profiles": [
           {
             "characteristics": [
-              {
-                "$text": "I mantelli warpfire offrono ai Modelli la possibilità di infliggere ferite alle Unità vicine quando vengono colpiti da Attacchi a Distanza.",
-                "name": "Riepilogo",
-                "typeId": "8e7d-a0ae-fd85-983c"
-              },
               {
                 "$text": "Alla fine della Sottofase degli Attacchi di qualsiasi Fase di Tiro, se un’Unità contiene uno o più Modelli dotati di Mantello di fuoco warp che, durante quella Fase di Tiro, hanno superato almeno un Tiro Armatura o un Tiro Invulnerabilità contro ferite causate da Attacchi a Distanza, ogni Unità che abbia almeno un Modello entro 8\" da almeno un Modello di quell’Unità deve effettuare un Test di Resistenza, a meno che non contenga anch’essa uno o più Modelli dotati di Mantello di fuoco warp. Se lo fallisce, subisce D3 ferite automatiche con una Caratteristica di Danno pari a ‘1’ e un VP pari a ‘2’, contro le quali non è possibile effettuare alcun tipo di Tiro Salvezza, assegnate come se fossero state inflitte da un Attacco a Distanza.",
                 "name": "Descrizione",
@@ -12522,7 +12498,7 @@
             "targetId": "5d5e-958f-e388-50b5",
             "id": "4df1-64b7-5ad0-06a1",
             "primary": true,
-            "name": "Reparti Speciali"
+            "name": "Reparto Speciale"
           },
           {
             "targetId": "2aba-8953-ea2f-ce59",
@@ -12718,7 +12694,7 @@
             "targetId": "5d5e-958f-e388-50b5",
             "id": "7694-7336-e380-e03b",
             "primary": true,
-            "name": "Reparti Speciali"
+            "name": "Reparto Speciale"
           }
         ],
         "import": true,
@@ -12734,7 +12710,7 @@
             "targetId": "5d5e-958f-e388-50b5",
             "id": "d47d-4aa3-af81-f7a6",
             "primary": true,
-            "name": "Reparti Speciali"
+            "name": "Reparto Speciale"
           }
         ],
         "import": true,
@@ -12766,7 +12742,7 @@
             "targetId": "5d5e-958f-e388-50b5",
             "id": "74b0-7618-d8be-797d",
             "primary": true,
-            "name": "Reparti Speciali"
+            "name": "Reparto Speciale"
           }
         ],
         "import": true,
@@ -12822,11 +12798,6 @@
                   {
                     "characteristics": [
                       {
-                        "$text": "Questo Gambetto consente al Giocatore Controllante di effettuare una Prova di Volontà per modificare le proprie Caratteristiche.",
-                        "name": "Riepilogo",
-                        "typeId": "98f3-41cf-e3be-2ae7"
-                      },
-                      {
                         "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Supplica agli Dei: questo Gambetto può essere selezionato solo durante il primo Passaggio di Faccia a Faccia di una Sfida che coinvolga questo Modello. Il Giocatore Controllante effettua immediatamente una Prova di Volontà per questo Modello. Se la Prova viene superata, fino alla fine di questa Sottofase di Sfida, questo Modello aggiunge +1 alle sue Caratteristiche di Forza e Attacchi. Se la Prova fallisce, questo Modello subisce una singola Ferita con una Caratteristica VP di ’2’ e un Danno di ’1’, senza Tiri Salvezza o Tiri Mitigazione consentiti.",
                         "name": "Descrizione",
                         "typeId": "2d7d-b1d9-dead-605a"
@@ -12868,11 +12839,6 @@
                 "profiles": [
                   {
                     "characteristics": [
-                      {
-                        "$text": "Questa Reazione consente al Giocatore Controllante di assegnare tutte le ferite causate da un Gruppo di Fuoco a un singolo Modello di sua scelta.",
-                        "name": "Riepilogo",
-                        "typeId": "5d02-0e54-0f6a-0f0b"
-                      },
                       {
                         "$text": "una volta per battaglia, durante il Passaggio 5 della sequenza di Attacco a Distanza di qualsiasi Attacco a Distanza effettuato dal Giocatore Attivo che prende di mira un’Unità che includa solo modelli con il Tratto Predicatori.",
                         "name": "Innesco",
@@ -12950,6 +12916,8 @@
     "authorContact": "https://github.com/BSData/horus-heresy-3rd-edition/issues",
     "authorName": "Arkangelmark5",
     "battleScribeVersion": 2.03,
-    "type": "catalogue"
+    "type": "catalogue",
+    "categoryEntries": [],
+    "costTypes": []
   }
 }

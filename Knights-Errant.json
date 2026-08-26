@@ -58,7 +58,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Specialist, Unique)",
+                    "$text": "Fanteria (Specialista, Unico)",
                     "typeId": "50fc-9241-d4a2-045b",
                     "name": "Tipo"
                   },
@@ -428,7 +428,7 @@
             "targetId": "c107-a8fd-6b7d-c5a3"
           },
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "95d5-027f-bdd5-926a",
             "hidden": false,
             "type": "profile",
@@ -448,7 +448,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "b868-d8d9-7a56-7d80",
             "type": "selectionEntry",
@@ -514,7 +514,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Specialist, Unique)",
+                    "$text": "Fanteria (Specialista, Unico)",
                     "typeId": "50fc-9241-d4a2-045b",
                     "name": "Tipo"
                   },
@@ -938,7 +938,7 @@
             "targetId": "c107-a8fd-6b7d-c5a3"
           },
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "fc88-08a2-67d0-1048",
             "hidden": false,
             "type": "profile",
@@ -984,7 +984,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "15e4-7204-94db-5892",
             "type": "selectionEntry",
@@ -1036,7 +1036,7 @@
       {
         "characteristics": [
           {
-            "$text": "Il Tratto Knights-Errant è considerato un Tratto di Fazione allo stesso modo del Tratto [Legiones Astartes] e degli altri Tratti che possono essere selezionati per sostituirlo.",
+            "$text": "Il Tratto Cavalieri Erranti è considerato un Tratto di Fazione allo stesso modo del Tratto [Legiones Astartes] e degli altri Tratti che possono essere selezionati per sostituirlo.",
             "name": "Descrizione",
             "typeId": "d5eb-0b8b-0f26-6233"
           }
@@ -1090,6 +1090,8 @@
     "gameSystemRevision": 48,
     "revision": 2,
     "battleScribeVersion": 2.03,
-    "type": "catalogue"
+    "type": "catalogue",
+    "categoryEntries": [],
+    "costTypes": []
   }
 }

@@ -41,7 +41,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Unique, Command)",
+                    "$text": "Fanteria (Unico, Comando)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -482,7 +482,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "d438-33f3-42dd-b853",
             "type": "selectionEntry",
@@ -523,7 +523,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Paragon (Unique)",
+                    "$text": "Esemplare (Unico)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -606,10 +606,6 @@
               },
               {
                 "characteristics": [
-                  {
-                    "name": "Riepilogo",
-                    "typeId": "98f3-41cf-e3be-2ae7"
-                  },
                   {
                     "$text": "Una volta dichiarata la Reazione Avanzata del Bastione di Fuoco, il Giocatore Reattivo effettua un Attacco a Distanza con l’Unità Reattiva, prendendo di mira solo l’Unità Bersaglio.\nUna volta che l’Attacco a Distanza effettuato come parte di questa Reazione è stato completamente risolto, il Giocatore Attivo deve procedere con il resto della sua Fase di Movimento.\nDistaccamenti Addizionali\nStretta d’Assedio\nDistaccamento Ausiliario\n1 Riquadro Truppe (Primario);\n1 Riquadro Assalto Pesante;\n1 Riquadro Truppe;\n1 Riquadro Supporto.\nI Riquadri Truppe in questo Distaccamento possono essere utilizzati solo per selezionare Unità di Squadra d’Abbordaggio.\n\n \n \nRegole Speciali\nBaluardo dell’Imperium\nQuando un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante Gambetto: Baluardo dell’Imperium: quando questo Gambetto è selezionato, i Tiri per Ferire effettuati contro il Modello per cui è stato selezionato che hanno un risultato non modificato di 1, 2, 3 e 4 non hanno successo, indipendentemente dalla Caratteristica Forza del Colpo o da qualsiasi Regola Speciale che stabilisca il Numero Obiettivo per i Tiri per Ferire. Sire dei Magli Imperiali Se quattro o più Riquadri Truppe nel Distaccamento Principale sono occupati da Squadre Tattiche e/o Squadre d’Abbordaggio, tutti i Riquadri Truppe nel Distaccamento Principale sono considerati Riquadri Primari. Inoltre, fino alla fine del primo Turno di Battaglia, tutti i Modelli di questo Esercito con il Tipo Fanteria e il Tratto Magli Imperiali hanno un Tiro Copertura di 5+ mentre si trovano all’interno della Zona di Schieramento del Giocatore Controllante.",
                     "name": "Descrizione",
@@ -999,11 +995,6 @@
           {
             "name": "Punti Combinati di Generale e Sovrano della Guerra",
             "typeId": "14bd-cad0-cd3d-8b23",
-            "value": 0
-          },
-          {
-            "name": "Beneficio Logistico Mechanicum",
-            "typeId": "7275-cbe8-a563-7152",
             "value": 0
           }
         ],
@@ -1487,7 +1478,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Unique, Command, Heavy)",
+                    "$text": "Fanteria (Unico, Comando, Pesante)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -1719,7 +1710,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "8aa4-43c0-480e-8182",
             "type": "selectionEntry",
@@ -1806,7 +1797,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Sergeant, Heavy)",
+                    "$text": "Fanteria (Sergente, Pesante)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -2262,7 +2253,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Heavy)",
+                    "$text": "Fanteria (Pesante)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -2910,7 +2901,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "1112-8ac2-4e87-b42c",
             "type": "selectionEntry",
@@ -2965,7 +2956,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Unique, Command)",
+                    "$text": "Fanteria (Unico, Comando)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -3048,11 +3039,6 @@
               },
               {
                 "characteristics": [
-                  {
-                    "$text": "Camba Diaz ottiene attacchi aggiuntivi quando combatte per ultimo in una Sfida.",
-                    "name": "Riepilogo",
-                    "typeId": "98f3-41cf-e3be-2ae7"
-                  },
                   {
                     "$text": "Mentre un Modello con questa Regola Speciale è in Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto:\nTassa del Boia: Il Giocatore Controllante deve tirare un Dado aggiuntivo nel Passaggio di Concentrazione e deve scartare il risultato più alto.\nGli attacchi effettuati nella successiva Fase di Attacco ottengono la Regola Speciale Colpo Critico (6+).\n \n \nEquipaggiamento\nArmatura del Tiranno\nUn Modello con questa Regola Speciale ha la Regola Speciale Insensibile al Dolore (5+) contro le Ferite subite in una Sfida.\n \n \nRegole Speciali\nLa Linea Invalicata\nMentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante Gambetto: La Linea Invalicata: se questo Modello non ha il Vantaggio, la sua Caratteristica Attacchi è modificata di +2.",
                     "name": "Descrizione",
@@ -3388,7 +3374,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "82ea-16b8-4a8e-84d4",
             "type": "selectionEntry",
@@ -3420,7 +3406,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Unique, Command)",
+                    "$text": "Fanteria (Unico, Comando)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -3547,11 +3533,6 @@
               },
               {
                 "characteristics": [
-                  {
-                    "$text": "Alexis Polux può effettuare un attacco alternativo durante una Sfida.",
-                    "name": "Riepilogo",
-                    "typeId": "98f3-41cf-e3be-2ae7"
-                  },
                   {
                     "$text": "se di Attacco ottengono la Regola Speciale Colpo Critico (6+).\n \n \nEquipaggiamento\nArmatura del Tiranno\nUn Modello con questa Regola Speciale ha la Regola Speciale Insensibile al Dolore (5+) contro le Ferite subite in una Sfida.\n \n \nRegole Speciali\nLa Linea Invalicata\nMentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto:\nLa Linea Invalicata: se questo Modello non ha il Vantaggio, la sua Caratteristica Attacchi è modificata di +2.\n \n \n \n \n \nRegole Speciali\nColpo di Martello\nMentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante Gambetto: Colpo di Martello: quando questo Gambetto viene selezionato, questo Modello ottiene il Profilo Arma Colpo di Martello e non può scegliere di effettuare attacchi con nessun’altra Arma nel Passaggio di Attacco. Comandante del Vuoto Se un Modello con questa Regola Speciale si unisce a un’Unità di Squadra d’Abbordaggio in Riserva, i Modelli di quell’Unità ottengono la Regola Speciale Attacco in Profondità finché il Modello fa parte dell’Unità. Inoltre, quando un Modello con questa Regola Speciale viene schierato come parte di un Attacco in Profondità, quel Modello e ogni altro Modello nella stessa Unità ottengono la Regola Speciale Insensibile al Dolore (5+) fino alla successiva Sottofase Effetti del Giocatore Controllante.",
                     "name": "Descrizione",
@@ -3895,7 +3876,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "e725-9436-4a59-a125",
             "type": "selectionEntry",
@@ -3947,7 +3928,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Champion, Sergeant)",
+                    "$text": "Fanteria (Campione, Sergente)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -4382,7 +4363,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry",
+                    "$text": "Fanteria",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -4902,7 +4883,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "e0ca-69dd-4859-a76e",
             "type": "selectionEntry",
@@ -5052,11 +5033,6 @@
                   {
                     "characteristics": [
                       {
-                        "$text": "Fafnir Rann può subire un modificatore negativo al Tiro Concentrazione in cambio di attacchi migliorati.",
-                        "name": "Riepilogo",
-                        "typeId": "98f3-41cf-e3be-2ae7"
-                      },
-                      {
                         "$text": "Quando questo Gambetto viene selezionato, il Giocatore Controllante deve tirare un Dado aggiuntivo nel Passaggio di Concentrazione e deve scartare il risultato più alto. Gli attacchi effettuati nel successivo Passaggio di Attacco ottengono la Regola Speciale Colpo Critico (6+).",
                         "name": "Descrizione",
                         "typeId": "2d7d-b1d9-dead-605a"
@@ -5098,7 +5074,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Unique, Command, Heavy)",
+                    "$text": "Fanteria (Unico, Comando, Pesante)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -5484,7 +5460,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "9462-cdff-4c5d-80db",
             "type": "selectionEntry",
@@ -5532,7 +5508,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Heavy)",
+                    "$text": "Fanteria (Pesante)",
                     "typeId": "50fc-9241-d4a2-045b",
                     "name": "Tipo"
                   },
@@ -5810,7 +5786,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Sergeant, Heavy)",
+                    "$text": "Fanteria (Sergente, Pesante)",
                     "typeId": "50fc-9241-d4a2-045b",
                     "name": "Tipo"
                   },
@@ -6227,7 +6203,7 @@
             "id": "dc3c-03e9-42cf-b2c1"
           },
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "8567-61d4-3a82-f5a6",
             "hidden": false,
             "type": "profile",
@@ -6276,7 +6252,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "ae82-07eb-d5ba-d0b5",
             "type": "selectionEntry",
@@ -6303,7 +6279,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Vehicle (Unique, Transport, Super-heavy, Flyer)",
+                    "$text": "Veicolo (Unico, Trasporto, Superpesante, Velivolo)",
                     "name": "Tipo",
                     "typeId": "827f-9ce2-2118-e134"
                   },
@@ -6385,7 +6361,7 @@
                   {
                     "type": "set",
                     "field": "name",
-                    "value": "Centreline Mounted turbo-laser destructor"
+                    "value": "Turbo-laser distruttore (Arco Centrale)"
                   }
                 ],
                 "constraints": [
@@ -6418,7 +6394,7 @@
                   {
                     "type": "set",
                     "field": "name",
-                    "value": "Two Sponson Mounted twin heavy bolters"
+                    "value": "Due Requiem pesanti binati (Piattaforme Laterali)"
                   }
                 ],
                 "constraints": [
@@ -6451,7 +6427,7 @@
                   {
                     "type": "set",
                     "field": "name",
-                    "value": "Two Hull (Front) Mounted lascannon"
+                    "value": "Due Cannoni laser (Arco Frontale)"
                   }
                 ],
                 "constraints": [
@@ -6501,7 +6477,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Six Centreline Mounted hellstrike missiles",
+                    "value": "Sei Missili colpo infernale (Arco Centrale)",
                     "field": "name"
                   }
                 ],
@@ -6517,7 +6493,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Two Turret Mounted twin heavy bolters",
+                    "value": "Due Requiem pesanti binati (Torretta)",
                     "field": "name"
                   }
                 ],
@@ -6603,7 +6579,7 @@
             "id": "4956-0752-4cb0-8f15"
           },
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "5452-67db-c803-cfcd",
             "hidden": false,
             "type": "profile",
@@ -6780,7 +6756,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry",
+                    "$text": "Fanteria",
                     "typeId": "50fc-9241-d4a2-045b",
                     "name": "Tipo"
                   },
@@ -7275,7 +7251,7 @@
         ],
         "infoLinks": [
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "8e90-2f90-38ee-13c6",
             "hidden": false,
             "type": "profile",
@@ -7425,7 +7401,7 @@
             "targetId": "5d5e-958f-e388-50b5",
             "id": "db4c-5aff-63be-cabc",
             "primary": true,
-            "name": "Reparti Speciali"
+            "name": "Reparto Speciale"
           },
           {
             "targetId": "450e-112d-a64a-ef6e",
@@ -7638,11 +7614,6 @@
                   {
                     "characteristics": [
                       {
-                        "$text": "Il Giocatore Controllante può scegliere di limitare il Danno subito in una Sfida.",
-                        "name": "Riepilogo",
-                        "typeId": "98f3-41cf-e3be-2ae7"
-                      },
-                      {
                         "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Un Muro Incrollabile: il Giocatore Controllante non aggiunge l’Iniziativa di Combattimento al risultato del Tiro Concentrazione, ma ottiene la Regola Speciale Guerriero Eterno (1) per la durata del Passaggio di Attacco. Reazione Avanzata Bastione di Fuoco Attivazione: una volta per battaglia, nel Passaggio 2 della Sottofase di Movimento, se un’Unità nemica termina un movimento entro 10\" e nella Linea di Vista di un’Unità sotto il controllo del Giocatore Reattivo in grado di effettuare un Attacco a Distanza con almeno un’arma in suo possesso, prendendo di mira quell’Unità. Costo: 1 Punto Reazione. Bersaglio: l’Unità il cui Movimento ha attivato la Reazione. L’Unità Reattiva deve essere un’Unità sotto il Controllo del Giocatore Reattivo che includa solo Modelli con il Tratto Magli Imperiali che non abbiano il Tipo Veicolo. Procedura: Una volta dichiarata la Reazione Avanzata del Bastione di Fuoco, il Giocatore Reattivo effettua un Attacco a Distanza con l’Unità Reattiva, prendendo di mira solo l’Unità Bersaglio. Una volta che l’Attacco a Distanza effettuato come parte di questa Reazione è stato completamente risolto, il Giocatore Attivo deve procedere con il resto della sua Fase di Movimento. Distaccamenti Addizionali Stretta d’Assedio Distaccamento Ausiliario 1 Riquadro Truppe (Primario); 1 Riquadro Assalto Pesante; 1 Riquadro Truppe; 1 Riquadro Supporto. I Riquadri Truppe in questo Distaccamento possono essere utilizzati solo per selezionare Unità di Squadra d’Abbordaggio.",
                         "name": "Descrizione",
                         "typeId": "2d7d-b1d9-dead-605a"
@@ -7684,11 +7655,6 @@
                 "profiles": [
                   {
                     "characteristics": [
-                      {
-                        "$text": "Questa Reazione consente all'Unità Reattiva di effettuare un Attacco a Distanza prendendo di mira un'Unità Nemica che si Muove entro la gittata.",
-                        "name": "Riepilogo",
-                        "typeId": "5d02-0e54-0f6a-0f0b"
-                      },
                       {
                         "$text": "una volta per battaglia, nel Passaggio 2 della Sottofase di Movimento, se un’Unità nemica termina un movimento entro 10\" e nella Linea di Vista di un’Unità sotto il controllo del Giocatore Reattivo in grado di effettuare un Attacco a Distanza con almeno un’arma in suo possesso, prendendo di mira quell’Unità.",
                         "name": "Innesco",
@@ -7766,6 +7732,8 @@
     "authorContact": "https://github.com/BSData/horus-heresy-3rd-edition/issues",
     "authorName": "Arkangelmark5",
     "battleScribeVersion": 2.03,
-    "type": "catalogue"
+    "type": "catalogue",
+    "categoryEntries": [],
+    "costTypes": []
   }
 }

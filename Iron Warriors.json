@@ -45,7 +45,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Paragon (Unique)",
+                    "$text": "Esemplare (Unico)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -480,7 +480,7 @@
         ],
         "infoLinks": [
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "d492-1054-bfea-6a3d",
             "hidden": false,
             "type": "profile",
@@ -632,11 +632,6 @@
           {
             "characteristics": [
               {
-                "$text": "Questo Gambetto consente a un'Unità amica di effettuare un Attacco a Distanza prendendo di mira un Modello con cui Perturabo è impegnato in una Sfida.\n\nMentre un Modello con questa regola speciale è in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto:\n(FAQ v1.0 AGGIORNATO)",
-                "name": "Riepilogo",
-                "typeId": "98f3-41cf-e3be-2ae7"
-              },
-              {
                 "$text": "se il tuo esercito contiene anche un’Unità di Fabbro da Guerra, Fabbro da Guerra in Armatura dell’Artefice o Perturabo.\n1 Riquadro Assalto Pesante (Primario);\n1 Riquadro Truppe (Primario);\n1 Riquadro Trasporto Pesante;\n1 Riquadro Assalto Pesante;\n1 Riquadro Truppe.\nCoorte Tempesta di Ferro\nDistaccamento Ausiliario\n1 Riquadro Corazzato (Primario);\n1 Riquadro Corazzato;\n2 Riquadri Supporto.\nI Riquadri corazzati di questo Distaccamento devono essere riempiti con Unità di Arquitor Bombard.\n\n \n \nOpzioni\n \nRegole Speciali\nIl Frantumatore\nMentre un Modello con questa Regola Speciale è in Sfida, il suo Giocatore Controllante Gambetto: Il Frantumatore: Questo Gambetto può essere selezionato solo durante il primo Passaggio di Faccia a Faccia di una Sfida. Questo Modello non effettua attacchi durante il successivo Passaggio di Attacco. Invece, il Giocatore Controllante di questo Modello può selezionare una singola Unità amica composta da Modelli con il Tratto Guerrieri di Ferro che si trovi entro 12\" da qualsiasi Modello nemico in quel Combattimento e che non sia Bloccata in Combattimento, ed effettuare un Attacco a Distanza con quell’Unità. Tutti questi attacchi vengono risolti come Colpi alla Cieca, con l’eccezione che le Armi con la Regola Speciale Area (X) o Sagoma non possono essere utilizzate, e le ferite derivanti da questo Attacco a Distanza possono essere assegnate solo al Modello nemico in Sfida. Sire dei Guerrieri di Ferro Se quattro o più Riquadri Truppe nel Distaccamento Principale sono occupati da Unità di Squadre Tattiche e/o Squadre d’Abbordaggio, tutti i Riquadri Truppe nel Distaccamento Principale sono considerati Riquadri Primari. Inoltre, fino alla fine del primo Turno di Battaglia, tutti i Modelli di quest’Armata con il Tipo Fanteria e il Tratto Guerrieri di Ferro hanno la Regola Speciale Sacrificabile (1). Se hanno già la Regola Speciale Sacrificabile (X), aumentane il valore di 1.",
                 "name": "Descrizione",
                 "typeId": "2d7d-b1d9-dead-605a"
@@ -738,11 +733,6 @@
           },
           {
             "characteristics": [
-              {
-                "$text": "Un Modello che usa questo Gambetto può infliggere Colpi al suo avversario se muore.",
-                "name": "Riepilogo",
-                "typeId": "98f3-41cf-e3be-2ae7"
-              },
               {
                 "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Morte Sprezzante: se questo Modello perde la sua ultima Ferita durante il successivo Passaggio di Attacco, il Giocatore Controllante può scegliere di infliggere immediatamente un singolo Colpo automatico al Modello avversario, risolto con una Caratteristica Forza di ’6’, VP di ’4’, Danno di ’2’ e la Regola Speciale Perforante (5+).",
                 "name": "Descrizione",
@@ -894,7 +884,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Command, Heavy)",
+                    "$text": "Fanteria (Comando, Pesante)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -1125,7 +1115,7 @@
             "targetId": "c3db-d17c-fd46-eb01"
           },
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "d391-f65a-6c08-8a00",
             "hidden": false,
             "type": "profile",
@@ -1320,7 +1310,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "ef2e-d2af-4c5f-bad3",
             "type": "selectionEntry",
@@ -1422,7 +1412,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Sergeant, Heavy)",
+                    "$text": "Fanteria (Sergente, Pesante)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -1965,7 +1955,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Heavy)",
+                    "$text": "Fanteria (Pesante)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -2609,7 +2599,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "78f1-9c50-4742-88ab",
             "type": "selectionEntry",
@@ -2677,7 +2667,7 @@
             "targetId": "313f-7ed6-3833-e97c"
           },
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "42d2-7dc8-8eab-6780",
             "hidden": false,
             "type": "profile",
@@ -2723,7 +2713,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Automata (Heavy)",
+                    "$text": "Automa (Pesante)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -3021,10 +3011,6 @@
               {
                 "characteristics": [
                   {
-                    "name": "Riepilogo",
-                    "typeId": "8e7d-a0ae-fd85-983c"
-                  },
-                  {
                     "$text": "Quando a un Modello dotato di Scudo da battaglia Karceri viene assegnata una Ferita non Salvata, la Caratteristica Danno di tale Ferita viene dimezzata, arrotondando per eccesso.",
                     "name": "Descrizione",
                     "typeId": "9944-2f6d-d61b-03b5"
@@ -3119,7 +3105,7 @@
             "targetId": "3898-aafb-35e0-141b"
           },
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "c0d9-004e-83d3-75b5",
             "hidden": false,
             "type": "profile",
@@ -3186,7 +3172,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "c487-c514-4e92-97ce",
             "type": "selectionEntry",
@@ -3204,10 +3190,6 @@
         "profiles": [
           {
             "characteristics": [
-              {
-                "name": "Riepilogo",
-                "typeId": "8e7d-a0ae-fd85-983c"
-              },
               {
                 "$text": "Quando un Attacco a Distanza effettuato da un'Unità che include Modelli con un omniscopio infligge Colpi (esclusi i Colpi di attacchi risolti Alla Cieca), non possono essere effettuati Tiri Copertura contro quei Colpi.",
                 "name": "Descrizione",
@@ -3241,7 +3223,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Command)",
+                    "$text": "Fanteria (Comando)",
                     "typeId": "50fc-9241-d4a2-045b",
                     "name": "Tipo"
                   },
@@ -4219,7 +4201,7 @@
             "id": "82ad-b78d-4539-842f"
           },
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "a026-d0bb-c955-ebd3",
             "hidden": false,
             "type": "profile",
@@ -4276,7 +4258,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "5055-6b24-bd64-6117",
             "type": "selectionEntry",
@@ -4304,7 +4286,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Unique, Command, Heavy)",
+                    "$text": "Fanteria (Unico, Comando, Pesante)",
                     "typeId": "50fc-9241-d4a2-045b",
                     "name": "Tipo"
                   },
@@ -4633,7 +4615,7 @@
             "id": "c646-9b39-48b1-bd6d"
           },
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "8940-6e82-7c67-ec29",
             "hidden": false,
             "type": "profile",
@@ -4672,7 +4654,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "5004-661f-127c-d91f",
             "type": "selectionEntry",
@@ -4719,7 +4701,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Heavy)",
+                    "$text": "Fanteria (Pesante)",
                     "typeId": "50fc-9241-d4a2-045b",
                     "name": "Tipo"
                   },
@@ -5284,7 +5266,7 @@
               {
                 "type": "set",
                 "field": "name",
-                "value": "Hatred (Automata)"
+                "value": "Odio (Automa)"
               }
             ],
             "name": "Odio (X)",
@@ -5294,7 +5276,7 @@
             "id": "df6d-b6e0-48c8-af6f"
           },
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "fe91-4287-5a09-f0db",
             "hidden": false,
             "type": "profile",
@@ -5329,7 +5311,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "3180-390c-4043-4ed9",
             "type": "selectionEntry",
@@ -5357,7 +5339,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry",
+                    "$text": "Fanteria",
                     "typeId": "50fc-9241-d4a2-045b",
                     "name": "Tipo"
                   },
@@ -5639,7 +5621,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Sergeant)",
+                    "$text": "Fanteria (Sergente)",
                     "typeId": "50fc-9241-d4a2-045b",
                     "name": "Tipo"
                   },
@@ -6117,7 +6099,7 @@
             "id": "03c2-ee71-4400-871a"
           },
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "c40b-8e05-bbd0-a797",
             "hidden": false,
             "type": "profile",
@@ -6198,7 +6180,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "6ce9-3f26-fb83-94e3",
             "type": "selectionEntry",
@@ -6234,7 +6216,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Vehicle (Unique, Transport, Super-heavy)",
+                    "$text": "Veicolo (Unico, Trasporto, Superpesante)",
                     "name": "Tipo",
                     "typeId": "827f-9ce2-2118-e134"
                   },
@@ -6316,7 +6298,7 @@
                   {
                     "type": "set",
                     "field": "name",
-                    "value": "Centreline Mounted volcano cannon"
+                    "value": "Cannone Vulcano (Arco Centrale)"
                   }
                 ],
                 "constraints": [
@@ -6349,7 +6331,7 @@
                   {
                     "type": "set",
                     "field": "name",
-                    "value": "Hull (Front) Mounted twin heavy bolter"
+                    "value": "Requiem pesante binato (Arco Frontale)"
                   }
                 ],
                 "constraints": [
@@ -6672,7 +6654,7 @@
                       {
                         "type": "set",
                         "field": "name",
-                        "value": "One Hull (Front) Mounted hunter-killer missile"
+                        "value": "Un Missile cacciatore (Arco Frontale)"
                       }
                     ],
                     "constraints": [
@@ -6713,7 +6695,7 @@
                     "type": "selectionEntry",
                     "targetId": "5a85-bf28-f790-7bf0",
                     "id": "b85b-98a9-4cf8-b2b1",
-                    "name": "Faro da Ricerca"
+                    "name": "Riflettore"
                   }
                 ],
                 "constraints": [
@@ -6794,7 +6776,7 @@
             "id": "d61c-0e56-48e1-876d"
           },
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "bc5e-3a5a-5c49-a1f8",
             "hidden": false,
             "type": "profile",
@@ -6924,7 +6906,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry",
+                    "$text": "Fanteria",
                     "typeId": "50fc-9241-d4a2-045b",
                     "name": "Tipo"
                   },
@@ -7418,7 +7400,7 @@
         ],
         "infoLinks": [
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "b871-e30f-8868-4934",
             "hidden": false,
             "type": "profile",
@@ -7489,11 +7471,6 @@
     "sharedProfiles": [
       {
         "characteristics": [
-          {
-            "$text": "Questa Reazione consente all'Unità Reattiva di effettuare un Attacco a Distanza migliorato, in modo simile al Fuoco di Ritorno.\n\nInnesco: Una volta per battaglia, il Giocatore Reattivo può dichiarare la Reazione Avanzata Furia Amara nella Fase di Tiro, durante il Passaggio 3 della sequenza di Attacco a Distanza di qualsiasi Attacco a Distanza effettuato dal Giocatore Attivo, che prenda di mira un'Unità che includa solo Modelli con il Tratto Guerrieri di Ferro.\n\nCosto: Il Giocatore Reattivo deve spendere 1 Punto Reazione per dichiarare la Reazione Avanzata Furia Amara; questo costo viene pagato non appena viene effettuata la dichiarazione.\n\nBersaglio: L'Unità Bersaglio è sempre l'Unità il cui Attacco a Distanza ha innescato la Reazione. L'Unità Reattiva è sempre l'Unità che era il bersaglio dell'Attacco a Distanza che ha innescato la Reazione.\n\nProcedura:\n1. Una volta dichiarata la Reazione Avanzata Furia Amara, il Giocatore Attivo deve risolvere normalmente tutti i Passaggi rimanenti del processo di Attacco a Distanza, fino all'inizio del Passaggio 11.\n2. Prima di risolvere il Passaggio 11, il Giocatore Reattivo effettua un Attacco a Distanza con l'Unità Reattiva (inclusi eventuali Modelli ridotti a 0 Ferite), prendendo di mira solo l'Unità Bersaglio. Mentre effettua questo Attacco a Distanza, le Armi selezionate per esso modificano la loro Caratteristica Potenza di Fuoco di +1 e ottengono la Regola Speciale Surriscaldamento (1). Se quell'Arma ha già la Regola Speciale Surriscaldamento (1), il valore di X su quella Regola Speciale viene modificato di +1.\n3. Una volta che l'Attacco a Distanza effettuato come parte di questa Reazione è stato completamente risolto, inclusa la rimozione di eventuali Perdite, il Giocatore Attivo deve terminare la risoluzione del Passaggio 11 dell'Attacco a Distanza originale che ha innescato la Reazione.\n(FAQ v1.0 AGGIORNATO)",
-            "name": "Riepilogo",
-            "typeId": "5d02-0e54-0f6a-0f0b"
-          },
           {
             "name": "Innesco",
             "typeId": "02e4-3f90-3125-f8b4",
@@ -7789,11 +7766,6 @@
                   {
                     "characteristics": [
                       {
-                        "$text": "Un Modello che usa questo Gambetto può infliggere Colpi al suo avversario se muore.",
-                        "name": "Riepilogo",
-                        "typeId": "98f3-41cf-e3be-2ae7"
-                      },
-                      {
                         "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Morte Sprezzante: se questo Modello perde la sua ultima Ferita durante il successivo Passaggio di Attacco, il Giocatore Controllante può scegliere di infliggere immediatamente un singolo Colpo automatico al Modello avversario, risolto con una Caratteristica Forza di ’6’, VP di ’4’, Danno di ’2’ e la Regola Speciale Perforante (5+).",
                         "name": "Descrizione",
                         "typeId": "2d7d-b1d9-dead-605a"
@@ -7880,11 +7852,6 @@
                   {
                     "characteristics": [
                       {
-                        "$text": "Questa Reazione consente all'Unità Reattiva di effettuare un Attacco a Distanza migliorato, in modo simile al Fuoco di Ritorno.",
-                        "name": "Riepilogo",
-                        "typeId": "5d02-0e54-0f6a-0f0b"
-                      },
-                      {
                         "$text": "una volta per battaglia, durante il Passaggio 3 della sequenza di un Attacco a Distanza effettuato dal Giocatore Attivo che prenda di mira un’Unità che includa solo modelli con il Tratto Guerrieri di Ferro.",
                         "name": "Innesco",
                         "typeId": "02e4-3f90-3125-f8b4"
@@ -7961,6 +7928,8 @@
     "authorContact": "https://github.com/BSData/horus-heresy-3rd-edition/issues",
     "authorName": "The4D6",
     "battleScribeVersion": 2.03,
-    "type": "catalogue"
+    "type": "catalogue",
+    "categoryEntries": [],
+    "costTypes": []
   }
 }

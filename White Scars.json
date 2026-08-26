@@ -8,7 +8,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Paragon (Unique)",
+                    "$text": "Esemplare (Unico)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -492,7 +492,7 @@
         ],
         "infoLinks": [
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "fa71-a225-8f98-72dd",
             "hidden": false,
             "type": "profile",
@@ -545,11 +545,6 @@
           {
             "characteristics": [
               {
-                "$text": "\"Questo Gambetto riduce la Forza di un avversario quando viene ferito.\"",
-                "name": "Riepilogo",
-                "typeId": "98f3-41cf-e3be-2ae7"
-              },
-              {
                 "$text": "Una volta che l’Unità Reattiva ha completato questo Movimento, il Giocatore Attivo deve procedere con il resto della sua Fase di Movimento.\nDistaccamenti Addizionali\nBanda di Guerra Chogoriana\nDistaccamento Ausiliario\n1 Riquadro Supporto Leggero (Primario);\n1 Riquadro Supporto Leggero;\n2 Riquadri Ricognizione.\nI Riquadri Supporto Leggero in questo Distaccamento possono essere utilizzati solo per selezionare Unità di Squadrone di Scimitar.\nI Riquadri Ricognizione in questo Distaccamento possono essere utilizzati solo per selezionare Unità di Squadrone di Motociclisti.\n\n \n \n \nRegole Speciali\nMorte per Mille Tagli\nMentre un Modello con questa Regola Speciale è impegnato in una Sfida, il Giocatore che lo Controlla Gambetto: Morte per Mille Tagli: durante il Passaggio di Attacco, la Forza degli attacchi effettuati dal Modello nemico viene modificata di -1 se la Caratteristica Ferite di quel Modello è stata ridotta rispetto al suo Valore Base. Questo non può ridurre la Caratteristica Forza di un attacco a meno di 1. Sire delle Furie Bianche Se quattro o più Riquadri Truppa nel Distaccamento Principale sono occupati, tutti i Riquadri Trasporto nel Distaccamento Principale possono essere scambiati con Riquadri Ricognizione, che devono essere occupati con Land Raider Explorator. Inoltre, fino alla fine del primo Turno di Battaglia, tutti i Modelli di questo Esercito con il Tipo Fanteria o Esemplare e il Tratto Furie Bianche hanno la Regola Speciale Veloce (2).",
                 "name": "Descrizione",
                 "typeId": "2d7d-b1d9-dead-605a"
@@ -588,7 +583,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Unique, Command)",
+                    "$text": "Fanteria (Unico, Comando)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -869,7 +864,7 @@
             "targetId": "50ad-a9a5-1f1d-9a25"
           },
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "4d63-d40c-1771-93a0",
             "hidden": false,
             "type": "profile",
@@ -935,7 +930,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "ac65-30bd-4104-82a4",
             "type": "selectionEntry",
@@ -978,7 +973,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Command)",
+                    "$text": "Fanteria (Comando)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -1155,12 +1150,7 @@
                 "publicationId": "b905-0414-1057-bb34"
               },
               {
-                "characteristics": [
-                  {
-                    "name": "Descrizione",
-                    "typeId": "d5eb-0b8b-0f26-6233"
-                  }
-                ],
+                "characteristics": [],
                 "modifiers": [
                   {
                     "conditions": [
@@ -1598,7 +1588,7 @@
         ],
         "infoLinks": [
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "46ea-01cc-7ca9-c4ff",
             "hidden": false,
             "type": "profile",
@@ -1632,7 +1622,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "5307-8da0-4a43-aff1",
             "type": "selectionEntry",
@@ -1654,7 +1644,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Unique, Command)",
+                    "$text": "Fanteria (Unico, Comando)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -2024,7 +2014,7 @@
             "targetId": "7779-47c8-99a8-b935"
           },
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "9fec-bad9-11c6-aa9c",
             "hidden": false,
             "type": "profile",
@@ -2083,11 +2073,6 @@
           {
             "characteristics": [
               {
-                "$text": "\"Questo Gambetto consente a Hibou Khan di evitare di essere Rimosso come Perdita.\"",
-                "name": "Riepilogo",
-                "typeId": "98f3-41cf-e3be-2ae7"
-              },
-              {
                 "$text": "alla fine del primo Turno di Battaglia, tutti i Modelli di questo Esercito con il Tipo Fanteria o Esemplare e il Tratto Furie Bianche hanno la Regola Speciale Veloce (2).\n \n \n \nRegole Speciali\nPrescelto del Khagan\nUna volta per Battaglia, all’inizio della Sottofase delle Riserve della Fase di Movimento, il Giocatore che controlla questo Modello può selezionare una singola Unità che includa solo modelli con il Tratto Furie Bianche che si trova nelle Riserve e il Tiro Riserva effettuato per quell’Unità durante questa Sottofase ha automaticamente successo.\n \n \n \nRegole Speciali\nCercatore di Espiazione\nMentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante Gambetto: Cercatore di Espiazione: Se questo Modello viene ridotto a 0 Ferite nel Passaggio 4 del Passaggio di Attacco, il Giocatore Controllante può tirare un Dado. Con un risultato di 4+, questo Modello non viene Rimosso come Perdita, ma rimane invece Impegnato nella Sfida con una Caratteristica Ferite pari a 1 e il Giocatore Controllante ottiene il Vantaggio.",
                 "name": "Descrizione",
                 "typeId": "2d7d-b1d9-dead-605a"
@@ -2113,7 +2098,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "7203-78d7-4ee0-8f16",
             "type": "selectionEntry",
@@ -2319,7 +2304,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Cavalry (Antigrav)",
+                    "$text": "Cavalleria (Antigravitazionale)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -2735,7 +2720,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Cavalry (Sergeant, Antigrav)",
+                    "$text": "Cavalleria (Sergente, Antigravitazionale)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -3183,7 +3168,7 @@
             "targetId": "0553-d06b-52b9-34db"
           },
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "46c1-1d30-82de-bb5f",
             "hidden": false,
             "type": "profile",
@@ -3241,7 +3226,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "35aa-cd6b-449f-9748",
             "type": "selectionEntry",
@@ -3262,7 +3247,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry",
+                    "$text": "Fanteria",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -3766,7 +3751,7 @@
         ],
         "infoLinks": [
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "8831-bba7-bb16-07be",
             "hidden": false,
             "type": "profile",
@@ -3866,7 +3851,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "849e-6508-4cfd-88d3",
             "type": "selectionEntry",
@@ -3888,7 +3873,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Cavalry (Antigrav)",
+                    "$text": "Cavalleria (Antigravitazionale)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -4218,7 +4203,7 @@
         ],
         "infoLinks": [
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "3cbe-b95c-498d-8698",
             "hidden": false,
             "type": "profile",
@@ -4297,7 +4282,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "1968-74fe-4a94-9b31",
             "type": "selectionEntry",
@@ -4316,11 +4301,6 @@
         "profiles": [
           {
             "characteristics": [
-              {
-                "$text": "Questo Potere viene usato nella Fase di Movimento e può consentire all'Unità Bersaglio di muoversi dell'intera distanza di Scatto come un Movimento normale.",
-                "name": "Riepilogo",
-                "typeId": "981f-bb86-6a74-9b20"
-              },
               {
                 "$text": "Il Giocatore Attivo può scegliere di Manifestare il Potere Psionico Richiamo del Vento nella Fase di Movimento, quando seleziona per Muoversi un'Unità sotto il suo controllo che include almeno un Modello con il Tratto Veggente della Tempesta, prima che venga effettuato qualsiasi Movimento per quell'Unità.",
                 "name": "Innesco",
@@ -4517,7 +4497,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Sergeant, Light)",
+                    "$text": "Fanteria (Sergente, Leggero)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -5101,7 +5081,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Light)",
+                    "$text": "Fanteria (Leggero)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -5511,7 +5491,7 @@
             "targetId": "641c-ca0a-7093-4525"
           },
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "c651-fb92-6402-5c00",
             "hidden": false,
             "type": "profile",
@@ -5545,7 +5525,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "15b9-7c17-7494-c33b",
             "type": "selectionEntry",
@@ -5567,7 +5547,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Command, Antigrav)",
+                    "$text": "Fanteria (Comando, Antigravitazionale)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -5744,12 +5724,7 @@
                 "publicationId": "5469-14da-d0a1-6092"
               },
               {
-                "characteristics": [
-                  {
-                    "name": "Descrizione",
-                    "typeId": "d5eb-0b8b-0f26-6233"
-                  }
-                ],
+                "characteristics": [],
                 "modifiers": [
                   {
                     "conditions": [
@@ -6159,7 +6134,7 @@
         ],
         "infoLinks": [
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "a731-957d-9235-a238",
             "hidden": false,
             "type": "profile",
@@ -6214,7 +6189,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "49e0-f183-95df-b214",
             "type": "selectionEntry",
@@ -6236,7 +6211,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Cavalry (Command)",
+                    "$text": "Cavalleria (Comando)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -6446,12 +6421,7 @@
                 "publicationId": "5469-14da-d0a1-6092"
               },
               {
-                "characteristics": [
-                  {
-                    "name": "Descrizione",
-                    "typeId": "d5eb-0b8b-0f26-6233"
-                  }
-                ],
+                "characteristics": [],
                 "modifiers": [
                   {
                     "conditions": [
@@ -7182,7 +7152,7 @@
         ],
         "infoLinks": [
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "3a90-ae87-aa4b-cfbf",
             "hidden": false,
             "type": "profile",
@@ -7357,7 +7327,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "9292-1bca-dbf3-46b7",
             "type": "selectionEntry",
@@ -7406,7 +7376,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Command, Heavy)",
+                    "$text": "Fanteria (Comando, Pesante)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -7494,7 +7464,7 @@
                       }
                     ],
                     "type": "set",
-                    "value": "Infantry (Command)",
+                    "value": "Fanteria (Comando)",
                     "field": "50fc-9241-d4a2-045b"
                   },
                   {
@@ -7659,12 +7629,7 @@
                 "id": "ee00-cb00-284d-5165"
               },
               {
-                "characteristics": [
-                  {
-                    "name": "Descrizione",
-                    "typeId": "d5eb-0b8b-0f26-6233"
-                  }
-                ],
+                "characteristics": [],
                 "modifiers": [
                   {
                     "conditions": [
@@ -8098,7 +8063,7 @@
             "targetId": "641c-ca0a-7093-4525"
           },
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "7bd3-dc22-bd8a-d15a",
             "hidden": false,
             "type": "profile",
@@ -8241,7 +8206,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "af05-fe2c-6236-976b",
             "type": "selectionEntry",
@@ -8264,7 +8229,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Antigrav)",
+                    "$text": "Fanteria (Antigravitazionale)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -8734,7 +8699,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Sergeant, Antigrav)",
+                    "$text": "Fanteria (Sergente, Antigravitazionale)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -9326,7 +9291,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "ad21-ab1a-c1f4-1b76",
             "type": "selectionEntry",
@@ -9447,7 +9412,7 @@
         ],
         "infoLinks": [
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "e5be-4718-4133-5a8b",
             "hidden": false,
             "type": "profile",
@@ -9667,7 +9632,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry",
+                    "$text": "Fanteria",
                     "typeId": "50fc-9241-d4a2-045b",
                     "name": "Tipo"
                   },
@@ -10299,7 +10264,7 @@
         ],
         "infoLinks": [
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "3c3e-c0b6-abcc-6a80",
             "hidden": false,
             "type": "profile",
@@ -10535,7 +10500,7 @@
             "targetId": "5d5e-958f-e388-50b5",
             "id": "a12d-348a-b767-e62a",
             "primary": true,
-            "name": "Reparti Speciali"
+            "name": "Reparto Speciale"
           },
           {
             "targetId": "ad95-5dc4-7b15-8ff3",
@@ -10755,11 +10720,6 @@
       {
         "characteristics": [
           {
-            "$text": "\"Il Giocatore delle Furie Bianche può aumentare la Caratteristica Movimento del suo Modello.\"",
-            "name": "Riepilogo",
-            "typeId": "98f3-41cf-e3be-2ae7"
-          },
-          {
             "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Il Sentiero del Guerriero: prima di effettuare il Tiro Concentrazione, il Giocatore Controllante deve dichiarare una scelta tra “Colpire Basso”, prevedendo che il risultato del Tiro Concentrazione successivo sia 1-3, o “Colpire Alto”, prevedendo che il risultato del Tiro Concentrazione successivo sia 4-6, prima che vengano applicati eventuali modificatori. Se il risultato del Tiro Concentrazione corrisponde alla sua scelta, può ignorare tutti i modificatori negativi e applicare solo quelli positivi al suo Tiro Concentrazione. Reazione Avanzata Inseguendo il vento Attivazione: Passaggio 2 della Sottofase di Movimento, se un’Unità nemica termina un movimento entro 12\" e nella Linea di Vista di un’Unità che includa solo modelli con il Tratto Furie Bianche sotto il controllo del Giocatore Reattivo. Costo: 1 Punto Reazione. Bersaglio: L’Unità il cui Movimento ha attivato la Reazione Avanzata. L’Unità Reattiva è un’Unità che includa solo Modelli con il Tratto Furie Bianche sotto il controllo del Giocatore Reattivo, che si trovi entro 12\" e abbia una Linea di Vista verso l’Unità Bersaglio. Procedura: Una volta che l’Unità Bersaglio ha completato il suo Movimento, il Giocatore Reattivo può effettuare un normale movimento con l’Unità Reattiva. Una volta che l’Unità Reattiva ha completato questo Movimento, il Giocatore Attivo deve procedere con il resto della sua Fase di Movimento. Distaccamenti Addizionali Banda di Guerra Chogoriana Distaccamento Ausiliario 1 Riquadro Supporto Leggero (Primario); 1 Riquadro Supporto Leggero; 2 Riquadri Ricognizione. I Riquadri Supporto Leggero in questo Distaccamento possono essere utilizzati solo per selezionare Unità di Squadrone di Scimitar. I Riquadri Ricognizione in questo Distaccamento possono essere utilizzati solo per selezionare Unità di Squadrone di Motociclisti.",
             "name": "Descrizione",
             "typeId": "2d7d-b1d9-dead-605a"
@@ -10817,11 +10777,6 @@
                   {
                     "characteristics": [
                       {
-                        "$text": "Il Giocatore Controllante può tentare la sorte per ottenere un bonus al Tiro Concentrazione.",
-                        "name": "Riepilogo",
-                        "typeId": "98f3-41cf-e3be-2ae7"
-                      },
-                      {
                         "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Il Sentiero del Guerriero: prima di effettuare il Tiro Concentrazione, il Giocatore Controllante deve dichiarare una scelta tra “Colpire Basso”, prevedendo che il risultato del Tiro Concentrazione successivo sia 1-3, o “Colpire Alto”, prevedendo che il risultato del Tiro Concentrazione successivo sia 4-6, prima che vengano applicati eventuali modificatori. Se il risultato del Tiro Concentrazione corrisponde alla sua scelta, può ignorare tutti i modificatori negativi e applicare solo quelli positivi al suo Tiro Concentrazione. Reazione Avanzata Inseguendo il vento Attivazione: Passaggio 2 della Sottofase di Movimento, se un’Unità nemica termina un movimento entro 12\" e nella Linea di Vista di un’Unità che includa solo modelli con il Tratto Furie Bianche sotto il controllo del Giocatore Reattivo. Costo: 1 Punto Reazione. Bersaglio: L’Unità il cui Movimento ha attivato la Reazione Avanzata. L’Unità Reattiva è un’Unità che includa solo Modelli con il Tratto Furie Bianche sotto il controllo del Giocatore Reattivo, che si trovi entro 12\" e abbia una Linea di Vista verso l’Unità Bersaglio. Procedura: Una volta che l’Unità Bersaglio ha completato il suo Movimento, il Giocatore Reattivo può effettuare un normale movimento con l’Unità Reattiva. Una volta che l’Unità Reattiva ha completato questo Movimento, il Giocatore Attivo deve procedere con il resto della sua Fase di Movimento. Distaccamenti Addizionali Banda di Guerra Chogoriana Distaccamento Ausiliario 1 Riquadro Supporto Leggero (Primario); 1 Riquadro Supporto Leggero; 2 Riquadri Ricognizione. I Riquadri Supporto Leggero in questo Distaccamento possono essere utilizzati solo per selezionare Unità di Squadrone di Scimitar. I Riquadri Ricognizione in questo Distaccamento possono essere utilizzati solo per selezionare Unità di Squadrone di Motociclisti.",
                         "name": "Descrizione",
                         "typeId": "2d7d-b1d9-dead-605a"
@@ -10863,11 +10818,6 @@
                 "profiles": [
                   {
                     "characteristics": [
-                      {
-                        "$text": "Questa Reazione Avanzata consente al Giocatore Controllante di effettuare un Movimento aggiuntivo con l'Unità Reattiva.",
-                        "name": "Riepilogo",
-                        "typeId": "5d02-0e54-0f6a-0f0b"
-                      },
                       {
                         "$text": "Passaggio 2 della Sottofase di Movimento, se un’Unità nemica termina un movimento entro 12\" e nella Linea di Vista di un’Unità che includa solo modelli con il Tratto Furie Bianche sotto il controllo del Giocatore Reattivo.",
                         "name": "Innesco",
@@ -10945,6 +10895,8 @@
     "authorContact": "https://github.com/BSData/horus-heresy-3rd-edition/issues",
     "authorName": "The4D6",
     "battleScribeVersion": 2.03,
-    "type": "catalogue"
+    "type": "catalogue",
+    "categoryEntries": [],
+    "costTypes": []
   }
 }

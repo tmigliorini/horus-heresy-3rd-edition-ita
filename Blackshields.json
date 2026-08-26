@@ -99,7 +99,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Command, Unique)",
+                    "$text": "Fanteria (Comando, Unico)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -180,7 +180,7 @@
                     "modifiers": [
                       {
                         "type": "replace",
-                        "value": "Automata",
+                        "value": "Automa",
                         "field": "50fc-9241-d4a2-045b",
                         "arg": "Infantry"
                       }
@@ -411,7 +411,7 @@
         ],
         "infoLinks": [
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "90eb-1760-d063-1958",
             "hidden": false,
             "type": "profile",
@@ -432,11 +432,11 @@
             "targetId": "6cd2-96be-b703-6d57"
           },
           {
-            "comment": "World Eaters",
+            "comment": "Divoratori di Mondi",
             "modifiers": [
               {
                 "type": "replace",
-                "value": "World Eaters",
+                "value": "Divoratori di Mondi",
                 "field": "name",
                 "arg": "X"
               }
@@ -533,11 +533,6 @@
           {
             "characteristics": [
               {
-                "$text": "Questo Gambetto consente a Endryd Haar di effettuare un singolo attacco con Forza maggiore e che causa più Danno.",
-                "name": "Riepilogo",
-                "typeId": "98f3-41cf-e3be-2ae7"
-              },
-              {
                 "$text": "se un Modello con questa Regola Speciale lancia o accetta una Sfida, il Giocatore Controllante segna 1 Punto Vittoria;\nnessuno dei due Giocatori può guadagnare Punti Vittoria per la Rimozione come Perdita di questo Modello.\n\n\n\nRegole Speciali\nZanne dell’Imperatore\nSe Endryd Haar è selezionato come unica Scelta Alto Comando in un Distaccamento Primario, tutte le Unità di quel Distaccamento Primario composte interamente da Modelli con il Tratto Scudi Neri, con il Tipo Fanteria e che non hanno alcuna variante della Regola Speciale Imponente (X) ottengono la Regola Speciale Infiltrazione (12).\nIl Segugio Spaccato\nMentre un Modello con questa Regola Speciale è Ingaggiato in una Sfida, il suo Giocatore Controllante Gambetto: Il Segugio Spaccato: se questo Gambetto è selezionato, il Giocatore Controllante può effettuare un solo attacco nel Passaggio di Attacco per il Modello per cui è stato selezionato il Gambetto, a prescindere dal valore della Caratteristica Attacchi di quel Modello, guadagnando per tale attacco un +4 alla Caratteristica Forza e +2 alla Caratteristica Danni dell’Arma selezionata. Cavalieri Erranti Il Tratto Cavalieri Erranti è considerato un Tratto di Fazione allo stesso modo del Tratto [Legiones Astartes] e degli altri Tratti che possono essere selezionati per sostituirlo.",
                 "name": "Descrizione",
                 "typeId": "2d7d-b1d9-dead-605a"
@@ -571,7 +566,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "c0b5-d327-8e86-9c6f",
             "type": "selectionEntry",
@@ -1997,11 +1992,6 @@
                   {
                     "characteristics": [
                       {
-                        "$text": "Se ucciso dal Modello avversario, D3 ferite vengono inflitte a quel Modello.",
-                        "name": "Riepilogo",
-                        "typeId": "98f3-41cf-e3be-2ae7"
-                      },
-                      {
                         "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il Giocatore Controllante può selezionare il seguente Gambetto: Schiavi di Nessuno: questo Gambetto può essere selezionato solo in una Sfida in cui il Modello avversario abbia il Tratto Unico o il Tipo Esemplare. Se il Modello che ha scelto questo Gambetto viene Rimosso come Perdita durante il Passaggio di Attacco, vengono inflitte automaticamente D3 ferite al Modello avversario alla fine del seguente Passaggio della Gloria, risolte con VP e Danno dell’Arma impiegata dal Modello per cui è stato scelto questo Gambetto.",
                         "name": "Descrizione",
                         "typeId": "2d7d-b1d9-dead-605a"
@@ -2110,6 +2100,8 @@
     "gameSystemRevision": 54,
     "revision": 3,
     "battleScribeVersion": 2.03,
-    "type": "catalogue"
+    "type": "catalogue",
+    "categoryEntries": [],
+    "costTypes": []
   }
 }

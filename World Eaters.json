@@ -8,7 +8,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Paragon (Unique)",
+                    "$text": "Esemplare (Unico)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -169,11 +169,6 @@
             "profiles": [
               {
                 "characteristics": [
-                  {
-                    "$text": "Angron may fight successive Challenges in a Turn",
-                    "name": "Riepilogo",
-                    "typeId": "98f3-41cf-e3be-2ae7"
-                  },
                   {
                     "$text": "All'inizio del Passaggio della Gloria di una Sfida che coinvolga un Modello con questa Regola Speciale e di cui è lo Sfidante, il Giocatore che controlla il Modello con questa Regola Speciale può scegliere di tornare immediatamente al Passaggio Dichiarare la Sfida e dichiarare un'altra Sfida.\nI Modelli nemici che hanno già combattuto in una Sfida durante questa Sottofase non possono partecipare a questa Sfida aggiuntiva.\nQuando il Passaggio della Gloria di questa Sottofase di Sfida viene risolto, i Giocatori ottengono Punti Risoluzione Combattimento per tutte le Sfide risolte durante questa Sottofase.",
                     "name": "Descrizione",
@@ -386,7 +381,7 @@
         ],
         "infoLinks": [
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "5010-6939-32d7-946e",
             "hidden": false,
             "type": "profile",
@@ -535,7 +530,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Champion, Sergeant)",
+                    "$text": "Fanteria (Campione, Sergente)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -936,7 +931,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry",
+                    "$text": "Fanteria",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -1215,7 +1210,7 @@
             "targetId": "530f-b733-993c-ec84"
           },
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "1a54-8017-9224-7fb4",
             "hidden": false,
             "type": "profile",
@@ -1296,7 +1291,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "75e2-c52e-dc2b-cf89",
             "type": "selectionEntry",
@@ -1351,7 +1346,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Sergeant, Heavy)",
+                    "$text": "Fanteria (Sergente, Pesante)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -2152,7 +2147,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Heavy)",
+                    "$text": "Fanteria (Pesante)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -2582,7 +2577,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "cfc6-8bd4-e931-696c",
             "type": "selectionEntry",
@@ -2633,7 +2628,7 @@
             "targetId": "15b4-9e4a-f361-c5a3"
           },
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "29f3-fb5c-225f-39c0",
             "hidden": false,
             "type": "profile",
@@ -2692,7 +2687,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Unique, Sergeant, Specialist)",
+                    "$text": "Fanteria (Unico, Sergente, Specialista)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -3090,7 +3085,7 @@
         ],
         "infoLinks": [
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "cc73-35b3-21bd-346e",
             "hidden": false,
             "type": "profile",
@@ -3136,7 +3131,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "46ca-476d-d8b5-66fb",
             "type": "selectionEntry",
@@ -3158,10 +3153,6 @@
         "profiles": [
           {
             "characteristics": [
-              {
-                "name": "Riepilogo",
-                "typeId": "5d02-0e54-0f6a-0f0b"
-              },
               {
                 "$text": "il Giocatore Reattivo può dichiarare questa Reazione Avanzata “Cannoni della Conqueror” nel Passaggio 2 della Sottofase di Movimento, se un’Unità nemica termina un movimento entro 24\" e Linea di Vista da qualsiasi Modello di un’Unità sotto il Controllo del Giocatore Reattivo che includa un Modello con la Regola Speciale Cannoni della Conqueror per il quale sia stata selezionata l’opzione “Annientare” nella Sottofase degli Effetti della sua precedente Fase Iniziale.",
                 "name": "Innesco",
@@ -3250,7 +3241,7 @@
         ],
         "infoLinks": [
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "95ec-bb63-a37c-bfba",
             "hidden": false,
             "type": "profile",
@@ -3346,7 +3337,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Paragon (Unique, Antigrav, Malefic)",
+                    "$text": "Esemplare (Unico, Antigravitazionale, Malefico)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -3717,7 +3708,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Unique, Command)",
+                    "$text": "Fanteria (Unico, Comando)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -3874,7 +3865,7 @@
             "targetId": "4fbd-e0bc-8f72-6e3f"
           },
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "db25-0a02-d081-0934",
             "hidden": false,
             "type": "profile",
@@ -3989,7 +3980,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "7888-b09c-49fd-a07d",
             "type": "selectionEntry",
@@ -4402,7 +4393,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry",
+                    "$text": "Fanteria",
                     "typeId": "50fc-9241-d4a2-045b",
                     "name": "Tipo"
                   },
@@ -4815,7 +4806,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Sergeant)",
+                    "$text": "Fanteria (Sergente)",
                     "typeId": "50fc-9241-d4a2-045b",
                     "name": "Tipo"
                   },
@@ -5266,7 +5257,7 @@
             "id": "9bc4-ac6c-4b2a-b9ee"
           },
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "9a0d-f7b0-edcd-203d",
             "hidden": false,
             "type": "profile",
@@ -5374,7 +5365,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "cfd0-c637-5638-5ba2",
             "type": "selectionEntry",
@@ -5409,7 +5400,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Antigrav)",
+                    "$text": "Fanteria (Antigravitazionale)",
                     "typeId": "50fc-9241-d4a2-045b",
                     "name": "Tipo"
                   },
@@ -5827,7 +5818,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry (Sergeant, Antigrav)",
+                    "$text": "Fanteria (Sergente, Antigravitazionale)",
                     "typeId": "50fc-9241-d4a2-045b",
                     "name": "Tipo"
                   },
@@ -6266,7 +6257,7 @@
             "id": "521c-dd85-4827-943e"
           },
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "74de-a466-954e-fdaa",
             "hidden": false,
             "type": "profile",
@@ -6374,7 +6365,7 @@
               }
             ],
             "import": true,
-            "name": "Unità Primaria",
+            "name": "Vantaggio Primario",
             "hidden": false,
             "id": "4bc8-83ec-32d0-b52d",
             "type": "selectionEntry",
@@ -6409,7 +6400,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Infantry",
+                    "$text": "Fanteria",
                     "typeId": "50fc-9241-d4a2-045b",
                     "name": "Tipo"
                   },
@@ -7139,7 +7130,7 @@
         ],
         "infoLinks": [
           {
-            "name": "[Allegiance]",
+            "name": "[Alleanza]",
             "id": "ad14-f3d2-f0e4-bc36",
             "hidden": false,
             "type": "profile",
@@ -7306,11 +7297,6 @@
                   {
                     "characteristics": [
                       {
-                        "$text": "Questo Gambetto consente al Giocatore Controllante di segnare Punti Risoluzione Combattimento aggiuntivi se è il vincitore di una Sfida.",
-                        "name": "Riepilogo",
-                        "typeId": "98f3-41cf-e3be-2ae7"
-                      },
-                      {
                         "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Smembramento Brutale: se il Modello nemico viene Rimosso come Perdita durante il Passaggio di Attacco, durante il successivo Passaggio della Gloria il Giocatore Controllante ottiene 2 Punti Risoluzione Combattimento aggiuntivi. Reazione Avanzata Carica Furiosa Attivazione: Alla fine del Passaggio 4 di una Carica dichiarata dal Giocatore Attivo che prenda di mira un’Unità che includa solo modelli con il Tratto Divoratori di Mondi, se almeno un qualsiasi Modello nell’Unità Bersaglio sia stato Rimosso come Perdita a seguito degli Attacchi a Raffica. Costo: 1 Punto Reazione. Bersaglio: l’Unità la cui Carica ha innescato la Reazione. L’Unità Reattiva è l’Unità che è stata dichiarata come bersaglio della Carica che ha innescato questa Reazione. Procedura: Una volta dichiarata questa Reazione, l’Unità Bersaglio diventa Persa nei Chiodi. Il Giocatore Reattivo deve quindi effettuare un Tiro di Carica per l’Unità Reattiva. Se il risultato del Tiro di Carica è sufficiente a muovere un qualsiasi Modello dell’Unità Reattiva a contatto di Base con un Modello dell’Unità Bersaglio, allora viene effettuato un Movimento di Carica e le Unità vengono Bloccate in Combattimento. I Modelli dell’Unità Reattiva ottengono tutti i bonus per le Regole Speciali che si applicherebbero a quell’Unità in seguito a una Carica riuscita. Se il risultato del Tiro di Carica non porta alcun Modello dell’Unità Reattiva a contatto con un Modello dell’Unità Bersaglio, allora non viene effettuato alcun Movimento di Carica e i Giocatori procedono al Passaggio 5 del processo di Carica. Distaccamenti Addizionali Figli di Bodt Distaccamento Ausiliario 2 Riquadri Supporto (Primario); 3 Riquadri Truppe. I Riquadri Supporto in questo Distaccamento possono essere utilizzati solo per selezionare Unità di Apotecario.",
                         "name": "Descrizione",
                         "typeId": "2d7d-b1d9-dead-605a"
@@ -7352,11 +7338,6 @@
                 "profiles": [
                   {
                     "characteristics": [
-                      {
-                        "$text": "Questa Reazione consente all'Unità Reattiva di diventare Persa nei Chiodi dopo il Passaggio degli Attacchi a Raffica di una Carica.",
-                        "name": "Riepilogo",
-                        "typeId": "5d02-0e54-0f6a-0f0b"
-                      },
                       {
                         "$text": "Alla fine del Passaggio 4 di una Carica dichiarata dal Giocatore Attivo che prenda di mira un’Unità che includa solo modelli con il Tratto Divoratori di Mondi, se almeno un qualsiasi Modello nell’Unità Bersaglio sia stato Rimosso come Perdita a seguito degli Attacchi a Raffica.",
                         "name": "Innesco",
@@ -7499,11 +7480,6 @@
                   {
                     "characteristics": [
                       {
-                        "$text": "Questo Gambetto consente di assegnare ferite aggiuntive ai Modelli nemici al di fuori della Sfida quando l'avversario viene Rimosso come Perdita.",
-                        "name": "Riepilogo",
-                        "typeId": "98f3-41cf-e3be-2ae7"
-                      },
-                      {
                         "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Violenza Eccessiva: se questo Gambetto viene selezionato, quando questo Modello effettua attacchi durante il Passaggio di Attacco, se l’altro Modello coinvolto nella Sfida viene Rimosso come Perdita, tutte le ferite rimanenti devono essere invece assegnate ad altri Modelli nemici idonei nello stesso Combattimento.",
                         "name": "Descrizione",
                         "typeId": "2d7d-b1d9-dead-605a"
@@ -7545,11 +7521,6 @@
                 "profiles": [
                   {
                     "characteristics": [
-                      {
-                        "$text": "Questa Reazione consente all'Unità Reattiva di effettuare una Carica verso un'Unità che la prende di mira con un Attacco a Distanza.",
-                        "name": "Riepilogo",
-                        "typeId": "5d02-0e54-0f6a-0f0b"
-                      },
                       {
                         "$text": "una volta per Battaglia, durante il Passaggio 4 di un Attacco a Distanza dichiarato dal Giocatore Attivo che prenda di mira un’Unità che includa solo modelli con il Tratto Divoratori di Mondi e non abbia il tipo Veicolo.",
                         "name": "Innesco",
@@ -7771,7 +7742,7 @@
             "targetId": "5d5e-958f-e388-50b5",
             "id": "1c2f-c622-90a0-13f9",
             "primary": true,
-            "name": "Reparti Speciali"
+            "name": "Reparto Speciale"
           },
           {
             "targetId": "48b7-17a8-eaf4-d6c2",
@@ -7875,7 +7846,7 @@
             "targetId": "5d5e-958f-e388-50b5",
             "id": "9467-e409-87f4-6345",
             "primary": true,
-            "name": "Reparti Speciali"
+            "name": "Reparto Speciale"
           }
         ],
         "import": true,
@@ -7891,7 +7862,7 @@
             "targetId": "5d5e-958f-e388-50b5",
             "id": "7484-00c1-b41c-fbc3",
             "primary": true,
-            "name": "Reparti Speciali"
+            "name": "Reparto Speciale"
           }
         ],
         "import": true,
@@ -7929,6 +7900,8 @@
     "authorContact": "https://github.com/BSData/horus-heresy-3rd-edition/issues",
     "authorName": "The4D6",
     "battleScribeVersion": 2.03,
-    "type": "catalogue"
+    "type": "catalogue",
+    "categoryEntries": [],
+    "costTypes": []
   }
 }
