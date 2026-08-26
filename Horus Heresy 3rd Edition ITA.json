@@ -120,7 +120,7 @@
             ],
             "name": "Sottotipo Comando",
             "id": "2126-084e-d5d1-9cca",
-            "hidden": false
+            "hidden": true
           }
         ],
         "name": "Sottotipo Comando",
@@ -136,7 +136,7 @@
             ],
             "name": "Sottotipo Unico",
             "id": "b7cc-6abd-53c9-09c3",
-            "hidden": false,
+            "hidden": true,
             "publicationId": "7d63-5df4-c656-52de",
             "page": 176
           }
@@ -154,7 +154,7 @@
             ],
             "name": "Sottotipo Campione",
             "id": "489d-a88d-0153-d5af",
-            "hidden": false,
+            "hidden": true,
             "publicationId": "7d63-5df4-c656-52de",
             "page": 176
           }
@@ -169,7 +169,7 @@
             "description": "Un Modello con il Sottotipo Specialista può aggregarsi e lasciare Unità.",
             "name": "Sottotipo Specialista",
             "id": "8bee-6db5-247e-3634",
-            "hidden": false,
+            "hidden": true,
             "publicationId": "7d63-5df4-c656-52de",
             "page": 177
           }
@@ -187,7 +187,7 @@
             ],
             "name": "Sottotipo Sergente",
             "id": "3888-5604-8695-720e",
-            "hidden": false,
+            "hidden": true,
             "publicationId": "7d63-5df4-c656-52de",
             "page": 177
           }
@@ -205,7 +205,7 @@
             ],
             "name": "Sottotipo Pesante",
             "id": "c625-7b16-7ceb-d4cb",
-            "hidden": false,
+            "hidden": true,
             "publicationId": "7d63-5df4-c656-52de",
             "page": 177
           }
@@ -223,7 +223,7 @@
             ],
             "name": "Sottotipo Leggero",
             "id": "f7b0-5312-7f4e-96c4",
-            "hidden": false,
+            "hidden": true,
             "publicationId": "7d63-5df4-c656-52de",
             "page": 177
           }
@@ -241,7 +241,7 @@
             ],
             "name": "Sottotipo Schermagliatore",
             "id": "8745-f111-ed89-1357",
-            "hidden": false,
+            "hidden": true,
             "publicationId": "7d63-5df4-c656-52de",
             "page": 178
           }
@@ -259,7 +259,7 @@
             ],
             "name": "Sottotipo Antigravitazionale",
             "id": "6568-dcd0-c748-2d3b",
-            "hidden": false,
+            "hidden": true,
             "publicationId": "7d63-5df4-c656-52de",
             "page": 178
           }
@@ -277,7 +277,7 @@
             ],
             "name": "Sottotipo Trasporto",
             "id": "5227-a434-167a-12ba",
-            "hidden": false,
+            "hidden": true,
             "publicationId": "7d63-5df4-c656-52de",
             "page": 178
           }
@@ -295,7 +295,7 @@
             ],
             "name": "Tipo Fanteria",
             "id": "6740-4d5b-fca0-ba1f",
-            "hidden": false,
+            "hidden": true,
             "publicationId": "7d63-5df4-c656-52de",
             "page": 174
           }
@@ -315,7 +315,7 @@
             ],
             "name": "Tipo Cavalleria",
             "id": "f051-0d1e-c7c2-c92e",
-            "hidden": false,
+            "hidden": true,
             "publicationId": "7d63-5df4-c656-52de",
             "page": 174
           }
@@ -335,7 +335,7 @@
             ],
             "name": "Tipo Camminatore",
             "id": "55d4-fd0c-cbdb-a25a",
-            "hidden": false,
+            "hidden": true,
             "publicationId": "7d63-5df4-c656-52de",
             "page": 174
           }
@@ -355,7 +355,7 @@
             ],
             "name": "Tipo Esemplare",
             "id": "3abd-0aed-12ad-8b4f",
-            "hidden": false,
+            "hidden": true,
             "publicationId": "7d63-5df4-c656-52de",
             "page": 175
           }
@@ -375,7 +375,7 @@
             ],
             "name": "Tipo Automa",
             "id": "a7d3-aaa8-8179-33d1",
-            "hidden": false
+            "hidden": true
           }
         ],
         "name": "Tipo Automa",
@@ -440,7 +440,7 @@
             "description": "Le seguenti regole si applicano a tutti i Modelli con il Sottotipo Rapido: ● Un Modello con questo Sottotipo può effettuare uno Scatto, muovendosi di una distanza addizionale pari a 6\"; ● Nel turno in cui ha effettuato uno Scatto, un Modello con questo Sottotipo può comunque effettuare Attacchi a Distanza, ma sono risolti come Colpi Alla Cieca e non può effettuare molteplici Attacchi a Distanza nella stessa Fase.",
             "name": "Sottotipo Rapido",
             "id": "8872-e95d-dcd2-19d5",
-            "hidden": false
+            "hidden": true
           }
         ],
         "name": "Sottotipo Rapido",
@@ -476,7 +476,7 @@
             ],
             "name": "Sottotipo Superpesante",
             "id": "17e4-e94d-099b-f44b",
-            "hidden": false
+            "hidden": true
           }
         ],
         "name": "Sottotipo Superpesante",
@@ -492,7 +492,7 @@
             ],
             "name": "Sottotipo Velivolo",
             "id": "ff09-959b-1777-c8b9",
-            "hidden": false
+            "hidden": true
           }
         ],
         "name": "Sottotipo Velivolo",
@@ -508,7 +508,7 @@
             ],
             "name": "Sottotipo Stabile",
             "id": "8610-6657-7e74-38fd",
-            "hidden": false,
+            "hidden": true,
             "publicationId": "7d63-5df4-c656-52de",
             "page": 223
           }
@@ -541,7 +541,7 @@
             ],
             "name": "Sottotipo Malefico",
             "id": "56af-aee5-210b-7093",
-            "hidden": false,
+            "hidden": true,
             "publicationId": "e54c-7040-0f35-d85d",
             "page": 18
           }
@@ -1316,7 +1316,7 @@
             ],
             "name": "Tipo di Modello Artificia",
             "id": "1262-6cfa-8d01-ff15",
-            "hidden": false
+            "hidden": true
           }
         ],
         "name": "Tipo di Modello Artificia",
@@ -91701,7 +91701,7 @@
     "id": "sys-b976-0013-2f97-437b",
     "name": "Horus Heresy 3ª Edizione ITA",
     "battleScribeVersion": 2.03,
-    "revision": 60,
+    "revision": 61,
     "type": "gameSystem",
     "authorName": "The4D6",
     "authorContact": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita/issues",
