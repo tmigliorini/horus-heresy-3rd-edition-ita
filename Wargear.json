@@ -6,7 +6,7 @@
           {
             "characteristics": [
               {
-                "$text": "Finché un Modello con uno strato-vox è sul Campo di Battaglia, prima di effettuare un Tiro Riserve per un’Unità in Riserva che include solo Modelli con la Regola Speciale Attacco in Profondità, il Giocatore Controllante può scegliere di attivare quello strato-vox. In tal caso, il Tiro Riserve ha automaticamente successo, ma l’Unità per cui è stato effettuato deve effettuare un Attacco in Profondità invece di schierarsi normalmente.",
+                "$text": "Finché un Modello con uno strato-vox è sul Campo di Battaglia, prima di effettuare un Tiro Riserve per un’Unità in Riserva che include solo Modelli con la Regola Speciale Attacco in Profondità, il Giocatore Controllante può scegliere di attivare quello strato-vox.\nIn tal caso, il Tiro Riserve ha automaticamente successo, ma l’Unità per cui è stato effettuato deve effettuare un Attacco in Profondità invece di schierarsi normalmente.",
                 "name": "Descrizione",
                 "typeId": "9944-2f6d-d61b-03b5"
               }
@@ -114,7 +114,7 @@
           {
             "characteristics": [
               {
-                "$text": "Un Modello con un Campo di diffrazione termica riduce di -1 la Forza di tutti i Colpi inflitti su di lui da Armi con il Tratto Laser, Plasma, Termico e Fiamma. Inoltre, quando un Modello con un Campo di diffrazione termica genera Gruppi di Malfunzionamento per effetto della Regola Speciale Surriscaldamento (X), qualunque istanza della Regola Speciale Perforante (X) su quei Colpi avrà effetto solo con un risultato di 6+ al Tiro per Ferire.",
+                "$text": "Un Modello con un Campo di diffrazione termica riduce di -1 la Forza di tutti i Colpi inflitti su di lui da Armi con il Tratto Laser, Plasma, Termico e Fiamma.\nInoltre, quando un Modello con un Campo di diffrazione termica genera Gruppi di Malfunzionamento per effetto della Regola Speciale Surriscaldamento (X), qualunque istanza della Regola Speciale Perforante (X) su quei Colpi avrà effetto solo con un risultato di 6+ al Tiro per Ferire.",
                 "name": "Descrizione",
                 "typeId": "9944-2f6d-d61b-03b5"
               }
@@ -160,7 +160,7 @@
           {
             "characteristics": [
               {
-                "$text": "Un modello con Faro di teletrasporto Saturnino guadagna la Regola Speciale Attacco in Profondità. Finché questo Modello è aggregato a un’Unità di Squadra Terminator Saturnina che si trova nelle Riserve, anche i Modelli di Terminator Saturnino e Sergente Terminator Saturnino appartenenti a quell’Unità acquisiscono la Regola Speciale Attacco in Profondità.",
+                "$text": "Un modello con Faro di teletrasporto Saturnino guadagna la Regola Speciale Attacco in Profondità.\nFinché questo Modello è aggregato a un’Unità di Squadra Terminator Saturnina che si trova nelle Riserve, anche i Modelli di Terminator Saturnino e Sergente Terminator Saturnino appartenenti a quell’Unità acquisiscono la Regola Speciale Attacco in Profondità.",
                 "name": "Descrizione",
                 "typeId": "9944-2f6d-d61b-03b5"
               }
@@ -206,7 +206,7 @@
           {
             "characteristics": [
               {
-                "$text": "Durante la Fase Iniziale del proprio Turno, se un’Unità include uno o più Modelli con un Nuncio-vox, e ci sono uno o più Modelli amici con il Sottotipo Comando sul Campo di Battaglia, allora il Giocatore Controllante può attivare il Nuncio-vox. Quando viene attivato, il Giocatore Controllante può effettuare una Prova per rimuovere un singolo Status Tattico da tutti i Modelli dell’Unità che include il Nuncio-vox, utilizzando le appropriate Caratteristiche di un qualsiasi Modello amico sul Campo di Battaglia con il Sottotipo Comando, a scelta del Giocatore Controllante. Un Nuncio-vox può essere attivato solo una volta per Turno, e ciascun Modello amico sul Campo di Battaglia con il Sottotipo Comando può essere usato solo una volta per Fase Iniziale come parte di questa Regola Speciale.",
+                "$text": "Durante la Fase Iniziale del proprio Turno, se un’Unità include uno o più Modelli con un Nuncio-vox, e ci sono uno o più Modelli amici con il Sottotipo Comando sul Campo di Battaglia, allora il Giocatore Controllante può attivare il Nuncio-vox.\nQuando viene attivato, il Giocatore Controllante può effettuare una Prova per rimuovere un singolo Status Tattico da tutti i Modelli dell’Unità che include il Nuncio-vox, utilizzando le appropriate Caratteristiche di un qualsiasi Modello amico sul Campo di Battaglia con il Sottotipo Comando, a scelta del Giocatore Controllante.\nUn Nuncio-vox può essere attivato solo una volta per Turno, e ciascun Modello amico sul Campo di Battaglia con il Sottotipo Comando può essere usato solo una volta per Fase Iniziale come parte di questa Regola Speciale.",
                 "name": "Descrizione",
                 "typeId": "9944-2f6d-d61b-03b5"
               }
@@ -275,7 +275,7 @@
           {
             "characteristics": [
               {
-                "$text": "Anziché effettuare un Attacco a Distanza con un Modello con un Cognis-signum, il Giocatore Controllante può invece effettuare una Prova di Intelligenza. Se la Prova è superata, può selezionare una singola Unità nemica in Linea di Vista dal Modello con il Cognis-signum. La prossima volta che l’Unità nemica selezionata è bersagliata da un Attacco a Distanza che include Armi con la Regola Speciale Bombardamento (X) durante la Fase di Tiro in corso, il Giocatore Controllante può effettuare i Tiri per Colpire per gli attacchi con la Regola Speciale Bombardamento (X) normalmente, ignorando le limitazioni di Bombardamento (X) se l’Unità che effettua l’Attacco a Distanza è senza Linea di Vista verso l’Unità Bersaglio.",
+                "$text": "Anziché effettuare un Attacco a Distanza con un Modello con un Cognis-signum, il Giocatore Controllante può invece effettuare una Prova di Intelligenza.\nSe la Prova è superata, può selezionare una singola Unità nemica in Linea di Vista dal Modello con il Cognis-signum.\nLa prossima volta che l’Unità nemica selezionata è bersagliata da un Attacco a Distanza che include Armi con la Regola Speciale Bombardamento (X) durante la Fase di Tiro in corso, il Giocatore Controllante può effettuare i Tiri per Colpire per gli attacchi con la Regola Speciale Bombardamento (X) normalmente, ignorando le limitazioni di Bombardamento (X) se l’Unità che effettua l’Attacco a Distanza è senza Linea di Vista verso l’Unità Bersaglio.",
                 "name": "Descrizione",
                 "typeId": "9944-2f6d-d61b-03b5"
               }
@@ -298,7 +298,7 @@
           {
             "characteristics": [
               {
-                "$text": "Il Numero Obiettivo di qualsiasi Tiro Mitigazione Ammantato è aumentato di +1 (fino a un massimo di 6+) quando si effettuano Tiri come conseguenza di ferite, Colpi Penetranti o Colpi di Striscio inflitti da Attacchi a Distanza effettuati da un Modello con un Riflettore che ha Linea di Vista sull'Unità Bersaglio. Inoltre, un Modello con un Riflettore non può effettuare Tiri Mitigazione Ammantati per negare ferite, Colpi Penetranti o Colpi di Striscio.",
+                "$text": "Il Numero Obiettivo di qualsiasi Tiro Mitigazione Ammantato è aumentato di +1 (fino a un massimo di 6+) quando si effettuano Tiri come conseguenza di ferite, Colpi Penetranti o Colpi di Striscio inflitti da Attacchi a Distanza effettuati da un Modello con un Riflettore che ha Linea di Vista sull’Unità Bersaglio.\nInoltre, un Modello con un Riflettore non può effettuare Tiri Mitigazione Ammantati per negare ferite, Colpi Penetranti o Colpi di Striscio.",
                 "name": "Descrizione",
                 "typeId": "9944-2f6d-d61b-03b5"
               }
@@ -344,7 +344,7 @@
           {
             "characteristics": [
               {
-                "$text": "Ciascuna Unità che contenga Modelli con un Vessillo ottiene 1 Punto di Risoluzione addizionale quando si risolve un Combattimento nella Sottofase di Risoluzione della Fase di Assalto. Armi a Distanza Armi da Mischia",
+                "$text": "Ciascuna Unità che contenga Modelli con un Vessillo ottiene 1 Punto di Risoluzione addizionale quando si risolve un Combattimento nella Sottofase di Risoluzione della Fase di Assalto.\nArmi a Distanza Armi da Mischia",
                 "name": "Descrizione",
                 "typeId": "9944-2f6d-d61b-03b5"
               }
@@ -367,7 +367,7 @@
           {
             "characteristics": [
               {
-                "$text": "Quando si risolve un Combattimento nella Sottofase di Risoluzione della Fase di Assalto, segna 1 Punto di Risoluzione del Combattimento per ciascuna Unità in quel Combattimento che ha Modelli con uno Stendardo di Compagnia. Inoltre, un Modello con Stendardo di Compagnia conta come 5 Modelli aggiuntivi ai fini del Supporto Esterno in una Sfida.",
+                "$text": "Quando si risolve un Combattimento nella Sottofase di Risoluzione della Fase di Assalto, segna 1 Punto di Risoluzione del Combattimento per ciascuna Unità in quel Combattimento che ha Modelli con uno Stendardo di Compagnia.\nInoltre, un Modello con Stendardo di Compagnia conta come 5 Modelli aggiuntivi ai fini del Supporto Esterno in una Sfida.",
                 "name": "Descrizione",
                 "typeId": "9944-2f6d-d61b-03b5"
               }
@@ -413,7 +413,7 @@
           {
             "characteristics": [
               {
-                "$text": "Il Giocatore che controlla un Modello con un Cyber-famiglio può modificare di -2 i risultati delle Prove di Intelligenza effettuati per quel Modello. Riflettore Contro gli Attacchi a Distanza effettuati da Modelli con un Riflettore che abbia Linea di Vista sull’Unità Bersaglio, il Numero Obiettivo di qualunque Tiro Mitigazione Ammantato è aumentato di +1, fino a un massimo di 6. Un Modello con Riflettore non può effettuare Tiri di Mitigazione Ammantato.",
+                "$text": "Il Giocatore che controlla un Modello con un Cyber-famiglio può modificare di -2 i risultati delle Prove di Intelligenza effettuati per quel Modello.\nRiflettore Contro gli Attacchi a Distanza effettuati da Modelli con un Riflettore che abbia Linea di Vista sull’Unità Bersaglio, il Numero Obiettivo di qualunque Tiro Mitigazione Ammantato è aumentato di +1, fino a un massimo di 6.\nUn Modello con Riflettore non può effettuare Tiri di Mitigazione Ammantato.",
                 "name": "Descrizione",
                 "typeId": "9944-2f6d-d61b-03b5"
               }
@@ -459,7 +459,7 @@
           {
             "characteristics": [
               {
-                "$text": "Quando si risolve un Combattimento nella Sottofase di Risoluzione della Fase di Assalto, segna 2 Punti di Risoluzione del Combattimento per ciascuna Unità in quel Combattimento che ha Modelli con uno Stendardo di Legione. Inoltre, un Modello con Stendardo di Legione conta come 6 Modelli aggiuntivi ai fini del Supporto Esterno in una Sfida.",
+                "$text": "Quando si risolve un Combattimento nella Sottofase di Risoluzione della Fase di Assalto, segna 2 Punti di Risoluzione del Combattimento per ciascuna Unità in quel Combattimento che ha Modelli con uno Stendardo di Legione.\nInoltre, un Modello con Stendardo di Legione conta come 6 Modelli aggiuntivi ai fini del Supporto Esterno in una Sfida.",
                 "name": "Descrizione",
                 "typeId": "9944-2f6d-d61b-03b5"
               }
@@ -482,7 +482,7 @@
           {
             "characteristics": [
               {
-                "$text": "Se un’Unità che include Modelli con un Narthecium non è Bloccata in Combattimento, prima che il Giocatore Controllante effettui una Prova di Caratteristica per quell’Unità durante la Sottofase di Morale, può effettuare un Tiro Recupero per quell’Unità. Se il Tiro Recupero ha successo, può sottrarre -2 dal risultato della Prova di Caratteristica. Può essere effettuato un solo Tiro Recupero per ciascuna Unità in ogni Sottofase di Morale.",
+                "$text": "Se un’Unità che include Modelli con un Narthecium non è Bloccata in Combattimento, prima che il Giocatore Controllante effettui una Prova di Caratteristica per quell’Unità durante la Sottofase di Morale, può effettuare un Tiro Recupero per quell’Unità.\nSe il Tiro Recupero ha successo, può sottrarre -2 dal risultato della Prova di Caratteristica.\nPuò essere effettuato un solo Tiro Recupero per ciascuna Unità in ogni Sottofase di Morale.",
                 "name": "Descrizione",
                 "typeId": "9944-2f6d-d61b-03b5"
               }
@@ -505,7 +505,7 @@
           {
             "characteristics": [
               {
-                "$text": "Un Modello con un’Icona di Alleanza guadagna immediatamente 1 Punto Onore ogni volta che vince una Sfida o è parte di un’Unità che vinca un Combattimento nel quale fosse incluso almeno un Modello nemico che non possegga il Tipo Veicolo. Tutti i Punti Onore guadagnati da un Modello vengono persi qualora lo stesso venga Rimosso come Perdita o faccia parte di un’Unità in cui un Modello ottenga lo Status Tattico Disonorato. Durante il Passaggio Determinare il Vincitore della Sequenza della Missione, il Giocatore Controllante seleziona un singolo Modello amico con un’Icona di Alleanza, ed ottiene un numero di Punti Vittoria pari alla quantità di Punti Onore che quel Modello possiede attualmente.",
+                "$text": "Un Modello con un’Icona di Alleanza guadagna immediatamente 1 Punto Onore ogni volta che vince una Sfida o è parte di un’Unità che vinca un Combattimento nel quale fosse incluso almeno un Modello nemico che non possegga il Tipo Veicolo.\nTutti i Punti Onore guadagnati da un Modello vengono persi qualora lo stesso venga Rimosso come Perdita o faccia parte di un’Unità in cui un Modello ottenga lo Status Tattico Disonorato.\nDurante il Passaggio Determinare il Vincitore della Sequenza della Missione, il Giocatore Controllante seleziona un singolo Modello amico con un’Icona di Alleanza, ed ottiene un numero di Punti Vittoria pari alla quantità di Punti Onore che quel Modello possiede attualmente.",
                 "name": "Descrizione",
                 "typeId": "9944-2f6d-d61b-03b5"
               }
@@ -528,7 +528,7 @@
           {
             "characteristics": [
               {
-                "$text": "Finché un Modello con un relè vox di comando è sul Campo di Battaglia, prima di effettuare un Tiro Riserve per un’Unità in Riserva, il Giocatore Controllante può scegliere che quel Modello attivi il proprio relè vox di comando. Se sceglie di farlo, il Giocatore Attivo può modificare il risultato di quel Tiro Riserve di +1. Nella Sottofase degli Effetti nella Fase Iniziale, il Giocatore che Controlla un Modello con un relè vox di comando può effettuare una Prova di Intelligenza per quel Modello, utilizzando una Caratteristica di Intelligenza pari a 8 qualora il Modello abbia il Tipo Veicolo. Se la Prova ha successo, il Giocatore Controllante può selezionare un’Unità amica che includa solo Modelli con lo stesso Tratto di Fazione del Modello con il relè vox di comando, e selezionare uno dei seguenti effetti, che dura fino alla fine di questo Turno: i Modelli di quell’Unità ottengono la Regola Speciale Linea (1) e perdono la Regola Speciale Avanguardia (X), se la possedevano; i Modelli di quell’Unità ottengono la Regola Speciale Avanguardia (1) e perdono la Regola Speciale Linea (X) se la possedevano.",
+                "$text": "Finché un Modello con un relè vox di comando è sul Campo di Battaglia, prima di effettuare un Tiro Riserve per un’Unità in Riserva, il Giocatore Controllante può scegliere che quel Modello attivi il proprio relè vox di comando.\nSe sceglie di farlo, il Giocatore Attivo può modificare il risultato di quel Tiro Riserve di +1.\nNella Sottofase degli Effetti nella Fase Iniziale, il Giocatore che Controlla un Modello con un relè vox di comando può effettuare una Prova di Intelligenza per quel Modello, utilizzando una Caratteristica di Intelligenza pari a 8 qualora il Modello abbia il Tipo Veicolo.\nSe la Prova ha successo, il Giocatore Controllante può selezionare un’Unità amica che includa solo Modelli con lo stesso Tratto di Fazione del Modello con il relè vox di comando, e selezionare uno dei seguenti effetti, che dura fino alla fine di questo Turno:\n• i Modelli di quell’Unità ottengono la Regola Speciale Linea (1) e perdono la Regola Speciale Avanguardia (X), se la possedevano;\n• i Modelli di quell’Unità ottengono la Regola Speciale Avanguardia (1) e perdono la Regola Speciale Linea (X) se la possedevano.",
                 "name": "Descrizione",
                 "typeId": "9944-2f6d-d61b-03b5"
               }
@@ -610,7 +610,7 @@
           {
             "characteristics": [
               {
-                "$text": "Tutti i Modelli di un’Unità che includa Modelli con un Cyber-falco ottengono la Regola Speciale Movimento in Copertura. Vantaggio Primario Il Sagyar Mazan Questo Vantaggio Primario può essere selezionato solo per un’Unità di Tipo Fanteria o Cavalleria con il Tratto Furie Bianche. Tutti i Modelli di quell’Unità ottengono la Regola Speciale Sacrificabile (2).",
+                "$text": "Tutti i Modelli di un’Unità che includa Modelli con un Cyber-falco ottengono la Regola Speciale Movimento in Copertura.\nVantaggio Primario Il Sagyar Mazan Questo Vantaggio Primario può essere selezionato solo per un’Unità di Tipo Fanteria o Cavalleria con il Tratto Furie Bianche.\nTutti i Modelli di quell’Unità ottengono la Regola Speciale Sacrificabile (2).",
                 "name": "Descrizione",
                 "typeId": "9944-2f6d-d61b-03b5"
               }
@@ -636,7 +636,7 @@
               {
                 "name": "Descrizione",
                 "typeId": "9944-2f6d-d61b-03b5",
-                "$text": "I Modelli che si trovano interamente entro 3\" da questo Modello hanno un Tiro Invulnerabilità di 5+ contro gli Attacchi a Distanza. Questa unità può essere selezionata unicamente qualora espressamente previsto da una Regola Speciale, un Equipaggiamento o un Distaccamento."
+                "$text": "I Modelli che si trovano interamente entro 3\" da questo Modello hanno un Tiro Invulnerabilità di 5+ contro gli Attacchi a Distanza.\nQuesta unità può essere selezionata unicamente qualora espressamente previsto da una Regola Speciale, un Equipaggiamento o un Distaccamento."
               }
             ],
             "name": "Pavese Atomantico",
@@ -682,7 +682,7 @@
                 "typeId": "6a9d-4feb-065a-33e7"
               },
               {
-                "$text": "Impatto (AP), Perforante (5+)",
+                "$text": "Impatto (VP), Perforante (5+)",
                 "name": "Regole Speciali",
                 "typeId": "ebe0-7b28-b40c-694e"
               },
@@ -759,7 +759,7 @@
           {
             "characteristics": [
               {
-                "$text": "Un Modello con Reattori dorsali Corvid ha la sua Caratteristica di Movimento impostata a 14, sostituisce qualsiasi istanza della Regola Speciale Imponente (X) con Imponente (3), e supera automaticamente qualsiasi Test di Terreno Pericoloso. Vantaggio Primario Spettri Questo Vantaggio Primario può essere selezionato solo per un’Unità con il Ruolo Truppe che includa solo Modelli con il Tratto Guardia del Corvo. I Modelli di quell’Unità sono chiamati “Spettri” e, dopo che il Giocatore Controllante ha effettuato uno Scatto con un’Unità che includa solo Modelli Spettri, può anche scegliere di effettuare una Prova di Volontà per quell’Unità. Se la Prova di Volontà ha successo, tutte le Cariche che prendono di mira l’Unità nella Fase di Assalto del Turno del Giocatore successivo vengono Scomposte. Se la Prova di Volontà fallisce, l’Unità ottiene invece lo Status Tattico Stordito.",
+                "$text": "Un Modello con Reattori dorsali Corvid ha la sua Caratteristica di Movimento impostata a 14, sostituisce qualsiasi istanza della Regola Speciale Imponente (X) con Imponente (3), e supera automaticamente qualsiasi Test di Terreno Pericoloso.\nVantaggio Primario Spettri Questo Vantaggio Primario può essere selezionato solo per un’Unità con il Ruolo Truppe che includa solo Modelli con il Tratto Guardia del Corvo.\nI Modelli di quell’Unità sono chiamati “Spettri” e, dopo che il Giocatore Controllante ha effettuato uno Scatto con un’Unità che includa solo Modelli Spettri, può anche scegliere di effettuare una Prova di Volontà per quell’Unità.\nSe la Prova di Volontà ha successo, tutte le Cariche che prendono di mira l’Unità nella Fase di Assalto del Turno del Giocatore successivo vengono Scomposte.\nSe la Prova di Volontà fallisce, l’Unità ottiene invece lo Status Tattico Stordito.",
                 "name": "Descrizione",
                 "typeId": "9944-2f6d-d61b-03b5"
               }
@@ -819,7 +819,7 @@
           {
             "characteristics": [
               {
-                "$text": "Le Ferite inflitte da Armi con il Tratto Fiamma, Plasma, Melta o Volkite assegnate a un Modello con Scaglia di Drago hanno la loro Caratteristica Danno impostata su 1. Vantaggio Primario Il Dovere Prima della Morte Questo Vantaggio Primario può essere selezionato solo per un’Unità con il Ruolo Truppe, che includa solo Modelli con il Tratto Salamandre. I Modelli di un’Unità selezionati per riempire un Riquadro con questo Vantaggio Primario ottengono la Regola Speciale Insensibile al Dolore (6+).",
+                "$text": "Le Ferite inflitte da Armi con il Tratto Fiamma, Plasma, Melta o Volkite assegnate a un Modello con Scaglia di Drago hanno la loro Caratteristica Danno impostata su 1.\nVantaggio Primario Il Dovere Prima della Morte Questo Vantaggio Primario può essere selezionato solo per un’Unità con il Ruolo Truppe, che includa solo Modelli con il Tratto Salamandre.\nI Modelli di un’Unità selezionati per riempire un Riquadro con questo Vantaggio Primario ottengono la Regola Speciale Insensibile al Dolore (6+).",
                 "name": "Descrizione",
                 "typeId": "9944-2f6d-d61b-03b5"
               }
@@ -922,7 +922,7 @@
           {
             "characteristics": [
               {
-                "$text": "Quando un’Unità che includa Modelli dotati di strillatori sonici effettua un Movimento di Carica, l’Unità Bersaglio di tale Carica non può essere selezionata per effettuare Reazioni finché la procedura di Carica non è stata completata. Vantaggio Primario Guardiano della Fenice Questo Vantaggio Primario può essere selezionato solo per un Modello di Centurione Tartaros con il Tratto Figli dell’Imperatore. Quel Modello deve scambiare gratuitamente il suo combirequiem e la sua arma potenziata con una lancia potenziata fenice e ottiene la Regola Speciale Maestria Senza Pari.",
+                "$text": "Quando un’Unità che includa Modelli dotati di strillatori sonici effettua un Movimento di Carica, l’Unità Bersaglio di tale Carica non può essere selezionata per effettuare Reazioni finché la procedura di Carica non è stata completata.\nVantaggio Primario Guardiano della Fenice Questo Vantaggio Primario può essere selezionato solo per un Modello di Centurione Tartaros con il Tratto Figli dell’Imperatore.\nQuel Modello deve scambiare gratuitamente il suo combirequiem e la sua arma potenziata con una lancia potenziata fenice e ottiene la Regola Speciale Maestria Senza Pari.",
                 "name": "Descrizione",
                 "typeId": "9944-2f6d-d61b-03b5"
               }
@@ -951,7 +951,7 @@
               {
                 "name": "Descrizione",
                 "typeId": "9944-2f6d-d61b-03b5",
-                "$text": "Un Modello con Trofei del giudizio ha la Regola Speciale Paura (1). Vantaggio Primario Atramentar Questo Vantaggio Primario può essere selezionato solo per un Centurione in Armatura Terminator o per Unità della Squadra Comando Catafratta, della Squadra Comando Tartaros, della Squadra Terminator Catafratti o della Squadra Terminator Tartaros con il Tratto Signori della Notte. Quel Modello o Unità ottiene le Regole Speciali Attacco in Profondità e Impatto (I)."
+                "$text": "Un Modello con Trofei del giudizio ha la Regola Speciale Paura (1).\nVantaggio Primario Atramentar Questo Vantaggio Primario può essere selezionato solo per un Centurione in Armatura Terminator o per Unità della Squadra Comando Catafratta, della Squadra Comando Tartaros, della Squadra Terminator Catafratti o della Squadra Terminator Tartaros con il Tratto Signori della Notte.\nQuel Modello o Unità ottiene le Regole Speciali Attacco in Profondità e Impatto (I)."
               }
             ],
             "name": "Trofei del giudizio",
@@ -1128,7 +1128,7 @@
           {
             "characteristics": [
               {
-                "$text": "Un Modello con uno scudo da abbordaggio Argyrum ha un Tiro Invulnerabilità di 5+, che aumenta a 4+ contro le Ferite inflitte da Armi da Mischia, e ottiene il Tratto Scudo e il Sottotipo Pesante. Vantaggio Primario Logisticae Questo Vantaggio Primario può essere selezionato solo per un’Unità con il Ruolo Comando, che includa solo Modelli con il Tratto Ultramarine. Aggiungi un Riquadro Trasporto o Trasporto Pesante aggiuntivo al Distaccamento che include il Riquadro con questo Vantaggio Primario. Modifica di +2 la Capacità di Trasporto dell’Unità selezionata per occupare quel Riquadro.",
+                "$text": "Un Modello con uno scudo da abbordaggio Argyrum ha un Tiro Invulnerabilità di 5+, che aumenta a 4+ contro le Ferite inflitte da Armi da Mischia, e ottiene il Tratto Scudo e il Sottotipo Pesante.\nVantaggio Primario Logisticae Questo Vantaggio Primario può essere selezionato solo per un’Unità con il Ruolo Comando, che includa solo Modelli con il Tratto Ultramarine.\nAggiungi un Riquadro Trasporto o Trasporto Pesante aggiuntivo al Distaccamento che include il Riquadro con questo Vantaggio Primario.\nModifica di +2 la Capacità di Trasporto dell’Unità selezionata per occupare quel Riquadro.",
                 "name": "Descrizione",
                 "typeId": "9944-2f6d-d61b-03b5"
               }
@@ -1169,7 +1169,7 @@
               {
                 "name": "Descrizione",
                 "typeId": "9944-2f6d-d61b-03b5",
-                "$text": "Nel Passaggio 2 della Sottofase di Combattimento, un Modello con Cariche da demolizione che faccia parte di un Combattimento in cui tutte le Unità nemiche siano composte interamente da Modelli con il Tipo Fortificazione o Edificio può dichiarare le Cariche da demolizione come l'Arma che quel Modello userà in quella Sottofase.\nUn Modello che ha le Cariche da demolizione selezionate come sua Arma ha sempre un'Iniziativa di Combattimento pari a 0 e può effettuare un solo attacco. Tutti gli attacchi effettuati da tale Modello Colpiscono automaticamente e non viene effettuato alcun Tiro per Colpire per essi; ogni tale Colpo ha Forza 10, VP – e Danno D3+3."
+                "$text": "Nel Passaggio 2 della Sottofase di Combattimento, un Modello con Cariche da demolizione che faccia parte di un Combattimento in cui tutte le Unità nemiche siano composte interamente da Modelli con il Tipo Fortificazione o Edificio può dichiarare le Cariche da demolizione come l’Arma che quel Modello userà in quella Sottofase.\nUn Modello che ha le Cariche da demolizione selezionate come sua Arma ha sempre un’Iniziativa di Combattimento pari a 0 e può effettuare un solo attacco.\nTutti gli attacchi effettuati da tale Modello Colpiscono automaticamente e non viene effettuato alcun Tiro per Colpire per essi; ogni tale Colpo ha Forza 10, VP – e Danno D3+3."
               }
             ],
             "name": "Cariche da demolizione",
@@ -1207,7 +1207,7 @@
           {
             "characteristics": [
               {
-                "$text": "Un Modello con armatura Terminator Gorgon guadagna la Regola Speciale Insensibile al Dolore (5+). Inoltre, al termine del Passaggio 4 della Fase di Assalto, se un Modello con armatura Terminator Gorgon ha superato almeno un Tiro Armatura o Invulnerabilità contro Ferite causate da Attacchi da Tiro nella stessa Fase d’Assalto, l’Unità che ha inflitto tali ferite deve effettuare una Prova di Coraggio. Se la Prova fallisce, l’Unità ottiene lo Status Soppresso.",
+                "$text": "Un Modello con armatura Terminator Gorgon guadagna la Regola Speciale Insensibile al Dolore (5+).\nInoltre, al termine del Passaggio 4 della Fase di Assalto, se un Modello con armatura Terminator Gorgon ha superato almeno un Tiro Armatura o Invulnerabilità contro Ferite causate da Attacchi da Tiro nella stessa Fase d’Assalto, l’Unità che ha inflitto tali ferite deve effettuare una Prova di Coraggio.\nSe la Prova fallisce, l’Unità ottiene lo Status Soppresso.",
                 "name": "Descrizione",
                 "typeId": "9944-2f6d-d61b-03b5"
               }
@@ -1289,7 +1289,7 @@
           {
             "characteristics": [
               {
-                "$text": "Un Modello con un separatore di giunzioni eteriche ha la Regola Speciale Attacco in Profondità. Se questo Modello si aggrega a un’Unità in Riserva che contiene solo Modelli con il Tratto Legiones Astartes, il Tipo Fanteria e che non ha una versione della Regola Speciale Imponente (X) il cui valore di X sia maggiore di 2, tutti i Modelli di quell’Unità ottengono la Regola Speciale Attacco in Profondità. Inoltre, quando un’Unità che contiene Modelli con un separatore di giunzioni eteriche subisce una o più Ferite non Salvate a seguito della Reazione Avanzata Intercettazione, quell’Unità ottiene immediatamente lo Status Tattico Soppresso.",
+                "$text": "Un Modello con un separatore di giunzioni eteriche ha la Regola Speciale Attacco in Profondità.\nSe questo Modello si aggrega a un’Unità in Riserva che contiene solo Modelli con il Tratto Legiones Astartes, il Tipo Fanteria e che non ha una versione della Regola Speciale Imponente (X) il cui valore di X sia maggiore di 2, tutti i Modelli di quell’Unità ottengono la Regola Speciale Attacco in Profondità.\nInoltre, quando un’Unità che contiene Modelli con un separatore di giunzioni eteriche subisce una o più Ferite non Salvate a seguito della Reazione Avanzata Intercettazione, quell’Unità ottiene immediatamente lo Status Tattico Soppresso.",
                 "name": "Descrizione",
                 "typeId": "9944-2f6d-d61b-03b5"
               }

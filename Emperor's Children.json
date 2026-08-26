@@ -7911,7 +7911,7 @@
                         "field": "3cb2-c44c-7635-6001"
                       }
                     ],
-                    "name": "Per ogni quattro Modelli in questa Unità,  Un inductii in questa Unità può sostituire Spada a catena con: ",
+                    "name": "Per ogni quattro Modelli in questa Unità,  Un inductii in questa Unità può sostituire Spada a catena con:",
                     "id": "f431-71d3-43ad-92c6",
                     "hidden": false
                   }
@@ -8396,7 +8396,7 @@
                   {
                     "characteristics": [
                       {
-                        "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il Giocatore Controllante può selezionare il seguente Gambetto: Esemplare di Eccellenza: questo Gambetto può essere selezionato solo durante la prima Fase di Faccia a Faccia di una Sfida che coinvolge questo Modello. Durante la Fase di Concentrazione, il Giocatore che lo controlla ottiene un modificatore di +2 al Tiro Concentrazione.",
+                        "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il Giocatore Controllante può selezionare il seguente Gambetto: Esemplare di Eccellenza: questo Gambetto può essere selezionato solo durante la prima Fase di Faccia a Faccia di una Sfida che coinvolge questo Modello.\nDurante la Fase di Concentrazione, il Giocatore che lo controlla ottiene un modificatore di +2 al Tiro Concentrazione.",
                         "name": "Descrizione",
                         "typeId": "2d7d-b1d9-dead-605a"
                       }
@@ -8448,12 +8448,12 @@
                         "typeId": "954a-972f-5c94-2ede"
                       },
                       {
-                        "$text": "l’Unità la cui Carica ha innescato la Reazione. L’Unità Reattiva è l’Unità che è stata dichiarata come bersaglio della Carica che ha innescato questa Reazione.",
+                        "$text": "l’Unità la cui Carica ha innescato la Reazione.\nL’Unità Reattiva è l’Unità che è stata dichiarata come bersaglio della Carica che ha innescato questa Reazione.",
                         "name": "Bersaglio",
                         "typeId": "e102-8fdd-9cd4-c0f9"
                       },
                       {
-                        "$text": "Una volta dichiarata questa Reazione, il Giocatore Reattivo deve effettuare un Tiro di Carica per l’Unità Reattiva. Se il risultato del Tiro di Carica è sufficiente a muovere un qualsiasi Modello dell’Unità Reattiva a Contatto di Base con un Modello dell’Unità Bersaglio, allora viene effettuato un Movimento di Carica e le Unità vengono Bloccate in Combattimento. Nessun Modello dell’Unità Bersaglio può ottenere bonus da qualsiasi Regola Speciale che richieda una Carica riuscita, mentre i Modelli dell’Unità Reattiva ottengono eventuali bonus da qualsiasi Regola Speciale che si applicherebbe a quell’Unità come risultato di una Carica riuscita. Se il risultato del Tiro di Carica non porta alcun Modello dell’Unità Reattiva a Contatto di Base con un Modello dell’Unità Bersaglio, allora non viene effettuato alcun Movimento di Carica e i Giocatori procedono al Passaggio 4 del processo di Carica.",
+                        "$text": "Una volta dichiarata questa Reazione, il Giocatore Reattivo deve effettuare un Tiro di Carica per l’Unità Reattiva.\nSe il risultato del Tiro di Carica è sufficiente a muovere un qualsiasi Modello dell’Unità Reattiva a Contatto di Base con un Modello dell’Unità Bersaglio, allora viene effettuato un Movimento di Carica e le Unità vengono Bloccate in Combattimento.\nNessun Modello dell’Unità Bersaglio può ottenere bonus da qualsiasi Regola Speciale che richieda una Carica riuscita, mentre i Modelli dell’Unità Reattiva ottengono eventuali bonus da qualsiasi Regola Speciale che si applicherebbe a quell’Unità come risultato di una Carica riuscita.\nSe il risultato del Tiro di Carica non porta alcun Modello dell’Unità Reattiva a Contatto di Base con un Modello dell’Unità Bersaglio, allora non viene effettuato alcun Movimento di Carica e i Giocatori procedono al Passaggio 4 del processo di Carica.",
                         "name": "Procedura",
                         "typeId": "57cf-1c68-a020-2529"
                       }
@@ -8562,7 +8562,7 @@
                   {
                     "characteristics": [
                       {
-                        "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Lo Specchio Rotto: il Modello ottiene il doppio del normale modificatore per il Supporto Esterno durante il Passaggio di Concentrazione. Se l’Unità di cui fa parte questo Modello è Stupefatta, aggiungi un modificatore aggiuntivo di +1. Reazione Avanzata Desiderio Contorto Attivazione: alla fine del Passaggio 2 di una Carica dichiarata dal Giocatore Attivo che prende di mira un’Unità sotto il controllo del Giocatore Reattivo che includa solo Modelli con il Tratto Figli dell’Imperatore. Costo: 1 Punto Reazione. Bersaglio: L’Unità la cui Carica ha innescato la Reazione. L’Unità Reattiva è l’Unità che è stata dichiarata come bersaglio della Carica che ha innescato questa Reazione. Procedura: Una volta dichiarata questa Reazione, l’Unità Reattiva diventa Stupefatta e, per la durata di questa Fase di Assalto, i Modelli di quell’Unità ottengono la Regola Speciale Insensibile al Dolore (5+). Distaccamenti Addizionali Fratellanza della Fenice Distaccamento Generale Questo Distaccamento può essere selezionato al posto di un Distaccamento Generale. Se selezioni questo Distaccamento, il tuo esercito non può includere anche un Distaccamento Generale. 1 Riquadro Alto Comando (Primario); 1 Riquadro Generale; 2 Riquadri Alto Comando; 1 Riquadro Comando. Questo Distaccamento può essere selezionato solo in un esercito con un limite di punti di 3.000 o più e deve includere un’Unità di Fulgrim Trasfigurato. Le Unità di Alto Comando e Comando selezionate come parte di questo Distaccamento non garantiscono l’accesso ad ulteriori Distaccamenti Ausiliari o Apice.",
+                        "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Lo Specchio Rotto: il Modello ottiene il doppio del normale modificatore per il Supporto Esterno durante il Passaggio di Concentrazione.\nSe l’Unità di cui fa parte questo Modello è Stupefatta, aggiungi un modificatore aggiuntivo di +1.",
                         "name": "Descrizione",
                         "typeId": "2d7d-b1d9-dead-605a"
                       }
@@ -8614,7 +8614,7 @@
                         "typeId": "954a-972f-5c94-2ede"
                       },
                       {
-                        "$text": "L’Unità la cui Carica ha innescato la Reazione. L’Unità Reattiva è l’Unità che è stata dichiarata come bersaglio della Carica che ha innescato questa Reazione.",
+                        "$text": "L’Unità la cui Carica ha innescato la Reazione.\nL’Unità Reattiva è l’Unità che è stata dichiarata come bersaglio della Carica che ha innescato questa Reazione.",
                         "name": "Bersaglio",
                         "typeId": "e102-8fdd-9cd4-c0f9"
                       },
@@ -8960,7 +8960,7 @@
               {
                 "name": "Composizione del Distaccamento",
                 "typeId": "ec3f-877b-f887-18b2",
-                "$text": "1 Riquadro Generale\n1 Riquadro Primario Alto Comando; 2 Riquadri Alto Comando\n1 Riquadro Comando\nL'Armata deve essere da 3000 punti o più\nRichiede un Generale che deve essere Fulgrim Trasfigurato\nLe Unità Alto Comando e Comando non sbloccano Distaccamenti Ausiliari o Apice aggiuntivi"
+                "$text": "1 Riquadro Generale\n1 Riquadro Primario Alto Comando; 2 Riquadri Alto Comando\n1 Riquadro Comando\nL’Armata deve essere da 3000 punti o più\nRichiede un Generale che deve essere Fulgrim Trasfigurato\nLe Unità Alto Comando e Comando non sbloccano Distaccamenti Ausiliari o Apice aggiuntivi"
               }
             ]
           }

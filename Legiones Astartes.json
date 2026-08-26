@@ -3581,7 +3581,7 @@
                           }
                         ],
                         "import": true,
-                        "name": "Venom Sphere",
+                        "name": "Sfere Venefiche",
                         "hidden": true,
                         "id": "da11-10a0-0347-31b6",
                         "type": "selectionEntry",
@@ -6531,7 +6531,7 @@
                           }
                         ],
                         "import": true,
-                        "name": "Venom Sphere",
+                        "name": "Sfere Venefiche",
                         "hidden": true,
                         "id": "e6d0-1f16-c8c1-f3a8",
                         "type": "selectionEntry",
@@ -43274,7 +43274,7 @@
                 "id": "9e17-d5d8-c686-d06c"
               }
             ],
-            "name": "Può sostituire Lanciamissili Aiolos con ",
+            "name": "Può sostituire Lanciamissili Aiolos con",
             "id": "2eee-8729-daf7-60a6",
             "hidden": false,
             "defaultSelectionEntryId": "d344-da8e-a63b-f5e0",
@@ -106207,7 +106207,7 @@
           {
             "characteristics": [
               {
-                "$text": "quando il Giocatore Attivo mette in gioco un'Unità dalle Riserve Aeree, dopo aver completato il Movimento associato alla sua Assegnazione di Combattimento, ma prima che qualsiasi Unità sia Sbarcata da esso.",
+                "$text": "quando il Giocatore Attivo mette in gioco un’Unità dalle Riserve Aeree, dopo aver completato il Movimento associato alla sua Assegnazione di Combattimento, ma prima che qualsiasi Unità sia Sbarcata da esso.",
                 "name": "Innesco",
                 "typeId": "02e4-3f90-3125-f8b4"
               },
@@ -106217,12 +106217,12 @@
                 "typeId": "954a-972f-5c94-2ede"
               },
               {
-                "$text": "il Modello nemico che è stato messo in gioco dalle Riserve Aeree consentendo di attivare questa Reazione. Il Giocatore Reattivo sceglie l'Unità Reattiva tra quelle nelle Riserve Aeree composte interamente da Modelli con l'Abilità Intercettatore.",
+                "$text": "il Modello nemico che è stato messo in gioco dalle Riserve Aeree consentendo di attivare questa Reazione.\nIl Giocatore Reattivo sceglie l’Unità Reattiva tra quelle nelle Riserve Aeree composte interamente da Modelli con l’Abilità Intercettatore.",
                 "name": "Bersaglio",
                 "typeId": "e102-8fdd-9cd4-c0f9"
               },
               {
-                "$text": "1. Il Giocatore Reattivo può posizionare l'Unità Reattiva in qualsiasi punto del Limite del Campo di Battaglia e poi muoverla in avanti per un numero di pollici pari alla sua Caratteristica Movimento, senza effettuare rotazioni; 2. Dopo questo movimento, il Giocatore Reattivo può effettuare un singolo Attacco a Distanza con l'Unità Reattiva mirato all'Unità Bersaglio, considerando tutte le proprie Armi come Difensive; 3. Una volta che questo Attacco a Distanza è stato completamente risolto, l'Unità Reattiva viene rimossa dal gioco e ritornata alle Riserve Aeree.",
+                "$text": "1.\nIl Giocatore Reattivo può posizionare l’Unità Reattiva in qualsiasi punto del Limite del Campo di Battaglia e poi muoverla in avanti per un numero di pollici pari alla sua Caratteristica Movimento, senza effettuare rotazioni;\n2.\nDopo questo movimento, il Giocatore Reattivo può effettuare un singolo Attacco a Distanza con l’Unità Reattiva mirato all’Unità Bersaglio, considerando tutte le proprie Armi come Difensive;\n3.\nUna volta che questo Attacco a Distanza è stato completamente risolto, l’Unità Reattiva viene rimossa dal gioco e ritornata alle Riserve Aeree.",
                 "name": "Procedura",
                 "typeId": "57cf-1c68-a020-2529"
               }
@@ -122828,7 +122828,7 @@
                     "automatic": true
                   }
                 ],
-                "name": "Questo Modello può sostituire Spada a catena con: ",
+                "name": "Questo Modello può sostituire Spada a catena con:",
                 "id": "0e1c-ed38-4efe-bf94",
                 "sortIndex": 3,
                 "defaultSelectionEntryId": "63e4-504b-4c99-9068"
@@ -122988,7 +122988,7 @@
                     "field": "hidden"
                   }
                 ],
-                "name": "Questo Pretore in arcione può sostituire Fucile requiem binato con: ",
+                "name": "Questo Pretore in arcione può sostituire Fucile requiem binato con:",
                 "id": "1990-68c5-425f-b8ec",
                 "sortIndex": 4,
                 "defaultSelectionEntryId": "5b12-c7bb-4d35-b92c"
@@ -123535,7 +123535,7 @@
                     "field": "b955-32c2-7f9b-c87f"
                   }
                 ],
-                "name": "Questo Modello può sostituire Pistola requiem con: ",
+                "name": "Questo Modello può sostituire Pistola requiem con:",
                 "id": "95f1-c31b-1a30-ef05",
                 "hidden": false,
                 "sortIndex": 2,
@@ -124659,7 +124659,7 @@
                     "field": "01ec-de27-412d-ac04"
                   }
                 ],
-                "name": "Questo Modello può sostituire Spada a catena e Pistola requiem con: ",
+                "name": "Questo Modello può sostituire Spada a catena e Pistola requiem con:",
                 "id": "8158-5bac-4c7b-9050",
                 "sortIndex": 2
               },
@@ -124818,7 +124818,7 @@
                     "field": "hidden"
                   }
                 ],
-                "name": "Questo Centurione in arcione può sostituire Fucile requiem binato con: ",
+                "name": "Questo Centurione in arcione può sostituire Fucile requiem binato con:",
                 "id": "f4bf-ade1-4ec2-9be6",
                 "sortIndex": 3
               },
@@ -125909,7 +125909,7 @@
                     "field": "cf6c-7c67-48ea-9e03"
                   }
                 ],
-                "name": "Questo Modello può sostituire Pistola requiem con: ",
+                "name": "Questo Modello può sostituire Pistola requiem con:",
                 "id": "1c5a-c926-4146-a562",
                 "sortIndex": 1,
                 "defaultSelectionEntryId": "efaa-670b-4abf-8adb"
@@ -127166,7 +127166,7 @@
                     "field": "0dad-0226-4541-8efd"
                   }
                 ],
-                "name": "Questo Modello può sostituire Pistola requiem con: ",
+                "name": "Questo Modello può sostituire Pistola requiem con:",
                 "id": "6e35-25c8-4fec-bf8a",
                 "sortIndex": 4
               },
@@ -127445,7 +127445,7 @@
                     "field": "hidden"
                   }
                 ],
-                "name": "Questo Bibliotecario in arcione può sostituire Fucile requiem binato con: ",
+                "name": "Questo Bibliotecario in arcione può sostituire Fucile requiem binato con:",
                 "id": "4df9-bcf8-4dfd-9884",
                 "sortIndex": 2
               },
@@ -128304,7 +128304,7 @@
                     "id": "c751-ed90-4bc6-844f"
                   }
                 ],
-                "name": "Questo Modello può sostituire Combirequiem con: ",
+                "name": "Questo Modello può sostituire Combirequiem con:",
                 "id": "db1b-35be-42c0-8973",
                 "sortIndex": 2
               },
@@ -130138,7 +130138,7 @@
                     "field": "hidden"
                   }
                 ],
-                "name": "Questo Esoterista in arcione può sostituire Fucile requiem binato con: ",
+                "name": "Questo Esoterista in arcione può sostituire Fucile requiem binato con:",
                 "id": "fb55-6889-4688-939c",
                 "hidden": false,
                 "sortIndex": 2
@@ -130941,7 +130941,7 @@
                     "id": "af6e-5ac7-4838-b12d"
                   }
                 ],
-                "name": "Questo Modello può sostituire Combirequiem con: ",
+                "name": "Questo Modello può sostituire Combirequiem con:",
                 "id": "5f97-13b9-41f7-a584",
                 "sortIndex": 2
               }
@@ -131709,7 +131709,7 @@
                     "id": "0b65-9a7d-4ded-b994"
                   }
                 ],
-                "name": "Questo Modello può sostituire Pistola volkite con: ",
+                "name": "Questo Modello può sostituire Pistola volkite con:",
                 "id": "6a2d-30b7-4055-8717",
                 "sortIndex": 1
               },
@@ -132675,7 +132675,7 @@
                     "field": "hidden"
                   }
                 ],
-                "name": "Questo Campione della Legione in arcione può sostituire Fucile requiem binato con: ",
+                "name": "Questo Campione della Legione in arcione può sostituire Fucile requiem binato con:",
                 "id": "ab3b-9178-458a-b6b3",
                 "sortIndex": 2
               },
@@ -133547,7 +133547,7 @@
                     "id": "9fd2-0619-4017-b04f"
                   }
                 ],
-                "name": "Questo Modello può sostituire Combirequiem con: ",
+                "name": "Questo Modello può sostituire Combirequiem con:",
                 "id": "2c40-9771-4ecf-8651",
                 "sortIndex": 2,
                 "defaultSelectionEntryId": "cba4-2a51-418f-a95d"
@@ -134549,7 +134549,7 @@
                     "field": "e08d-5c31-0498-7010"
                   }
                 ],
-                "name": "Questo Modello può sostituire Pistola requiem con: ",
+                "name": "Questo Modello può sostituire Pistola requiem con:",
                 "id": "fd65-7b77-aaba-6a83",
                 "hidden": false,
                 "defaultSelectionEntryId": "94cd-b966-eb48-8cc9",
@@ -135427,7 +135427,7 @@
                     "field": "hidden"
                   }
                 ],
-                "name": "Questo Cappellano in arcione può sostituire Fucile requiem binato con: ",
+                "name": "Questo Cappellano in arcione può sostituire Fucile requiem binato con:",
                 "id": "0e2b-0b8f-45ff-9cb3",
                 "sortIndex": 2
               },
@@ -135959,7 +135959,7 @@
                     "field": "98f3-9e9b-4ba5-1f9b"
                   }
                 ],
-                "name": "Questo Modello può sostituire Pistola requiem con: ",
+                "name": "Questo Modello può sostituire Pistola requiem con:",
                 "id": "f366-42aa-43b4-5fc0",
                 "hidden": false,
                 "sortIndex": 4
@@ -136655,7 +136655,7 @@
                     "id": "5b82-bf0e-46b7-a6e5"
                   }
                 ],
-                "name": "Questo Modello può sostituire Combirequiem con: ",
+                "name": "Questo Modello può sostituire Combirequiem con:",
                 "id": "3939-d395-40d9-a768",
                 "sortIndex": 2
               }
@@ -137818,7 +137818,7 @@
                     "automatic": true
                   }
                 ],
-                "name": "Questo Modello può sostituire Arma potenziata con: ",
+                "name": "Questo Modello può sostituire Arma potenziata con:",
                 "id": "e0a5-d1e5-45b5-b05c",
                 "sortIndex": 1
               },
@@ -139628,7 +139628,7 @@
                     "automatic": true
                   }
                 ],
-                "name": "Questo Modello può sostituire Arma potenziata con: ",
+                "name": "Questo Modello può sostituire Arma potenziata con:",
                 "id": "1a35-16c8-4f19-afab",
                 "sortIndex": 4
               },
@@ -139746,7 +139746,7 @@
                     "field": "hidden"
                   }
                 ],
-                "name": "Questo Araldo in arcione può sostituire Fucile requiem binato con: ",
+                "name": "Questo Araldo in arcione può sostituire Fucile requiem binato con:",
                 "id": "ce1e-bef0-4cd0-896f",
                 "sortIndex": 2
               },
@@ -140997,7 +140997,7 @@
                     "id": "6667-bf68-4776-b003"
                   }
                 ],
-                "name": "Questo Modello può sostituire Arma potenziata con: ",
+                "name": "Questo Modello può sostituire Arma potenziata con:",
                 "id": "3a94-9923-4140-9070",
                 "sortIndex": 2
               }
@@ -142377,7 +142377,7 @@
                     "field": "e18d-8d6f-54b3-2f12"
                   }
                 ],
-                "name": "Questo Modello può sostituire Pistola requiem con: ",
+                "name": "Questo Modello può sostituire Pistola requiem con:",
                 "id": "d2b0-5d8c-d8b9-62cd",
                 "hidden": false,
                 "defaultSelectionEntryId": "31de-d7f7-b516-4306",
@@ -143321,7 +143321,7 @@
                     "field": "hidden"
                   }
                 ],
-                "name": "Questo Maestro d’Assedio in arcione può sostituire Fucile requiem binato con: ",
+                "name": "Questo Maestro d’Assedio in arcione può sostituire Fucile requiem binato con:",
                 "id": "efed-9f77-45a6-8cd7",
                 "sortIndex": 2,
                 "defaultSelectionEntryId": "6c6a-3c13-4cd1-a078"
@@ -144166,7 +144166,7 @@
                     "field": "77b3-88e0-3291-42d6"
                   }
                 ],
-                "name": "Questo Modello può sostituire Pistola requiem con: ",
+                "name": "Questo Modello può sostituire Pistola requiem con:",
                 "id": "3ca0-90a3-66e4-b0d2",
                 "hidden": false,
                 "sortIndex": 4
@@ -144892,7 +144892,7 @@
                     "id": "9d2d-268b-4c3a-841d"
                   }
                 ],
-                "name": "Questo Modello può sostituire Combirequiem con: ",
+                "name": "Questo Modello può sostituire Combirequiem con:",
                 "id": "31c9-2aaa-4b51-b53a",
                 "defaultSelectionEntryId": "3d55-66c3-43e6-826c",
                 "sortIndex": 2
@@ -146163,7 +146163,7 @@
                     "field": "21a6-8b3a-4b6a-0cee"
                   }
                 ],
-                "name": "Questo Modello può sostituire Pistola requiem con: ",
+                "name": "Questo Modello può sostituire Pistola requiem con:",
                 "id": "6f82-6d08-bda1-32e6",
                 "hidden": false,
                 "defaultSelectionEntryId": "3d27-3141-970b-a013",
@@ -147227,7 +147227,7 @@
                     "field": "hidden"
                   }
                 ],
-                "name": "Questo Maestro dei Segnali in arcione può sostituire Fucile requiem binato con: ",
+                "name": "Questo Maestro dei Segnali in arcione può sostituire Fucile requiem binato con:",
                 "id": "1c50-1152-d194-9057",
                 "hidden": false,
                 "defaultSelectionEntryId": "f9e3-e0ac-0a50-5dac",
@@ -147549,7 +147549,7 @@
                     "field": "355c-31fb-b11f-94b3"
                   }
                 ],
-                "name": "Questo Modello può sostituire Pistola requiem con: ",
+                "name": "Questo Modello può sostituire Pistola requiem con:",
                 "id": "baa2-79ab-9929-1da6",
                 "hidden": false,
                 "sortIndex": 4
@@ -149398,7 +149398,7 @@
                     "id": "8b1b-76ef-453d-a3d3"
                   }
                 ],
-                "name": "Questo Modello può sostituire Ascia potenziata con: ",
+                "name": "Questo Modello può sostituire Ascia potenziata con:",
                 "id": "471f-b2b8-4bcb-a64e",
                 "sortIndex": 2,
                 "defaultSelectionEntryId": "7c42-ebc6-4d80-bbc1"
@@ -149749,7 +149749,7 @@
                     "field": "6fc5-a78d-379a-bea6"
                   }
                 ],
-                "name": "Questo Modello può sostituire Pistola requiem con: ",
+                "name": "Questo Modello può sostituire Pistola requiem con:",
                 "id": "6036-dc13-7564-fa57",
                 "hidden": false,
                 "defaultSelectionEntryId": "537c-ea80-41da-2b19",
@@ -150561,7 +150561,7 @@
                     "id": "6e3f-d2cb-4c11-82dd"
                   }
                 ],
-                "name": "Questo Modello può sostituire Combirequiem con: ",
+                "name": "Questo Modello può sostituire Combirequiem con:",
                 "id": "cf2f-e57d-4881-9a4c",
                 "sortIndex": 4,
                 "defaultSelectionEntryId": "7089-ffb2-c322-a3af"
@@ -150993,7 +150993,7 @@
                     "id": "244d-30e4-46b8-958e"
                   }
                 ],
-                "name": "Questo Modello può sostituire Ascia potenziata con: ",
+                "name": "Questo Modello può sostituire Ascia potenziata con:",
                 "id": "b6e2-e44b-4977-b073",
                 "sortIndex": 5,
                 "defaultSelectionEntryId": "3820-2697-4eb1-bd26"
@@ -151155,7 +151155,7 @@
                     "field": "hidden"
                   }
                 ],
-                "name": "Questo Signore della Forgia in arcione può sostituire Fucile requiem binato con: ",
+                "name": "Questo Signore della Forgia in arcione può sostituire Fucile requiem binato con:",
                 "id": "5f86-f7bf-a181-91f5",
                 "hidden": false,
                 "defaultSelectionEntryId": "6220-1e67-e18f-453c",
@@ -152059,7 +152059,7 @@
                     "id": "4e0a-e9d4-4f90-82e8"
                   }
                 ],
-                "name": "Questo Modello può sostituire Combirequiem con: ",
+                "name": "Questo Modello può sostituire Combirequiem con:",
                 "id": "28fa-c671-4a68-a38e",
                 "sortIndex": 3,
                 "defaultSelectionEntryId": "be51-7b38-4c83-8835"
@@ -152491,7 +152491,7 @@
                     "id": "df3f-d4a2-4f09-a675"
                   }
                 ],
-                "name": "Questo Modello può sostituire Ascia potenziata con: ",
+                "name": "Questo Modello può sostituire Ascia potenziata con:",
                 "id": "666b-436f-41b1-a5ac",
                 "sortIndex": 2
               },
@@ -153352,7 +153352,7 @@
                     "id": "ff52-821d-48ca-83ec"
                   }
                 ],
-                "name": "Questo Modello può sostituire Spada a catena con: ",
+                "name": "Questo Modello può sostituire Spada a catena con:",
                 "id": "1eb2-62c6-4f7b-941c",
                 "defaultSelectionEntryId": "4cfe-f08f-4c3d-819e",
                 "sortIndex": 3
@@ -153745,7 +153745,7 @@
                     "field": "54a8-cf91-6b7a-68ad"
                   }
                 ],
-                "name": "Questo Modello può sostituire Pistola requiem con: ",
+                "name": "Questo Modello può sostituire Pistola requiem con:",
                 "id": "4e8c-943b-47f9-8319",
                 "defaultSelectionEntryId": "c8a7-01ce-d1ae-cc41",
                 "sortIndex": 2
@@ -154536,7 +154536,7 @@
                     "field": "fb78-95d6-c3b5-e59a"
                   }
                 ],
-                "name": "Questo Modello può sostituire Pistola requiem e Spada a catena con: ",
+                "name": "Questo Modello può sostituire Pistola requiem e Spada a catena con:",
                 "id": "8ae9-9c51-423d-84c5",
                 "sortIndex": 4
               },
@@ -154697,7 +154697,7 @@
                     "field": "hidden"
                   }
                 ],
-                "name": "Questo Primus Medicae in arcione può sostituire Fucile requiem binato con: ",
+                "name": "Questo Primus Medicae in arcione può sostituire Fucile requiem binato con:",
                 "id": "47c6-2fef-6ea4-255d",
                 "hidden": false,
                 "defaultSelectionEntryId": "6cd3-9433-7b49-f26f",
@@ -155704,7 +155704,7 @@
                     "id": "da6f-cf52-4ec3-9015"
                   }
                 ],
-                "name": "Questo Modello può sostituire Combirequiem con: ",
+                "name": "Questo Modello può sostituire Combirequiem con:",
                 "id": "24c0-d537-4e7f-86a9",
                 "sortIndex": 2
               },
@@ -155769,7 +155769,7 @@
                     "id": "ed0c-a10e-4ad0-b348"
                   }
                 ],
-                "name": "Questo Modello può sostituire Arma potenziata con: ",
+                "name": "Questo Modello può sostituire Arma potenziata con:",
                 "id": "5905-96a8-407a-8b1f",
                 "sortIndex": 3
               }
@@ -157517,7 +157517,7 @@
                         "field": "hidden"
                       }
                     ],
-                    "name": "Questo Modello può sostituire Pistola requiem con: ",
+                    "name": "Questo Modello può sostituire Pistola requiem con:",
                     "id": "28a9-fac0-4254-8ea6",
                     "hidden": false,
                     "sortIndex": 2
@@ -157588,7 +157588,7 @@
                         "field": "hidden"
                       }
                     ],
-                    "name": "Questo Modello può sostituire Fucile requiem e Pistola requiem con: ",
+                    "name": "Questo Modello può sostituire Fucile requiem e Pistola requiem con:",
                     "id": "f0fa-3adf-4f6b-a732",
                     "hidden": false,
                     "sortIndex": 2
@@ -158809,7 +158809,7 @@
                     "field": "name"
                   }
                 ],
-                "name": "Questo Modello può sostituire Spada a catena e Pistola requiem con: ",
+                "name": "Questo Modello può sostituire Spada a catena e Pistola requiem con:",
                 "id": "9d2e-6452-4861-b134",
                 "sortIndex": 4,
                 "defaultSelectionEntryId": "b666-515e-4b39-919b"
@@ -158971,7 +158971,7 @@
                     "field": "hidden"
                   }
                 ],
-                "name": "Questo Delegatus in arcione può sostituire Fucile requiem binato con: ",
+                "name": "Questo Delegatus in arcione può sostituire Fucile requiem binato con:",
                 "id": "d24c-ef5d-b7b0-c178",
                 "hidden": false,
                 "defaultSelectionEntryId": "936e-84ff-2f51-726d",
@@ -159871,7 +159871,7 @@
                         "field": "5db5-a23f-44e3-97f3"
                       }
                     ],
-                    "name": "Questo Modello può sostituire Combirequiem con: ",
+                    "name": "Questo Modello può sostituire Combirequiem con:",
                     "id": "6868-30bd-4963-89b3",
                     "hidden": false,
                     "sortIndex": 1
@@ -159963,7 +159963,7 @@
                         "field": "247f-2770-46ac-9758"
                       }
                     ],
-                    "name": "Questo Modello può sostituire Arma potenziata con: ",
+                    "name": "Questo Modello può sostituire Arma potenziata con:",
                     "id": "1977-44ce-4369-9862",
                     "hidden": false,
                     "sortIndex": 2
@@ -160104,7 +160104,7 @@
                         "id": "bde3-a735-4a83-9ef6"
                       }
                     ],
-                    "name": "Questo Modello può sostituire Combirequiem e Arma potenziata con: ",
+                    "name": "Questo Modello può sostituire Combirequiem e Arma potenziata con:",
                     "id": "359c-6c08-468d-98b4",
                     "hidden": false,
                     "sortIndex": 3
@@ -161205,7 +161205,7 @@
                     "field": "493c-6570-fed4-7975"
                   }
                 ],
-                "name": "Questo Modello può sostituire Pistola requiem con: ",
+                "name": "Questo Modello può sostituire Pistola requiem con:",
                 "id": "78bf-07ba-7d14-3f22",
                 "hidden": false,
                 "defaultSelectionEntryId": "2530-1ccd-8222-47d7",
@@ -161939,7 +161939,7 @@
                     "id": "4253-f8d5-45c4-b84d"
                   }
                 ],
-                "name": "Questo Modello può sostituire Combirequiem con: ",
+                "name": "Questo Modello può sostituire Combirequiem con:",
                 "id": "bbea-b537-4f27-afc7",
                 "defaultSelectionEntryId": "7526-9d28-4f83-afef",
                 "sortIndex": 2
@@ -163324,7 +163324,7 @@
                         "field": "hidden"
                       }
                     ],
-                    "name": "Questo Modello può sostituire Pistola requiem con: ",
+                    "name": "Questo Modello può sostituire Pistola requiem con:",
                     "id": "8795-114d-16fc-abe4",
                     "hidden": false,
                     "sortIndex": 2
@@ -163395,7 +163395,7 @@
                         "field": "hidden"
                       }
                     ],
-                    "name": "Questo Modello può sostituire Fucile requiem e Pistola requiem con: ",
+                    "name": "Questo Modello può sostituire Fucile requiem e Pistola requiem con:",
                     "id": "3034-a72b-9995-a0a8",
                     "hidden": false,
                     "sortIndex": 3
@@ -164172,7 +164172,7 @@
                         "field": "8b97-1b27-4d8f-8d07"
                       }
                     ],
-                    "name": "Questo Modello può sostituire Combirequiem con: ",
+                    "name": "Questo Modello può sostituire Combirequiem con:",
                     "id": "4ef4-3c8d-4d9d-ac4c",
                     "hidden": false,
                     "sortIndex": 1,
@@ -164272,7 +164272,7 @@
                         "field": "a408-0b49-49a0-aa15"
                       }
                     ],
-                    "name": "Questo Modello può sostituire Arma potenziata con: ",
+                    "name": "Questo Modello può sostituire Arma potenziata con:",
                     "id": "a831-5818-42d9-9bd0",
                     "hidden": false,
                     "sortIndex": 2
@@ -164413,7 +164413,7 @@
                         "id": "f235-7950-45a8-a932"
                       }
                     ],
-                    "name": "Questo Modello può sostituire Combirequiem e Arma potenziata con: ",
+                    "name": "Questo Modello può sostituire Combirequiem e Arma potenziata con:",
                     "id": "d840-118d-459a-bc88",
                     "hidden": false
                   }
@@ -165928,7 +165928,7 @@
                         "field": "hidden"
                       }
                     ],
-                    "name": "Questo Modello può sostituire Pistola requiem con: ",
+                    "name": "Questo Modello può sostituire Pistola requiem con:",
                     "id": "b20c-f8aa-6333-3c81",
                     "hidden": false,
                     "sortIndex": 2
@@ -165999,7 +165999,7 @@
                         "field": "hidden"
                       }
                     ],
-                    "name": "Questo Modello può sostituire Fucile requiem e Pistola requiem con: ",
+                    "name": "Questo Modello può sostituire Fucile requiem e Pistola requiem con:",
                     "id": "f453-9c48-741c-cb8f",
                     "hidden": false,
                     "sortIndex": 3
@@ -167881,7 +167881,7 @@
                     "id": "94b4-c9e6-4e90-861e"
                   }
                 ],
-                "name": "Può sostituire Spada a catena con: ",
+                "name": "Può sostituire Spada a catena con:",
                 "id": "f1e3-e57c-44cb-b7a1",
                 "sortIndex": 3
               },
@@ -168241,7 +168241,7 @@
                     "field": "cdcb-f60b-49c1-9944"
                   }
                 ],
-                "name": "Può sostituire Pistola requiem con: ",
+                "name": "Può sostituire Pistola requiem con:",
                 "id": "4888-7cca-4aef-9ab7",
                 "sortIndex": 2
               },
@@ -168805,7 +168805,7 @@
                     "id": "7b53-07de-4778-8d2c"
                   }
                 ],
-                "name": "Può sostituire Spada a catena con: ",
+                "name": "Può sostituire Spada a catena con:",
                 "id": "2260-9432-4e90-945f",
                 "sortIndex": 3
               },
@@ -169191,7 +169191,7 @@
                     "field": "056c-932d-4a55-b6b1"
                   }
                 ],
-                "name": "Può sostituire Pistola requiem con: ",
+                "name": "Può sostituire Pistola requiem con:",
                 "id": "67ae-f268-46f4-b764",
                 "sortIndex": 2,
                 "defaultSelectionEntryId": "da05-296d-4afe-b458"
@@ -169965,7 +169965,7 @@
                     "id": "4e84-f258-4d11-ad6e"
                   }
                 ],
-                "name": "Può sostituire Spada a catena con: ",
+                "name": "Può sostituire Spada a catena con:",
                 "id": "37e3-417a-494e-8549",
                 "sortIndex": 3,
                 "defaultSelectionEntryId": "f564-655e-4c06-a5b5"
@@ -170326,7 +170326,7 @@
                     "field": "2d6d-b6ce-4e15-8e9b"
                   }
                 ],
-                "name": "Può sostituire Pistola requiem con: ",
+                "name": "Può sostituire Pistola requiem con:",
                 "id": "ae31-3438-49d2-9389",
                 "sortIndex": 2,
                 "defaultSelectionEntryId": "8aee-d7b5-44bf-a165"
@@ -170393,7 +170393,7 @@
                     "id": "f312-1398-4a5c-8b80"
                   }
                 ],
-                "name": "Può sostituire Fucile requiem binato con: ",
+                "name": "Può sostituire Fucile requiem binato con:",
                 "id": "b444-327d-4278-9ff2",
                 "defaultSelectionEntryId": "e5a2-7b0f-4436-8776",
                 "sortIndex": 4
@@ -170836,7 +170836,7 @@
                     "id": "c13c-cbb2-4a53-8851"
                   }
                 ],
-                "name": "Può sostituire Spada a catena con: ",
+                "name": "Può sostituire Spada a catena con:",
                 "id": "94a9-4926-4ab7-9081",
                 "sortIndex": 3,
                 "defaultSelectionEntryId": "56c8-e9a6-4245-94c7"
@@ -171222,7 +171222,7 @@
                     "field": "5e2e-a332-4953-b34f"
                   }
                 ],
-                "name": "Può sostituire Pistola requiem con: ",
+                "name": "Può sostituire Pistola requiem con:",
                 "id": "109d-50f2-4f7b-b609",
                 "sortIndex": 2
               },
@@ -171288,7 +171288,7 @@
                     "id": "0d4a-a764-4f7b-bdb0"
                   }
                 ],
-                "name": "Può sostituire Fucile requiem binato con: ",
+                "name": "Può sostituire Fucile requiem binato con:",
                 "id": "7142-840f-4461-8188",
                 "sortIndex": 4,
                 "defaultSelectionEntryId": "e5a3-8246-4178-a97a"
@@ -174344,7 +174344,7 @@
                     "field": "9da5-edec-4f73-b4ce"
                   }
                 ],
-                "name": "Può sostituire Pistola requiem con: ",
+                "name": "Può sostituire Pistola requiem con:",
                 "id": "a354-49b2-4b98-b562",
                 "sortIndex": 3,
                 "defaultSelectionEntryId": "96c5-f393-47d8-a432"
@@ -178836,7 +178836,7 @@
                     "id": "234d-d20c-43a0-bd40"
                   }
                 ],
-                "name": "Può sostituire Combirequiem con: ",
+                "name": "Può sostituire Combirequiem con:",
                 "id": "4f77-0f70-43a3-a322",
                 "defaultSelectionEntryId": "642f-9063-4be5-bf9f",
                 "sortIndex": 2
@@ -178904,7 +178904,7 @@
                     "id": "b761-77c9-4a37-9983"
                   }
                 ],
-                "name": "Può sostituire Arma potenziata con: ",
+                "name": "Può sostituire Arma potenziata con:",
                 "id": "7da1-3a39-4228-85e1",
                 "sortIndex": 3
               }
@@ -179549,7 +179549,7 @@
                     "id": "f407-6c24-586c-b44f"
                   }
                 ],
-                "name": "Può sostituire Combirequiem con: ",
+                "name": "Può sostituire Combirequiem con:",
                 "id": "da47-c41b-4c64-182d",
                 "hidden": false,
                 "defaultSelectionEntryId": "ce07-b034-8727-939a",
@@ -179638,7 +179638,7 @@
                     "id": "7ab3-2fd5-65f4-7489"
                   }
                 ],
-                "name": "Può sostituire Arma potenziata con: ",
+                "name": "Può sostituire Arma potenziata con:",
                 "id": "80cb-3d71-90cd-649e",
                 "hidden": false,
                 "sortIndex": 3
@@ -180590,7 +180590,7 @@
                         "sortIndex": 4
                       }
                     ],
-                    "name": "Può sostituire Combirequiem con: ",
+                    "name": "Può sostituire Combirequiem con:",
                     "id": "61fa-d2df-cf92-0df0",
                     "hidden": false,
                     "sortIndex": 1,
@@ -181362,7 +181362,7 @@
                         "id": "924d-4bf3-ebe4-8487"
                       }
                     ],
-                    "name": "Qualsiasi Modello in questa Unità può sostituire Combirequiem e Maglio potenziato con: ",
+                    "name": "Qualsiasi Modello in questa Unità può sostituire Combirequiem e Maglio potenziato con:",
                     "id": "29c9-f8d2-5619-83a1",
                     "hidden": false
                   }
@@ -181880,7 +181880,7 @@
                         "field": "71fb-0a67-4ba8-9466"
                       }
                     ],
-                    "name": "Può sostituire Combirequiem con: ",
+                    "name": "Può sostituire Combirequiem con:",
                     "id": "4f50-330d-477b-b18b",
                     "hidden": false,
                     "sortIndex": 1,
@@ -182655,7 +182655,7 @@
                         "id": "b305-7e1d-4269-8fb7"
                       }
                     ],
-                    "name": "Qualsiasi Modello in questa Unità può sostituire Combirequiem e Maglio potenziato con: ",
+                    "name": "Qualsiasi Modello in questa Unità può sostituire Combirequiem e Maglio potenziato con:",
                     "id": "44c7-f773-410f-9cfb",
                     "hidden": false
                   }
@@ -185174,7 +185174,7 @@
                     "id": "3286-da71-4803-9770"
                   }
                 ],
-                "name": "Può sostituire Spada a catena con: ",
+                "name": "Può sostituire Spada a catena con:",
                 "id": "72e8-0d55-4c25-a41b",
                 "defaultSelectionEntryId": "a0e8-447a-4d85-93d1",
                 "sortIndex": 3
@@ -188442,7 +188442,7 @@
                     "id": "2873-7070-4550-a2c2"
                   }
                 ],
-                "name": "Può sostituire Spada a catena con: ",
+                "name": "Può sostituire Spada a catena con:",
                 "id": "5426-4260-4c99-8191",
                 "sortIndex": 3,
                 "defaultSelectionEntryId": "9906-b6c5-4bbb-b314"
@@ -191511,7 +191511,7 @@
                     "id": "152e-69b4-45a9-8ff2"
                   }
                 ],
-                "name": "Questo Modello può sostituire due Multitermici binati su affusto laterale con: ",
+                "name": "Questo Modello può sostituire due Multitermici binati su affusto laterale con:",
                 "id": "5f35-cf03-402c-a0b2",
                 "defaultSelectionEntryId": "1557-8c7b-2803-9184",
                 "sortIndex": 3,
@@ -192783,7 +192783,7 @@
                     "id": "13ab-6de0-4a63-84f7"
                   }
                 ],
-                "name": "Qualsiasi Modello in questa Unità può sostituire Requiem pesante con: ",
+                "name": "Qualsiasi Modello in questa Unità può sostituire Requiem pesante con:",
                 "id": "a6d7-679f-4cc2-a8e4",
                 "sortIndex": 3,
                 "defaultSelectionEntryId": "fa8a-1b9c-4d21-a277"
@@ -195884,7 +195884,7 @@
                     "field": "hidden"
                   }
                 ],
-                "name": "Può sostituire Pistola requiem con: ",
+                "name": "Può sostituire Pistola requiem con:",
                 "id": "0d93-4894-4357-b102",
                 "sortIndex": 3,
                 "defaultSelectionEntryId": "ace8-c87a-4627-adae"
@@ -201303,7 +201303,7 @@
           {
             "characteristics": [
               {
-                "$text": "Un Modello con Armatus Necrotechnika ottiene la Regola Speciale Auto-riparazione (5+). Inoltre, se dei Modelli vengono Rimossi come Perdite entro 6\" da un Modello con Armatus Necrotechnika, il Giocatore Controllante può aggiungere 1 al risultato del suo Tiro Riparazione effettuato nel medesimo turno. Vantaggio Primario Il Corazzato Questo Vantaggio Primario può essere selezionato solo per un’Unità con il Ruolo Comando, che includa solo Modelli con il Tratto Mani di Ferro, una singola volta per Armata. Aggiungi un Riquadro Macchina da Guerra aggiuntivo al Distaccamento che includa il Riquadro con questo Vantaggio Primario. Un’Unità selezionata per occupare tale Riquadro ottiene il Sottotipo Campione, se non lo possedeva già.",
+                "$text": "Un Modello con Armatus Necrotechnika ottiene la Regola Speciale Auto-riparazione (5+).\nInoltre, se dei Modelli vengono Rimossi come Perdite entro 6\" da un Modello con Armatus Necrotechnika, il Giocatore Controllante può aggiungere 1 al risultato del suo Tiro Riparazione effettuato nel medesimo turno.\nVantaggio Primario Il Corazzato Questo Vantaggio Primario può essere selezionato solo per un’Unità con il Ruolo Comando, che includa solo Modelli con il Tratto Mani di Ferro, una singola volta per Armata.\nAggiungi un Riquadro Macchina da Guerra aggiuntivo al Distaccamento che includa il Riquadro con questo Vantaggio Primario.\nUn’Unità selezionata per occupare tale Riquadro ottiene il Sottotipo Campione, se non lo possedeva già.",
                 "name": "Descrizione",
                 "typeId": "9944-2f6d-d61b-03b5"
               }
@@ -219396,12 +219396,12 @@
                     "typeId": "954a-972f-5c94-2ede"
                   },
                   {
-                    "$text": "l’Unità il cui Movimento ha attivato la Reazione. L’Unità Reattiva è qualsiasi Unità in Riserva che includa solo Modelli con il Vantaggio Primario Corpi di Interdizione.",
+                    "$text": "l’Unità il cui Movimento ha attivato la Reazione.\nL’Unità Reattiva è qualsiasi Unità in Riserva che includa solo Modelli con il Vantaggio Primario Corpi di Interdizione.",
                     "name": "Bersaglio",
                     "typeId": "e102-8fdd-9cd4-c0f9"
                   },
                   {
-                    "$text": "Il Giocatore Reattivo deve selezionare un Modello dall’Unità Reattiva e posizionarlo in un punto qualsiasi del Campo di Battaglia al di fuori della Zona di Schieramento dell’Avversario, entro 6\" dall’Unità che ha attivato questa Reazione ma almeno 5\" oltre qualsiasi Modello nemico, ed oltre 1\" da qualsiasi Bordo del Campo di Battaglia o Terreno Intransitabile; I Modelli rimanenti devono poi essere posizionati in Coesione ed entro 6\" dal primo Modello posizionato, al di fuori della Zona di Schieramento dell’Avversario, almeno 5\" oltre qualsiasi Modello nemico, ed oltre 1\" da qualsiasi Bordo del Campo di Battaglia o Terreno Intransitabile. Qualsiasi Modello che non può essere posizionato usando queste Regole deve essere Rimosso come Perdita. Una volta che l’Unità Reattiva è stata schierata, può effettuare un Attacco a Distanza risolto Alla Cieca, oppure dichiarare una Carica Scomposta, contro l’Unità che ha innescato questa Reazione.",
+                    "$text": "1.\nIl Giocatore Reattivo deve selezionare un Modello dall’Unità Reattiva e posizionarlo in un punto qualsiasi del Campo di Battaglia al di fuori della Zona di Schieramento dell’Avversario, entro 6\" dall’Unità che ha attivato questa Reazione ma almeno 5\" oltre qualsiasi Modello nemico, ed oltre 1\" da qualsiasi Bordo del Campo di Battaglia o Terreno Intransitabile;\n2.\nI Modelli rimanenti devono poi essere posizionati in Coesione ed entro 6\" dal primo Modello posizionato, al di fuori della Zona di Schieramento dell’Avversario, almeno 5\" oltre qualsiasi Modello nemico, ed oltre 1\" da qualsiasi Bordo del Campo di Battaglia o Terreno Intransitabile.\nQualsiasi Modello che non può essere posizionato usando queste Regole deve essere Rimosso come Perdita.\n3.\nUna volta che l’Unità Reattiva è stata schierata, può effettuare un Attacco a Distanza risolto Alla Cieca, oppure dichiarare una Carica Scomposta, contro l’Unità che ha innescato questa Reazione.",
                     "name": "Procedura",
                     "typeId": "57cf-1c68-a020-2529"
                   }
@@ -219827,7 +219827,7 @@
             "comment": "Signori della Notte",
             "type": "upgrade",
             "import": true,
-            "name": "Atramentar ",
+            "name": "Atramentar",
             "hidden": true,
             "id": "0543-a0b7-e28b-a488"
           },
@@ -222798,7 +222798,7 @@
                     "typeId": "d7d5-5b31-5b37-66c4"
                   },
                   {
-                    "$text": "Una volta determinati il Focus e l’Unità Bersaglio, il Giocatore che controlla il Focus deve effettuare una Prova di Manifestazione. Se la Prova di Manifestazione ha successo, il Giocatore Controllante può selezionare un singolo Status Tattico posseduto da qualsiasi Modello nell’Unità Bersaglio, che verrà immediatamente rimosso da ogni Modello nell’Unità Bersaglio. Emanazione di Terrore (Arma Psionica) Arcano Prosperino: Osiraean Tutti i Modelli di un’Unità con l’Arcano Prosperino Osiraean ottengono i seguenti benefici: Il Tratto “Osiraean”; Il Potere Psionico Psicometria; Il Potere Psionico Empatia Meccanica.",
+                    "$text": "1.\nUna volta determinati il Focus e l’Unità Bersaglio, il Giocatore che controlla il Focus deve effettuare una Prova di Manifestazione.\n2.\nSe la Prova di Manifestazione ha successo, il Giocatore Controllante può selezionare un singolo Status Tattico posseduto da qualsiasi Modello nell’Unità Bersaglio, che verrà immediatamente rimosso da ogni Modello nell’Unità Bersaglio.",
                     "name": "Procedura",
                     "typeId": "3804-b2cf-9f1a-4ff0"
                   }
@@ -222931,7 +222931,7 @@
                     "typeId": "d7d5-5b31-5b37-66c4"
                   },
                   {
-                    "$text": "Una volta determinati il Focus e l’Unità Bersaglio, il Giocatore Controllante l’Unità Bersaglio deve effettuare una Prova di Resistenza. Se la Prova di Resistenza fallisce, tutti i Modelli dell’Unità Bersaglio subiscono una penalità di -2 alla loro Caratteristica di Movimento, fino a un minimo di 0. Se la Prova di Resistenza fallisce, inoltre, la prima volta che un Modello dell’Unità Bersaglio si Muove in una determinata Fase, deve effettuare un Test di Terreno Pericoloso.",
+                    "$text": "Una volta determinati il Focus e l’Unità Bersaglio, il Giocatore Controllante l’Unità Bersaglio deve effettuare una Prova di Resistenza.\nSe la Prova di Resistenza fallisce, tutti i Modelli dell’Unità Bersaglio subiscono una penalità di -2 alla loro Caratteristica di Movimento, fino a un minimo di 0.\nSe la Prova di Resistenza fallisce, inoltre, la prima volta che un Modello dell’Unità Bersaglio si Muove in una determinata Fase, deve effettuare un Test di Terreno Pericoloso.",
                     "name": "Procedura",
                     "typeId": "3804-b2cf-9f1a-4ff0"
                   }
@@ -222965,7 +222965,7 @@
                     "typeId": "d7d5-5b31-5b37-66c4"
                   },
                   {
-                    "$text": "Una volta determinati il Focus e l’Unità Bersaglio, il Giocatore che controlla il Focus deve effettuare una Prova di Manifestazione. Se la Prova di Manifestazione ha successo, tutte le Armi a Distanza nell’Unità Bersaglio, escluse le Armi con la Regola Speciale Area (X), ottengono la Regola Speciale Dilaniante (5+). Arcano Prosperino: Athanaean Tutti i Modelli di un’Unità con l’Arcano Prosperino Athanaean ottengono i seguenti benefici: Il Tratto “Athanaean”; L’Arma Psionica Emanazione di Terrore; Il Potere Psionico Chiarezza.",
+                    "$text": "1.\nUna volta determinati il Focus e l’Unità Bersaglio, il Giocatore che controlla il Focus deve effettuare una Prova di Manifestazione.\n2.\nSe la Prova di Manifestazione ha successo, tutte le Armi a Distanza nell’Unità Bersaglio, escluse le Armi con la Regola Speciale Area (X), ottengono la Regola Speciale Dilaniante (5+).",
                     "name": "Procedura",
                     "typeId": "3804-b2cf-9f1a-4ff0"
                   }
@@ -223040,7 +223040,7 @@
                     "typeId": "daae-40ac-68e2-fa78"
                   },
                   {
-                    "$text": "Una volta determinati il Focus e l’Unità Bersaglio, il Giocatore che controlla il Focus deve effettuare una Prova di Manifestazione. Se la Prova di Manifestazione ha successo, tutti i Modelli dell’Unità bersaglio della Benedizione ottengono un bonus di +2 alla loro Caratteristica di Resistenza.",
+                    "$text": "Una volta determinati il Focus e l’Unità Bersaglio, il Giocatore che controlla il Focus deve effettuare una Prova di Manifestazione.\nSe la Prova di Manifestazione ha successo, tutti i Modelli dell’Unità bersaglio della Benedizione ottengono un bonus di +2 alla loro Caratteristica di Resistenza.",
                     "name": "Procedura",
                     "typeId": "8d43-934e-e511-0cfd"
                   }
@@ -223171,7 +223171,7 @@
                     "typeId": "d7d5-5b31-5b37-66c4"
                   },
                   {
-                    "$text": "Determinati il Focus e l’Unità Bersaglio, il Giocatore Controllante il Focus deve effettuare una Prova di Manifestazione. Se la Prova di Manifestazione ha successo, alla fine di ogni Livello di Iniziativa, ogni Unità che ha messo a segno dei Colpi contro l’Unità Bersaglio subisce D6 Colpi con Forza ‘4’, VP ‘-’ e Danno ‘ 1’, assegnati dal Giocatore Controllante. Presa Bruciante (Arma Psionica) Arcano Prosperino: Pavoni Tutti i Modelli di un’Unità con l’Arcano Prosperino Pavoni ottengono i seguenti benefici: Il Tratto “Pavoni”; La Reazione Psionica Forma di Pietra; L’Arma Psionica Sangue Ribollente.",
+                    "$text": "1.\nDeterminati il Focus e l’Unità Bersaglio, il Giocatore Controllante il Focus deve effettuare una Prova di Manifestazione.\n2.\nSe la Prova di Manifestazione ha successo, alla fine di ogni Livello di Iniziativa, ogni Unità che ha messo a segno dei Colpi contro l’Unità Bersaglio subisce D6 Colpi con Forza ‘4’, VP ‘-’ e Danno ‘1’, assegnati dal Giocatore Controllante.",
                     "name": "Procedura",
                     "typeId": "3804-b2cf-9f1a-4ff0"
                   }
@@ -223376,7 +223376,7 @@
                     "typeId": "daae-40ac-68e2-fa78"
                   },
                   {
-                    "$text": "Una volta determinati il Focus e l’Unità Bersaglio, il Giocatore che controlla il Focus deve effettuare una Prova di Manifestazione. Se ha successo, tutti i Modelli nell’Unità Bersaglio ottengono la Regola Speciale Ammantato (4+). Forza Schiacciante (Arma Psionica) Arcano Prosperino: Pirae Tutti i Modelli di un’Unità con l’Arcano Prosperino Pirae ottengono i seguenti benefici: Il Tratto “Pirae”; Il Potere Psionico Scudo Infernale; L’Arma Psionica Stretta Ardente.",
+                    "$text": "1.\nUna volta determinati il Focus e l’Unità Bersaglio, il Giocatore che controlla il Focus deve effettuare una Prova di Manifestazione.\n2.\nSe ha successo, tutti i Modelli nell’Unità Bersaglio ottengono la Regola Speciale Ammantato (4+).",
                     "name": "Procedura",
                     "typeId": "8d43-934e-e511-0cfd"
                   }
@@ -223463,7 +223463,7 @@
                     "typeId": "d7d5-5b31-5b37-66c4"
                   },
                   {
-                    "$text": "Una volta determinati il Focus e l’Unità Bersaglio, il Giocatore Controllante l’Unità Bersaglio deve effettuare una Prova di Manifestazione. Se la Prova di Manifestazione ha successo, il valore di X di qualsiasi istanza della Regola Speciale Surriscaldamento (X) posseduta da qualsiasi Arma di un qualsiasi Modello dell’Unità Bersaglio è ridotto di 1, fino a un minimo di 0, nel qual caso la Regola Speciale Surriscaldamento (X) cessa di avere effetto.",
+                    "$text": "Una volta determinati il Focus e l’Unità Bersaglio, il Giocatore Controllante l’Unità Bersaglio deve effettuare una Prova di Manifestazione.\nSe la Prova di Manifestazione ha successo, il valore di X di qualsiasi istanza della Regola Speciale Surriscaldamento (X) posseduta da qualsiasi Arma di un qualsiasi Modello dell’Unità Bersaglio è ridotto di 1, fino a un minimo di 0, nel qual caso la Regola Speciale Surriscaldamento (X) cessa di avere effetto.",
                     "name": "Procedura",
                     "typeId": "3804-b2cf-9f1a-4ff0"
                   }
@@ -223497,7 +223497,7 @@
                     "typeId": "d7d5-5b31-5b37-66c4"
                   },
                   {
-                    "$text": "Una volta determinati il Focus e l’Unità Bersaglio, il Giocatore che controlla il Focus deve effettuare una Prova di Manifestazione. Se la Prova di Manifestazione ha successo, il Modello bersaglio guadagna una Ferita persa in precedenza.",
+                    "$text": "Una volta determinati il Focus e l’Unità Bersaglio, il Giocatore che controlla il Focus deve effettuare una Prova di Manifestazione.\nSe la Prova di Manifestazione ha successo, il Modello bersaglio guadagna una Ferita persa in precedenza.",
                     "name": "Procedura",
                     "typeId": "3804-b2cf-9f1a-4ff0"
                   }
@@ -229130,7 +229130,7 @@
                   {
                     "characteristics": [
                       {
-                        "$text": "\"I Modelli con questa Regola Speciale subiscono danni maggiori dai Pericoli del Warp.\"\n\n\nQuando un'Unità che include Modelli con questa Regola Speciale subisce i Pericoli del Warp e ottiene un risultato di Frattura Warp, tutti i Modelli con questa Regola Speciale in quell'Unità hanno la loro Caratteristica Volontà impostata a 5 mentre si risolve quel caso di Pericoli del Warp.",
+                        "$text": "\"I Modelli con questa Regola Speciale subiscono danni maggiori dai Pericoli del Warp.\"\n\n\nQuando un’Unità che include Modelli con questa Regola Speciale subisce i Pericoli del Warp e ottiene un risultato di Frattura Warp, tutti i Modelli con questa Regola Speciale in quell’Unità hanno la loro Caratteristica Volontà impostata a 5 mentre si risolve quel caso di Pericoli del Warp.",
                         "name": "Descrizione",
                         "typeId": "d5eb-0b8b-0f26-6233"
                       }
@@ -229428,7 +229428,7 @@
               }
             ],
             "import": true,
-            "name": "Fucile automatico recuperato ",
+            "name": "Fucile automatico recuperato",
             "hidden": false,
             "id": "d9b9-913f-6ae1-ed1f",
             "type": "selectionEntry",
@@ -230289,7 +230289,7 @@
             ],
             "type": "upgrade",
             "import": true,
-            "name": "Mani di Ferro: Risolutezza di Ferro  ",
+            "name": "Mani di Ferro: Risolutezza di Ferro",
             "hidden": true,
             "id": "5bd3-e8ac-e0c9-a60e"
           },
@@ -233495,7 +233495,7 @@
               }
             ],
             "import": true,
-            "name": "Venom Sphere",
+            "name": "Sfere Venefiche",
             "hidden": true,
             "id": "3667-5bd9-3d05-30fc",
             "type": "selectionEntry",

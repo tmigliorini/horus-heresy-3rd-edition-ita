@@ -294,7 +294,7 @@
                     "typeId": "88c3-1ca5-7dc1-f291"
                   },
                   {
-                    "$text": "Scossa (Pinned), Inchiodamento (1)",
+                    "$text": "Scossa (Inchiodato), Inchiodamento (1)",
                     "name": "Regole Speciali",
                     "typeId": "5aad-137a-8ee2-63fd"
                   },
@@ -486,7 +486,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il Giocatore che lo Controlla Gambetto: Temprato dalla Guerra: la Caratteristica Resistenza di questo Modello è impostata a 8 per la durata del successivo Passaggio di Attacco. Sire delle Mani di Ferro Se quattro o più Riquadri Truppe nel Distaccamento Principale sono occupati da Squadre Tattiche e/o Squadre d’Abbordaggio, allora tutti i Riquadri Truppe nel Distaccamento Principale sono considerati Riquadri Primari. Inoltre, fino alla fine del primo Turno di Battaglia, tutti i Modelli di questa Armata con il Tipo Fanteria e il Tratto Mani di Ferro hanno la Regola Speciale Insensibile al Dolore (6+).",
+                    "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il Giocatore che lo Controlla può selezionare il seguente Gambetto: Temprato dalla Guerra: la Caratteristica Resistenza di questo Modello è impostata a 8 per la durata del successivo Passaggio di Attacco.",
                     "name": "Descrizione",
                     "typeId": "2d7d-b1d9-dead-605a"
                   }
@@ -758,7 +758,7 @@
           {
             "characteristics": [
               {
-                "$text": "Un Modello con Armatus Necrotechnika ottiene la Regola Speciale Auto-riparazione (5+). Inoltre, se dei Modelli vengono Rimossi come Perdite entro 6\" da un Modello con Armatus Necrotechnika, il Giocatore Controllante può aggiungere 1 al risultato del suo Tiro Riparazione effettuato nel medesimo turno. Vantaggio Primario Il Corazzato Questo Vantaggio Primario può essere selezionato solo per un’Unità con il Ruolo Comando, che includa solo Modelli con il Tratto Mani di Ferro, una singola volta per Armata. Aggiungi un Riquadro Macchina da Guerra aggiuntivo al Distaccamento che includa il Riquadro con questo Vantaggio Primario. Un’Unità selezionata per occupare tale Riquadro ottiene il Sottotipo Campione, se non lo possedeva già.",
+                "$text": "Un Modello con Armatus Necrotechnika ottiene la Regola Speciale Auto-riparazione (5+).\nInoltre, se dei Modelli vengono Rimossi come Perdite entro 6\" da un Modello con Armatus Necrotechnika, il Giocatore Controllante può aggiungere 1 al risultato del suo Tiro Riparazione effettuato nel medesimo turno.\nVantaggio Primario Il Corazzato Questo Vantaggio Primario può essere selezionato solo per un’Unità con il Ruolo Comando, che includa solo Modelli con il Tratto Mani di Ferro, una singola volta per Armata.\nAggiungi un Riquadro Macchina da Guerra aggiuntivo al Distaccamento che includa il Riquadro con questo Vantaggio Primario.\nUn’Unità selezionata per occupare tale Riquadro ottiene il Sottotipo Campione, se non lo possedeva già.",
                 "name": "Descrizione",
                 "typeId": "9944-2f6d-d61b-03b5"
               }
@@ -3852,7 +3852,7 @@
           {
             "characteristics": [
               {
-                "$text": "Un Modello con armatura Terminator Gorgon guadagna la Regola Speciale Insensibile al Dolore (5+). Inoltre, al termine del Passaggio 4 della Fase di Assalto, se un Modello con armatura Terminator Gorgon ha superato almeno un Tiro Armatura o Invulnerabilità contro Ferite causate da Attacchi da Tiro nella stessa Fase d’Assalto, l’Unità che ha inflitto tali ferite deve effettuare una Prova di Coraggio. Se la Prova fallisce, l’Unità ottiene lo Status Soppresso.",
+                "$text": "Un Modello con armatura Terminator Gorgon guadagna la Regola Speciale Insensibile al Dolore (5+).\nInoltre, al termine del Passaggio 4 della Fase di Assalto, se un Modello con armatura Terminator Gorgon ha superato almeno un Tiro Armatura o Invulnerabilità contro Ferite causate da Attacchi da Tiro nella stessa Fase d’Assalto, l’Unità che ha inflitto tali ferite deve effettuare una Prova di Coraggio.\nSe la Prova fallisce, l’Unità ottiene lo Status Soppresso.",
                 "name": "Descrizione",
                 "typeId": "9944-2f6d-d61b-03b5"
               }
@@ -4612,7 +4612,7 @@
                     "id": "a2e5-835d-4477-9efb"
                   }
                 ],
-                "name": "Questo Modello può sostituire Fucile requiem e Pistola requiem con: ",
+                "name": "Questo Modello può sostituire Fucile requiem e Pistola requiem con:",
                 "id": "ee6b-5a20-49b8-a55e",
                 "sortIndex": 4
               },
@@ -5073,7 +5073,7 @@
                     "field": "7be6-23ce-b771-fb61"
                   }
                 ],
-                "name": "Può sostituire Fucile requiem con: ",
+                "name": "Può sostituire Fucile requiem con:",
                 "id": "eb0f-4fce-4163-aae1",
                 "hidden": false,
                 "sortIndex": 1,
@@ -5548,7 +5548,7 @@
                     "hidden": false
                   }
                 ],
-                "name": "Può sostituire Combirequiem con: ",
+                "name": "Può sostituire Combirequiem con:",
                 "id": "353f-2c55-af23-d3d2",
                 "hidden": false,
                 "defaultSelectionEntryId": "9b76-d98c-c220-7e34"
@@ -5680,7 +5680,7 @@
                     "id": "a8f4-96fe-b02a-d832"
                   }
                 ],
-                "name": "Può sostituire Arma potenziata con: ",
+                "name": "Può sostituire Arma potenziata con:",
                 "id": "3179-3b62-cb02-9120",
                 "hidden": false
               }
@@ -6038,7 +6038,7 @@
                     "id": "1385-a408-aa91-1b4b"
                   }
                 ],
-                "name": "Può sostituire Arma potenziata con: ",
+                "name": "Può sostituire Arma potenziata con:",
                 "id": "50c2-b4f4-4a94-a8aa",
                 "sortIndex": 2
               },
@@ -6176,7 +6176,7 @@
                     "id": "51e5-5fb6-c82f-884e"
                   }
                 ],
-                "name": "Può sostituire Combirequiem con: ",
+                "name": "Può sostituire Combirequiem con:",
                 "id": "6be6-e84d-4926-b915",
                 "defaultSelectionEntryId": "d460-2382-41b0-8b04",
                 "sortIndex": 1
@@ -6670,7 +6670,7 @@
                     "includeChildSelections": true
                   }
                 ],
-                "name": "Un inductii in questa Unità può selezionare Bombe Fosfex ",
+                "name": "Un inductii in questa Unità può selezionare Bombe Fosfex",
                 "id": "01ba-ae1c-4668-8ccd",
                 "sortIndex": 5
               },
@@ -7159,12 +7159,12 @@
                         "typeId": "954a-972f-5c94-2ede"
                       },
                       {
-                        "$text": "l’Unità la cui Carica ha attivato la Reazione Avanzata. L’Unità Reattiva è l’Unità dichiarata come bersaglio della Carica che ha attivato questa Reazione.",
+                        "$text": "l’Unità la cui Carica ha attivato la Reazione Avanzata.\nL’Unità Reattiva è l’Unità dichiarata come bersaglio della Carica che ha attivato questa Reazione.",
                         "name": "Bersaglio",
                         "typeId": "e102-8fdd-9cd4-c0f9"
                       },
                       {
-                        "$text": "Una volta dichiarata questa Reazione, il Giocatore Reattivo effettua un Attacco a Distanza con l’Unità Reattiva. Finché questo Attacco a Distanza non viene risolto, le Armi selezionate per esso modificano la loro Caratteristica Potenza di Fuoco di +1 e ottengono la Regola Speciale Surriscaldamento (1); se quell’Arma ha già la Regola Speciale Surriscaldamento (X), il valore di X su quella Regola Speciale aumenta di +1. Dopo aver risolto questo Attacco di Tiro, il Giocatore Attivo procede normalmente con il Passaggio 3 di quella Carica, ma il Giocatore Reattivo non può effettuare Attacchi a Raffica durante il Passaggio 4 di quella Carica.",
+                        "$text": "Una volta dichiarata questa Reazione, il Giocatore Reattivo effettua un Attacco a Distanza con l’Unità Reattiva.\nFinché questo Attacco a Distanza non viene risolto, le Armi selezionate per esso modificano la loro Caratteristica Potenza di Fuoco di +1 e ottengono la Regola Speciale Surriscaldamento (1); se quell’Arma ha già la Regola Speciale Surriscaldamento (X), il valore di X su quella Regola Speciale aumenta di +1.\nDopo aver risolto questo Attacco di Tiro, il Giocatore Attivo procede normalmente con il Passaggio 3 di quella Carica, ma il Giocatore Reattivo non può effettuare Attacchi a Raffica durante il Passaggio 4 di quella Carica.",
                         "name": "Procedura",
                         "typeId": "57cf-1c68-a020-2529"
                       }

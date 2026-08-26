@@ -3970,7 +3970,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, se ha 2 o meno Ferite rimanenti, il suo Giocatore Controllante Gambetto: La Collera del Leone: Il Modello per cui è stato selezionato questo Gambetto aggiunge un Modificatore +2 al Tiro Concentrazione e non subisce un modificatore -1 per ogni punto di differenza tra la Caratteristica Ferite Base di questo Modello e la sua Caratteristica Ferite attuale. Sire degli Angeli Oscuri Se quattro o più Riquadri Truppe nel Distaccamento Principale di questo Esercito contengono almeno un’Unità di Squadra Tattica, almeno un’Unità di Squadra Assaltatrice e almeno un’Unità di Squadra d’Abbordaggio, allora tutti i Riquadri Truppe nel Distaccamento Principale sono considerati Primari. Inoltre, quando il Giocatore che Controlla un Modello con questa Regola Speciale effettua un Tiro Riserve per un’Unità Squadrone Motociclisti o un’Unità Squadrone Scimitar che includa solo Modelli con il Tratto Angeli Oscuri, quel Tiro viene modificato di +1. EQUIPAGGIAMENTO Granate stasi Una volta per Battaglia, la prima volta che un Modello con granate stasi, e qualsiasi Unità a cui si sia aggregato, vengono Caricati con successo, l’Iniziativa di tutti i Modelli nell’Unità in Carica viene modificata di -2 per la durata della Fase di Assalto in corso. Questo modificatore non ha effetto sui Modelli nell’Unità in Carica impegnati in una Sfida. Armatura della Foresta Quando un Modello con questa Regola Speciale è impegnato in una Sfida, la Caratteristica Danno di qualsiasi Ferita inflitta a quel Modello viene ridotta di 1, fino a un minimo di 1.",
+                    "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, se ha 2 o meno Ferite rimanenti, il suo Giocatore Controllante può selezionare il seguente Gambetto: La Collera del Leone: Il Modello per cui è stato selezionato questo Gambetto aggiunge un Modificatore +2 al Tiro Concentrazione e non subisce un modificatore -1 per ogni punto di differenza tra la Caratteristica Ferite Base di questo Modello e la sua Caratteristica Ferite attuale.",
                     "name": "Descrizione",
                     "typeId": "2d7d-b1d9-dead-605a"
                   }
@@ -4135,7 +4135,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Una volta per Battaglia, la prima volta che un Modello con granate stasi, e qualsiasi Unità a cui si sia aggregato, vengono Caricati con successo, l’Iniziativa di tutti i Modelli nell’Unità in Carica viene modificata di -2 per la durata della Fase di Assalto in corso. Questo modificatore non ha effetto sui Modelli nell’Unità in Carica impegnati in una Sfida.",
+                    "$text": "Una volta per Battaglia, la prima volta che un Modello con granate stasi, e qualsiasi Unità a cui si sia aggregato, vengono Caricati con successo, l’Iniziativa di tutti i Modelli nell’Unità in Carica viene modificata di -2 per la durata della Fase di Assalto in corso.\nQuesto modificatore non ha effetto sui Modelli nell’Unità in Carica impegnati in una Sfida.",
                     "name": "Descrizione",
                     "typeId": "9944-2f6d-d61b-03b5"
                   }
@@ -4995,7 +4995,7 @@
           {
             "characteristics": [
               {
-                "$text": "Un Modello con Egida Cytheron ha un Tiro Invulnerabilità di 5+ e guadagna il Tratto Scudo. Inoltre, il Giocatore Controllore di un’Unità che includa almeno un Modello con Egida Cytheron può dichiarare la Reazione Avanzata Muro di Scudi! per quell’Unità.",
+                "$text": "Un Modello con Egida Cytheron ha un Tiro Invulnerabilità di 5+ e guadagna il Tratto Scudo.\nInoltre, il Giocatore Controllore di un’Unità che includa almeno un Modello con Egida Cytheron può dichiarare la Reazione Avanzata Muro di Scudi! per quell’Unità.",
                 "name": "Descrizione",
                 "typeId": "9944-2f6d-d61b-03b5"
               }
@@ -5558,7 +5558,7 @@
                 "typeId": "88c3-1ca5-7dc1-f291"
               },
               {
-                "$text": "Avvelenato (2+), Corrosivo (T)",
+                "$text": "Avvelenato (2+), Corrosivo (R)",
                 "name": "Regole Speciali",
                 "typeId": "5aad-137a-8ee2-63fd"
               },
@@ -9357,7 +9357,7 @@
                         "typeId": "88c3-1ca5-7dc1-f291"
                       },
                       {
-                        "$text": "Area (3\"), Bombardamento (2), Inchiodamento (3), Avvelenato (2+), Corrosivo (T)",
+                        "$text": "Area (3\"), Bombardamento (2), Inchiodamento (3), Avvelenato (2+), Corrosivo (R)",
                         "name": "Regole Speciali",
                         "typeId": "5aad-137a-8ee2-63fd"
                       },
@@ -9628,7 +9628,7 @@
                         "typeId": "88c3-1ca5-7dc1-f291"
                       },
                       {
-                        "$text": "Sfondacorazze, Scossa (Suppressed)",
+                        "$text": "Sfondacorazze, Scossa (Soppresso)",
                         "name": "Regole Speciali",
                         "typeId": "5aad-137a-8ee2-63fd"
                       },
@@ -9733,7 +9733,7 @@
                         "typeId": "88c3-1ca5-7dc1-f291"
                       },
                       {
-                        "$text": "Sagoma, Perforante (5+), Scossa (Pinned), Assalto, Inchiodamento (3)",
+                        "$text": "Sagoma, Perforante (5+), Scossa (Inchiodato), Assalto, Inchiodamento (3)",
                         "name": "Regole Speciali",
                         "typeId": "5aad-137a-8ee2-63fd"
                       },
@@ -11759,7 +11759,7 @@
                         "typeId": "e102-8fdd-9cd4-c0f9"
                       },
                       {
-                        "$text": "Invece di procedere al Passaggio Effettuare i Movimenti di Ammassamento finali di quel Combattimento, i Giocatori devono tornare alla Fase 1 di quel Combattimento e risolverlo una seconda volta, scartando tutti i Punti Risoluzione Combattimento guadagnati durante il primo round (ma non i Punti Risoluzione Combattimento ottenuti da eventuali Sfide durante quel Combattimento). I modelli nell’Unità Reattiva ottengono la Regola Speciale Lacerante (6+) su tutte le Armi con il Tratto Spada dell’Ordine.",
+                        "$text": "Invece di procedere al Passaggio Effettuare i Movimenti di Ammassamento finali di quel Combattimento, i Giocatori devono tornare alla Fase 1 di quel Combattimento e risolverlo una seconda volta, scartando tutti i Punti Risoluzione Combattimento guadagnati durante il primo round (ma non i Punti Risoluzione Combattimento ottenuti da eventuali Sfide durante quel Combattimento).\nI modelli nell’Unità Reattiva ottengono la Regola Speciale Lacerante (6+) su tutte le Armi con il Tratto Spada dell’Ordine.",
                         "name": "Procedura",
                         "typeId": "57cf-1c68-a020-2529"
                       }

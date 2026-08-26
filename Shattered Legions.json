@@ -468,7 +468,7 @@
                             ],
                             "type": "upgrade",
                             "import": true,
-                            "name": "Mani di Ferro: Risolutezza di Ferro  ",
+                            "name": "Mani di Ferro: Risolutezza di Ferro",
                             "hidden": false,
                             "id": "1621-120a-6b1d-0a6c"
                           },
@@ -920,7 +920,7 @@
                         "defaultSelectionEntryId": "6432-b18f-1ed1-dac8"
                       }
                     ],
-                    "name": "Tattiche Mutabili ",
+                    "name": "Tattiche Mutabili",
                     "id": "e623-911e-a118-17e4",
                     "hidden": false
                   }
@@ -954,7 +954,7 @@
                   {
                     "characteristics": [
                       {
-                        "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il Giocatore Controllante può selezionare il seguente Gambetto: Attacco Sprezzante: questo Gambetto può essere selezionato solo se questo Modello ha la Caratteristica di Ferite ridotta al di sotto del suo valore iniziale. Mentre questo Gambetto è selezionato, durante il Passaggio di Concentrazione, invece di effettuare il Tiro Concentrazione, il Giocatore Controllante effettua un singolo Attacco da Mischia, beneficiando di +1 al Tiro per Colpire ed al Tiro per Ferire. Se il Modello nemico non è Rimosso come Perdita, questo Modello viene Rimosso come Perdita al suo posto.",
+                        "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il Giocatore Controllante può selezionare il seguente Gambetto: Attacco Sprezzante: questo Gambetto può essere selezionato solo se questo Modello ha la Caratteristica di Ferite ridotta al di sotto del suo valore iniziale.\nMentre questo Gambetto è selezionato, durante il Passaggio di Concentrazione, invece di effettuare il Tiro Concentrazione, il Giocatore Controllante effettua un singolo Attacco da Mischia, beneficiando di +1 al Tiro per Colpire ed al Tiro per Ferire.\nSe il Modello nemico non è Rimosso come Perdita, questo Modello viene Rimosso come Perdita al suo posto.",
                         "name": "Descrizione",
                         "typeId": "2d7d-b1d9-dead-605a"
                       }
@@ -1005,12 +1005,12 @@
                         "typeId": "954a-972f-5c94-2ede"
                       },
                       {
-                        "$text": "l’Unità Bersaglio è sempre l’Unità la cui Carica ha attivato la Reazione. L’Unità Reattiva è sempre l’Unità dichiarata come bersaglio della Carica che ha attivato questa Reazione.",
+                        "$text": "l’Unità Bersaglio è sempre l’Unità la cui Carica ha attivato la Reazione.\nL’Unità Reattiva è sempre l’Unità dichiarata come bersaglio della Carica che ha attivato questa Reazione.",
                         "name": "Bersaglio",
                         "typeId": "e102-8fdd-9cd4-c0f9"
                       },
                       {
-                        "$text": "Una volta dichiarata questa Reazione, il Giocatore Reattivo deve dichiarare quanti Punti Reazione sta spendendo. Se è stato speso 1 Punto Reazione, i Modelli dell’Unità Reattiva ottengono un modificatore di +1 alla Caratteristica di Resistenza fino alla fine della Fase. Se sono stati spesi 2 Punti di Reazione, i Modelli dell’Unità Reattiva ottengono un modificatore di +1 alla Caratteristica di Resistenza ed i Modelli che effettuano attacchi contro l’Unità Bersaglio ottengono un modificatore di +1 alla Caratteristica di Attacchi fino alla fine della Fase. Se sono stati spesi 3 Punti di Reazione, i Modelli dell’Unità Reattiva ottengono un modificatore di +1 alla Caratteristica di Resistenza e i Modelli che effettuano attacchi contro l’Unità Bersaglio ottengono un modificatore di +1 alle Caratteristiche di Attacchi e Forza fino alla fine della Fase. Scudi Neri Tutti i Modelli dell’Armata che hanno il Tratto Scudi Neri ottengono una serie di opzioni e regole aggiuntive, organizzate nelle categorie seguenti, che insieme formano il Rito di Guerra Scudi Neri: una Tattica Scudi Neri; un Gambetto; i",
+                        "$text": "1.\nUna volta dichiarata questa Reazione, il Giocatore Reattivo deve dichiarare quanti Punti Reazione sta spendendo.\n2.\nSe è stato speso 1 Punto Reazione, i Modelli dell’Unità Reattiva ottengono un modificatore di +1 alla Caratteristica di Resistenza fino alla fine della Fase.\nSe sono stati spesi 2 Punti di Reazione, i Modelli dell’Unità Reattiva ottengono un modificatore di +1 alla Caratteristica di Resistenza ed i Modelli che effettuano attacchi contro l’Unità Bersaglio ottengono un modificatore di +1 alla Caratteristica di Attacchi fino alla fine della Fase.\nSe sono stati spesi 3 Punti di Reazione, i Modelli dell’Unità Reattiva ottengono un modificatore di +1 alla Caratteristica di Resistenza e i Modelli che effettuano attacchi contro l’Unità Bersaglio ottengono un modificatore di +1 alle Caratteristiche di Attacchi e Forza fino alla fine della Fase.",
                         "name": "Procedura",
                         "typeId": "57cf-1c68-a020-2529"
                       }

@@ -170,7 +170,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "All'inizio del Passaggio della Gloria di una Sfida che coinvolga un Modello con questa Regola Speciale e di cui è lo Sfidante, il Giocatore che controlla il Modello con questa Regola Speciale può scegliere di tornare immediatamente al Passaggio Dichiarare la Sfida e dichiarare un'altra Sfida.\nI Modelli nemici che hanno già combattuto in una Sfida durante questa Sottofase non possono partecipare a questa Sfida aggiuntiva.\nQuando il Passaggio della Gloria di questa Sottofase di Sfida viene risolto, i Giocatori ottengono Punti Risoluzione Combattimento per tutte le Sfide risolte durante questa Sottofase.",
+                    "$text": "All’inizio del Passaggio della Gloria di una Sfida che coinvolga un Modello con questa Regola Speciale e di cui è lo Sfidante, il Giocatore che controlla il Modello con questa Regola Speciale può scegliere di tornare immediatamente al Passaggio Dichiarare la Sfida e dichiarare un’altra Sfida.\nI Modelli nemici che hanno già combattuto in una Sfida durante questa Sottofase non possono partecipare a questa Sfida aggiuntiva.\nQuando il Passaggio della Gloria di questa Sottofase di Sfida viene risolto, i Giocatori ottengono Punti Risoluzione Combattimento per tutte le Sfide risolte durante questa Sottofase.",
                     "name": "Descrizione",
                     "typeId": "2d7d-b1d9-dead-605a"
                   }
@@ -3164,12 +3164,12 @@
                 "typeId": "954a-972f-5c94-2ede"
               },
               {
-                "$text": "l’Unità il cui Movimento ha attivato la Reazione. L’Unità che include il Modello con questa Regola Speciale è considerata l’Unità Reattiva.",
+                "$text": "l’Unità il cui Movimento ha attivato la Reazione.\nL’Unità che include il Modello con questa Regola Speciale è considerata l’Unità Reattiva.",
                 "name": "Bersaglio",
                 "typeId": "e102-8fdd-9cd4-c0f9"
               },
               {
-                "$text": "Una volta dichiarata la Reazione Avanzata “Cannoni della Conqueror”, il Giocatore Reattivo effettua un Attacco a Distanza prendendo di mira l’Unità Bersaglio, usando il profilo Arma “Cannoni della Conqueror”. Il Tiro per Colpire per questo Attacco a Distanza fallisce automaticamente. Una volta che l’Attacco a Distanza effettuato come parte di questa Reazione è stato completamente risolto, il Giocatore Attivo deve quindi risolvere completamente tutti gli elementi rimanenti del movimento dell’Unità Bersaglio. Opzioni",
+                "$text": "Una volta dichiarata la Reazione Avanzata “Cannoni della Conqueror”, il Giocatore Reattivo effettua un Attacco a Distanza prendendo di mira l’Unità Bersaglio, usando il profilo Arma “Cannoni della Conqueror”.\nIl Tiro per Colpire per questo Attacco a Distanza fallisce automaticamente.\nUna volta che l’Attacco a Distanza effettuato come parte di questa Reazione è stato completamente risolto, il Giocatore Attivo deve quindi risolvere completamente tutti gli elementi rimanenti del movimento dell’Unità Bersaglio.\nOpzioni",
                 "name": "Procedura",
                 "typeId": "57cf-1c68-a020-2529"
               }
@@ -4691,7 +4691,7 @@
                     "id": "9723-8540-4a34-ad01"
                   }
                 ],
-                "name": "Può sostituire Spada a catena con: ",
+                "name": "Può sostituire Spada a catena con:",
                 "id": "ab9d-0193-46ec-9213",
                 "sortIndex": 2,
                 "defaultSelectionEntryId": "a8de-80b6-4988-82f6"
@@ -4780,7 +4780,7 @@
                     "field": "2e25-8451-4913-b971"
                   }
                 ],
-                "name": "Per ogni cinque Modelli in questa Unità,  Un ravager può sostituire una Pistola requiem con: ",
+                "name": "Per ogni cinque Modelli in questa Unità,  Un ravager può sostituire una Pistola requiem con:",
                 "id": "96d4-b3e6-4214-8b29",
                 "hidden": false,
                 "sortIndex": 3
@@ -5194,7 +5194,7 @@
                     "id": "6ab6-7e93-4830-ac67"
                   }
                 ],
-                "name": "Può sostituire Spada a catena con: ",
+                "name": "Può sostituire Spada a catena con:",
                 "id": "1413-ddc1-4351-9a82",
                 "sortIndex": 2,
                 "defaultSelectionEntryId": "9507-587e-4aeb-8f09"
@@ -5698,7 +5698,7 @@
                     "id": "b9f4-a0a4-45c8-910c"
                   }
                 ],
-                "name": "Può sostituire Spada a catena con: ",
+                "name": "Può sostituire Spada a catena con:",
                 "id": "3226-d9e3-479b-a964",
                 "sortIndex": 2,
                 "defaultSelectionEntryId": "a1a5-919d-4128-91bc"
@@ -5787,7 +5787,7 @@
                     "field": "0fa3-d8b2-dfb3-3090"
                   }
                 ],
-                "name": "Per ogni cinque Modelli in questa Unità,  Un Ravager con Reattori Dorsali può sostituire una Pistola requiem con: ",
+                "name": "Per ogni cinque Modelli in questa Unità,  Un Ravager con Reattori Dorsali può sostituire una Pistola requiem con:",
                 "id": "1633-ecaa-ec4d-b5ac",
                 "hidden": false
               }
@@ -6167,7 +6167,7 @@
                     "id": "83a3-4a2c-44e2-b354"
                   }
                 ],
-                "name": "Può sostituire Spada a catena con: ",
+                "name": "Può sostituire Spada a catena con:",
                 "id": "14ef-ca1b-4128-b644",
                 "sortIndex": 2,
                 "defaultSelectionEntryId": "e7b4-8442-44ac-b59d"
@@ -6614,7 +6614,7 @@
                     "id": "63e2-c1a3-4ff2-ada6"
                   }
                 ],
-                "name": "Qualsiasi Modello in questa Unità può sostituire Spada a catena e Pistola requiem con: ",
+                "name": "Qualsiasi Modello in questa Unità può sostituire Spada a catena e Pistola requiem con:",
                 "id": "ec00-e122-4e11-bf37",
                 "sortIndex": 5,
                 "defaultSelectionEntryId": "none"
@@ -6665,7 +6665,7 @@
                     "includeChildSelections": true
                   }
                 ],
-                "name": "Un inductii in questa Unità può avere: ",
+                "name": "Un inductii in questa Unità può avere:",
                 "id": "df89-f5f0-41a5-8d7b",
                 "sortIndex": 6,
                 "defaultSelectionEntryId": "none"
@@ -7297,7 +7297,7 @@
                   {
                     "characteristics": [
                       {
-                        "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Smembramento Brutale: se il Modello nemico viene Rimosso come Perdita durante il Passaggio di Attacco, durante il successivo Passaggio della Gloria il Giocatore Controllante ottiene 2 Punti Risoluzione Combattimento aggiuntivi. Reazione Avanzata Carica Furiosa Attivazione: Alla fine del Passaggio 4 di una Carica dichiarata dal Giocatore Attivo che prenda di mira un’Unità che includa solo modelli con il Tratto Divoratori di Mondi, se almeno un qualsiasi Modello nell’Unità Bersaglio sia stato Rimosso come Perdita a seguito degli Attacchi a Raffica. Costo: 1 Punto Reazione. Bersaglio: l’Unità la cui Carica ha innescato la Reazione. L’Unità Reattiva è l’Unità che è stata dichiarata come bersaglio della Carica che ha innescato questa Reazione. Procedura: Una volta dichiarata questa Reazione, l’Unità Bersaglio diventa Persa nei Chiodi. Il Giocatore Reattivo deve quindi effettuare un Tiro di Carica per l’Unità Reattiva. Se il risultato del Tiro di Carica è sufficiente a muovere un qualsiasi Modello dell’Unità Reattiva a contatto di Base con un Modello dell’Unità Bersaglio, allora viene effettuato un Movimento di Carica e le Unità vengono Bloccate in Combattimento. I Modelli dell’Unità Reattiva ottengono tutti i bonus per le Regole Speciali che si applicherebbero a quell’Unità in seguito a una Carica riuscita. Se il risultato del Tiro di Carica non porta alcun Modello dell’Unità Reattiva a contatto con un Modello dell’Unità Bersaglio, allora non viene effettuato alcun Movimento di Carica e i Giocatori procedono al Passaggio 5 del processo di Carica. Distaccamenti Addizionali Figli di Bodt Distaccamento Ausiliario 2 Riquadri Supporto (Primario); 3 Riquadri Truppe. I Riquadri Supporto in questo Distaccamento possono essere utilizzati solo per selezionare Unità di Apotecario.",
+                        "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Smembramento Brutale: se il Modello nemico viene Rimosso come Perdita durante il Passaggio di Attacco, durante il successivo Passaggio della Gloria il Giocatore Controllante ottiene 2 Punti Risoluzione Combattimento aggiuntivi.",
                         "name": "Descrizione",
                         "typeId": "2d7d-b1d9-dead-605a"
                       }
@@ -7349,12 +7349,12 @@
                         "typeId": "954a-972f-5c94-2ede"
                       },
                       {
-                        "$text": "l’Unità la cui Carica ha innescato la Reazione. L’Unità Reattiva è l’Unità che è stata dichiarata come bersaglio della Carica che ha innescato questa Reazione.",
+                        "$text": "l’Unità la cui Carica ha innescato la Reazione.\nL’Unità Reattiva è l’Unità che è stata dichiarata come bersaglio della Carica che ha innescato questa Reazione.",
                         "name": "Bersaglio",
                         "typeId": "e102-8fdd-9cd4-c0f9"
                       },
                       {
-                        "$text": "Una volta dichiarata questa Reazione, l’Unità Bersaglio diventa Persa nei Chiodi. Il Giocatore Reattivo deve quindi effettuare un Tiro di Carica per l’Unità Reattiva. Se il risultato del Tiro di Carica è sufficiente a muovere un qualsiasi Modello dell’Unità Reattiva a contatto di Base con un Modello dell’Unità Bersaglio, allora viene effettuato un Movimento di Carica e le Unità vengono Bloccate in Combattimento. I Modelli dell’Unità Reattiva ottengono tutti i bonus per le",
+                        "$text": "Una volta dichiarata questa Reazione, l’Unità Bersaglio diventa Persa nei Chiodi.\nIl Giocatore Reattivo deve quindi effettuare un Tiro di Carica per l’Unità Reattiva.\nSe il risultato del Tiro di Carica è sufficiente a muovere un qualsiasi Modello dell’Unità Reattiva a contatto di Base con un Modello dell’Unità Bersaglio, allora viene effettuato un Movimento di Carica e le Unità vengono Bloccate in Combattimento.\nI Modelli dell’Unità Reattiva ottengono tutti i bonus per le",
                         "name": "Procedura",
                         "typeId": "57cf-1c68-a020-2529"
                       }
@@ -7532,12 +7532,12 @@
                         "typeId": "954a-972f-5c94-2ede"
                       },
                       {
-                        "$text": "l’Unità il cui Attacco a Distanza ha attivato la Reazione. L’Unità Reattiva è l’Unità dichiarata come bersaglio dell’Attacco a Distanza che ha attivato questa Reazione.",
+                        "$text": "l’Unità il cui Attacco a Distanza ha attivato la Reazione.\nL’Unità Reattiva è l’Unità dichiarata come bersaglio dell’Attacco a Distanza che ha attivato questa Reazione.",
                         "name": "Bersaglio",
                         "typeId": "e102-8fdd-9cd4-c0f9"
                       },
                       {
-                        "$text": "Per la durata della Fase di Tiro in corso, tutti i Modelli dell’Unità Reattiva ottengono la Regola Speciale Guerriero Eterno (1). Immediatamente dopo la risoluzione del Passaggio 11 dell’Attacco a Distanza che ha attivato questa Reazione, il Giocatore Reattivo deve effettuare un Tiro di Carica per l’Unità Reattiva. Se il risultato del Tiro di Carica fosse sufficiente a muovere un Modello dell’Unità Reattiva a Contatto di Base con un Modello dell’Unità Bersaglio, allora viene effettuato un Movimento di Carica e le Unità vengono Bloccate in Combattimento. I Modelli dell’Unità Reattiva ottengono tutti i bonus per le",
+                        "$text": "Per la durata della Fase di Tiro in corso, tutti i Modelli dell’Unità Reattiva ottengono la Regola Speciale Guerriero Eterno (1).\nImmediatamente dopo la risoluzione del Passaggio 11 dell’Attacco a Distanza che ha attivato questa Reazione, il Giocatore Reattivo deve effettuare un Tiro di Carica per l’Unità Reattiva.\nSe il risultato del Tiro di Carica fosse sufficiente a muovere un Modello dell’Unità Reattiva a Contatto di Base con un Modello dell’Unità Bersaglio, allora viene effettuato un Movimento di Carica e le Unità vengono Bloccate in Combattimento.\nI Modelli dell’Unità Reattiva ottengono tutti i bonus per le",
                         "name": "Procedura",
                         "typeId": "57cf-1c68-a020-2529"
                       }

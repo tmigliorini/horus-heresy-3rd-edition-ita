@@ -587,7 +587,7 @@
             "id": "6525-3936-4aef-a458",
             "characteristics": [
               {
-                "$text": "se con il nemico, l’Unità Reattiva conta come se avesse effettuato con successo una Carica durante la successiva Fase di Assalto, e supera automaticamente tutte le Prove che è tenuta a effettuare nella successiva Sottofase del Morale, come se il Giocatore Controllante avesse ottenuto una coppia di “1\" per ogni Prova richiesta.\nDistaccamenti Addizionali\nArtiglio Insanguinato\nDistaccamento Ausiliario\n1 Riquadro Truppe (Primario);\n2 Riquadri Assalto Pesante;\n1 Riquadro Truppe.\nI Riquadri Truppe in questo Distaccamento possono essere utilizzati solo per selezionare le Unità di Branco di Sventratori Grigi.\n\n \n \n \n \nRegole Speciali\nUlulato del Lupo della Morte\nUna volta per Battaglia, mentre un Modello con questa Regola Speciale è Impegnato in una Sfida, il suo Giocatore Controllante Gambetto: Ululato del Lupo della Morte: Una volta selezionato questo Gambetto e finché i suoi effetti non cessano, nessun altro Gambetto può essere selezionato per quel Modello. Quando questo Gambetto viene selezionato, il Giocatore Controllante di questo Modello ottiene un bonus di +5 al Tiro Concentrazione seguente e ai Tiri Concentrazione successivi effettuati durante la Sfida, finché questo Modello fallisce nell’infliggere una Ferita non Salvata nel Passaggio di Attacco. Quando questo Modello fallisce nell’infliggere una Ferita non Salvata nel Passaggio di Attacco, gli effetti del Gambetto cessano. Sire dei Lupi Siderali Se quattro o più Riquadri Truppe nel Distaccamento Principale sono occupati da Unità di Branco di Sventratori Grigi, allora tutti i Riquadri Truppe nel Distaccamento Principale sono considerati Riquadri Primari. Inoltre, fino alla fine del primo Turno di Battaglia, tutti i Modelli di questa Armata con il Tipo Fanteria o Esemplare, ed il Tratto Lupi Siderali hanno la Regola Speciale Movimento in Copertura.",
+                "$text": "Una volta per Battaglia, mentre un Modello con questa Regola Speciale è Impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto.\nUlulato del Lupo della Morte: Una volta selezionato questo Gambetto e finché i suoi effetti non cessano, nessun altro Gambetto può essere selezionato per quel Modello.\nQuando questo Gambetto viene selezionato, il Giocatore Controllante di questo Modello ottiene un bonus di +5 al Tiro Concentrazione seguente e ai Tiri Concentrazione successivi effettuati durante la Sfida, finché questo Modello fallisce nell’infliggere una Ferita non Salvata nel Passaggio di Attacco.\nQuando questo Modello fallisce nell’infliggere una Ferita non Salvata nel Passaggio di Attacco, gli effetti del Gambetto cessano.",
                 "name": "Descrizione",
                 "typeId": "2d7d-b1d9-dead-605a"
               }
@@ -6397,7 +6397,7 @@
           {
             "characteristics": [
               {
-                "$text": "Il Giocatore Reattivo può scegliere di dichiarare una Reazione Psionica Forgiato dalla Tempesta nella Fase di Tiro, all'inizio del Passaggio 3 di un Attacco a Distanza effettuato dal Giocatore Attivo.",
+                "$text": "Il Giocatore Reattivo può scegliere di dichiarare una Reazione Psionica Forgiato dalla Tempesta nella Fase di Tiro, all’inizio del Passaggio 3 di un Attacco a Distanza effettuato dal Giocatore Attivo.",
                 "name": "Innesco",
                 "typeId": "4e6b-ebca-53df-fcf7"
               },
@@ -6407,12 +6407,12 @@
                 "typeId": "f25a-9ced-eb9b-4587"
               },
               {
-                "$text": "Il Fulcro di questa Reazione Psionica deve essere un Modello con il Tratto Sacerdote delle Rune sotto il controllo del Giocatore Reattivo, e deve far parte dell'Unità presa di mira dall'Attacco a Distanza che innesca questa Reazione Psionica.",
+                "$text": "Il Fulcro di questa Reazione Psionica deve essere un Modello con il Tratto Sacerdote delle Rune sotto il controllo del Giocatore Reattivo, e deve far parte dell’Unità presa di mira dall’Attacco a Distanza che innesca questa Reazione Psionica.",
                 "name": "Fulcro",
                 "typeId": "0b45-591a-ee11-488e"
               },
               {
-                "$text": "L'Unità Bersaglio deve essere l'Unità bersaglio dell'Attacco a Distanza che ha innescato la Reazione, e deve includere solo Modelli con il Tratto Lupi Siderali.",
+                "$text": "L’Unità Bersaglio deve essere l’Unità bersaglio dell’Attacco a Distanza che ha innescato la Reazione, e deve includere solo Modelli con il Tratto Lupi Siderali.",
                 "name": "Bersaglio",
                 "typeId": "cf1d-e201-caac-3d45"
               },
@@ -6422,7 +6422,7 @@
                 "typeId": "daae-40ac-68e2-fa78"
               },
               {
-                "$text": "1. Una volta determinati il Fulcro e l'Unità Bersaglio, effettua una Prova di Manifestazione.\n2. Se la Prova di Manifestazione ha successo, tutti gli attacchi effettuati come parte di un Attacco a Distanza contro il Bersaglio devono essere risolti Alla Cieca.\n3. Se la Prova di Manifestazione fallisce, non ci sono ulteriori effetti.",
+                "$text": "1.\nUna volta determinati il Fulcro e l’Unità Bersaglio, effettua una Prova di Manifestazione.\n2.\nSe la Prova di Manifestazione ha successo, tutti gli attacchi effettuati come parte di un Attacco a Distanza contro il Bersaglio devono essere risolti Alla Cieca.\n3.\nSe la Prova di Manifestazione fallisce, non ci sono ulteriori effetti.",
                 "name": "Procedura",
                 "typeId": "8d43-934e-e511-0cfd"
               }
@@ -7886,7 +7886,7 @@
                     "id": "fcee-a7f5-4593-8ab1"
                   }
                 ],
-                "name": "Il Capocaccia può sostituire Pistola lanciafiamme con: ",
+                "name": "Il Capocaccia può sostituire Pistola lanciafiamme con:",
                 "id": "f50f-14c1-4e33-ad82",
                 "hidden": false,
                 "sortIndex": 1,
@@ -8826,7 +8826,7 @@
                     "field": "hidden"
                   }
                 ],
-                "name": "Questo Lanciatore di Rune in arcione può sostituire Fucile requiem binato con: ",
+                "name": "Questo Lanciatore di Rune in arcione può sostituire Fucile requiem binato con:",
                 "id": "43ee-9347-4cf3-8a9a",
                 "hidden": false,
                 "sortIndex": 2
@@ -11493,7 +11493,7 @@
                     "field": "hidden"
                   }
                 ],
-                "name": "Questo Oratore dei Morti in arcione può sostituire Fucile requiem binato con: ",
+                "name": "Questo Oratore dei Morti in arcione può sostituire Fucile requiem binato con:",
                 "id": "1676-9cc3-47c6-b3d5",
                 "hidden": false,
                 "sortIndex": 2
@@ -13101,7 +13101,7 @@
                   {
                     "characteristics": [
                       {
-                        "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto:\nNessuna Preda Scappa: il Giocatore Avversario non può mai scegliere di passare alla Fase Gloria, per alcuna ragione, finché uno o entrambi i Modelli sfidanti non vengono Rimossi come Perdite.\nUna Saga Intessuta di Gloria\nMentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante Gambetto: Una Saga Intessuta di Gloria: se il Modello avversario viene Rimosso come Perdita, tutti i Modelli nella stessa Unità di questo Modello ottengono un modificatore di +1 alla loro Caratteristica Attacchi nella Sottofase di Combattimento successiva.",
+                        "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Una Saga Intessuta di Gloria: se il Modello avversario viene Rimosso come Perdita, tutti i Modelli nella stessa Unità di questo Modello ottengono un modificatore di +1 alla loro Caratteristica Attacchi nella Sottofase di Combattimento successiva.",
                         "name": "Descrizione",
                         "typeId": "2d7d-b1d9-dead-605a"
                       }
@@ -13115,7 +13115,7 @@
                   {
                     "characteristics": [
                       {
-                        "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Nessuna Preda Scappa: il Giocatore Avversario non può mai scegliere di passare alla Fase Gloria, per alcuna ragione, finché uno o entrambi i Modelli sfidanti non vengono Rimossi come Perdite. Una Saga Intessuta di Gloria Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Una Saga Intessuta di Gloria: se il Modello avversario viene Rimosso come Perdita, tutti i Modelli nella stessa Unità di questo Modello ottengono un modificatore di +1 alla loro Caratteristica Attacchi nella Sottofase di Combattimento successiva.",
+                        "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Nessuna Preda Scappa: il Giocatore Avversario non può mai scegliere di passare alla Fase Gloria, per alcuna ragione, finché uno o entrambi i Modelli sfidanti non vengono Rimossi come Perdite.\nUna Saga Intessuta di Gloria Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Una Saga Intessuta di Gloria: se il Modello avversario viene Rimosso come Perdita, tutti i Modelli nella stessa Unità di questo Modello ottengono un modificatore di +1 alla loro Caratteristica Attacchi nella Sottofase di Combattimento successiva.",
                         "name": "Descrizione",
                         "typeId": "2d7d-b1d9-dead-605a"
                       }
@@ -13201,12 +13201,12 @@
                         "typeId": "954a-972f-5c94-2ede"
                       },
                       {
-                        "$text": "l’Unità il cui Attacco a Distanza innesca la Reazione. L’Unità Reattiva è l’Unità che è bersaglio dell’Attacco a Distanza che innesca la Reazione.",
+                        "$text": "l’Unità il cui Attacco a Distanza innesca la Reazione.\nL’Unità Reattiva è l’Unità che è bersaglio dell’Attacco a Distanza che innesca la Reazione.",
                         "name": "Bersaglio",
                         "typeId": "e102-8fdd-9cd4-c0f9"
                       },
                       {
-                        "$text": "Una volta dichiarata questa Reazione, il Giocatore Attivo deve risolvere tutti i Passi rimanenti del processo di Attacco a Distanza, ma i Modelli dell’Unità Reattiva ottengono la Regola Speciale Insensibile al Dolore (5+) per la durata di questa Fase di Tiro. Immediatamente dopo la risoluzione del Passaggio 11 dell’Attacco a Distanza che ha attivato questa Reazione, l’Unità Reattiva deve effettuare un Movimento di Posizionamento, come se l’Unità Bersaglio fosse il Bersaglio di una Carica. Se questo Movimento è sufficiente a portare un Modello a Contatto di Base con il nemico, l’Unità Reattiva conta come se avesse effettuato con successo una Carica durante la successiva Fase di Assalto, e supera automaticamente tutte le Prove che è tenuta a effettuare nella successiva Sottofase del Morale, come se il Giocatore Controllante avesse ottenuto una coppia di “1\" per ogni Prova richiesta.",
+                        "$text": "Una volta dichiarata questa Reazione, il Giocatore Attivo deve risolvere tutti i Passi rimanenti del processo di Attacco a Distanza, ma i Modelli dell’Unità Reattiva ottengono la Regola Speciale Insensibile al Dolore (5+) per la durata di questa Fase di Tiro.\nImmediatamente dopo la risoluzione del Passaggio 11 dell’Attacco a Distanza che ha attivato questa Reazione, l’Unità Reattiva deve effettuare un Movimento di Posizionamento, come se l’Unità Bersaglio fosse il Bersaglio di una Carica.\nSe questo Movimento è sufficiente a portare un Modello a Contatto di Base con il nemico, l’Unità Reattiva conta come se avesse effettuato con successo una Carica durante la successiva Fase di Assalto, e supera automaticamente tutte le Prove che è tenuta a effettuare nella successiva Sottofase del Morale, come se il Giocatore Controllante avesse ottenuto una coppia di “1” per ogni Prova richiesta.",
                         "name": "Procedura",
                         "typeId": "57cf-1c68-a020-2529"
                       }

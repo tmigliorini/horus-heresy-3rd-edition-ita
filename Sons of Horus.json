@@ -3529,7 +3529,7 @@
                     "typeId": "a951-a772-7ce0-0b64"
                   }
                 ],
-                "name": "Horus Aximand ",
+                "name": "Horus Aximand",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo",
                 "hidden": false,
@@ -3576,7 +3576,7 @@
             ],
             "type": "model",
             "import": true,
-            "name": "Horus Aximand ",
+            "name": "Horus Aximand",
             "hidden": false,
             "id": "ec1c-34cc-46a1-f0ea",
             "sortIndex": 1
@@ -3937,7 +3937,7 @@
         ],
         "type": "unit",
         "import": true,
-        "name": "Piccolo Horus Aximand ",
+        "name": "Piccolo Horus Aximand",
         "hidden": false,
         "id": "f9ac-f2fc-fbb3-cc37"
       },
@@ -9636,7 +9636,7 @@
                     "includeChildSelections": true
                   }
                 ],
-                "name": "Un inductii in questa Unità può avere: ",
+                "name": "Un inductii in questa Unità può avere:",
                 "id": "6ad7-00b2-4d08-93c6",
                 "sortIndex": 5
               },
@@ -10024,7 +10024,7 @@
                   {
                     "characteristics": [
                       {
-                        "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Colpo Spietato: questo Gambetto può essere selezionato solo durante la prima Fase di Faccia a Faccia di una Sfida che coinvolga questo Modello. Mentre questo Gambetto è selezionato, qualsiasi Arma che questo Modello usa durante questa Sfida ottiene la Regola Speciale Corrosivo (Re) per la durata di questo Passaggio di Attacco. Reazione Avanzata Orgoglio del Guerriero Attivazione: quando un’Unità composta da Modelli con il Tratto Figli di Horus è in combattimento con un’Unità nemica e il Giocatore Attivo seleziona un Modello come sfidante. Costo: 1 Punto Reazione. Bersaglio: l’Unità che include il Modello nemico selezionato come Sfidante. L’Unità Reattiva è l’Unità che include i Modelli con il Tratto Figli di Horus che potrebbero essere selezionati come Sfidati. Procedura: Se la Caratteristica Abilità di Combattimento Base dello Sfidante è inferiore alla Caratteristica Abilità di Combattimento Base di tutti i Modelli dell’Unità Reattiva che sarebbero idonei ad accettare la Sfida, il Giocatore Reattivo può scegliere di non accettare la Sfida. In tal caso, la Sottofase di Sfida termina immediatamente e quel Modello non ottiene lo Status Tattico Disonorato. Distaccamenti Addizionali Corpo di Supremazia Distaccamento Ausiliario 2 Riquadri Truppe (Primario); 1 Riquadro Reparti Speciali; 1 Riquadro Assalto Pesante;.",
+                        "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Colpo Spietato: questo Gambetto può essere selezionato solo durante la prima Fase di Faccia a Faccia di una Sfida che coinvolga questo Modello.\nMentre questo Gambetto è selezionato, qualsiasi Arma che questo Modello usa durante questa Sfida ottiene la Regola Speciale Corrosivo (Re) per la durata di questo Passaggio di Attacco.",
                         "name": "Descrizione",
                         "typeId": "2d7d-b1d9-dead-605a"
                       }
@@ -10110,12 +10110,12 @@
                         "typeId": "954a-972f-5c94-2ede"
                       },
                       {
-                        "$text": "l’Unità che include il Modello nemico selezionato come Sfidante. L’Unità Reattiva è l’Unità che include i Modelli con il Tratto Figli di Horus che potrebbero essere selezionati come Sfidati.",
+                        "$text": "l’Unità che include il Modello nemico selezionato come Sfidante.\nL’Unità Reattiva è l’Unità che include i Modelli con il Tratto Figli di Horus che potrebbero essere selezionati come Sfidati.",
                         "name": "Bersaglio",
                         "typeId": "e102-8fdd-9cd4-c0f9"
                       },
                       {
-                        "$text": "Se la Caratteristica Abilità di Combattimento Base dello Sfidante è inferiore alla Caratteristica Abilità di Combattimento Base di tutti i Modelli dell’Unità Reattiva che sarebbero idonei ad accettare la Sfida, il Giocatore Reattivo può scegliere di non accettare la Sfida. In tal caso, la Sottofase di Sfida termina immediatamente e quel Modello non ottiene lo Status Tattico Disonorato.",
+                        "$text": "Se la Caratteristica Abilità di Combattimento Base dello Sfidante è inferiore alla Caratteristica Abilità di Combattimento Base di tutti i Modelli dell’Unità Reattiva che sarebbero idonei ad accettare la Sfida, il Giocatore Reattivo può scegliere di non accettare la Sfida.\nIn tal caso, la Sottofase di Sfida termina immediatamente e quel Modello non ottiene lo Status Tattico Disonorato.",
                         "name": "Procedura",
                         "typeId": "57cf-1c68-a020-2529"
                       }
@@ -10292,7 +10292,7 @@
           }
         ],
         "import": true,
-        "name": "Piccolo Horus Aximand ",
+        "name": "Piccolo Horus Aximand",
         "hidden": false,
         "id": "3fae-2625-dafe-c987",
         "type": "selectionEntry",

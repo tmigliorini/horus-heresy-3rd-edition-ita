@@ -607,7 +607,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Una volta dichiarata la Reazione Avanzata del Bastione di Fuoco, il Giocatore Reattivo effettua un Attacco a Distanza con l’Unità Reattiva, prendendo di mira solo l’Unità Bersaglio.\nUna volta che l’Attacco a Distanza effettuato come parte di questa Reazione è stato completamente risolto, il Giocatore Attivo deve procedere con il resto della sua Fase di Movimento.\nDistaccamenti Addizionali\nStretta d’Assedio\nDistaccamento Ausiliario\n1 Riquadro Truppe (Primario);\n1 Riquadro Assalto Pesante;\n1 Riquadro Truppe;\n1 Riquadro Supporto.\nI Riquadri Truppe in questo Distaccamento possono essere utilizzati solo per selezionare Unità di Squadra d’Abbordaggio.\n\n \n \nRegole Speciali\nBaluardo dell’Imperium\nQuando un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante Gambetto: Baluardo dell’Imperium: quando questo Gambetto è selezionato, i Tiri per Ferire effettuati contro il Modello per cui è stato selezionato che hanno un risultato non modificato di 1, 2, 3 e 4 non hanno successo, indipendentemente dalla Caratteristica Forza del Colpo o da qualsiasi Regola Speciale che stabilisca il Numero Obiettivo per i Tiri per Ferire. Sire dei Magli Imperiali Se quattro o più Riquadri Truppe nel Distaccamento Principale sono occupati da Squadre Tattiche e/o Squadre d’Abbordaggio, tutti i Riquadri Truppe nel Distaccamento Principale sono considerati Riquadri Primari. Inoltre, fino alla fine del primo Turno di Battaglia, tutti i Modelli di questo Esercito con il Tipo Fanteria e il Tratto Magli Imperiali hanno un Tiro Copertura di 5+ mentre si trovano all’interno della Zona di Schieramento del Giocatore Controllante.",
+                    "$text": "Quando un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Baluardo dell’Imperium: quando questo Gambetto è selezionato, i Tiri per Ferire effettuati contro il Modello per cui è stato selezionato che hanno un risultato non modificato di 1, 2, 3 e 4 non hanno successo, indipendentemente dalla Caratteristica Forza del Colpo o da qualsiasi Regola Speciale che stabilisca il Numero Obiettivo per i Tiri per Ferire.",
                     "name": "Descrizione",
                     "typeId": "2d7d-b1d9-dead-605a"
                   }
@@ -1136,7 +1136,7 @@
                 "typeId": "88c3-1ca5-7dc1-f291"
               },
               {
-                "$text": "Pesante (FP), Perforante (6+), Surriscaldamento (1)",
+                "$text": "Pesante (PF), Perforante (6+), Surriscaldamento (1)",
                 "name": "Regole Speciali",
                 "typeId": "5aad-137a-8ee2-63fd"
               },
@@ -1146,7 +1146,7 @@
                 "typeId": "1247-79d2-6cc1-8a03"
               }
             ],
-            "name": "Cannone d’assalto Iliastus - Fuoco massimale ",
+            "name": "Cannone d’assalto Iliastus - Fuoco massiccio",
             "typeId": "c591-09ed-3e6f-eb2b",
             "typeName": "Arma a Distanza",
             "hidden": false,
@@ -1180,7 +1180,7 @@
                 "typeId": "88c3-1ca5-7dc1-f291"
               },
               {
-                "$text": "Pesante (FP), Perforante (6+)",
+                "$text": "Pesante (PF), Perforante (6+)",
                 "name": "Regole Speciali",
                 "typeId": "5aad-137a-8ee2-63fd"
               },
@@ -1189,7 +1189,7 @@
                 "typeId": "1247-79d2-6cc1-8a03"
               }
             ],
-            "name": "Cannone d’assalto Iliastus - Fuoco sostenuto ",
+            "name": "Cannone d’assalto Iliastus - Fuoco sostenuto",
             "typeId": "c591-09ed-3e6f-eb2b",
             "typeName": "Arma a Distanza",
             "hidden": false,
@@ -1553,7 +1553,7 @@
                     "typeId": "a951-a772-7ce0-0b64"
                   }
                 ],
-                "name": "Evander Garrius ",
+                "name": "Evander Garrius",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo",
                 "hidden": false,
@@ -1641,7 +1641,7 @@
             ],
             "type": "model",
             "import": true,
-            "name": "Evander Garrius ",
+            "name": "Evander Garrius",
             "hidden": false,
             "id": "6efb-ae05-8ed9-50a7",
             "sortIndex": 1
@@ -2704,7 +2704,7 @@
             ],
             "type": "model",
             "import": true,
-            "name": "Guardiano della Falange ",
+            "name": "Guardiano della Falange",
             "hidden": false,
             "id": "cb0b-fe46-94f9-947c",
             "sortIndex": 2
@@ -3040,7 +3040,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Mentre un Modello con questa Regola Speciale è in Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto:\nTassa del Boia: Il Giocatore Controllante deve tirare un Dado aggiuntivo nel Passaggio di Concentrazione e deve scartare il risultato più alto.\nGli attacchi effettuati nella successiva Fase di Attacco ottengono la Regola Speciale Colpo Critico (6+).\n \n \nEquipaggiamento\nArmatura del Tiranno\nUn Modello con questa Regola Speciale ha la Regola Speciale Insensibile al Dolore (5+) contro le Ferite subite in una Sfida.\n \n \nRegole Speciali\nLa Linea Invalicata\nMentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante Gambetto: La Linea Invalicata: se questo Modello non ha il Vantaggio, la sua Caratteristica Attacchi è modificata di +2.",
+                    "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: La Linea Invalicata: se questo Modello non ha il Vantaggio, la sua Caratteristica Attacchi è modificata di +2.",
                     "name": "Descrizione",
                     "typeId": "2d7d-b1d9-dead-605a"
                   }
@@ -3534,7 +3534,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "se di Attacco ottengono la Regola Speciale Colpo Critico (6+).\n \n \nEquipaggiamento\nArmatura del Tiranno\nUn Modello con questa Regola Speciale ha la Regola Speciale Insensibile al Dolore (5+) contro le Ferite subite in una Sfida.\n \n \nRegole Speciali\nLa Linea Invalicata\nMentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto:\nLa Linea Invalicata: se questo Modello non ha il Vantaggio, la sua Caratteristica Attacchi è modificata di +2.\n \n \n \n \n \nRegole Speciali\nColpo di Martello\nMentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante Gambetto: Colpo di Martello: quando questo Gambetto viene selezionato, questo Modello ottiene il Profilo Arma Colpo di Martello e non può scegliere di effettuare attacchi con nessun’altra Arma nel Passaggio di Attacco. Comandante del Vuoto Se un Modello con questa Regola Speciale si unisce a un’Unità di Squadra d’Abbordaggio in Riserva, i Modelli di quell’Unità ottengono la Regola Speciale Attacco in Profondità finché il Modello fa parte dell’Unità. Inoltre, quando un Modello con questa Regola Speciale viene schierato come parte di un Attacco in Profondità, quel Modello e ogni altro Modello nella stessa Unità ottengono la Regola Speciale Insensibile al Dolore (5+) fino alla successiva Sottofase Effetti del Giocatore Controllante.",
+                    "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Colpo di Martello: quando questo Gambetto viene selezionato, questo Modello ottiene il Profilo Arma Colpo di Martello e non può scegliere di effettuare attacchi con nessun’altra Arma nel Passaggio di Attacco.",
                     "name": "Descrizione",
                     "typeId": "2d7d-b1d9-dead-605a"
                   }
@@ -5033,7 +5033,7 @@
                   {
                     "characteristics": [
                       {
-                        "$text": "Quando questo Gambetto viene selezionato, il Giocatore Controllante deve tirare un Dado aggiuntivo nel Passaggio di Concentrazione e deve scartare il risultato più alto. Gli attacchi effettuati nel successivo Passaggio di Attacco ottengono la Regola Speciale Colpo Critico (6+).",
+                        "$text": "Quando questo Gambetto viene selezionato, il Giocatore Controllante deve tirare un Dado aggiuntivo nel Passaggio di Concentrazione e deve scartare il risultato più alto.\nGli attacchi effettuati nel successivo Passaggio di Attacco ottengono la Regola Speciale Colpo Critico (6+).",
                         "name": "Descrizione",
                         "typeId": "2d7d-b1d9-dead-605a"
                       }
@@ -5065,7 +5065,7 @@
                 ],
                 "type": "upgrade",
                 "import": true,
-                "name": "Tributo dell’Esecutore ",
+                "name": "Tributo dell’Esecutore",
                 "hidden": false,
                 "id": "d090-9761-32d3-6495"
               }
@@ -5375,7 +5375,7 @@
             ],
             "type": "model",
             "import": true,
-            "name": "Fafnir Rann ",
+            "name": "Fafnir Rann",
             "hidden": false,
             "id": "03ba-d84b-babd-2bda",
             "sortIndex": 1
@@ -5756,7 +5756,7 @@
                     "id": "f531-6d7d-4ffa-9ad5"
                   }
                 ],
-                "name": "Può sostituire Arma potenziata con: ",
+                "name": "Può sostituire Arma potenziata con:",
                 "id": "807b-96bf-46ff-a0e9"
               }
             ],
@@ -6100,7 +6100,7 @@
                     "id": "3b4c-e97c-4dd7-8ebc"
                   }
                 ],
-                "name": "Può sostituire Arma potenziata con: ",
+                "name": "Può sostituire Arma potenziata con:",
                 "id": "c489-feb7-46a1-9f37",
                 "sortIndex": 1
               }
@@ -7614,7 +7614,7 @@
                   {
                     "characteristics": [
                       {
-                        "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Un Muro Incrollabile: il Giocatore Controllante non aggiunge l’Iniziativa di Combattimento al risultato del Tiro Concentrazione, ma ottiene la Regola Speciale Guerriero Eterno (1) per la durata del Passaggio di Attacco. Reazione Avanzata Bastione di Fuoco Attivazione: una volta per battaglia, nel Passaggio 2 della Sottofase di Movimento, se un’Unità nemica termina un movimento entro 10\" e nella Linea di Vista di un’Unità sotto il controllo del Giocatore Reattivo in grado di effettuare un Attacco a Distanza con almeno un’arma in suo possesso, prendendo di mira quell’Unità. Costo: 1 Punto Reazione. Bersaglio: l’Unità il cui Movimento ha attivato la Reazione. L’Unità Reattiva deve essere un’Unità sotto il Controllo del Giocatore Reattivo che includa solo Modelli con il Tratto Magli Imperiali che non abbiano il Tipo Veicolo. Procedura: Una volta dichiarata la Reazione Avanzata del Bastione di Fuoco, il Giocatore Reattivo effettua un Attacco a Distanza con l’Unità Reattiva, prendendo di mira solo l’Unità Bersaglio. Una volta che l’Attacco a Distanza effettuato come parte di questa Reazione è stato completamente risolto, il Giocatore Attivo deve procedere con il resto della sua Fase di Movimento. Distaccamenti Addizionali Stretta d’Assedio Distaccamento Ausiliario 1 Riquadro Truppe (Primario); 1 Riquadro Assalto Pesante; 1 Riquadro Truppe; 1 Riquadro Supporto. I Riquadri Truppe in questo Distaccamento possono essere utilizzati solo per selezionare Unità di Squadra d’Abbordaggio.",
+                        "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Un Muro Incrollabile: il Giocatore Controllante non aggiunge l’Iniziativa di Combattimento al risultato del Tiro Concentrazione, ma ottiene la Regola Speciale Guerriero Eterno (1) per la durata del Passaggio di Attacco.",
                         "name": "Descrizione",
                         "typeId": "2d7d-b1d9-dead-605a"
                       }
@@ -7666,12 +7666,12 @@
                         "typeId": "954a-972f-5c94-2ede"
                       },
                       {
-                        "$text": "l’Unità il cui Movimento ha attivato la Reazione. L’Unità Reattiva deve essere un’Unità sotto il Controllo del Giocatore Reattivo che includa solo Modelli con il Tratto Magli Imperiali che non abbiano il Tipo Veicolo.",
+                        "$text": "l’Unità il cui Movimento ha attivato la Reazione.\nL’Unità Reattiva deve essere un’Unità sotto il Controllo del Giocatore Reattivo che includa solo Modelli con il Tratto Magli Imperiali che non abbiano il Tipo Veicolo.",
                         "name": "Bersaglio",
                         "typeId": "e102-8fdd-9cd4-c0f9"
                       },
                       {
-                        "$text": "Una volta dichiarata la Reazione Avanzata del Bastione di Fuoco, il Giocatore Reattivo effettua un Attacco a Distanza con l’Unità Reattiva, prendendo di mira solo l’Unità Bersaglio. Una volta che l’Attacco a Distanza effettuato come parte di questa Reazione è stato completamente risolto, il Giocatore Attivo deve procedere con il resto della sua Fase di Movimento.",
+                        "$text": "Una volta dichiarata la Reazione Avanzata del Bastione di Fuoco, il Giocatore Reattivo effettua un Attacco a Distanza con l’Unità Reattiva, prendendo di mira solo l’Unità Bersaglio.\nUna volta che l’Attacco a Distanza effettuato come parte di questa Reazione è stato completamente risolto, il Giocatore Attivo deve procedere con il resto della sua Fase di Movimento.",
                         "name": "Procedura",
                         "typeId": "57cf-1c68-a020-2529"
                       }

@@ -289,7 +289,7 @@
                         "typeId": "6a9d-4feb-065a-33e7"
                       },
                       {
-                        "$text": "Colpo Critico (5+), Corrosivo (S), Colpo Mietitore (2)",
+                        "$text": "Colpo Critico (5+), Corrosivo (Fo), Colpo Mietitore (2)",
                         "name": "Regole Speciali",
                         "typeId": "ebe0-7b28-b40c-694e"
                       },
@@ -299,7 +299,7 @@
                         "typeId": "76e3-c188-bc65-3467"
                       }
                     ],
-                    "name": "lluminarum",
+                    "name": "Illuminarum",
                     "typeId": "3587-6dcd-005c-c263",
                     "typeName": "Arma da Mischia",
                     "hidden": false,
@@ -355,7 +355,7 @@
                 ],
                 "type": "upgrade",
                 "import": true,
-                "name": "lluminarum",
+                "name": "Illuminarum",
                 "hidden": false,
                 "id": "21df-7b16-dcb8-4d08",
                 "sortIndex": 1
@@ -410,7 +410,7 @@
                         "typeId": "88c3-1ca5-7dc1-f291"
                       },
                       {
-                        "$text": "Scossa (Pinned), Inchiodamento (0)",
+                        "$text": "Scossa (Inchiodato), Inchiodamento (0)",
                         "name": "Regole Speciali",
                         "typeId": "5aad-137a-8ee2-63fd"
                       },
@@ -692,7 +692,7 @@
                     "field": "f5cc-79a3-d302-cc1d"
                   }
                 ],
-                "name": "Kor Phaeron ",
+                "name": "Kor Phaeron",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo",
                 "hidden": false,
@@ -1061,7 +1061,7 @@
         ],
         "type": "unit",
         "import": true,
-        "name": "Kor Phaeron ",
+        "name": "Kor Phaeron",
         "hidden": false,
         "id": "81d5-3d0d-6447-d52b"
       },
@@ -1248,7 +1248,7 @@
                         "typeId": "6a9d-4feb-065a-33e7"
                       },
                       {
-                        "$text": "Corrosivo (S)",
+                        "$text": "Corrosivo (Fo)",
                         "name": "Regole Speciali",
                         "typeId": "ebe0-7b28-b40c-694e"
                       },
@@ -1258,7 +1258,7 @@
                         "typeId": "76e3-c188-bc65-3467"
                       }
                     ],
-                    "name": "Crux malefica ",
+                    "name": "Crux malefica",
                     "typeId": "3587-6dcd-005c-c263",
                     "typeName": "Arma da Mischia",
                     "hidden": false,
@@ -1284,7 +1284,7 @@
                 ],
                 "type": "upgrade",
                 "import": true,
-                "name": "Crux malefica ",
+                "name": "Crux malefica",
                 "hidden": false,
                 "id": "9af4-f982-d4b0-390b",
                 "sortIndex": 1
@@ -2069,7 +2069,7 @@
                     "typeId": "a951-a772-7ce0-0b64"
                   }
                 ],
-                "name": "Zardu Layak ",
+                "name": "Zardu Layak",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo",
                 "hidden": false,
@@ -2078,7 +2078,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Il Giocatore Attivo può scegliere di Manifestare il Potere Psionico Vincolo dell'Anima nella Fase di Assalto, all'inizio del Passaggio Dichiarare le Armi e Determinare le Iniziative della Sottofase di Combattimento.",
+                    "$text": "Il Giocatore Attivo può scegliere di Manifestare il Potere Psionico Vincolo dell’Anima nella Fase di Assalto, all’inizio del Passaggio Dichiarare le Armi e Determinare le Iniziative della Sottofase di Combattimento.",
                     "name": "Innesco",
                     "typeId": "1be9-f118-1cf3-357e"
                   },
@@ -2088,7 +2088,7 @@
                     "typeId": "3f2d-f6e7-e6d3-1f86"
                   },
                   {
-                    "$text": "L'Unità Bersaglio deve essere un'Unità nemica nello stesso Combattimento del Modello Fulcro.",
+                    "$text": "L’Unità Bersaglio deve essere un’Unità nemica nello stesso Combattimento del Modello Fulcro.",
                     "name": "Bersaglio",
                     "typeId": "2ba0-fbf8-ed6c-3770"
                   },
@@ -2098,7 +2098,7 @@
                     "typeId": "d7d5-5b31-5b37-66c4"
                   },
                   {
-                    "$text": "1. Una volta determinati il Fulcro e l'Unità Bersaglio, il Giocatore Controllante dell'Unità Bersaglio effettua una Prova di Resistenza per quell'Unità.\n2. Se la Prova di Resistenza fallisce, il Giocatore Controllante del Modello Fulcro può selezionare un Modello con una Caratteristica Volontà pari o inferiore a 7 dall'Unità Bersaglio.\n3. Per la Durata di questo Potere Psionico, il Modello selezionato è considerato sotto il controllo del Giocatore Controllante del Fulcro di questo Potere.\n4. Se la Prova di Resistenza ha successo, non ci sono ulteriori effetti.",
+                    "$text": "1.\nUna volta determinati il Fulcro e l’Unità Bersaglio, il Giocatore Controllante dell’Unità Bersaglio effettua una Prova di Resistenza per quell’Unità.\n2.\nSe la Prova di Resistenza fallisce, il Giocatore Controllante del Modello Fulcro può selezionare un Modello con una Caratteristica Volontà pari o inferiore a 7 dall’Unità Bersaglio.\n3.\nPer la Durata di questo Potere Psionico, il Modello selezionato è considerato sotto il controllo del Giocatore Controllante del Fulcro di questo Potere.\n4.\nSe la Prova di Resistenza ha successo, non ci sono ulteriori effetti.",
                     "name": "Procedura",
                     "typeId": "3804-b2cf-9f1a-4ff0"
                   }
@@ -2736,7 +2736,7 @@
                         "typeId": "6a9d-4feb-065a-33e7"
                       },
                       {
-                        "$text": "Perforante (6+), Corrosivo (S)",
+                        "$text": "Perforante (6+), Corrosivo (Fo)",
                         "name": "Regole Speciali",
                         "typeId": "ebe0-7b28-b40c-694e"
                       },
@@ -2746,7 +2746,7 @@
                         "typeId": "76e3-c188-bc65-3467"
                       }
                     ],
-                    "name": "Lama Anakatis ",
+                    "name": "Lama Anakatis",
                     "typeId": "3587-6dcd-005c-c263",
                     "typeName": "Arma da Mischia",
                     "hidden": false,
@@ -2787,7 +2787,7 @@
                 ],
                 "type": "upgrade",
                 "import": true,
-                "name": "Lama Anakatis ",
+                "name": "Lama Anakatis",
                 "hidden": false,
                 "id": "60d5-923f-cade-4bcf"
               }
@@ -3266,7 +3266,7 @@
                         "typeId": "6a9d-4feb-065a-33e7"
                       },
                       {
-                        "$text": "Perforante (6+), Lacerante (6+), Corrosivo (S)",
+                        "$text": "Perforante (6+), Lacerante (6+), Corrosivo (Fo)",
                         "name": "Regole Speciali",
                         "typeId": "ebe0-7b28-b40c-694e"
                       },
@@ -4165,7 +4165,7 @@
                             "typeId": "88c3-1ca5-7dc1-f291"
                           },
                           {
-                            "$text": "Pesante (RS), Area (3\"), Perforante (4+), Lacerante (6+)",
+                            "$text": "Pesante (FD), Area (3\"), Perforante (4+), Lacerante (6+)",
                             "name": "Regole Speciali",
                             "typeId": "5aad-137a-8ee2-63fd"
                           },
@@ -5017,7 +5017,7 @@
                 "entryLinks": [
                   {
                     "import": true,
-                    "name": "Pistola Inferno ",
+                    "name": "Pistola Inferno",
                     "hidden": false,
                     "id": "e08f-90a7-f523-a2eb",
                     "type": "selectionEntry",
@@ -5250,7 +5250,7 @@
         "rules": [
           {
             "description": "Quando un Modello con questa Regola Speciale effettua Attacchi a Raffica, modifica la Caratteristica di Potenza di Fuoco della Pistola lanciafiamme Akkadica di quel Modello di +1.",
-            "name": "Messaggeri della Verità ",
+            "name": "Messaggeri della Verità",
             "id": "742c-a99a-3b4e-95d6",
             "hidden": false
           }
@@ -5409,7 +5409,7 @@
                 "typeId": "88c3-1ca5-7dc1-f291"
               },
               {
-                "$text": "Pistola, Termica (3)",
+                "$text": "Pistola, Termico (3)",
                 "name": "Regole Speciali",
                 "typeId": "5aad-137a-8ee2-63fd"
               },
@@ -5419,7 +5419,7 @@
                 "typeId": "1247-79d2-6cc1-8a03"
               }
             ],
-            "name": "Pistola Inferno ",
+            "name": "Pistola Inferno",
             "typeId": "c591-09ed-3e6f-eb2b",
             "typeName": "Arma a Distanza",
             "hidden": false,
@@ -5452,7 +5452,7 @@
         ],
         "type": "upgrade",
         "import": true,
-        "name": "Pistola Inferno ",
+        "name": "Pistola Inferno",
         "hidden": false,
         "id": "7b74-a315-ce2e-6ec5"
       },
@@ -6032,7 +6032,7 @@
                     "id": "f59c-6b92-4eff-bce9"
                   }
                 ],
-                "name": "Questo Modello può sostituire Pistola requiem con: ",
+                "name": "Questo Modello può sostituire Pistola requiem con:",
                 "id": "c328-1178-489d-b01d",
                 "defaultSelectionEntryId": "6853-58e8-40da-916d",
                 "sortIndex": 3
@@ -6641,7 +6641,7 @@
                     "id": "def2-4bdd-4042-b8cc"
                   }
                 ],
-                "name": "Questo Modello può sostituire Combirequiem con: ",
+                "name": "Questo Modello può sostituire Combirequiem con:",
                 "id": "3b41-e203-4d7e-9875",
                 "sortIndex": 2
               }
@@ -7428,7 +7428,7 @@
                     "id": "267b-bc67-4bd9-b5a1"
                   }
                 ],
-                "name": "Questo Modello può sostituire Pistola requiem con: ",
+                "name": "Questo Modello può sostituire Pistola requiem con:",
                 "id": "80b1-91fe-404f-bf67",
                 "sortIndex": 4,
                 "defaultSelectionEntryId": "0604-04bd-4fee-ba74"
@@ -7549,7 +7549,7 @@
                     "field": "hidden"
                   }
                 ],
-                "name": "Questo Diabolista in arcione può sostituire Fucile requiem binato con: ",
+                "name": "Questo Diabolista in arcione può sostituire Fucile requiem binato con:",
                 "id": "b09f-3ef5-0d2b-2f77",
                 "hidden": false,
                 "sortIndex": 2,
@@ -8674,7 +8674,7 @@
                     "id": "174f-6cfb-4be9-9965"
                   }
                 ],
-                "name": "Può sostituire Spada a catena con: ",
+                "name": "Può sostituire Spada a catena con:",
                 "id": "a24c-04db-4d9e-9f7f",
                 "defaultSelectionEntryId": "b418-6516-425e-8472"
               }
@@ -9798,7 +9798,7 @@
                     "id": "75c5-ceee-b6a6-8c02"
                   }
                 ],
-                "name": "Può sostituire Spada a catena con: ",
+                "name": "Può sostituire Spada a catena con:",
                 "id": "c40a-f621-dfad-5723",
                 "hidden": false,
                 "defaultSelectionEntryId": "d2a8-4cc9-6225-3f8a"
@@ -10304,7 +10304,7 @@
                     "id": "54e9-ace0-4879-9ed0"
                   }
                 ],
-                "name": "Qualsiasi Modello in questa Unità può sostituire Spada a catena e Pistola requiem con: ",
+                "name": "Qualsiasi Modello in questa Unità può sostituire Spada a catena e Pistola requiem con:",
                 "id": "e451-34f5-4580-94f1",
                 "sortIndex": 3
               },
@@ -10520,7 +10520,7 @@
                     "includeChildSelections": true
                   }
                 ],
-                "name": "Un inductii in questa Unità può avere: ",
+                "name": "Un inductii in questa Unità può avere:",
                 "id": "32b0-1d72-48e9-9d57",
                 "sortIndex": 6
               },
@@ -12349,7 +12349,7 @@
           {
             "characteristics": [
               {
-                "$text": "Alla fine della Sottofase degli Attacchi di qualsiasi Fase di Tiro, se un’Unità contiene uno o più Modelli dotati di Mantello di fuoco warp che, durante quella Fase di Tiro, hanno superato almeno un Tiro Armatura o un Tiro Invulnerabilità contro ferite causate da Attacchi a Distanza, ogni Unità che abbia almeno un Modello entro 8\" da almeno un Modello di quell’Unità deve effettuare un Test di Resistenza, a meno che non contenga anch’essa uno o più Modelli dotati di Mantello di fuoco warp. Se lo fallisce, subisce D3 ferite automatiche con una Caratteristica di Danno pari a ‘1’ e un VP pari a ‘2’, contro le quali non è possibile effettuare alcun tipo di Tiro Salvezza, assegnate come se fossero state inflitte da un Attacco a Distanza.",
+                "$text": "Alla fine della Sottofase degli Attacchi di qualsiasi Fase di Tiro, se un’Unità contiene uno o più Modelli dotati di Mantello di fuoco warp che, durante quella Fase di Tiro, hanno superato almeno un Tiro Armatura o un Tiro Invulnerabilità contro ferite causate da Attacchi a Distanza, ogni Unità che abbia almeno un Modello entro 8\" da almeno un Modello di quell’Unità deve effettuare un Test di Resistenza, a meno che non contenga anch’essa uno o più Modelli dotati di Mantello di fuoco warp.\nSe lo fallisce, subisce D3 ferite automatiche con una Caratteristica di Danno pari a ‘1’ e un VP pari a ‘2’, contro le quali non è possibile effettuare alcun tipo di Tiro Salvezza, assegnate come se fossero state inflitte da un Attacco a Distanza.",
                 "name": "Descrizione",
                 "typeId": "9944-2f6d-d61b-03b5"
               }
@@ -12552,7 +12552,7 @@
           }
         ],
         "import": true,
-        "name": "Kor Phaeron ",
+        "name": "Kor Phaeron",
         "hidden": false,
         "id": "b77c-5d9b-e8f0-fdfd",
         "type": "selectionEntry",
@@ -12798,7 +12798,7 @@
                   {
                     "characteristics": [
                       {
-                        "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Supplica agli Dei: questo Gambetto può essere selezionato solo durante il primo Passaggio di Faccia a Faccia di una Sfida che coinvolga questo Modello. Il Giocatore Controllante effettua immediatamente una Prova di Volontà per questo Modello. Se la Prova viene superata, fino alla fine di questa Sottofase di Sfida, questo Modello aggiunge +1 alle sue Caratteristiche di Forza e Attacchi. Se la Prova fallisce, questo Modello subisce una singola Ferita con una Caratteristica VP di ’2’ e un Danno di ’1’, senza Tiri Salvezza o Tiri Mitigazione consentiti.",
+                        "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Supplica agli Dei: questo Gambetto può essere selezionato solo durante il primo Passaggio di Faccia a Faccia di una Sfida che coinvolga questo Modello.\nIl Giocatore Controllante effettua immediatamente una Prova di Volontà per questo Modello.\nSe la Prova viene superata, fino alla fine di questa Sottofase di Sfida, questo Modello aggiunge +1 alle sue Caratteristiche di Forza e Attacchi.\nSe la Prova fallisce, questo Modello subisce una singola Ferita con una Caratteristica VP di ‘2’ e un Danno di ‘1’, senza Tiri Salvezza o Tiri Mitigazione consentiti.",
                         "name": "Descrizione",
                         "typeId": "2d7d-b1d9-dead-605a"
                       }
@@ -12855,7 +12855,7 @@
                         "typeId": "e102-8fdd-9cd4-c0f9"
                       },
                       {
-                        "$text": "Nel Passaggio 5 della sequenza di Attacco di Tiro, il Giocatore Reattivo deve selezionare un Modello dall’Unità Reattiva. Finché il Gruppo di Fuoco attuale e tutti i Gruppi di Fuoco che ne derivano non sono stati risolti, solo il Modello selezionato può essere selezionato come Modello Bersaglio. Se quel Modello viene Rimosso come Perdita, il resto di quel Gruppo di Fuoco e tutti i Gruppi di Fuoco aggiuntivi che sono stati creati da esso vengono scartati e il Giocatore Attivo passa al Passaggio 10 di quell’Attacco di Tiro.",
+                        "$text": "Nel Passaggio 5 della sequenza di Attacco di Tiro, il Giocatore Reattivo deve selezionare un Modello dall’Unità Reattiva.\nFinché il Gruppo di Fuoco attuale e tutti i Gruppi di Fuoco che ne derivano non sono stati risolti, solo il Modello selezionato può essere selezionato come Modello Bersaglio.\nSe quel Modello viene Rimosso come Perdita, il resto di quel Gruppo di Fuoco e tutti i Gruppi di Fuoco aggiuntivi che sono stati creati da esso vengono scartati e il Giocatore Attivo passa al Passaggio 10 di quell’Attacco di Tiro.",
                         "name": "Procedura",
                         "typeId": "57cf-1c68-a020-2529"
                       }

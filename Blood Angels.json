@@ -174,7 +174,7 @@
                         "typeId": "88c3-1ca5-7dc1-f291"
                       },
                       {
-                        "$text": "Termica (12), Limitato (1)",
+                        "$text": "Termico (12), Limitato (1)",
                         "name": "Regole Speciali",
                         "typeId": "5aad-137a-8ee2-63fd"
                       },
@@ -291,7 +291,7 @@
                             "typeId": "6a9d-4feb-065a-33e7"
                           },
                           {
-                            "$text": "Colpo Critico (5+), Impatto (AM)",
+                            "$text": "Colpo Critico (5+), Impatto (MA)",
                             "name": "Regole Speciali",
                             "typeId": "ebe0-7b28-b40c-694e"
                           },
@@ -386,7 +386,7 @@
                             "typeId": "6a9d-4feb-065a-33e7"
                           },
                           {
-                            "$text": "Sfondacorazze, Scossa (Suppressed)",
+                            "$text": "Sfondacorazze, Scossa (Soppresso)",
                             "name": "Regole Speciali",
                             "typeId": "ebe0-7b28-b40c-694e"
                           },
@@ -828,7 +828,7 @@
                         "typeId": "6a9d-4feb-065a-33e7"
                       },
                       {
-                        "$text": "Impatto (AM), Colpo Critico (6+)",
+                        "$text": "Impatto (MA), Colpo Critico (6+)",
                         "name": "Regole Speciali",
                         "typeId": "ebe0-7b28-b40c-694e"
                       },
@@ -2486,7 +2486,7 @@
                         "typeId": "6a9d-4feb-065a-33e7"
                       },
                       {
-                        "$text": "Infiammato (2)",
+                        "$text": "Infuocato (2)",
                         "name": "Regole Speciali",
                         "typeId": "ebe0-7b28-b40c-694e"
                       },
@@ -6630,7 +6630,7 @@
           {
             "characteristics": [
               {
-                "$text": "Quando una Ferita viene assegnata a un Modello con uno Scudo potenziato Coriolis, la Caratteristica Danno della Ferita non Salvata viene modificata di -1, fino a un minimo di 1. Inoltre, un Modello con uno Scudo potenziato Coriolis ottiene il Tratto Scudo.",
+                "$text": "Quando una Ferita viene assegnata a un Modello con uno Scudo potenziato Coriolis, la Caratteristica Danno della Ferita non Salvata viene modificata di -1, fino a un minimo di 1.\nInoltre, un Modello con uno Scudo potenziato Coriolis ottiene il Tratto Scudo.",
                 "name": "Descrizione",
                 "typeId": "9944-2f6d-d61b-03b5"
               }
@@ -6687,7 +6687,7 @@
                 "typeId": "6a9d-4feb-065a-33e7"
               },
               {
-                "$text": "Impatto (SM), Perforante (5+)",
+                "$text": "Impatto (MF), Perforante (5+)",
                 "name": "Regole Speciali",
                 "typeId": "ebe0-7b28-b40c-694e"
               },
@@ -6874,7 +6874,7 @@
                 "typeId": "88c3-1ca5-7dc1-f291"
               },
               {
-                "$text": "Avvelenato (2+), Corrosivo (T)",
+                "$text": "Avvelenato (2+), Corrosivo (R)",
                 "name": "Regole Speciali",
                 "typeId": "5aad-137a-8ee2-63fd"
               },
@@ -7190,7 +7190,7 @@
                         "field": "a195-5ac0-4c43-b922"
                       }
                     ],
-                    "name": "Per ogni cinque Modelli in questa Unità,  Un Modello in questa Unità può sostituire Arma Perdition con: ",
+                    "name": "Per ogni cinque Modelli in questa Unità,  Un Modello in questa Unità può sostituire Arma Perdition con:",
                     "id": "6d8f-8399-4e60-a64a",
                     "hidden": false
                   }
@@ -7302,7 +7302,7 @@
                     "automatic": true
                   }
                 ],
-                "name": "Qualsiasi Modello in questa Unità può sostituire Pistola requiem con: ",
+                "name": "Qualsiasi Modello in questa Unità può sostituire Pistola requiem con:",
                 "id": "ca54-443d-4784-8ffe",
                 "sortIndex": 2
               }
@@ -7428,7 +7428,7 @@
             ],
             "type": "upgrade",
             "import": true,
-            "name": "Un Modello in questa Unità può sostituire Arma Perdition e Pistola requiem con: ",
+            "name": "Un Modello in questa Unità può sostituire Arma Perdition e Pistola requiem con:",
             "hidden": false,
             "id": "07ac-f857-ceab-ad83",
             "sortIndex": 3
@@ -8761,7 +8761,7 @@
                     "id": "e0c2-e75b-4cf4-9379"
                   }
                 ],
-                "name": "Qualsiasi Modello in questa Unità può sostituire Spada a catena e Pistola requiem con: ",
+                "name": "Qualsiasi Modello in questa Unità può sostituire Spada a catena e Pistola requiem con:",
                 "id": "50df-cf20-4883-95e0",
                 "sortIndex": 4
               },
@@ -9140,7 +9140,7 @@
                         "field": "5102-2910-459b-a625"
                       }
                     ],
-                    "name": "Per ogni quattro Modelli in questa Unità,  Un inductii in questa Unità può sostituire Spada a catena con: ",
+                    "name": "Per ogni quattro Modelli in questa Unità,  Un inductii in questa Unità può sostituire Spada a catena con:",
                     "id": "13a2-1482-4dca-a228",
                     "hidden": false
                   }
@@ -9280,7 +9280,7 @@
       {
         "characteristics": [
           {
-            "$text": "se del Morale dello stesso Turno del Giocatore.\nSe la Prova fallisce, tutti i Modelli dell’Unità Bersaglio ottengono lo Status Inchiodato.\nDistaccamenti Addizionali\nOspite della Rivelazione (Distaccamento Ausiliario)\n1 Riquadro Truppe (Primario);\n2 Riquadri Reparti Speciali;\n1 Riquadro Truppe.\nI Riquadri Truppe in questo Distaccamento possono essere utilizzati solo per selezionare Unità di Squadra Assaltatrice.\nI Riquadri Reparti Speciali in questo Distaccamento possono essere utilizzati solo per selezionare Unità di Coorte Frangialba o Unità di Squadra Assaltatrice Veterana.\n\n \n \nOpzioni\n \nRegole Speciali\nDiscesa Angelica\nMentre un Modello con questa Regola Speciale è Ingaggiato in una Sfida, il suo Giocatore Controllante Gambetto: Discesa Angelica: questo Gambetto può essere selezionato solo prima del primo Tiro Concentrazione di una Sfida e solo se Sanguinius ha effettuato una Carica con successo nella stessa Fase di Assalto. Durante il successivo Passaggio di Concentrazione, il Giocatore Controllante di Sanguinius ottiene un modificatore positivo al Tiro Concentrazione pari a qualsiasi variante di Imponente (X) posseduta dal Modello nemico con cui è Ingaggiato in una Sfida. Sire degli Angeli Sanguinari Se quattro o più Riquadri Truppe nel Distaccamento Principale sono occupati da Squadre Assaltatrici, allora tutti i Riquadri Truppe nel Distaccamento Principale sono considerati Riquadri Primari. Inoltre, una volta per Turno, quando il Giocatore che Controlla un Modello con questa Regola Speciale effettua un Tiro Riserve per un’Unità che includa solo Modelli con il Tratto Angeli Sanguinari e la Regola Speciale Attacco in Profondità, prima che il Tiro per le Riserve venga effettuato, quel Giocatore può scegliere di modificare quel Tiro di +1. Se questo modificatore viene applicato, quell’Unità deve essere schierata usando la Regola Speciale Attacco in Profondità.",
+            "$text": "Mentre un Modello con questa Regola Speciale è Ingaggiato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Discesa Angelica: questo Gambetto può essere selezionato solo prima del primo Tiro Concentrazione di una Sfida e solo se Sanguinius ha effettuato una Carica con successo nella stessa Fase di Assalto.\nDurante il successivo Passaggio di Concentrazione, il Giocatore Controllante di Sanguinius ottiene un modificatore positivo al Tiro Concentrazione pari a qualsiasi variante di Imponente (X) posseduta dal Modello nemico con cui è Ingaggiato in una Sfida.",
             "name": "Descrizione",
             "typeId": "2d7d-b1d9-dead-605a"
           }
@@ -9294,7 +9294,7 @@
       {
         "characteristics": [
           {
-            "$text": "una volta per Turno, quando il Giocatore che Controlla un Modello con questa Regola Speciale effettua un Tiro Riserve per un’Unità che includa solo Modelli con il Tratto Angeli Sanguinari e la Regola Speciale Attacco in Profondità, prima che il Tiro per le Riserve venga effettuato, quel Giocatore può scegliere di modificare quel Tiro di +1.\nSe questo modificatore viene applicato, quell’Unità deve essere schierata usando la Regola Speciale Attacco in Profondità.\n \n \nRegole Speciali\nDominatore della Saggezza\nMentre un Modello con questa Regola Speciale è Impegnato in una Sfida, il suo Giocatore Controllante Gambetto: Dominatore della Saggezza: Il Giocatore Controllante di questo Modello ottiene un modificatore positivo al suo Tiro Concentrazione pari al numero di Tiri per Colpire riusciti effettuati dal suo avversario nella precedente Fase di Attacco della Sfida corrente.",
+            "$text": "Mentre un Modello con questa Regola Speciale è Impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Dominatore della Saggezza: Il Giocatore Controllante di questo Modello ottiene un modificatore positivo al suo Tiro Concentrazione pari al numero di Tiri per Colpire riusciti effettuati dal suo avversario nella precedente Fase di Attacco della Sfida corrente.",
             "name": "Descrizione",
             "typeId": "2d7d-b1d9-dead-605a"
           }
@@ -9650,7 +9650,7 @@
                   {
                     "characteristics": [
                       {
-                        "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Schiavo della Sete Rossa: questo Modello può ignorare qualsiasi Modificatore negativo applicato al Tiro Concentrazione per le Ferite perse, e ogni ferita inflitta all’avversario ha la sua Caratteristica Danno modificata di +1. Mentre questo Gambetto viene selezionato, il Modello per cui è stato selezionato non ottiene alcun bonus al Tiro Concentrazione per Supporto Esterno.",
+                        "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Schiavo della Sete Rossa: questo Modello può ignorare qualsiasi Modificatore negativo applicato al Tiro Concentrazione per le Ferite perse, e ogni ferita inflitta all’avversario ha la sua Caratteristica Danno modificata di +1.\nMentre questo Gambetto viene selezionato, il Modello per cui è stato selezionato non ottiene alcun bonus al Tiro Concentrazione per Supporto Esterno.",
                         "name": "Descrizione",
                         "typeId": "2d7d-b1d9-dead-605a"
                       }
@@ -9702,12 +9702,12 @@
                         "typeId": "954a-972f-5c94-2ede"
                       },
                       {
-                        "$text": "l’Unità il cui Attacco a Distanza ha innescato la Reazione. L’Unità Reattiva è sempre l’Unità che è stata bersaglio dell’Attacco a Distanza che ha innescato la Reazione.",
+                        "$text": "l’Unità il cui Attacco a Distanza ha innescato la Reazione.\nL’Unità Reattiva è sempre l’Unità che è stata bersaglio dell’Attacco a Distanza che ha innescato la Reazione.",
                         "name": "Bersaglio",
                         "typeId": "e102-8fdd-9cd4-c0f9"
                       },
                       {
-                        "$text": "Una volta dichiarata la Reazione Avanzata dell’Ira degli Angeli, il Giocatore Attivo deve risolvere normalmente tutti i Passaggi rimanenti del processo di Attacco a Distanza, fino all’inizio del Passaggio 11. Immediatamente dopo la risoluzione del Passaggio 11 dell’Attacco a Distanza che ha attivato questa Reazione, ogni Modello dell’Unità Reattiva deve effettuare un Movimento normale, direttamente verso il Modello più vicino dell’Unità Bersaglio, muovendosi della massima distanza possibile rimanendo ad almeno 1\" di distanza da qualsiasi Modello nemico. Dopo aver risolto questo Movimento, se un Modello dell’Unità Reattiva si trova entro 6\" da un Modello dell’Unità Bersaglio, il Giocatore che Controlla l’Unità Bersaglio deve effettuare una Prova di Coraggio nella Sottofase del Morale dello stesso Turno del Giocatore. Se la Prova fallisce, tutti i Modelli dell’Unità Bersaglio ottengono lo Status Inchiodato.",
+                        "$text": "1.\nUna volta dichiarata la Reazione Avanzata dell’Ira degli Angeli, il Giocatore Attivo deve risolvere normalmente tutti i Passaggi rimanenti del processo di Attacco a Distanza, fino all’inizio del Passaggio 11.\n2.\nImmediatamente dopo la risoluzione del Passaggio 11 dell’Attacco a Distanza che ha attivato questa Reazione, ogni Modello dell’Unità Reattiva deve effettuare un Movimento normale, direttamente verso il Modello più vicino dell’Unità Bersaglio, muovendosi della massima distanza possibile rimanendo ad almeno 1\" di distanza da qualsiasi Modello nemico.\n3.\nDopo aver risolto questo Movimento, se un Modello dell’Unità Reattiva si trova entro 6\" da un Modello dell’Unità Bersaglio, il Giocatore che Controlla l’Unità Bersaglio deve effettuare una Prova di Coraggio nella Sottofase del Morale dello stesso Turno del Giocatore.\n4.\nSe la Prova fallisce, tutti i Modelli dell’Unità Bersaglio ottengono lo Status Inchiodato.",
                         "name": "Procedura",
                         "typeId": "57cf-1c68-a020-2529"
                       }

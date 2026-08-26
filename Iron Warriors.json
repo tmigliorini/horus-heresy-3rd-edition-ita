@@ -632,7 +632,7 @@
           {
             "characteristics": [
               {
-                "$text": "se il tuo esercito contiene anche un’Unità di Fabbro da Guerra, Fabbro da Guerra in Armatura dell’Artefice o Perturabo.\n1 Riquadro Assalto Pesante (Primario);\n1 Riquadro Truppe (Primario);\n1 Riquadro Trasporto Pesante;\n1 Riquadro Assalto Pesante;\n1 Riquadro Truppe.\nCoorte Tempesta di Ferro\nDistaccamento Ausiliario\n1 Riquadro Corazzato (Primario);\n1 Riquadro Corazzato;\n2 Riquadri Supporto.\nI Riquadri corazzati di questo Distaccamento devono essere riempiti con Unità di Arquitor Bombard.\n\n \n \nOpzioni\n \nRegole Speciali\nIl Frantumatore\nMentre un Modello con questa Regola Speciale è in Sfida, il suo Giocatore Controllante Gambetto: Il Frantumatore: Questo Gambetto può essere selezionato solo durante il primo Passaggio di Faccia a Faccia di una Sfida. Questo Modello non effettua attacchi durante il successivo Passaggio di Attacco. Invece, il Giocatore Controllante di questo Modello può selezionare una singola Unità amica composta da Modelli con il Tratto Guerrieri di Ferro che si trovi entro 12\" da qualsiasi Modello nemico in quel Combattimento e che non sia Bloccata in Combattimento, ed effettuare un Attacco a Distanza con quell’Unità. Tutti questi attacchi vengono risolti come Colpi alla Cieca, con l’eccezione che le Armi con la Regola Speciale Area (X) o Sagoma non possono essere utilizzate, e le ferite derivanti da questo Attacco a Distanza possono essere assegnate solo al Modello nemico in Sfida. Sire dei Guerrieri di Ferro Se quattro o più Riquadri Truppe nel Distaccamento Principale sono occupati da Unità di Squadre Tattiche e/o Squadre d’Abbordaggio, tutti i Riquadri Truppe nel Distaccamento Principale sono considerati Riquadri Primari. Inoltre, fino alla fine del primo Turno di Battaglia, tutti i Modelli di quest’Armata con il Tipo Fanteria e il Tratto Guerrieri di Ferro hanno la Regola Speciale Sacrificabile (1). Se hanno già la Regola Speciale Sacrificabile (X), aumentane il valore di 1.",
+                "$text": "Mentre un Modello con questa Regola Speciale è in Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Il Frantumatore: Questo Gambetto può essere selezionato solo durante il primo Passaggio di Faccia a Faccia di una Sfida.\nQuesto Modello non effettua attacchi durante il successivo Passaggio di Attacco.\nInvece, il Giocatore Controllante di questo Modello può selezionare una singola Unità amica composta da Modelli con il Tratto Guerrieri di Ferro che si trovi entro 12\" da qualsiasi Modello nemico in quel Combattimento e che non sia Bloccata in Combattimento, ed effettuare un Attacco a Distanza con quell’Unità.\nTutti questi attacchi vengono risolti come Colpi alla Cieca, con l’eccezione che le Armi con la Regola Speciale Area (X) o Sagoma non possono essere utilizzate, e le ferite derivanti da questo Attacco a Distanza possono essere assegnate solo al Modello nemico in Sfida.",
                 "name": "Descrizione",
                 "typeId": "2d7d-b1d9-dead-605a"
               }
@@ -734,7 +734,7 @@
           {
             "characteristics": [
               {
-                "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Morte Sprezzante: se questo Modello perde la sua ultima Ferita durante il successivo Passaggio di Attacco, il Giocatore Controllante può scegliere di infliggere immediatamente un singolo Colpo automatico al Modello avversario, risolto con una Caratteristica Forza di ’6’, VP di ’4’, Danno di ’2’ e la Regola Speciale Perforante (5+).",
+                "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Morte Sprezzante: se questo Modello perde la sua ultima Ferita durante il successivo Passaggio di Attacco, il Giocatore Controllante può scegliere di infliggere immediatamente un singolo Colpo automatico al Modello avversario, risolto con una Caratteristica Forza di ‘6’, VP di ‘4’, Danno di ‘2’ e la Regola Speciale Perforante (5+).",
                 "name": "Descrizione",
                 "typeId": "2d7d-b1d9-dead-605a"
               }
@@ -2489,7 +2489,7 @@
                     "typeId": "88c3-1ca5-7dc1-f291"
                   },
                   {
-                    "$text": "Pesante (FP), Perforante (6+)",
+                    "$text": "Pesante (PF), Perforante (6+)",
                     "name": "Regole Speciali",
                     "typeId": "5aad-137a-8ee2-63fd"
                   },
@@ -3191,7 +3191,7 @@
           {
             "characteristics": [
               {
-                "$text": "Quando un Attacco a Distanza effettuato da un'Unità che include Modelli con un omniscopio infligge Colpi (esclusi i Colpi di attacchi risolti Alla Cieca), non possono essere effettuati Tiri Copertura contro quei Colpi.",
+                "$text": "Quando un Attacco a Distanza effettuato da un’Unità che include Modelli con un omniscopio infligge Colpi (esclusi i Colpi di attacchi risolti Alla Cieca), non possono essere effettuati Tiri Copertura contro quei Colpi.",
                 "name": "Descrizione",
                 "typeId": "9944-2f6d-d61b-03b5"
               }
@@ -3899,7 +3899,7 @@
                         "field": "0797-e86a-461d-8876"
                       }
                     ],
-                    "name": "Può sostituire Fucile requiem con: ",
+                    "name": "Può sostituire Fucile requiem con:",
                     "id": "0abc-5226-436b-b4b1",
                     "hidden": false,
                     "defaultSelectionEntryId": "abf9-2cfd-4f69-a26d",
@@ -4053,7 +4053,7 @@
                         "field": "5c1f-1a06-323e-b1c5"
                       }
                     ],
-                    "name": "Può sostituire Pistola requiem con: ",
+                    "name": "Può sostituire Pistola requiem con:",
                     "id": "b4db-6c3a-c135-7f46",
                     "hidden": false,
                     "defaultSelectionEntryId": "38b9-077f-58a6-12f1",
@@ -4097,7 +4097,7 @@
                         "id": "30cf-8e50-4d33-8ac9"
                       }
                     ],
-                    "name": "Può sostituire Fucile requiem e Pistola requiem con: ",
+                    "name": "Può sostituire Fucile requiem e Pistola requiem con:",
                     "id": "d6d3-996c-4c62-bd91",
                     "hidden": false,
                     "sortIndex": 3
@@ -5045,7 +5045,7 @@
                     "id": "b068-a97f-4ca7-9396"
                   }
                 ],
-                "name": "Può sostituire Martello tuono con: ",
+                "name": "Può sostituire Martello tuono con:",
                 "id": "f1bd-5cee-46a8-bc5c",
                 "sortIndex": 2,
                 "defaultSelectionEntryId": "e093-4187-4fee-8794"
@@ -5191,7 +5191,7 @@
                     "field": "af59-740e-0a67-9320"
                   }
                 ],
-                "name": "Può sostituire Combirequiem con: ",
+                "name": "Può sostituire Combirequiem con:",
                 "id": "609a-9c82-4dcc-896e",
                 "defaultSelectionEntryId": "ac78-9a43-bb1f-fd9b",
                 "sortIndex": 1
@@ -7173,7 +7173,7 @@
                     "id": "8fa8-ecbe-4729-94c8"
                   }
                 ],
-                "name": "Qualsiasi Modello in questa Unità può sostituire Fucile requiem con: ",
+                "name": "Qualsiasi Modello in questa Unità può sostituire Fucile requiem con:",
                 "id": "1ca6-de26-417d-bc75",
                 "sortIndex": 1,
                 "defaultSelectionEntryId": "74d3-fd21-4cd5-86d4"
@@ -7484,12 +7484,12 @@
           {
             "name": "Bersaglio",
             "typeId": "e102-8fdd-9cd4-c0f9",
-            "$text": "l’Unità il cui Attacco a Distanza ha innescato la Reazione. L’Unità Reattiva è l’Unità che è stata bersaglio dell’Attacco a Distanza che ha innescato la Reazione."
+            "$text": "l’Unità il cui Attacco a Distanza ha innescato la Reazione.\nL’Unità Reattiva è l’Unità che è stata bersaglio dell’Attacco a Distanza che ha innescato la Reazione."
           },
           {
             "name": "Procedura",
             "typeId": "57cf-1c68-a020-2529",
-            "$text": "Una volta dichiarata questa Reazione, il Giocatore Attivo deve risolvere tutti i Passaggi rimanenti del processo di Attacco a Distanza normalmente, fino all’inizio del Passaggio 11. Prima di risolvere il Passaggio 11, Rimuovere le Perdite, il Giocatore Reattivo effettua un Attacco a Distanza con l’Unità Reattiva, inclusi tutti i Modelli che sono stati ridotti a 0 Ferite, prendendo di mira solo l’Unità Bersaglio. Mentre effettua questo Attacco di Tiro, le Armi selezionate per esso modificano la loro Caratteristica Potenza di Fuoco di +1 e ottengono la Regola Speciale Surriscaldamento (1), oppure, se quell’Arma ha già la Regola Speciale Surriscaldamento (X), aumentano il valore di X di +1. Una volta che l’Attacco a Distanza effettuato come parte di questa Reazione è stato completamente risolto, il Giocatore Attivo deve quindi terminare la risoluzione del Passaggio 11 dell’Attacco a Distanza originale che ha attivato la Reazione."
+            "$text": "1.\nUna volta dichiarata questa Reazione, il Giocatore Attivo deve risolvere tutti i Passaggi rimanenti del processo di Attacco a Distanza normalmente, fino all’inizio del Passaggio 11.\n2.\nPrima di risolvere il Passaggio 11, Rimuovere le Perdite, il Giocatore Reattivo effettua un Attacco a Distanza con l’Unità Reattiva, inclusi tutti i Modelli che sono stati ridotti a 0 Ferite, prendendo di mira solo l’Unità Bersaglio.\n3.\nMentre effettua questo Attacco di Tiro, le Armi selezionate per esso modificano la loro Caratteristica Potenza di Fuoco di +1 e ottengono la Regola Speciale Surriscaldamento (1), oppure, se quell’Arma ha già la Regola Speciale Surriscaldamento (X), aumentano il valore di X di +1.\n4.\nUna volta che l’Attacco a Distanza effettuato come parte di questa Reazione è stato completamente risolto, il Giocatore Attivo deve quindi terminare la risoluzione del Passaggio 11 dell’Attacco a Distanza originale che ha attivato la Reazione."
           }
         ],
         "name": "Reazione Avanzata: Furia Amara",
@@ -7766,7 +7766,7 @@
                   {
                     "characteristics": [
                       {
-                        "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Morte Sprezzante: se questo Modello perde la sua ultima Ferita durante il successivo Passaggio di Attacco, il Giocatore Controllante può scegliere di infliggere immediatamente un singolo Colpo automatico al Modello avversario, risolto con una Caratteristica Forza di ’6’, VP di ’4’, Danno di ’2’ e la Regola Speciale Perforante (5+).",
+                        "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Morte Sprezzante: se questo Modello perde la sua ultima Ferita durante il successivo Passaggio di Attacco, il Giocatore Controllante può scegliere di infliggere immediatamente un singolo Colpo automatico al Modello avversario, risolto con una Caratteristica Forza di ‘6’, VP di ‘4’, Danno di ‘2’ e la Regola Speciale Perforante (5+).",
                         "name": "Descrizione",
                         "typeId": "2d7d-b1d9-dead-605a"
                       }
@@ -7862,12 +7862,12 @@
                         "typeId": "954a-972f-5c94-2ede"
                       },
                       {
-                        "$text": "l’Unità il cui Attacco a Distanza ha innescato la Reazione. L’Unità Reattiva è l’Unità che è stata bersaglio dell’Attacco a Distanza che ha innescato la Reazione.",
+                        "$text": "l’Unità il cui Attacco a Distanza ha innescato la Reazione.\nL’Unità Reattiva è l’Unità che è stata bersaglio dell’Attacco a Distanza che ha innescato la Reazione.",
                         "name": "Bersaglio",
                         "typeId": "e102-8fdd-9cd4-c0f9"
                       },
                       {
-                        "$text": "Una volta dichiarata questa Reazione, il Giocatore Attivo deve risolvere tutti i Passaggi rimanenti del processo di Attacco a Distanza normalmente, fino all’inizio del Passaggio 11. Prima di risolvere il Passaggio 11, Rimuovere le Perdite, il Giocatore Reattivo effettua un Attacco a Distanza con l’Unità Reattiva, inclusi tutti i Modelli che sono stati ridotti a 0 Ferite, prendendo di mira solo l’Unità Bersaglio. Mentre effettua questo Attacco di Tiro, le Armi selezionate per esso modificano la loro Caratteristica Potenza di Fuoco di +1 e ottengono la Regola Speciale Surriscaldamento (1), oppure, se quell’Arma ha già la Regola Speciale Surriscaldamento (X), aumentano il valore di X di +1. Una volta che l’Attacco a Distanza effettuato come parte di questa Reazione è stato completamente risolto, il Giocatore Attivo deve quindi terminare la risoluzione del Passaggio 11 dell’Attacco a Distanza originale che ha attivato la Reazione.",
+                        "$text": "1.\nUna volta dichiarata questa Reazione, il Giocatore Attivo deve risolvere tutti i Passaggi rimanenti del processo di Attacco a Distanza normalmente, fino all’inizio del Passaggio 11.\n2.\nPrima di risolvere il Passaggio 11, Rimuovere le Perdite, il Giocatore Reattivo effettua un Attacco a Distanza con l’Unità Reattiva, inclusi tutti i Modelli che sono stati ridotti a 0 Ferite, prendendo di mira solo l’Unità Bersaglio.\n3.\nMentre effettua questo Attacco di Tiro, le Armi selezionate per esso modificano la loro Caratteristica Potenza di Fuoco di +1 e ottengono la Regola Speciale Surriscaldamento (1), oppure, se quell’Arma ha già la Regola Speciale Surriscaldamento (X), aumentano il valore di X di +1.\n4.\nUna volta che l’Attacco a Distanza effettuato come parte di questa Reazione è stato completamente risolto, il Giocatore Attivo deve quindi terminare la risoluzione del Passaggio 11 dell’Attacco a Distanza originale che ha attivato la Reazione.",
                         "name": "Procedura",
                         "typeId": "57cf-1c68-a020-2529"
                       }

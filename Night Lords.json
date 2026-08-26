@@ -313,7 +313,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Quando si selezionano i Gambetti per un Modello con questa Regola Speciale, il Giocatore che lo Controlla può tirare un Dado. Con un risultato di 5+, questo Gambetto può essere selezionato per quel Modello.\n\nUna Morte da Lungo Predetta: quando questo Gambetto viene selezionato, il Giocatore Controllante può effettuare una Prova di Volontà per ciascuno dei seguenti benefici. Se la Prova di Volontà ha successo, l'effetto corrispondente si applica fino all'inizio della Fase di Faccia a Faccia successiva:\n• Questo Modello guadagna la Regola Speciale Insensibile al Dolore (5+);\n• Modifica la Caratteristica Attacchi di questo Modello di +1;\n• Pietà e Perdono di questo Modello hanno un Modificatore di Iniziativa di '+2'.",
+                    "$text": "Quando si selezionano i Gambetti per un Modello con questa Regola Speciale, il Giocatore che lo Controlla può tirare un Dado.\nCon un risultato di 5+, questo Gambetto può essere selezionato per quel Modello.\nUna Morte da Lungo Predetta: quando questo Gambetto viene selezionato, il Giocatore Controllante può effettuare una Prova di Volontà per ciascuno dei seguenti benefici.\nSe la Prova di Volontà ha successo, l’effetto corrispondente si applica fino all’inizio della Fase di Faccia a Faccia successiva:\n• Questo Modello guadagna la Regola Speciale Insensibile al Dolore (5+);\n• Modifica la Caratteristica Attacchi di questo Modello di +1;\n• Pietà e Perdono di questo Modello hanno un Modificatore di Iniziativa di '+2'.",
                     "name": "Descrizione",
                     "typeId": "2d7d-b1d9-dead-605a"
                   }
@@ -4216,7 +4216,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Combattente Sleale: Questo Gambetto può essere selezionato solo durante il primo Passaggio di Faccia a Faccia di una Sfida che coinvolga questo Modello. All'inizio del Passaggio di Concentrazione, il Giocatore Controllante di questo Modello può risolvere le fasi da 1 a 4 del Passaggio di Attacco una volta, come se questo Modello avesse una Caratteristica Attacchi pari a 1. Il Passaggio di Concentrazione viene quindi risolto normalmente.",
+                    "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Combattente Sleale: Questo Gambetto può essere selezionato solo durante il primo Passaggio di Faccia a Faccia di una Sfida che coinvolga questo Modello.\nAll’inizio del Passaggio di Concentrazione, il Giocatore Controllante di questo Modello può risolvere le fasi da 1 a 4 del Passaggio di Attacco una volta, come se questo Modello avesse una Caratteristica Attacchi pari a 1.\nIl Passaggio di Concentrazione viene quindi risolto normalmente.",
                     "name": "Descrizione",
                     "typeId": "2d7d-b1d9-dead-605a"
                   }
@@ -6908,7 +6908,7 @@
                   {
                     "characteristics": [
                       {
-                        "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Coraggio Nostramano: questo Gambetto può essere selezionato solo una volta per Sfida. All’inizio del Passaggio di Concentrazione, il Giocatore Controllante di questo Modello può immediatamente far tornare il Modello alla propria Unità come se fosse la Sottofase di Risoluzione, ed essere sostituito nella Sfida con qualsiasi altro Modello della sua Unità. Reazione Avanzata La Parte Migliore del Valore Attivazione: durante il Passaggio 4 del processo di Carica di qualsiasi Carica dichiarata dal Giocatore Attivo che prenda di mira un’Unità che includa solo Modelli con il Tratto Signori della Notte. Costo: 1 Punto Reazione. Bersaglio: l’Unità la cui Carica ha innescato la Reazione. L’Unità Reattiva è l’Unità che è stata dichiarata come Bersaglio della Carica che ha innescato questa Reazione. Procedura: Una volta dichiarata questa reazione, l’Unità Reattiva deve immediatamente effettuare un Movimento di Ripiegamento. Distaccamenti Addizionali Caccia dell’Atramentar Distaccamento Apice 1 Riquadro Seguito (Primario); 2 Riquadri Assalto Pesante (Prime). I Riquadri Seguito in questo Distaccamento devono essere occupati da Unità di Squadra Comando Catafratta o Unità di Squadra Comando Tartaros. I Riquadri Assalto Pesante in questo Distaccamento devono essere occupati da Unità della Squadra Terminator Catafratti o Unità di Squadra Terminator Tartaros. L’unico Vantaggio Primario che può essere selezionato per i Riquadri in questo Distaccamento è Atramentar. Assalto Terroristico Distaccamento Ausiliario 1 Riquadro Truppe (Primario); 2 Riquadri Supporto Leggero; 1 Riquadro Truppe. I Riquadri Truppe in questo Distaccamento devono essere occupati da Unità di Squadra del Terrore.",
+                        "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Coraggio Nostramano: questo Gambetto può essere selezionato solo una volta per Sfida.\nAll’inizio del Passaggio di Concentrazione, il Giocatore Controllante di questo Modello può immediatamente far tornare il Modello alla propria Unità come se fosse la Sottofase di Risoluzione, ed essere sostituito nella Sfida con qualsiasi altro Modello della sua Unità.",
                         "name": "Descrizione",
                         "typeId": "2d7d-b1d9-dead-605a"
                       }
@@ -6960,7 +6960,7 @@
                         "typeId": "954a-972f-5c94-2ede"
                       },
                       {
-                        "$text": "l’Unità la cui Carica ha innescato la Reazione. L’Unità Reattiva è l’Unità che è stata dichiarata come Bersaglio della Carica che ha innescato questa Reazione.",
+                        "$text": "l’Unità la cui Carica ha innescato la Reazione.\nL’Unità Reattiva è l’Unità che è stata dichiarata come Bersaglio della Carica che ha innescato questa Reazione.",
                         "name": "Bersaglio",
                         "typeId": "e102-8fdd-9cd4-c0f9"
                       },
@@ -7044,7 +7044,7 @@
             ],
             "type": "upgrade",
             "import": true,
-            "name": "Atramentar ",
+            "name": "Atramentar",
             "hidden": false,
             "id": "8506-b863-94b4-314a",
             "sortIndex": 1

@@ -110,7 +110,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "se di Tiro.\nDistaccamenti Addizionali\nConvocazione Prosperina\nDistaccamento Ausiliario\n1 Riquadro Truppe (Primario);\n1 Riquadro Supporto Leggero;\n1 Riquadro Trasporto Pesante;\n1 Riquadro Reparti Speciali.\n\n\n \n \nOpzioni\n \nRegole Speciali\nArcistregone\nUn Modello con questa Regola Speciale è considerato in possesso degli Arcana Prosperini Raptora, Pirae, Pavoni, Corvidae e Athanaean.\nBattaglia tra Volontà\nMentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante Gambetto: Battaglia tra Volontà: Il Giocatore Controllante ottiene un modificatore positivo al suo Tiro Concentrazione pari alla Caratteristica Volontà Base di Magnus il Rosso meno la Caratteristica Volontà Base del Modello avversario nella Sfida. Sire della Stirpe dei Mille Se quattro o più Riquadri Truppe nel Distaccamento Principale sono occupati da Unità che hanno un Arcana Prosperino, allora tutti i Riquadri Truppe nel Distaccamento Principale sono considerati Riquadri Primari. Inoltre, fino alla fine del primo Turno di Battaglia, ogni volta che il Giocatore che Controlla un Modello con questa Regola Speciale effettua una Prova di Manifestazione per un’Unità che includa solo Modelli con il Tratto Stirpe dei Mille, può tirare tre Dadi e selezionarne due a scelta per determinare il risultato.",
+                    "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Battaglia tra Volontà: Il Giocatore Controllante ottiene un modificatore positivo al suo Tiro Concentrazione pari alla Caratteristica Volontà Base di Magnus il Rosso meno la Caratteristica Volontà Base del Modello avversario nella Sfida.",
                     "name": "Descrizione",
                     "typeId": "2d7d-b1d9-dead-605a"
                   }
@@ -2323,7 +2323,7 @@
                     "typeId": "88c3-1ca5-7dc1-f291"
                   },
                   {
-                    "$text": "Inchiodamento (2), Psichicità (FP)",
+                    "$text": "Inchiodamento (2), Psichicità (PF)",
                     "name": "Regole Speciali",
                     "typeId": "5aad-137a-8ee2-63fd"
                   },
@@ -2374,7 +2374,7 @@
                     "typeId": "88c3-1ca5-7dc1-f291"
                   },
                   {
-                    "$text": "Panico (1), Area (5\"), Psichicità (S)",
+                    "$text": "Panico (1), Area (5\"), Psichicità (FD)",
                     "name": "Regole Speciali",
                     "typeId": "5aad-137a-8ee2-63fd"
                   },
@@ -5232,17 +5232,17 @@
           {
             "characteristics": [
               {
-                "$text": "Il Giocatore Attivo può scegliere di Manifestare il Potere Psionico Canto Mentale delle Lame nella Fase di Assalto, all'inizio del Passaggio Dichiarare le Armi e Determinare le Iniziative di un Combattimento che includa un'Unità con almeno un Modello con il Tratto Khenetai.",
+                "$text": "Il Giocatore Attivo può scegliere di Manifestare il Potere Psionico Canto Mentale delle Lame nella Fase di Assalto, all’inizio del Passaggio Dichiarare le Armi e Determinare le Iniziative di un Combattimento che includa un’Unità con almeno un Modello con il Tratto Khenetai.",
                 "name": "Innesco",
                 "typeId": "1be9-f118-1cf3-357e"
               },
               {
-                "$text": "Il Fulcro del Potere deve essere un Modello con il Tratto Khenetai che fa parte di un'Unità coinvolta nel Combattimento.",
+                "$text": "Il Fulcro del Potere deve essere un Modello con il Tratto Khenetai che fa parte di un’Unità coinvolta nel Combattimento.",
                 "name": "Fulcro",
                 "typeId": "3f2d-f6e7-e6d3-1f86"
               },
               {
-                "$text": "L'Unità Bersaglio deve essere l'Unità di cui il Fulcro fa parte.",
+                "$text": "L’Unità Bersaglio deve essere l’Unità di cui il Fulcro fa parte.",
                 "name": "Bersaglio",
                 "typeId": "2ba0-fbf8-ed6c-3770"
               },
@@ -5252,7 +5252,7 @@
                 "typeId": "d7d5-5b31-5b37-66c4"
               },
               {
-                "$text": "1. Una volta determinati il Fulcro e l'Unità Bersaglio, il Giocatore Controllante del Fulcro deve effettuare una Prova di Manifestazione.\n2. Se la Prova di Manifestazione ha successo, tutte le spade energetiche Achea abbinate possedute dai Modelli nell'Unità Bersaglio ottengono la Regola Speciale Precisione (5+).\n3. Se la Prova di Manifestazione fallisce, non ci sono ulteriori effetti.",
+                "$text": "1.\nUna volta determinati il Fulcro e l’Unità Bersaglio, il Giocatore Controllante del Fulcro deve effettuare una Prova di Manifestazione.\n2.\nSe la Prova di Manifestazione ha successo, tutte le spade energetiche Achea abbinate possedute dai Modelli nell’Unità Bersaglio ottengono la Regola Speciale Precisione (5+).\n3.\nSe la Prova di Manifestazione fallisce, non ci sono ulteriori effetti.",
                 "name": "Procedura",
                 "typeId": "3804-b2cf-9f1a-4ff0"
               }
@@ -5266,22 +5266,22 @@
           {
             "characteristics": [
               {
-                "$text": "Il Giocatore Reattivo può scegliere di dichiarare una Reazione Psionica Intreccio di Lame nella Fase di Assalto, all'inizio del Passaggio 4 del processo di Carica, se il Giocatore Attivo dichiara una Carica che prende di mira un'Unità che include almeno un Modello con il Tratto Khenetai.",
+                "$text": "Il Giocatore Reattivo può scegliere di dichiarare una Reazione Psionica Intreccio di Lame nella Fase di Assalto, all’inizio del Passaggio 4 del processo di Carica, se il Giocatore Attivo dichiara una Carica che prende di mira un’Unità che include almeno un Modello con il Tratto Khenetai.",
                 "name": "Innesco",
                 "typeId": "4e6b-ebca-53df-fcf7"
               },
               {
-                "$text": "Il Giocatore Reattivo deve spendere 1 Punto Reazione per dichiarare una Reazione Psionica Intreccio di Lame. Questo costo viene pagato se la Prova di Volontà ha successo. Se la Prova di Volontà fallisce, il costo non viene pagato.",
+                "$text": "Il Giocatore Reattivo deve spendere 1 Punto Reazione per dichiarare una Reazione Psionica Intreccio di Lame.\nQuesto costo viene pagato se la Prova di Volontà ha successo.\nSe la Prova di Volontà fallisce, il costo non viene pagato.",
                 "name": "Costo",
                 "typeId": "f25a-9ced-eb9b-4587"
               },
               {
-                "$text": "Il Fulcro di questa Reazione Psionica deve essere un Modello con il Tratto Khenetai sotto il controllo del Giocatore Reattivo, e deve far parte dell'Unità bersaglio della Carica che ha innescato questa Reazione Psionica.",
+                "$text": "Il Fulcro di questa Reazione Psionica deve essere un Modello con il Tratto Khenetai sotto il controllo del Giocatore Reattivo, e deve far parte dell’Unità bersaglio della Carica che ha innescato questa Reazione Psionica.",
                 "name": "Fulcro",
                 "typeId": "0b45-591a-ee11-488e"
               },
               {
-                "$text": "L'Unità Bersaglio deve essere l'Unità bersaglio della Carica che ha innescato la Reazione.",
+                "$text": "L’Unità Bersaglio deve essere l’Unità bersaglio della Carica che ha innescato la Reazione.",
                 "name": "Bersaglio",
                 "typeId": "cf1d-e201-caac-3d45"
               },
@@ -5291,7 +5291,7 @@
                 "typeId": "daae-40ac-68e2-fa78"
               },
               {
-                "$text": "1. Una volta determinati il Fulcro e l'Unità Bersaglio, il Giocatore Controllante del Fulcro deve effettuare una Prova di Manifestazione.\n2. Se la Prova di Manifestazione ha successo, tutti i Modelli nell'Unità bersaglio della Benedizione ottengono un Tiro Invulnerabilità di 5+ contro qualsiasi ferita inflitta.\n3. Se la Prova di Manifestazione fallisce, non ci sono effetti.",
+                "$text": "1.\nUna volta determinati il Fulcro e l’Unità Bersaglio, il Giocatore Controllante del Fulcro deve effettuare una Prova di Manifestazione.\n2.\nSe la Prova di Manifestazione ha successo, tutti i Modelli nell’Unità bersaglio della Benedizione ottengono un Tiro Invulnerabilità di 5+ contro qualsiasi ferita inflitta.\n3.\nSe la Prova di Manifestazione fallisce, non ci sono effetti.",
                 "name": "Procedura",
                 "typeId": "8d43-934e-e511-0cfd"
               }
@@ -6661,7 +6661,7 @@
                 ],
                 "type": "upgrade",
                 "import": true,
-                "name": "Artigli psionici Achea ",
+                "name": "Artigli psionici Achea",
                 "hidden": false,
                 "id": "bd48-b242-9657-4fa8",
                 "sortIndex": 3
@@ -7333,7 +7333,7 @@
                     "includeChildSelections": true
                   }
                 ],
-                "name": "Un Guardia Vitale può sostituire Spada a catena con: ",
+                "name": "Un Guardia Vitale può sostituire Spada a catena con:",
                 "id": "3f76-dbf0-40a1-8107"
               },
               {
@@ -7466,7 +7466,7 @@
                     "includeChildSelections": true
                   }
                 ],
-                "name": "Un Guardia Vitale in questa Unità può avere: ",
+                "name": "Un Guardia Vitale in questa Unità può avere:",
                 "id": "bc99-de0f-4819-b566"
               }
             ],
@@ -7918,7 +7918,7 @@
                     "id": "5a67-8533-f474-71c5"
                   }
                 ],
-                "name": "Può sostituire Spada a catena con: ",
+                "name": "Può sostituire Spada a catena con:",
                 "id": "5b2d-8551-452a-9267",
                 "sortIndex": 2,
                 "defaultSelectionEntryId": "ce06-5c71-44ef-8e3d"
@@ -8172,7 +8172,7 @@
                     "id": "983b-2d6e-2762-8d70"
                   }
                 ],
-                "name": "Può sostituire Pistola requiem con: ",
+                "name": "Può sostituire Pistola requiem con:",
                 "id": "ce65-822e-4254-bdf4",
                 "sortIndex": 1,
                 "defaultSelectionEntryId": "2fc9-960e-4281-a4fb"
@@ -9201,7 +9201,7 @@
                     "id": "f7d9-3a26-459a-8813"
                   }
                 ],
-                "name": "Può sostituire Pistola requiem con: ",
+                "name": "Può sostituire Pistola requiem con:",
                 "id": "523f-eaa6-4382-baec",
                 "sortIndex": 1
               }
@@ -9663,7 +9663,7 @@
                     "includeChildSelections": true
                   }
                 ],
-                "name": "Un inductii in questa Unità può avere: ",
+                "name": "Un inductii in questa Unità può avere:",
                 "id": "cdfe-c182-4607-ab42",
                 "sortIndex": 6
               },
@@ -10037,32 +10037,32 @@
           {
             "characteristics": [
               {
-                "$text": "Il Giocatore Attivo può scegliere di Manifestare il Potere Psionico Guida Eterica nella Fase di Tiro, all'inizio del Passaggio 4 di qualsiasi Attacco a Distanza effettuato da un'Unità controllata dal Giocatore Attivo che includa almeno un Modello con il Tratto Non Sintonizzato.",
+                "$text": "Il Giocatore Attivo può scegliere di Manifestare il Potere Psionico Guida Eterica nella Fase di Tiro, all’inizio del Passaggio 4 di qualsiasi Attacco a Distanza effettuato da un’Unità controllata dal Giocatore Attivo che includa almeno un Modello con il Tratto Non Sintonizzato.",
                 "name": "Innesco",
                 "typeId": "1be9-f118-1cf3-357e"
               },
               {
-                "$text": "Il Fulcro del Potere deve essere un Modello con il Tratto Non Sintonizzato che fa parte dell'Unità che effettua l'Attacco a Distanza.",
+                "$text": "Il Fulcro del Potere deve essere un Modello con il Tratto Non Sintonizzato che fa parte dell’Unità che effettua l’Attacco a Distanza.",
                 "name": "Fulcro",
                 "typeId": "3f2d-f6e7-e6d3-1f86"
               },
               {
-                "$text": "L'Unità Bersaglio deve essere l'Unità di cui il Fulcro fa parte, e deve includere solo Modelli con il Tratto Stirpe dei Mille.",
+                "$text": "L’Unità Bersaglio deve essere l’Unità di cui il Fulcro fa parte, e deve includere solo Modelli con il Tratto Stirpe dei Mille.",
                 "name": "Bersaglio",
                 "typeId": "2ba0-fbf8-ed6c-3770"
               },
               {
-                "$text": "Se Manifestato con successo, gli effetti di questo Potere Psionico durano fino alla fine dell'Attacco a Distanza in corso di risoluzione.",
+                "$text": "Se Manifestato con successo, gli effetti di questo Potere Psionico durano fino alla fine dell’Attacco a Distanza in corso di risoluzione.",
                 "name": "Durata",
                 "typeId": "d7d5-5b31-5b37-66c4"
               },
               {
-                "$text": "1. Una volta determinati il Fulcro e l'Unità Bersaglio, il Giocatore Controllante del Fulcro deve effettuare una Prova di Manifestazione.\n2. Se la Prova di Manifestazione ha successo, tutte le armi a distanza possedute dai Modelli nell'Unità Bersaglio (escluse le armi con la Regola Speciale Area (X)) ottengono la Regola Speciale Perforante (6+).\n3. Se la Prova di Manifestazione fallisce, non ci sono ulteriori effetti.",
+                "$text": "1.\nUna volta determinati il Fulcro e l’Unità Bersaglio, il Giocatore Controllante del Fulcro deve effettuare una Prova di Manifestazione.\n2.\nSe la Prova di Manifestazione ha successo, tutte le armi a distanza possedute dai Modelli nell’Unità Bersaglio (escluse le armi con la Regola Speciale Area (X)) ottengono la Regola Speciale Perforante (6+).\n3.\nSe la Prova di Manifestazione fallisce, non ci sono ulteriori effetti.",
                 "name": "Procedura",
                 "typeId": "3804-b2cf-9f1a-4ff0"
               }
             ],
-            "name": "Guida Eterica ",
+            "name": "Guida Eterica",
             "typeId": "9dfb-2fa3-00e7-8cfd",
             "typeName": "Potere Psionico",
             "hidden": false,
@@ -10332,7 +10332,7 @@
                   {
                     "characteristics": [
                       {
-                        "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Duellante Profetico: subito dopo che il Giocatore Controllante ha effettuato il suo Tiro Concentrazione nella Fase Concentrazione, può scegliere di sostituire il risultato del suo Tiro Concentrazione, dopo i modificatori, con la Volontà di questo Modello. Reazione Avanzata Fortezza della Mente Attivazione: una volta per battaglia, durante il Passaggio 4 del processo di Attacco a Distanza di qualsiasi Attacco a Distanza dichiarato dal Giocatore Attivo che prenda di mira un’Unità che includa solo modelli con il Tratto Stirpe dei Mille e non contiene modelli con il tipo Veicolo. Costo: 1 Punto Reazione. Bersaglio: l’Unità il cui Attacco a Distanza ha attivato la Reazione. L’Unità Reattiva è l’Unità dichiarata come bersaglio dell’Attacco a Distanza che ha attivato questa Reazione. Procedura: Una volta dichiarata una Reazione Avanzata della Fortezza della Mente, il Giocatore Reattivo deve effettuare una Prova di Volontà per l’Unità Reattiva. Se la Prova di Volontà viene superata, l’Unità Reattiva ottiene un Tiro Invulnerabilità 3+ contro tutte le ferite inflitte come parte dell’Attacco a Distanza che ha attivato la Reazione. Se la Prova di Volontà fallisce, l’Unità Reattiva ottiene un Tiro Invulnerabilità 5+ contro tutte le ferite inflitte come parte dell’Attacco a Distanza che ha attivato la Reazione, e sia l’Unità Reattiva che l’Unità Bersaglio subiscono il risultato di Frattura Warp dalla tabella Pericoli del Warp, risolto immediatamente dopo il Passaggio 11 della Fase di Tiro. Distaccamenti Addizionali Convocazione Prosperina Distaccamento Ausiliario 1 Riquadro Truppe (Primario); 1 Riquadro Supporto Leggero; 1 Riquadro Trasporto Pesante; 1 Riquadro Reparti Speciali.",
+                        "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Duellante Profetico: subito dopo che il Giocatore Controllante ha effettuato il suo Tiro Concentrazione nella Fase Concentrazione, può scegliere di sostituire il risultato del suo Tiro Concentrazione, dopo i modificatori, con la Volontà di questo Modello.",
                         "name": "Descrizione",
                         "typeId": "2d7d-b1d9-dead-605a"
                       }
@@ -10384,12 +10384,12 @@
                         "typeId": "954a-972f-5c94-2ede"
                       },
                       {
-                        "$text": "l’Unità il cui Attacco a Distanza ha attivato la Reazione. L’Unità Reattiva è l’Unità dichiarata come bersaglio dell’Attacco a Distanza che ha attivato questa Reazione.",
+                        "$text": "l’Unità il cui Attacco a Distanza ha attivato la Reazione.\nL’Unità Reattiva è l’Unità dichiarata come bersaglio dell’Attacco a Distanza che ha attivato questa Reazione.",
                         "name": "Bersaglio",
                         "typeId": "e102-8fdd-9cd4-c0f9"
                       },
                       {
-                        "$text": "Una volta dichiarata una Reazione Avanzata della Fortezza della Mente, il Giocatore Reattivo deve effettuare una Prova di Volontà per l’Unità Reattiva. Se la Prova di Volontà viene superata, l’Unità Reattiva ottiene un Tiro Invulnerabilità 3+ contro tutte le ferite inflitte come parte dell’Attacco a Distanza che ha attivato la Reazione. Se la Prova di Volontà fallisce, l’Unità Reattiva ottiene un Tiro Invulnerabilità 5+ contro tutte le ferite inflitte come parte dell’Attacco a Distanza che ha attivato la Reazione, e sia l’Unità Reattiva che l’Unità Bersaglio subiscono il risultato di Frattura Warp dalla tabella Pericoli del Warp, risolto immediatamente dopo il Passaggio 11 della Fase di Tiro.",
+                        "$text": "Una volta dichiarata una Reazione Avanzata della Fortezza della Mente, il Giocatore Reattivo deve effettuare una Prova di Volontà per l’Unità Reattiva.\nSe la Prova di Volontà viene superata, l’Unità Reattiva ottiene un Tiro Invulnerabilità 3+ contro tutte le ferite inflitte come parte dell’Attacco a Distanza che ha attivato la Reazione.\nSe la Prova di Volontà fallisce, l’Unità Reattiva ottiene un Tiro Invulnerabilità 5+ contro tutte le ferite inflitte come parte dell’Attacco a Distanza che ha attivato la Reazione, e sia l’Unità Reattiva che l’Unità Bersaglio subiscono il risultato di Frattura Warp dalla tabella Pericoli del Warp, risolto immediatamente dopo il Passaggio 11 della Fase di Tiro.",
                         "name": "Procedura",
                         "typeId": "57cf-1c68-a020-2529"
                       }
@@ -10455,12 +10455,12 @@
           {
             "name": "Bersaglio",
             "typeId": "e102-8fdd-9cd4-c0f9",
-            "$text": "l’Unità il cui Attacco a Distanza ha attivato la Reazione. L’Unità Reattiva è l’Unità dichiarata come bersaglio dell’Attacco a Distanza che ha attivato questa Reazione."
+            "$text": "l’Unità il cui Attacco a Distanza ha attivato la Reazione.\nL’Unità Reattiva è l’Unità dichiarata come bersaglio dell’Attacco a Distanza che ha attivato questa Reazione."
           },
           {
             "name": "Procedura",
             "typeId": "57cf-1c68-a020-2529",
-            "$text": "Una volta dichiarata una Reazione Avanzata della Fortezza della Mente, il Giocatore Reattivo deve effettuare una Prova di Volontà per l’Unità Reattiva. Se la Prova di Volontà viene superata, l’Unità Reattiva ottiene un Tiro Invulnerabilità 3+ contro tutte le ferite inflitte come parte dell’Attacco a Distanza che ha attivato la Reazione. Se la Prova di Volontà fallisce, l’Unità Reattiva ottiene un Tiro Invulnerabilità 5+ contro tutte le ferite inflitte come parte dell’Attacco a Distanza che ha attivato la Reazione, e sia l’Unità Reattiva che l’Unità Bersaglio subiscono il risultato di Frattura Warp dalla tabella Pericoli del Warp, risolto immediatamente dopo il Passaggio 11 della Fase di Tiro."
+            "$text": "Una volta dichiarata una Reazione Avanzata della Fortezza della Mente, il Giocatore Reattivo deve effettuare una Prova di Volontà per l’Unità Reattiva.\nSe la Prova di Volontà viene superata, l’Unità Reattiva ottiene un Tiro Invulnerabilità 3+ contro tutte le ferite inflitte come parte dell’Attacco a Distanza che ha attivato la Reazione.\nSe la Prova di Volontà fallisce, l’Unità Reattiva ottiene un Tiro Invulnerabilità 5+ contro tutte le ferite inflitte come parte dell’Attacco a Distanza che ha attivato la Reazione, e sia l’Unità Reattiva che l’Unità Bersaglio subiscono il risultato di Frattura Warp dalla tabella Pericoli del Warp, risolto immediatamente dopo il Passaggio 11 della Fase di Tiro."
           }
         ],
         "name": "Fortezza della Mente",

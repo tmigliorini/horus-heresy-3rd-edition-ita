@@ -1461,7 +1461,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "alla fine della Fase di Assalto in corso.\nNella seguente Sottofase degli Stati, il Giocatore Reattivo deve tirare un D6 per ogni Modello dell’Unità Reattiva.\nPer ogni risultato pari a 1, l’Unità Reattiva subisce 1 ferita automatica con una Caratteristica di Danno di ’1’ e VP di ’-’.\nDistaccamenti Addizionali\nPatto di Immolazione\nDistaccamento Ausiliario\n1 Riquadro Supporto (Primario);\n1 Riquadro Supporto;\n2 Riquadri Corazzato.\nI Riquadri armatura di questo Distaccamento possono essere utilizzati solo per selezionare Unità di Predator o di Vindicator.\n\n \n \nRegole Speciali\nIl Fuoco Immortale\nMentre un Modello con questa Regola Speciale è in Sfida, il suo Giocatore Controllante Gambetto: Il Fuoco Immortale: il Giocatore Controllante di questo Modello non può applicare alcun modificatore positivo al Tiro Concentrazione. Tuttavia, se questo Modello non scende a 0 Ferite nel Passaggio 4 del Passaggio di Attacco, questo Modello aumenta la sua Caratteristica Ferite di +D3, fino a un massimo della sua Caratteristica Ferite Base, prima che i Giocatori tornino al Passaggio 2 della procedura di Sfida o passino alla Fase della Gloria. Sire delle Salamandre Se quattro o più Riquadri Truppe nel Distaccamento Principale sono occupati e per almeno un Modello in ogni Unità che occupa quei Riquadri è stata acquistata un’Arma Perfezionata, allora tutti i Riquadri Truppe nel Distaccamento Principale sono considerati Riquadri Primari. Inoltre, fino alla fine del primo Turno di Battaglia, il Giocatore Controllante può ignorare tutti i modificatori negativi alle Caratteristiche di Disciplina, Volontà, Coraggio e Intelligenza di tutti i Modelli con questa Regola Speciale.",
+                    "$text": "Mentre un Modello con questa Regola Speciale è in Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Il Fuoco Immortale: il Giocatore Controllante di questo Modello non può applicare alcun modificatore positivo al Tiro Concentrazione.\nTuttavia, se questo Modello non scende a 0 Ferite nel Passaggio 4 del Passaggio di Attacco, questo Modello aumenta la sua Caratteristica Ferite di +D3, fino a un massimo della sua Caratteristica Ferite Base, prima che i Giocatori tornino al Passaggio 2 della procedura di Sfida o passino alla Fase della Gloria.",
                     "name": "Descrizione",
                     "typeId": "2d7d-b1d9-dead-605a"
                   }
@@ -5152,7 +5152,7 @@
                         ],
                         "type": "upgrade",
                         "import": true,
-                        "name": "1-5 può sostituire Fucile requiem con Cannone rotante Obsidite ",
+                        "name": "1-5 può sostituire Fucile requiem con Cannone rotante Obsidite",
                         "hidden": false,
                         "id": "066a-d659-7a53-badd",
                         "sortIndex": 5
@@ -5998,7 +5998,7 @@
                     "id": "5dd0-8f4d-42e7-be6e"
                   }
                 ],
-                "name": "Qualsiasi Modello in questa Unità può sostituire Spada a catena e Pistola requiem con: ",
+                "name": "Qualsiasi Modello in questa Unità può sostituire Spada a catena e Pistola requiem con:",
                 "id": "83c7-4a16-4848-b7b4",
                 "sortIndex": 3
               },
@@ -6256,7 +6256,7 @@
                         "field": "a6ce-d088-4e30-b0e2"
                       }
                     ],
-                    "name": "Per ogni cinque Modelli in questa Unità,  Un inductii in questa Unità può sostituire Spada a catena con: ",
+                    "name": "Per ogni cinque Modelli in questa Unità,  Un inductii in questa Unità può sostituire Spada a catena con:",
                     "id": "b1b9-b4df-4101-8892",
                     "hidden": false
                   },
@@ -6765,7 +6765,7 @@
                     "id": "8703-236c-4df1-9be7"
                   }
                 ],
-                "name": "Può sostituire Spada a catena e Pistola requiem con: ",
+                "name": "Può sostituire Spada a catena e Pistola requiem con:",
                 "id": "5445-29e5-48e8-a8b4",
                 "sortIndex": 3
               },
@@ -6913,7 +6913,7 @@
                     "field": "fdb0-710c-8888-5bc7"
                   }
                 ],
-                "name": "Può sostituire Spada a catena con: ",
+                "name": "Può sostituire Spada a catena con:",
                 "id": "7f69-914b-4040-bad4",
                 "sortIndex": 2,
                 "defaultSelectionEntryId": "0326-8c79-48c6-bdde"
@@ -7113,7 +7113,7 @@
                     "field": "489c-87ba-5566-20e1"
                   }
                 ],
-                "name": "Può sostituire Pistola requiem con: ",
+                "name": "Può sostituire Pistola requiem con:",
                 "id": "7cef-0095-4b07-a016",
                 "sortIndex": 1,
                 "defaultSelectionEntryId": "12b4-3f04-420e-810f"
@@ -7466,7 +7466,7 @@
       {
         "characteristics": [
           {
-            "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Il Dovere è Sacrificio: il Giocatore Controllante può aggiungere un bonus di 1, 2 o 3 al suo Tiro Concentrazione. Nel Passaggio Applicare il Danno del Processo di Attacco, il Modello per cui è stato selezionato questo Gambetto subisce un numero di ferite, ciascuna con una Caratteristica VP di ’5’ e un Danno di ’1’, pari al bonus al Tiro Concentrazione applicato da questo Gambetto. Reazione Avanzata Fardello Altruistico Attivazione: una volta per Battaglia, all’inizio del Passaggio 3 di una Carica dichiarata dal Giocatore Attivo che prenda di mira un’Unità sotto il proprio controllo che includa solo Modelli con il Tratto Salamandre che non hanno il tipo Veicolo. Costo: 1 Punto Reazione. Bersaglio: l’Unità bersaglio è l’Unità bersaglio della carica che ha innescato questa reazione, che è anche l’Unità Reattiva. Procedura: Tutti i Modelli dell’Unità Reattiva hanno le loro Caratteristiche di Abilità di Combattimento, Forza e Attacchi modificate di +1 fino alla fine della Fase di Assalto in corso. Nella seguente Sottofase degli Stati, il Giocatore Reattivo deve tirare un D6 per ogni Modello dell’Unità Reattiva. Per ogni risultato pari a 1, l’Unità Reattiva subisce 1 ferita automatica con una Caratteristica di Danno di ’1’ e VP di ’-’. Distaccamenti Addizionali Patto di Immolazione Distaccamento Ausiliario 1 Riquadro Supporto (Primario); 1 Riquadro Supporto; 2 Riquadri Corazzato. I Riquadri armatura di questo Distaccamento possono essere utilizzati solo per selezionare Unità di Predator o di Vindicator.",
+            "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Il Dovere è Sacrificio: il Giocatore Controllante può aggiungere un bonus di 1, 2 o 3 al suo Tiro Concentrazione.\nNel Passaggio Applicare il Danno del Processo di Attacco, il Modello per cui è stato selezionato questo Gambetto subisce un numero di ferite, ciascuna con una Caratteristica VP di ‘5’ e un Danno di ‘1’, pari al bonus al Tiro Concentrazione applicato da questo Gambetto.",
             "name": "Descrizione",
             "typeId": "2d7d-b1d9-dead-605a"
           }
@@ -7480,7 +7480,7 @@
       {
         "characteristics": [
           {
-            "$text": "dopo che un’Unità nemica ha terminato un Movimento durante il Passaggio 2 della Sottofase di Movimento.",
+            "$text": "una volta per Battaglia, all’inizio del Passaggio 3 di una Carica dichiarata dal Giocatore Attivo che prenda di mira un’Unità sotto il proprio controllo che includa solo Modelli con il Tratto Salamandre che non hanno il tipo Veicolo.",
             "name": "Innesco",
             "typeId": "02e4-3f90-3125-f8b4"
           },
@@ -7490,12 +7490,12 @@
             "typeId": "954a-972f-5c94-2ede"
           },
           {
-            "$text": "l’Unità il cui Movimento ha attivato la Reazione. L’Unità Reattiva è qualsiasi Unità in Riserva che includa solo Modelli con il Vantaggio Primario Corpi di Interdizione.",
+            "$text": "l’Unità bersaglio è l’Unità bersaglio della carica che ha innescato questa reazione, che è anche l’Unità Reattiva.",
             "name": "Bersaglio",
             "typeId": "e102-8fdd-9cd4-c0f9"
           },
           {
-            "$text": "Il Giocatore Reattivo deve selezionare un Modello dall’Unità Reattiva e posizionarlo in un punto qualsiasi del Campo di Battaglia al di fuori della Zona di Schieramento dell’Avversario, entro 6\" dall’Unità che ha attivato questa Reazione ma almeno 5\" oltre qualsiasi Modello nemico, ed oltre 1\" da qualsiasi Bordo del Campo di Battaglia o Terreno Intransitabile; I Modelli rimanenti devono poi essere posizionati in Coesione ed entro 6\" dal primo Modello posizionato, al di fuori della Zona di Schieramento dell’Avversario, almeno 5\" oltre qualsiasi Modello nemico, ed oltre 1\" da qualsiasi Bordo del Campo di Battaglia o Terreno Intransitabile. Qualsiasi Modello che non può essere posizionato usando queste Regole deve essere Rimosso come Perdita. Una volta che l’Unità Reattiva è stata schierata, può effettuare un Attacco a Distanza risolto Alla Cieca, oppure dichiarare una Carica Scomposta, contro l’Unità che ha innescato questa Reazione.",
+            "$text": "1.\nTutti i Modelli dell’Unità Reattiva hanno le loro Caratteristiche di Abilità di Combattimento, Forza e Attacchi modificate di +1 fino alla fine della Fase di Assalto in corso.\n2.\nNella seguente Sottofase degli Stati, il Giocatore Reattivo deve tirare un D6 per ogni Modello dell’Unità Reattiva.\n3.\nPer ogni risultato pari a 1, l’Unità Reattiva subisce 1 ferita automatica con una Caratteristica di Danno di ‘1’ e VP di ‘-’.",
             "name": "Procedura",
             "typeId": "57cf-1c68-a020-2529"
           }
@@ -7579,7 +7579,7 @@
                   {
                     "characteristics": [
                       {
-                        "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Il Dovere è Sacrificio: il Giocatore Controllante può aggiungere un bonus di 1, 2 o 3 al suo Tiro Concentrazione. Nel Passaggio Applicare il Danno del Processo di Attacco, il Modello per cui è stato selezionato questo Gambetto subisce un numero di ferite, ciascuna con una Caratteristica VP di ’5’ e un Danno di ’1’, pari al bonus al Tiro Concentrazione applicato da questo Gambetto. Reazione Avanzata Fardello Altruistico Attivazione: una volta per Battaglia, all’inizio del Passaggio 3 di una Carica dichiarata dal Giocatore Attivo che prenda di mira un’Unità sotto il proprio controllo che includa solo Modelli con il Tratto Salamandre che non hanno il tipo Veicolo. Costo: 1 Punto Reazione. Bersaglio: l’Unità bersaglio è l’Unità bersaglio della carica che ha innescato questa reazione, che è anche l’Unità Reattiva. Procedura: Tutti i Modelli dell’Unità Reattiva hanno le loro Caratteristiche di Abilità di Combattimento, Forza e Attacchi modificate di +1 fino alla fine della Fase di Assalto in corso. Nella seguente Sottofase degli Stati, il Giocatore Reattivo deve tirare un D6 per ogni Modello dell’Unità Reattiva. Per ogni risultato pari a 1, l’Unità Reattiva subisce 1 ferita automatica con una Caratteristica di Danno di ’1’ e VP di ’-’. Distaccamenti Addizionali Patto di Immolazione Distaccamento Ausiliario 1 Riquadro Supporto (Primario); 1 Riquadro Supporto; 2 Riquadri Corazzato. I Riquadri armatura di questo Distaccamento possono essere utilizzati solo per selezionare Unità di Predator o di Vindicator.",
+                        "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Il Dovere è Sacrificio: il Giocatore Controllante può aggiungere un bonus di 1, 2 o 3 al suo Tiro Concentrazione.\nNel Passaggio Applicare il Danno del Processo di Attacco, il Modello per cui è stato selezionato questo Gambetto subisce un numero di ferite, ciascuna con una Caratteristica VP di ‘5’ e un Danno di ‘1’, pari al bonus al Tiro Concentrazione applicato da questo Gambetto.",
                         "name": "Descrizione",
                         "typeId": "2d7d-b1d9-dead-605a"
                       }
@@ -7636,7 +7636,7 @@
                         "typeId": "e102-8fdd-9cd4-c0f9"
                       },
                       {
-                        "$text": "Tutti i Modelli dell’Unità Reattiva hanno le loro Caratteristiche di Abilità di Combattimento, Forza e Attacchi modificate di +1 fino alla fine della Fase di Assalto in corso. Nella seguente Sottofase degli Stati, il Giocatore Reattivo deve tirare un D6 per ogni Modello dell’Unità Reattiva. Per ogni risultato pari a 1, l’Unità Reattiva subisce 1 ferita automatica con una Caratteristica di Danno di ’1’ e VP di ’-’.",
+                        "$text": "Tutti i Modelli dell’Unità Reattiva hanno le loro Caratteristiche di Abilità di Combattimento, Forza e Attacchi modificate di +1 fino alla fine della Fase di Assalto in corso.\nNella seguente Sottofase degli Stati, il Giocatore Reattivo deve tirare un D6 per ogni Modello dell’Unità Reattiva.\nPer ogni risultato pari a 1, l’Unità Reattiva subisce 1 ferita automatica con una Caratteristica di Danno di ‘1’ e VP di ’-’.",
                         "name": "Procedura",
                         "typeId": "57cf-1c68-a020-2529"
                       }

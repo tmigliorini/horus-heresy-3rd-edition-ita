@@ -25038,7 +25038,7 @@
                   {
                     "name": "Composizione del Distaccamento",
                     "typeId": "ec3f-877b-f887-18b2",
-                    "$text": "1 Riquadro Primario Ricognizione\n2 Riquadri Primari Assalto Pesante\nIl Seguito deve essere Unità Squadra Comando Catafratta o Squadra Comando Tartaros\nAssalto Pesante deve essere Unità Squadra Terminator Catafratti o Squadra Terminator Tartaros\nL'unico Vantaggio Primario deve essere Atramentar"
+                    "$text": "1 Riquadro Primario Ricognizione\n2 Riquadri Primari Assalto Pesante\nIl Seguito deve essere Unità Squadra Comando Catafratta o Squadra Comando Tartaros\nAssalto Pesante deve essere Unità Squadra Terminator Catafratti o Squadra Terminator Tartaros\nL’unico Vantaggio Primario deve essere Atramentar"
                   }
                 ]
               }
@@ -33406,7 +33406,7 @@
                   {
                     "name": "Composizione del Distaccamento",
                     "typeId": "ec3f-877b-f887-18b2",
-                    "$text": "1 Riquadro Primario Supporto; 2 Riquadri Supporto\nDevono essere Unità Interemptor dell'Ala del Terrore o Batteria Rapier"
+                    "$text": "1 Riquadro Primario Supporto; 2 Riquadri Supporto\nDevono essere Unità Interemptor dell’Ala del Terrore o Batteria Rapier"
                   }
                 ]
               }
@@ -35882,7 +35882,7 @@
                   {
                     "name": "Composizione del Distaccamento",
                     "typeId": "ec3f-877b-f887-18b2",
-                    "$text": "2 Riquadri Primari Truppe\n2 Riquadri Reparto Speciale\nSolo Traditore\nL'unico Vantaggio Primario deve essere Veri Credenti"
+                    "$text": "2 Riquadri Primari Truppe\n2 Riquadri Reparto Speciale\nSolo Traditore\nL’unico Vantaggio Primario deve essere Veri Credenti"
                   }
                 ]
               }
@@ -41876,7 +41876,7 @@
                   {
                     "name": "Composizione del Distaccamento",
                     "typeId": "ec3f-877b-f887-18b2",
-                    "$text": "2 Riquadri Supporto\n2 Riquadri Corazzato\nRichiede un Maestro d'Assedio\nSupporto deve essere Unità Batteria Rapier\nIl Corazzato deve essere Unità Bombarda Arquitor o Vindicator"
+                    "$text": "2 Riquadri Supporto\n2 Riquadri Corazzato\nRichiede un Maestro d’Assedio\nSupporto deve essere Unità Batteria Rapier\nIl Corazzato deve essere Unità Bombarda Arquitor o Vindicator"
                   }
                 ]
               }
@@ -46724,7 +46724,7 @@
                   {
                     "name": "Composizione del Distaccamento",
                     "typeId": "ec3f-877b-f887-18b2",
-                    "$text": "1 Riquadro Primario Assalto Pesante; 1 Riquadro Assalto Pesante\n1 Riquadro Seguito\n1 Riquadro Macchina da Guerra\nLe Unità devono avere la parola Saturnine nel nome dell'unità"
+                    "$text": "1 Riquadro Primario Assalto Pesante; 1 Riquadro Assalto Pesante\n1 Riquadro Seguito\n1 Riquadro Macchina da Guerra\nLe Unità devono avere la parola Saturnine nel nome dell’unità"
                   }
                 ]
               }
@@ -48236,7 +48236,7 @@
                   {
                     "name": "Composizione del Distaccamento",
                     "typeId": "ec3f-877b-f887-18b2",
-                    "$text": "1 Riquadro Primario Assalto Pesante; 1 Riquadro Assalto Pesante\n1 Riquadro Seguito\n1 Riquadro Macchina da Guerra\nLe Unità devono avere la parola Cataphractii nel nome dell'unità"
+                    "$text": "1 Riquadro Primario Assalto Pesante; 1 Riquadro Assalto Pesante\n1 Riquadro Seguito\n1 Riquadro Macchina da Guerra\nLe Unità devono avere la parola Cataphractii nel nome dell’unità"
                   }
                 ]
               }
@@ -49698,7 +49698,7 @@
                   {
                     "name": "Composizione del Distaccamento",
                     "typeId": "ec3f-877b-f887-18b2",
-                    "$text": "1 Riquadro Primario Assalto Pesante; 1 Riquadro Assalto Pesante\n1 Riquadro Seguito\n1 Riquadro Macchina da Guerra\nLe Unità devono avere la parola Tartaros nel nome dell'unità"
+                    "$text": "1 Riquadro Primario Assalto Pesante; 1 Riquadro Assalto Pesante\n1 Riquadro Seguito\n1 Riquadro Macchina da Guerra\nLe Unità devono avere la parola Tartaros nel nome dell’unità"
                   }
                 ]
               }
@@ -58457,7 +58457,7 @@
               {
                 "name": "Composizione del Distaccamento",
                 "typeId": "ec3f-877b-f887-18b2",
-                "$text": "2 Riquadri Sovrano della Guerra\nPuò essere di qualsiasi Fazione\nIl totale dei punti non può superare il 25% del totale dell'Armata."
+                "$text": "2 Riquadri Sovrano della Guerra\nPuò essere di qualsiasi Fazione\nIl totale dei punti non può superare il 25% del totale dell’Armata."
               }
             ]
           }
@@ -77851,7 +77851,7 @@
       {
         "characteristics": [
           {
-            "$text": "durante la Fase 9 di un Attacco a Distanza che bersaglia un'Unità amica contenente Modelli con la Regola Speciale Medico (X), dopo aver eseguito eventuali Tiri Salvezza e Tiri Mitigazione.",
+            "$text": "durante la Fase 9 di un Attacco a Distanza che bersaglia un’Unità amica contenente Modelli con la Regola Speciale Medico (X), dopo aver eseguito eventuali Tiri Salvezza e Tiri Mitigazione.",
             "name": "Innesco",
             "typeId": "02e4-3f90-3125-f8b4"
           },
@@ -77861,12 +77861,12 @@
             "typeId": "954a-972f-5c94-2ede"
           },
           {
-            "$text": "l'Unità che è stata presa di mira dall'Attacco a Distanza che ha consentito di attivare la Reazione, che corrisponde anche all'Unità Reattiva.",
+            "$text": "l’Unità che è stata presa di mira dall’Attacco a Distanza che ha consentito di attivare la Reazione, che corrisponde anche all’Unità Reattiva.",
             "name": "Bersaglio",
             "typeId": "e102-8fdd-9cd4-c0f9"
           },
           {
-            "$text": "1. Una volta che questa Reazione è stata dichiarata, il Giocatore Attivo continua a risolvere il proprio Attacco a Distanza; 2. Nel Passaggio 11 di tale Attacco, il Giocatore Reattivo può effettuare un singolo Tiro Recupero per ogni Modello senza la Regola Speciale Medico (X) nell'Unità Bersaglio che ha subito una Ferita non Salvata; 3. Se il Tiro Recupero ha successo, una Ferita non Salvata assegnata al Modello vedrà il suo Danno ridotto di 1, fino a un minimo di “0”.",
+            "$text": "1.\nUna volta che questa Reazione è stata dichiarata, il Giocatore Attivo continua a risolvere il proprio Attacco a Distanza;\n2.\nNel Passaggio 11 di tale Attacco, il Giocatore Reattivo può effettuare un singolo Tiro Recupero per ogni Modello senza la Regola Speciale Medico (X) nell’Unità Bersaglio che ha subito una Ferita non Salvata;\n3.\nSe il Tiro Recupero ha successo, una Ferita non Salvata assegnata al Modello vedrà il suo Danno ridotto di 1, fino a un minimo di “0”.",
             "name": "Procedura",
             "typeId": "57cf-1c68-a020-2529"
           }
@@ -77880,7 +77880,7 @@
       {
         "characteristics": [
           {
-            "$text": "all'inizio del Passaggio 3 della sequenza dell'Attacco a Distanza effettuato dal Giocatore Attivo, prima che vengano dichiarate le Armi utilizzate, oppure, all'inizio del Passaggio 4 di una Carica dichiarata dal Giocatore Attivo, prima degli Attacchi a Raffica, che in entrambi i casi bersaglino un'Unità in cui la maggior parte dei Modelli possegga il Tratto 'Scudo'.",
+            "$text": "all’inizio del Passaggio 3 della sequenza dell’Attacco a Distanza effettuato dal Giocatore Attivo, prima che vengano dichiarate le Armi utilizzate, oppure, all’inizio del Passaggio 4 di una Carica dichiarata dal Giocatore Attivo, prima degli Attacchi a Raffica, che in entrambi i casi bersaglino un’Unità in cui la maggior parte dei Modelli possegga il Tratto ‘Scudo’.",
             "name": "Innesco",
             "typeId": "02e4-3f90-3125-f8b4"
           },
@@ -77890,12 +77890,12 @@
             "typeId": "954a-972f-5c94-2ede"
           },
           {
-            "$text": "il bersaglio di questa abilità è l'Unità che è stata colpita dall'Attacco a Distanza che ha consentito di attivare la Reazione, che corrisponde anche all'Unità Reattiva.",
+            "$text": "il bersaglio di questa abilità è l’Unità che è stata colpita dall’Attacco a Distanza che ha consentito di attivare la Reazione, che corrisponde anche all’Unità Reattiva.",
             "name": "Bersaglio",
             "typeId": "e102-8fdd-9cd4-c0f9"
           },
           {
-            "$text": "1. Il Giocatore Attivo continua a risolvere normalmente l'eventuale Attacco a Distanza. 2. Tutti i Modelli nell'Unità Bersaglio vedono la loro Caratteristica Resistenza aumentata di +1 per la sola durata della Fase corrente.",
+            "$text": "1.\nIl Giocatore Attivo continua a risolvere normalmente l’eventuale Attacco a Distanza.\n2.\nTutti i Modelli nell’Unità Bersaglio vedono la loro Caratteristica Resistenza aumentata di +1 per la sola durata della Fase corrente.",
             "name": "Procedura",
             "typeId": "57cf-1c68-a020-2529"
           }
@@ -77909,7 +77909,7 @@
       {
         "characteristics": [
           {
-            "$text": "all'inizio del Passaggio 3 di qualsiasi Attacco a Distanza, prima di dichiarare le Armi utilizzate, 36 se viene bersagliata un'Unità la cui maggioranza di Modelli abbia il Tratto 'Fumogeni'.",
+            "$text": "all’inizio del Passaggio 3 di qualsiasi Attacco a Distanza, prima di dichiarare le Armi utilizzate, se viene bersagliata un’Unità la cui maggioranza di Modelli abbia il Tratto ‘Fumogeni’.",
             "name": "Innesco",
             "typeId": "02e4-3f90-3125-f8b4"
           },
@@ -77919,12 +77919,12 @@
             "typeId": "954a-972f-5c94-2ede"
           },
           {
-            "$text": "l'Unità bersaglio dell'Attacco a Distanza che ha consentito di attivare la Reazione, che corrisponde anche all'Unità Reattiva.",
+            "$text": "l’Unità bersaglio dell’Attacco a Distanza che ha consentito di attivare la Reazione, che corrisponde anche all’Unità Reattiva.",
             "name": "Bersaglio",
             "typeId": "e102-8fdd-9cd4-c0f9"
           },
           {
-            "$text": "1. Il Giocatore Attivo continua a risolvere normalmente l'eventuale Attacco a Distanza. 2. Tutti i Modelli nell'Unità Bersaglio ottengono la Regola Speciale Ammantato (5+) per la sola durata della Fase corrente. 37 ABILITÀ PSIONICHE Per utilizzare un'Arma Psionica, un Potere o una Reazione Psionica, un Modello deve possedere il Tratto Psionico. Armi Psioniche Le Armi Psioniche hanno il tratto Psionico, non sono rappresentate da un componente fisico su un Modello e non possono mai essere distrutte o rimosse. Poteri Psionici I Poteri Psionici sono suddivisi in due categorie distinte: Benedizioni e Maledizioni. Le seguenti Regole si applicano a tutti i Poteri Psionici: ● Per ciascuna Unità che includa uno o più Modelli con il Tratto Psionico, nel proprio Turno del Giocatore il Giocatore Controllante non può utilizzare più di un singolo Potere Psionico e, nel Turno del Giocatore Avversario, non più di una Reazione Psionica; ● Se un Modello Lascia un'Unità per la quale è stato utilizzato un Potere Psionico, sia l'Unità originale che quella eventualmente creata dal Modello che la Lascia sono limitate nell'utilizzo di ulteriori Poteri Psionici o Reazioni Psioniche in quel Turno del Giocatore; ● Un Modello o un'Unità che è in Riserva, Imbarcata su un altro Modello o altrimenti non in gioco o sul Campo di Battaglia, non può utilizzare Poteri Psionici o Reazioni Psioniche di alcun tipo; ● Qualsiasi effetto di un Potere Psionico o di una Reazione Psionica in corso viene immediatamente annullato e cessa di avere effetto una volta che il Modello o l'Unità che lo ha utilizzato Lascia il gioco ed entra in Riserva, si imbarca su un altro Modello o viene Rimosso come Perdita. Reazioni Psioniche Le Reazioni Psioniche sono Poteri Psionici che possono essere utilizzati solo come Reazione nel Turno del Giocatore Avversario, seguendo tutte le Regole indicate per i Poteri Psionici e le Regole per le Reazioni. Ogni Giocatore può utilizzare la seguente Reazione Psionica.",
+            "$text": "1.\nIl Giocatore Attivo continua a risolvere normalmente l’eventuale Attacco a Distanza.\n2.\nTutti i Modelli nell’Unità Bersaglio ottengono la Regola Speciale Ammantato (5+) per la sola durata della Fase corrente.",
             "name": "Procedura",
             "typeId": "57cf-1c68-a020-2529"
           }
@@ -77948,7 +77948,7 @@
             "typeId": "954a-972f-5c94-2ede"
           },
           {
-            "$text": "l’Unità il cui Movimento ha attivato la Reazione. L’Unità Reattiva è qualsiasi Unità che include solo Modelli con la Regola Speciale Protocolli di Fuoco Automatici e si trova anche entro 48\" dall’Unità Bersaglio.",
+            "$text": "l’Unità il cui Movimento ha attivato la Reazione.\nL’Unità Reattiva è qualsiasi Unità che include solo Modelli con la Regola Speciale Protocolli di Fuoco Automatici e si trova anche entro 48\" dall’Unità Bersaglio.",
             "name": "Bersaglio",
             "typeId": "e102-8fdd-9cd4-c0f9"
           },
@@ -78533,7 +78533,7 @@
           {
             "characteristics": [
               {
-                "$text": "Durante il Passaggio 1 della sequenza di Attacco a Distanza, Selezionare l'Unità Bersaglio, di qualsiasi Attacco a Distanza effettuato dal Giocatore Attivo.",
+                "$text": "Durante il Passaggio 1 della sequenza di Attacco a Distanza, Selezionare l’Unità Bersaglio, di qualsiasi Attacco a Distanza effettuato dal Giocatore Attivo.",
                 "name": "Innesco",
                 "typeId": "02e4-3f90-3125-f8b4"
               },
@@ -78543,12 +78543,12 @@
                 "typeId": "954a-972f-5c94-2ede"
               },
               {
-                "$text": "L'Unità Bersaglio è sempre l'Unità il cui Attacco a Distanza ha innescato la Reazione. L'Unità Reattiva è sempre l'Unità che era il bersaglio dell'Attacco a Distanza che ha innescato la Reazione.",
+                "$text": "L’Unità Bersaglio è sempre l’Unità il cui Attacco a Distanza ha innescato la Reazione.\nL’Unità Reattiva è sempre l’Unità che era il bersaglio dell’Attacco a Distanza che ha innescato la Reazione.",
                 "name": "Bersaglio",
                 "typeId": "e102-8fdd-9cd4-c0f9"
               },
               {
-                "$text": "1. Il Giocatore Reattivo tira un Dado, e può Muovere ciascun Modello dell'Unità Reattiva fino a una distanza pari al risultato.\n2. Una volta mossa l'Unità Reattiva, tutti i Modelli dell'Unità ottengono la Regola Speciale Ammantato (6+) finché l'Attacco a Distanza che ha innescato questa Reazione non è completamente risolto.",
+                "$text": "1.\nIl Giocatore Reattivo tira un Dado, e può Muovere ciascun Modello dell’Unità Reattiva fino a una distanza pari al risultato.\n2.\nUna volta mossa l’Unità Reattiva, tutti i Modelli dell’Unità ottengono la Regola Speciale Ammantato (6+) finché l’Attacco a Distanza che ha innescato questa Reazione non è completamente risolto.",
                 "name": "Procedura",
                 "typeId": "57cf-1c68-a020-2529"
               }
@@ -78562,7 +78562,7 @@
           {
             "characteristics": [
               {
-                "$text": "Durante il Passaggio 2 della Sottofase di Movimento, quando un'Unità nemica termina il suo Movimento oltre 8\" da un Modello amico dotato della Regola Speciale Fabbro da Battaglia (X).",
+                "$text": "Durante il Passaggio 2 della Sottofase di Movimento, quando un’Unità nemica termina il suo Movimento oltre 8\" da un Modello amico dotato della Regola Speciale Fabbro da Battaglia (X).",
                 "name": "Innesco",
                 "typeId": "02e4-3f90-3125-f8b4"
               },
@@ -78572,12 +78572,12 @@
                 "typeId": "954a-972f-5c94-2ede"
               },
               {
-                "$text": "L'Unità nemica il cui Movimento ha innescato la Reazione. L'Unità Reattiva è un'Unità che includa almeno un Modello con la Regola Speciale Fabbro da Battaglia (X) e che non includa alcun Modello entro 8\" da un Modello nemico.",
+                "$text": "L’Unità nemica il cui Movimento ha innescato la Reazione.\nL’Unità Reattiva è un’Unità che includa almeno un Modello con la Regola Speciale Fabbro da Battaglia (X) e che non includa alcun Modello entro 8\" da un Modello nemico.",
                 "name": "Bersaglio",
                 "typeId": "e102-8fdd-9cd4-c0f9"
               },
               {
-                "$text": "1. Una volta che l'Unità nemica ha terminato il suo Movimento, il Giocatore Reattivo può selezionare un numero di Portali fino al valore di X della Regola Speciale Fabbro da Battaglia (X) di un qualsiasi Modello dell'Unità Reattiva.\n2. Il Giocatore Reattivo deve quindi effettuare una Prova di Intelligenza per ciascun Portale selezionato, nell'ordine da lui scelto, utilizzando la Caratteristica di Intelligenza del Modello selezionato nel Passaggio precedente. Se la Prova ha successo, il Giocatore Reattivo può cambiare lo Stato del Portale selezionato da Aperto a Chiuso, o viceversa, prima di passare al Portale successivo.",
+                "$text": "1.\nUna volta che l’Unità nemica ha terminato il suo Movimento, il Giocatore Reattivo può selezionare un numero di Portali fino al valore di X della Regola Speciale Fabbro da Battaglia (X) di un qualsiasi Modello dell’Unità Reattiva.\n2.\nIl Giocatore Reattivo deve quindi effettuare una Prova di Intelligenza per ciascun Portale selezionato, nell’ordine da lui scelto, utilizzando la Caratteristica di Intelligenza del Modello selezionato nel Passaggio precedente.\nSe la Prova ha successo, il Giocatore Reattivo può cambiare lo Stato del Portale selezionato da Aperto a Chiuso, o viceversa, prima di passare al Portale successivo.",
                 "name": "Procedura",
                 "typeId": "57cf-1c68-a020-2529"
               }

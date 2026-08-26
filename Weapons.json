@@ -295,7 +295,7 @@
                 "typeId": "88c3-1ca5-7dc1-f291"
               },
               {
-                "$text": "Pesante (FP), Surriscaldamento (1)",
+                "$text": "Pesante (PF), Surriscaldamento (1)",
                 "name": "Regole Speciali",
                 "typeId": "5aad-137a-8ee2-63fd"
               },
@@ -1632,7 +1632,7 @@
                 "typeId": "88c3-1ca5-7dc1-f291"
               },
               {
-                "$text": "Termica (6)",
+                "$text": "Termico (6)",
                 "name": "Regole Speciali",
                 "typeId": "5aad-137a-8ee2-63fd"
               },
@@ -1783,7 +1783,7 @@
                 "typeId": "88c3-1ca5-7dc1-f291"
               },
               {
-                "$text": "Pesante (FP)",
+                "$text": "Pesante (PF)",
                 "name": "Regole Speciali",
                 "typeId": "5aad-137a-8ee2-63fd"
               },
@@ -2148,7 +2148,7 @@
                 "typeId": "88c3-1ca5-7dc1-f291"
               },
               {
-                "$text": "Pesante (RS), Area (5\")",
+                "$text": "Pesante (FD), Area (5\")",
                 "name": "Regole Speciali",
                 "typeId": "5aad-137a-8ee2-63fd"
               },
@@ -2158,7 +2158,7 @@
                 "typeId": "1247-79d2-6cc1-8a03"
               }
             ],
-            "name": "Raggio invertitore (Short)",
+            "name": "Raggio invertitore (<15)",
             "typeId": "c591-09ed-3e6f-eb2b",
             "typeName": "Arma a Distanza",
             "hidden": false,
@@ -2192,7 +2192,7 @@
                 "typeId": "88c3-1ca5-7dc1-f291"
               },
               {
-                "$text": "Pesante (RS), Area (5\")",
+                "$text": "Pesante (FD), Area (5\")",
                 "name": "Regole Speciali",
                 "typeId": "5aad-137a-8ee2-63fd"
               },
@@ -2202,7 +2202,7 @@
                 "typeId": "1247-79d2-6cc1-8a03"
               }
             ],
-            "name": "Raggio invertitore (Long)",
+            "name": "Raggio invertitore (15-30)",
             "typeId": "c591-09ed-3e6f-eb2b",
             "typeName": "Arma a Distanza",
             "hidden": false,
@@ -2277,7 +2277,7 @@
                 "typeId": "88c3-1ca5-7dc1-f291"
               },
               {
-                "$text": "Pesante (D), Area (3\"), Perforante (6+), Scossa (Pinned), Inchiodamento (3)",
+                "$text": "Pesante (D), Area (3\"), Perforante (6+), Scossa (Inchiodato), Inchiodamento (3)",
                 "name": "Regole Speciali",
                 "typeId": "5aad-137a-8ee2-63fd"
               },
@@ -2822,7 +2822,7 @@
                 "typeId": "88c3-1ca5-7dc1-f291"
               },
               {
-                "$text": "Pesante (FP), Area (5\"), Bombardamento (2)",
+                "$text": "Pesante (PF), Area (5\"), Bombardamento (2)",
                 "name": "Regole Speciali",
                 "typeId": "5aad-137a-8ee2-63fd"
               },
@@ -3186,7 +3186,7 @@
                 "typeId": "88c3-1ca5-7dc1-f291"
               },
               {
-                "$text": "Pesante (RS), Area (3\")",
+                "$text": "Pesante (FD), Area (3\")",
                 "name": "Regole Speciali",
                 "typeId": "5aad-137a-8ee2-63fd"
               },
@@ -3196,7 +3196,7 @@
                 "typeId": "1247-79d2-6cc1-8a03"
               }
             ],
-            "name": "Raggio convertitore (Long)",
+            "name": "Raggio convertitore (>30-45)",
             "typeId": "c591-09ed-3e6f-eb2b",
             "typeName": "Arma a Distanza",
             "hidden": false,
@@ -3230,7 +3230,7 @@
                 "typeId": "88c3-1ca5-7dc1-f291"
               },
               {
-                "$text": "Pesante (RS), Area (3\")",
+                "$text": "Pesante (FD), Area (3\")",
                 "name": "Regole Speciali",
                 "typeId": "5aad-137a-8ee2-63fd"
               },
@@ -3240,7 +3240,7 @@
                 "typeId": "1247-79d2-6cc1-8a03"
               }
             ],
-            "name": "Raggio convertitore (Short)",
+            "name": "Raggio convertitore (<15)",
             "typeId": "c591-09ed-3e6f-eb2b",
             "typeName": "Arma a Distanza",
             "hidden": false,
@@ -3274,7 +3274,7 @@
                 "typeId": "88c3-1ca5-7dc1-f291"
               },
               {
-                "$text": "Pesante (RS), Area (3\")",
+                "$text": "Pesante (FD), Area (3\")",
                 "name": "Regole Speciali",
                 "typeId": "5aad-137a-8ee2-63fd"
               },
@@ -3284,7 +3284,7 @@
                 "typeId": "1247-79d2-6cc1-8a03"
               }
             ],
-            "name": "Raggio convertitore (Medium)",
+            "name": "Raggio convertitore (15-30)",
             "typeId": "c591-09ed-3e6f-eb2b",
             "typeName": "Arma a Distanza",
             "hidden": false,
@@ -3359,7 +3359,7 @@
                 "typeId": "88c3-1ca5-7dc1-f291"
               },
               {
-                "$text": "Pesante (RS), Area (5\")",
+                "$text": "Pesante (FD), Area (5\")",
                 "name": "Regole Speciali",
                 "typeId": "5aad-137a-8ee2-63fd"
               },
@@ -3369,7 +3369,7 @@
                 "typeId": "1247-79d2-6cc1-8a03"
               }
             ],
-            "name": "Raggio convertitore pesante (Short)",
+            "name": "Raggio convertitore pesante (<15)",
             "typeId": "c591-09ed-3e6f-eb2b",
             "typeName": "Arma a Distanza",
             "hidden": false,
@@ -3403,7 +3403,7 @@
                 "typeId": "88c3-1ca5-7dc1-f291"
               },
               {
-                "$text": "Pesante (RS), Area (5\")",
+                "$text": "Pesante (FD), Area (5\")",
                 "name": "Regole Speciali",
                 "typeId": "5aad-137a-8ee2-63fd"
               },
@@ -3413,7 +3413,7 @@
                 "typeId": "1247-79d2-6cc1-8a03"
               }
             ],
-            "name": "Raggio convertitore pesante (Medium)",
+            "name": "Raggio convertitore pesante (15-30)",
             "typeId": "c591-09ed-3e6f-eb2b",
             "typeName": "Arma a Distanza",
             "hidden": false,
@@ -3447,7 +3447,7 @@
                 "typeId": "88c3-1ca5-7dc1-f291"
               },
               {
-                "$text": "Pesante (RS), Area (5\")",
+                "$text": "Pesante (FD), Area (5\")",
                 "name": "Regole Speciali",
                 "typeId": "5aad-137a-8ee2-63fd"
               },
@@ -3457,7 +3457,7 @@
                 "typeId": "1247-79d2-6cc1-8a03"
               }
             ],
-            "name": "Raggio convertitore pesante (Long)",
+            "name": "Raggio convertitore pesante (>30-45)",
             "typeId": "c591-09ed-3e6f-eb2b",
             "typeName": "Arma a Distanza",
             "hidden": false,
@@ -3532,7 +3532,7 @@
                 "typeId": "88c3-1ca5-7dc1-f291"
               },
               {
-                "$text": "Area (3\"), Perforante (6+), Scossa (Pinned), Inchiodamento (1)",
+                "$text": "Area (3\"), Perforante (6+), Scossa (Inchiodato), Inchiodamento (1)",
                 "name": "Regole Speciali",
                 "typeId": "5aad-137a-8ee2-63fd"
               },
@@ -3647,7 +3647,7 @@
                 "typeId": "88c3-1ca5-7dc1-f291"
               },
               {
-                "$text": "Pesante (D), Area (3\"), Perforante (6+), Scossa (Pinned), Inchiodamento (2)",
+                "$text": "Pesante (D), Area (3\"), Perforante (6+), Scossa (Inchiodato), Inchiodamento (2)",
                 "name": "Regole Speciali",
                 "typeId": "5aad-137a-8ee2-63fd"
               },
@@ -3777,7 +3777,7 @@
                 "typeId": "88c3-1ca5-7dc1-f291"
               },
               {
-                "$text": "Pesante (D), Area (5\"), Bombardamento (1), Perforante (6+), Scossa (Pinned), Inchiodamento (3)",
+                "$text": "Pesante (D), Area (5\"), Bombardamento (1), Perforante (6+), Scossa (Inchiodato), Inchiodamento (3)",
                 "name": "Regole Speciali",
                 "typeId": "5aad-137a-8ee2-63fd"
               },
@@ -3922,7 +3922,7 @@
                 "typeId": "88c3-1ca5-7dc1-f291"
               },
               {
-                "$text": "Pesante (D), Area (5\"), Perforante (6+), Scossa (Pinned), Inchiodamento (2)",
+                "$text": "Pesante (D), Area (5\"), Perforante (6+), Scossa (Inchiodato), Inchiodamento (2)",
                 "name": "Regole Speciali",
                 "typeId": "5aad-137a-8ee2-63fd"
               },
@@ -4576,7 +4576,7 @@
                 "typeId": "88c3-1ca5-7dc1-f291"
               },
               {
-                "$text": "Pesante (RS), Sfondacorazze, Contraereo",
+                "$text": "Pesante (FD), Sfondacorazze, Contraereo",
                 "name": "Regole Speciali",
                 "typeId": "5aad-137a-8ee2-63fd"
               },
@@ -4816,7 +4816,7 @@
                 "typeId": "88c3-1ca5-7dc1-f291"
               },
               {
-                "$text": "Artiglieria (D), Sfondacorazze, Scossa (Suppressed), Surriscaldamento (1)",
+                "$text": "Artiglieria (D), Sfondacorazze, Scossa (Soppresso), Surriscaldamento (1)",
                 "name": "Regole Speciali",
                 "typeId": "5aad-137a-8ee2-63fd"
               },
@@ -4923,7 +4923,7 @@
                 "typeId": "88c3-1ca5-7dc1-f291"
               },
               {
-                "$text": "Sfondacorazze, Scossa (Suppressed), Surriscaldamento (1)",
+                "$text": "Sfondacorazze, Scossa (Soppresso), Surriscaldamento (1)",
                 "name": "Regole Speciali",
                 "typeId": "5aad-137a-8ee2-63fd"
               },
@@ -5015,7 +5015,7 @@
                 "typeId": "88c3-1ca5-7dc1-f291"
               },
               {
-                "$text": "Artiglieria (D), Sfondacorazze, Scossa (Suppressed)",
+                "$text": "Artiglieria (D), Sfondacorazze, Scossa (Soppresso)",
                 "name": "Regole Speciali",
                 "typeId": "5aad-137a-8ee2-63fd"
               },
@@ -5107,7 +5107,7 @@
                 "typeId": "88c3-1ca5-7dc1-f291"
               },
               {
-                "$text": "Artiglieria (D), Sfondacorazze, Scossa (Stunned)",
+                "$text": "Artiglieria (D), Sfondacorazze, Scossa (Stordito)",
                 "name": "Regole Speciali",
                 "typeId": "5aad-137a-8ee2-63fd"
               },
@@ -5276,7 +5276,7 @@
                 "typeId": "88c3-1ca5-7dc1-f291"
               },
               {
-                "$text": "Pesante (RS), Termica (8)",
+                "$text": "Pesante (FD), Termico (8)",
                 "name": "Regole Speciali",
                 "typeId": "5aad-137a-8ee2-63fd"
               },
@@ -5363,7 +5363,7 @@
                 "typeId": "88c3-1ca5-7dc1-f291"
               },
               {
-                "$text": "Pesante (RS), Termica (8)",
+                "$text": "Pesante (FD), Termico (8)",
                 "name": "Regole Speciali",
                 "typeId": "5aad-137a-8ee2-63fd"
               },
@@ -5448,7 +5448,7 @@
                 "typeId": "88c3-1ca5-7dc1-f291"
               },
               {
-                "$text": "Pesante (RS), Termica (8)",
+                "$text": "Pesante (FD), Termico (8)",
                 "name": "Regole Speciali",
                 "typeId": "5aad-137a-8ee2-63fd"
               },
@@ -5533,7 +5533,7 @@
                 "typeId": "88c3-1ca5-7dc1-f291"
               },
               {
-                "$text": "Pesante (RS), Termica (12)",
+                "$text": "Pesante (FD), Termico (12)",
                 "name": "Regole Speciali",
                 "typeId": "5aad-137a-8ee2-63fd"
               },
@@ -5618,7 +5618,7 @@
                 "typeId": "88c3-1ca5-7dc1-f291"
               },
               {
-                "$text": "Pesante (RS), Termica (8)",
+                "$text": "Pesante (FD), Termico (8)",
                 "name": "Regole Speciali",
                 "typeId": "5aad-137a-8ee2-63fd"
               },
@@ -5703,7 +5703,7 @@
                 "typeId": "88c3-1ca5-7dc1-f291"
               },
               {
-                "$text": "Pesante (RS), Area (5\"), Termica (6)",
+                "$text": "Pesante (FD), Area (5\"), Termico (6)",
                 "name": "Regole Speciali",
                 "typeId": "5aad-137a-8ee2-63fd"
               },
@@ -5803,7 +5803,7 @@
                 "typeId": "88c3-1ca5-7dc1-f291"
               },
               {
-                "$text": "Pesante (RS), Area (3\"), Termica (3)",
+                "$text": "Pesante (FD), Area (3\"), Termico (3)",
                 "name": "Regole Speciali",
                 "typeId": "5aad-137a-8ee2-63fd"
               },
@@ -5903,7 +5903,7 @@
                 "typeId": "88c3-1ca5-7dc1-f291"
               },
               {
-                "$text": "Pesante (RS), Termica (24)",
+                "$text": "Pesante (FD), Termico (24)",
                 "name": "Regole Speciali",
                 "typeId": "5aad-137a-8ee2-63fd"
               },
@@ -5988,7 +5988,7 @@
                 "typeId": "88c3-1ca5-7dc1-f291"
               },
               {
-                "$text": "Pesante (RS), Termica (8)",
+                "$text": "Pesante (FD), Termico (8)",
                 "name": "Regole Speciali",
                 "typeId": "5aad-137a-8ee2-63fd"
               },
@@ -6161,7 +6161,7 @@
                 "typeId": "88c3-1ca5-7dc1-f291"
               },
               {
-                "$text": "Pesante (RS), Area (3\")",
+                "$text": "Pesante (FD), Area (3\")",
                 "name": "Regole Speciali",
                 "typeId": "5aad-137a-8ee2-63fd"
               },
@@ -6944,7 +6944,7 @@
                 "typeId": "88c3-1ca5-7dc1-f291"
               },
               {
-                "$text": "Pesante (FP), Area (3\"), Bombardamento (1)",
+                "$text": "Pesante (PF), Area (3\"), Bombardamento (1)",
                 "name": "Regole Speciali",
                 "typeId": "5aad-137a-8ee2-63fd"
               },
@@ -7238,7 +7238,7 @@
                 "typeId": "1247-79d2-6cc1-8a03"
               }
             ],
-            "name": "Lanciamissili Arcus (Arcus)",
+            "name": "Lanciamissili Arcus - Testate Arcus",
             "typeId": "c591-09ed-3e6f-eb2b",
             "typeName": "Arma a Distanza",
             "hidden": false,
@@ -7282,7 +7282,7 @@
                 "typeId": "1247-79d2-6cc1-8a03"
               }
             ],
-            "name": "Lanciamissili Arcus (Skyspear)",
+            "name": "Lanciamissili Arcus - Testate Lancia Celeste",
             "typeId": "c591-09ed-3e6f-eb2b",
             "typeName": "Arma a Distanza",
             "hidden": false,
@@ -7326,7 +7326,7 @@
                 "typeId": "1247-79d2-6cc1-8a03"
               }
             ],
-            "name": "Lanciamissili Arcus (Pyrax)",
+            "name": "Lanciamissili Arcus - Testate Pyrax",
             "typeId": "c591-09ed-3e6f-eb2b",
             "typeName": "Arma a Distanza",
             "hidden": false,
@@ -7360,7 +7360,7 @@
                 "typeId": "88c3-1ca5-7dc1-f291"
               },
               {
-                "$text": "Scossa (Suppressed)",
+                "$text": "Scossa (Soppresso)",
                 "name": "Regole Speciali",
                 "typeId": "5aad-137a-8ee2-63fd"
               },
@@ -7370,7 +7370,7 @@
                 "typeId": "1247-79d2-6cc1-8a03"
               }
             ],
-            "name": "Lanciamissili Arcus (Neutron-flux)",
+            "name": "Lanciamissili Arcus - Testate a flusso neutronico",
             "typeId": "c591-09ed-3e6f-eb2b",
             "typeName": "Arma a Distanza",
             "hidden": false,
@@ -7593,7 +7593,7 @@
                 "typeId": "88c3-1ca5-7dc1-f291"
               },
               {
-                "$text": "Pesante (RS), Area (5\")",
+                "$text": "Pesante (FD), Area (5\")",
                 "name": "Regole Speciali",
                 "typeId": "5aad-137a-8ee2-63fd"
               },
@@ -7708,7 +7708,7 @@
                 "typeId": "88c3-1ca5-7dc1-f291"
               },
               {
-                "$text": "Pesante (FP), Area (3\"), Bombardamento (2), Perforante (5+)",
+                "$text": "Pesante (PF), Area (3\"), Bombardamento (2), Perforante (5+)",
                 "name": "Regole Speciali",
                 "typeId": "5aad-137a-8ee2-63fd"
               },
@@ -8062,7 +8062,7 @@
                 "typeId": "88c3-1ca5-7dc1-f291"
               },
               {
-                "$text": "Pesante (FP), Soppressione (1)",
+                "$text": "Pesante (PF), Soppressione (1)",
                 "name": "Regole Speciali",
                 "typeId": "5aad-137a-8ee2-63fd"
               },
@@ -8149,7 +8149,7 @@
                 "typeId": "88c3-1ca5-7dc1-f291"
               },
               {
-                "$text": "Perforante (6+), Pesante (FP)",
+                "$text": "Perforante (6+), Pesante (PF)",
                 "name": "Regole Speciali",
                 "typeId": "5aad-137a-8ee2-63fd"
               },
@@ -8236,7 +8236,7 @@
                 "typeId": "88c3-1ca5-7dc1-f291"
               },
               {
-                "$text": "Perforante (6+), Pesante (FP)",
+                "$text": "Perforante (6+), Pesante (PF)",
                 "name": "Regole Speciali",
                 "typeId": "5aad-137a-8ee2-63fd"
               },
@@ -8321,7 +8321,7 @@
                 "typeId": "88c3-1ca5-7dc1-f291"
               },
               {
-                "$text": "Perforante (6+), Pesante (FP)",
+                "$text": "Perforante (6+), Pesante (PF)",
                 "name": "Regole Speciali",
                 "typeId": "5aad-137a-8ee2-63fd"
               },
@@ -8406,7 +8406,7 @@
                 "typeId": "88c3-1ca5-7dc1-f291"
               },
               {
-                "$text": "Perforante (6+), Pesante (FP)",
+                "$text": "Perforante (6+), Pesante (PF)",
                 "name": "Regole Speciali",
                 "typeId": "5aad-137a-8ee2-63fd"
               },
@@ -8493,7 +8493,7 @@
                 "typeId": "88c3-1ca5-7dc1-f291"
               },
               {
-                "$text": "Perforante (6+), Pesante (FP)",
+                "$text": "Perforante (6+), Pesante (PF)",
                 "name": "Regole Speciali",
                 "typeId": "5aad-137a-8ee2-63fd"
               },
@@ -8578,7 +8578,7 @@
                 "typeId": "88c3-1ca5-7dc1-f291"
               },
               {
-                "$text": "Perforante (6+), Pesante (FP)",
+                "$text": "Perforante (6+), Pesante (PF)",
                 "name": "Regole Speciali",
                 "typeId": "5aad-137a-8ee2-63fd"
               },
@@ -8663,7 +8663,7 @@
                 "typeId": "88c3-1ca5-7dc1-f291"
               },
               {
-                "$text": "Artiglieria (FP), Soppressione (2)",
+                "$text": "Artiglieria (PF), Soppressione (2)",
                 "name": "Regole Speciali",
                 "typeId": "5aad-137a-8ee2-63fd"
               },
@@ -9298,7 +9298,7 @@
                 "typeId": "88c3-1ca5-7dc1-f291"
               },
               {
-                "$text": "Pesante (FP), Perforante (5+)",
+                "$text": "Pesante (PF), Perforante (5+)",
                 "name": "Regole Speciali",
                 "typeId": "5aad-137a-8ee2-63fd"
               },
@@ -9393,7 +9393,7 @@
                 "typeId": "1247-79d2-6cc1-8a03"
               }
             ],
-            "name": "Cannone da battaglia Kratos (colpi HE)",
+            "name": "Cannone pesante Kratos - Munizioni esplosive",
             "typeId": "c591-09ed-3e6f-eb2b",
             "typeName": "Arma a Distanza",
             "hidden": false,
@@ -9437,7 +9437,7 @@
                 "typeId": "1247-79d2-6cc1-8a03"
               }
             ],
-            "name": "Cannone da battaglia Kratos (colpi AP)",
+            "name": "Cannone pesante Kratos - Munizioni penetranti",
             "typeId": "c591-09ed-3e6f-eb2b",
             "typeName": "Arma a Distanza",
             "hidden": false,
@@ -9599,7 +9599,7 @@
                     "typeId": "1247-79d2-6cc1-8a03"
                   }
                 ],
-                "name": "Cannone pesante Kratos (Munizioni conflagranti)",
+                "name": "Cannone pesante Kratos - Munizioni conflagranti",
                 "typeId": "c591-09ed-3e6f-eb2b",
                 "typeName": "Arma a Distanza",
                 "hidden": false,
@@ -9834,7 +9834,7 @@
                 "typeId": "88c3-1ca5-7dc1-f291"
               },
               {
-                "$text": "Pesante (RS), Perforante (5+), Inchiodamento (1), Precisione (4+)",
+                "$text": "Pesante (FD), Perforante (5+), Inchiodamento (1), Precisione (4+)",
                 "name": "Regole Speciali",
                 "typeId": "5aad-137a-8ee2-63fd"
               },
@@ -10004,7 +10004,7 @@
                 "typeId": "88c3-1ca5-7dc1-f291"
               },
               {
-                "$text": "Pesante (FP)",
+                "$text": "Pesante (PF)",
                 "name": "Regole Speciali",
                 "typeId": "5aad-137a-8ee2-63fd"
               },
@@ -10268,7 +10268,7 @@
                 "typeId": "1247-79d2-6cc1-8a03"
               }
             ],
-            "name": "Lanciafiamme (Secondary)",
+            "name": "Lanciafiamme (Secondaria)",
             "typeId": "c591-09ed-3e6f-eb2b",
             "typeName": "Arma a Distanza",
             "hidden": false,
@@ -10401,7 +10401,7 @@
                 "typeId": "88c3-1ca5-7dc1-f291"
               },
               {
-                "$text": "Termica (6), Limitato (1), Combi",
+                "$text": "Termico (6), Limitato (1), Combi",
                 "name": "Regole Speciali",
                 "typeId": "5aad-137a-8ee2-63fd"
               },
@@ -10411,7 +10411,7 @@
                 "typeId": "1247-79d2-6cc1-8a03"
               }
             ],
-            "name": "Fucile termico (Secondary)",
+            "name": "Fucile termico (Secondaria)",
             "typeId": "c591-09ed-3e6f-eb2b",
             "typeName": "Arma a Distanza",
             "hidden": false,
@@ -10653,7 +10653,7 @@
                 "typeId": "1247-79d2-6cc1-8a03"
               }
             ],
-            "name": "Schioppo volkite (Secondary)",
+            "name": "Schioppo volkite (Secondaria)",
             "typeId": "c591-09ed-3e6f-eb2b",
             "typeName": "Arma a Distanza",
             "hidden": false,
@@ -10774,7 +10774,7 @@
                 "typeId": "1247-79d2-6cc1-8a03"
               }
             ],
-            "name": "Disintegratore (Secondary)",
+            "name": "Disintegratore (Secondaria)",
             "typeId": "c591-09ed-3e6f-eb2b",
             "typeName": "Arma a Distanza",
             "hidden": false,
@@ -10900,7 +10900,7 @@
                 "typeId": "88c3-1ca5-7dc1-f291"
               },
               {
-                "$text": "Area (3\"), Perforante (6+), Scossa (Pinned), Inchiodamento (1), Limitato (1), Combi",
+                "$text": "Area (3\"), Perforante (6+), Scossa (Inchiodato), Inchiodamento (1), Limitato (1), Combi",
                 "name": "Regole Speciali",
                 "typeId": "5aad-137a-8ee2-63fd"
               },
@@ -10910,7 +10910,7 @@
                 "typeId": "1247-79d2-6cc1-8a03"
               }
             ],
-            "name": "Fucile gravitonico (Secondary)",
+            "name": "Fucile gravitonico (Secondaria)",
             "typeId": "c591-09ed-3e6f-eb2b",
             "typeName": "Arma a Distanza",
             "hidden": false,
@@ -11091,7 +11091,7 @@
                 "typeId": "1247-79d2-6cc1-8a03"
               }
             ],
-            "name": "Fucile plasma (Secondary)",
+            "name": "Fucile plasma (Secondaria)",
             "typeId": "c591-09ed-3e6f-eb2b",
             "typeName": "Arma a Distanza",
             "hidden": false,
@@ -11564,7 +11564,7 @@
                 "typeId": "88c3-1ca5-7dc1-f291"
               },
               {
-                "$text": "Avvelenato (2+), Corrosivo (T)",
+                "$text": "Avvelenato (2+), Corrosivo (R)",
                 "name": "Regole Speciali",
                 "typeId": "5aad-137a-8ee2-63fd"
               },
@@ -12036,7 +12036,7 @@
                 "typeId": "88c3-1ca5-7dc1-f291"
               },
               {
-                "$text": "Pesante (FP), Deflagrazione (6)",
+                "$text": "Pesante (PF), Deflagrazione (6)",
                 "name": "Regole Speciali",
                 "typeId": "5aad-137a-8ee2-63fd"
               },
@@ -12121,7 +12121,7 @@
                 "typeId": "88c3-1ca5-7dc1-f291"
               },
               {
-                "$text": "Pesante (FP), Deflagrazione (6)",
+                "$text": "Pesante (PF), Deflagrazione (6)",
                 "name": "Regole Speciali",
                 "typeId": "5aad-137a-8ee2-63fd"
               },
@@ -12208,7 +12208,7 @@
                 "typeId": "88c3-1ca5-7dc1-f291"
               },
               {
-                "$text": "Pesante (FP), Deflagrazione (6)",
+                "$text": "Pesante (PF), Deflagrazione (6)",
                 "name": "Regole Speciali",
                 "typeId": "5aad-137a-8ee2-63fd"
               },
@@ -13188,7 +13188,7 @@
                 "typeId": "88c3-1ca5-7dc1-f291"
               },
               {
-                "$text": "Pesante (RS), Area (3\"), Perforante (5+), Surriscaldamento (2)",
+                "$text": "Pesante (FD), Area (3\"), Perforante (5+), Surriscaldamento (2)",
                 "name": "Regole Speciali",
                 "typeId": "5aad-137a-8ee2-63fd"
               },
@@ -13232,7 +13232,7 @@
                 "typeId": "88c3-1ca5-7dc1-f291"
               },
               {
-                "$text": "Pesante (RS), Area (3\"), Perforante (6+)",
+                "$text": "Pesante (FD), Area (3\"), Perforante (6+)",
                 "name": "Regole Speciali",
                 "typeId": "5aad-137a-8ee2-63fd"
               },
@@ -13363,7 +13363,7 @@
                 "typeId": "88c3-1ca5-7dc1-f291"
               },
               {
-                "$text": "Pesante (RS), Area (5\"), Perforante (5+), Surriscaldamento (1)",
+                "$text": "Pesante (FD), Area (5\"), Perforante (5+), Surriscaldamento (1)",
                 "name": "Regole Speciali",
                 "typeId": "5aad-137a-8ee2-63fd"
               },
@@ -13407,7 +13407,7 @@
                 "typeId": "88c3-1ca5-7dc1-f291"
               },
               {
-                "$text": "Pesante (RS), Area (5\"), Perforante (6+)",
+                "$text": "Pesante (FD), Area (5\"), Perforante (6+)",
                 "name": "Regole Speciali",
                 "typeId": "5aad-137a-8ee2-63fd"
               },
@@ -13697,7 +13697,7 @@
                 "typeId": "88c3-1ca5-7dc1-f291"
               },
               {
-                "$text": "Pesante (RS), Perforante (5+)",
+                "$text": "Pesante (FD), Perforante (5+)",
                 "name": "Regole Speciali",
                 "typeId": "5aad-137a-8ee2-63fd"
               },
@@ -13741,7 +13741,7 @@
                 "typeId": "88c3-1ca5-7dc1-f291"
               },
               {
-                "$text": "Pesante (RS), Area (5\"), Perforante (4+), Surriscaldamento (1)",
+                "$text": "Pesante (FD), Area (5\"), Perforante (4+), Surriscaldamento (1)",
                 "name": "Regole Speciali",
                 "typeId": "5aad-137a-8ee2-63fd"
               },
@@ -16030,7 +16030,7 @@
                 "typeId": "6a9d-4feb-065a-33e7"
               },
               {
-                "$text": "Scossa (Pinning, Stunned, Suppressed)",
+                "$text": "Scossa (Inchiodato, Stordito, Soppresso)",
                 "name": "Regole Speciali",
                 "typeId": "ebe0-7b28-b40c-694e"
               },
@@ -16100,7 +16100,7 @@
                 "typeId": "6a9d-4feb-065a-33e7"
               },
               {
-                "$text": "Impatto (IM), Dilaniante (6+), Perforante (6+)",
+                "$text": "Impatto (MI), Dilaniante (6+), Perforante (6+)",
                 "name": "Regole Speciali",
                 "typeId": "ebe0-7b28-b40c-694e"
               },
@@ -16197,7 +16197,7 @@
                 "typeId": "6a9d-4feb-065a-33e7"
               },
               {
-                "$text": "Impatto (IM), Dilaniante (6+), Perforante (6+)",
+                "$text": "Impatto (MI), Dilaniante (6+), Perforante (6+)",
                 "name": "Regole Speciali",
                 "typeId": "ebe0-7b28-b40c-694e"
               },
@@ -16294,7 +16294,7 @@
                 "typeId": "88c3-1ca5-7dc1-f291"
               },
               {
-                "$text": "Pistola, Termica (3)",
+                "$text": "Pistola, Termico (3)",
                 "name": "Regole Speciali",
                 "typeId": "5aad-137a-8ee2-63fd"
               },
@@ -16370,7 +16370,7 @@
                 "typeId": "6a9d-4feb-065a-33e7"
               },
               {
-                "$text": "Perforante (6+), Infiammato (1)",
+                "$text": "Perforante (6+), Infuocato (1)",
                 "name": "Regole Speciali",
                 "typeId": "ebe0-7b28-b40c-694e"
               },
@@ -16453,7 +16453,7 @@
                 "typeId": "6a9d-4feb-065a-33e7"
               },
               {
-                "$text": "Perforante (5+), Infiammato (1)",
+                "$text": "Perforante (5+), Infuocato (1)",
                 "name": "Regole Speciali",
                 "typeId": "ebe0-7b28-b40c-694e"
               },
@@ -16536,7 +16536,7 @@
                 "typeId": "6a9d-4feb-065a-33e7"
               },
               {
-                "$text": "Perforante (6+), Infiammato (1)",
+                "$text": "Perforante (6+), Infuocato (1)",
                 "name": "Regole Speciali",
                 "typeId": "ebe0-7b28-b40c-694e"
               },
@@ -16619,7 +16619,7 @@
                 "typeId": "6a9d-4feb-065a-33e7"
               },
               {
-                "$text": "Precisione (6+), Infiammato (1)",
+                "$text": "Precisione (6+), Infuocato (1)",
                 "name": "Regole Speciali",
                 "typeId": "ebe0-7b28-b40c-694e"
               },
@@ -16703,7 +16703,7 @@
                 "typeId": "88c3-1ca5-7dc1-f291"
               },
               {
-                "$text": "Pesante (FP), Perforante (6+)",
+                "$text": "Pesante (PF), Perforante (6+)",
                 "name": "Regole Speciali",
                 "typeId": "5aad-137a-8ee2-63fd"
               },
@@ -16765,7 +16765,7 @@
                 "typeId": "88c3-1ca5-7dc1-f291"
               },
               {
-                "$text": "Pesante (FP), Perforante (6+), Surriscaldamento (1)",
+                "$text": "Pesante (PF), Perforante (6+), Surriscaldamento (1)",
                 "name": "Regole Speciali",
                 "typeId": "5aad-137a-8ee2-63fd"
               },
@@ -16793,7 +16793,7 @@
                 "field": "5aad-137a-8ee2-63fd"
               }
             ],
-            "name": "Cannone d’assalto Iliastus - Fuoco massimale",
+            "name": "Cannone d’assalto Iliastus - Fuoco massiccio",
             "typeId": "c591-09ed-3e6f-eb2b",
             "typeName": "Arma a Distanza",
             "hidden": false,
@@ -16880,7 +16880,7 @@
                 "typeId": "88c3-1ca5-7dc1-f291"
               },
               {
-                "$text": "Pesante (FP), Perforante (6+)",
+                "$text": "Pesante (PF), Perforante (6+)",
                 "name": "Regole Speciali",
                 "typeId": "5aad-137a-8ee2-63fd"
               },
@@ -16924,7 +16924,7 @@
                 "typeId": "88c3-1ca5-7dc1-f291"
               },
               {
-                "$text": "Pesante (FP), Perforante (6+), Surriscaldamento (1)",
+                "$text": "Pesante (PF), Perforante (6+), Surriscaldamento (1)",
                 "name": "Regole Speciali",
                 "typeId": "5aad-137a-8ee2-63fd"
               },
@@ -16934,7 +16934,7 @@
                 "typeId": "1247-79d2-6cc1-8a03"
               }
             ],
-            "name": "A.C. Iliastus binato - Fuoco massimale",
+            "name": "A.C. Iliastus binato - Fuoco massiccio",
             "typeId": "c591-09ed-3e6f-eb2b",
             "typeName": "Arma a Distanza",
             "hidden": false,
@@ -17201,7 +17201,7 @@
                 "typeId": "1247-79d2-6cc1-8a03"
               }
             ],
-            "name": "Venom Sphere",
+            "name": "Sfere Venefiche",
             "typeId": "c591-09ed-3e6f-eb2b",
             "typeName": "Arma a Distanza",
             "hidden": false,
@@ -17242,7 +17242,7 @@
         ],
         "type": "upgrade",
         "import": true,
-        "name": "Venom Sphere",
+        "name": "Sfere Venefiche",
         "hidden": false,
         "id": "81e7-7cd6-752a-09a5"
       },
@@ -18081,7 +18081,7 @@
                 "typeId": "88c3-1ca5-7dc1-f291"
               },
               {
-                "$text": "Termica (6)",
+                "$text": "Termico (6)",
                 "name": "Regole Speciali",
                 "typeId": "5aad-137a-8ee2-63fd"
               },
@@ -18235,7 +18235,7 @@
                 "typeId": "6a9d-4feb-065a-33e7"
               },
               {
-                "$text": "Sfondacorazze, Scossa (Pinned)",
+                "$text": "Sfondacorazze, Scossa (Inchiodato)",
                 "name": "Regole Speciali",
                 "typeId": "ebe0-7b28-b40c-694e"
               },
@@ -19226,7 +19226,7 @@
                 "typeId": "6a9d-4feb-065a-33e7"
               },
               {
-                "$text": "Impatto (AP), Perforante (5+)",
+                "$text": "Impatto (VP), Perforante (5+)",
                 "name": "Regole Speciali",
                 "typeId": "ebe0-7b28-b40c-694e"
               },
@@ -19718,7 +19718,7 @@
                 "typeId": "88c3-1ca5-7dc1-f291"
               },
               {
-                "$text": "Pistola, Perforante (6+), Scossa (Pinned), Inchiodamento (1)",
+                "$text": "Pistola, Perforante (6+), Scossa (Inchiodato), Inchiodamento (1)",
                 "name": "Regole Speciali",
                 "typeId": "5aad-137a-8ee2-63fd"
               },
@@ -20095,7 +20095,7 @@
                 "typeId": "6a9d-4feb-065a-33e7"
               },
               {
-                "$text": "Sfondacorazze, Scossa (Pinned)",
+                "$text": "Sfondacorazze, Scossa (Inchiodato)",
                 "name": "Regole Speciali",
                 "typeId": "ebe0-7b28-b40c-694e"
               },
@@ -20402,7 +20402,7 @@
                 "typeId": "88c3-1ca5-7dc1-f291"
               },
               {
-                "$text": "Perforante (6+), Scossa (Pinned), Inchiodamento (1)",
+                "$text": "Perforante (6+), Scossa (Inchiodato), Inchiodamento (1)",
                 "name": "Regole Speciali",
                 "typeId": "5aad-137a-8ee2-63fd"
               },
@@ -20656,7 +20656,7 @@
                 "typeId": "1247-79d2-6cc1-8a03"
               }
             ],
-            "name": "Lanciafiamme alchemico (Secondary)",
+            "name": "Lanciafiamme alchemico (Secondaria)",
             "typeId": "c591-09ed-3e6f-eb2b",
             "typeName": "Arma a Distanza",
             "hidden": false,
@@ -21247,7 +21247,7 @@
                 "typeId": "88c3-1ca5-7dc1-f291"
               },
               {
-                "$text": "Pesante (RS), Area (3\"), Perforante (5+), Lacerante (6+)",
+                "$text": "Pesante (FD), Area (3\"), Perforante (5+), Lacerante (6+)",
                 "name": "Regole Speciali",
                 "typeId": "5aad-137a-8ee2-63fd"
               },
@@ -21358,7 +21358,7 @@
                 "typeId": "6a9d-4feb-065a-33e7"
               },
               {
-                "$text": "Perforante (6+), Corrosivo (S)",
+                "$text": "Perforante (6+), Corrosivo (Fo)",
                 "name": "Regole Speciali",
                 "typeId": "ebe0-7b28-b40c-694e"
               },
@@ -21533,7 +21533,7 @@
                 "typeId": "88c3-1ca5-7dc1-f291"
               },
               {
-                "$text": "Pesante (FP), Soppressione (1)",
+                "$text": "Pesante (PF), Soppressione (1)",
                 "name": "Regole Speciali",
                 "typeId": "5aad-137a-8ee2-63fd"
               },
@@ -21543,7 +21543,7 @@
                 "typeId": "1247-79d2-6cc1-8a03"
               }
             ],
-            "name": "Cannone rotante Obsidite (Slug rounds)",
+            "name": "Cannone rotante Obsidite - Proiettili Fermauomo",
             "typeId": "c591-09ed-3e6f-eb2b",
             "typeName": "Arma a Distanza",
             "hidden": false,
@@ -21577,7 +21577,7 @@
                 "typeId": "88c3-1ca5-7dc1-f291"
               },
               {
-                "$text": "Pesante (FP), Surriscaldamento (1), Perforante (6+), Colpo Critico (6+)",
+                "$text": "Pesante (PF), Surriscaldamento (1), Perforante (6+), Colpo Critico (6+)",
                 "name": "Regole Speciali",
                 "typeId": "5aad-137a-8ee2-63fd"
               },
@@ -21587,7 +21587,7 @@
                 "typeId": "1247-79d2-6cc1-8a03"
               }
             ],
-            "name": "Cannone rotante Obsidite (Obsidite rounds)",
+            "name": "Cannone rotante Obsidite - Proiettili Obsidite",
             "typeId": "c591-09ed-3e6f-eb2b",
             "typeName": "Arma a Distanza",
             "hidden": false,
@@ -21794,7 +21794,7 @@
                 "typeId": "88c3-1ca5-7dc1-f291"
               },
               {
-                "$text": "Artiglieria (RS), Area (5\"), Bombardamento (2), Perforante (6+), Inchiodamento (1)",
+                "$text": "Artiglieria (FD), Area (5\"), Bombardamento (2), Perforante (6+), Inchiodamento (1)",
                 "name": "Regole Speciali",
                 "typeId": "5aad-137a-8ee2-63fd"
               },
@@ -21975,7 +21975,7 @@
                 "typeId": "88c3-1ca5-7dc1-f291"
               },
               {
-                "$text": "Artiglieria (RS), Area (5\"), Bombardamento (2), Perforante (5+), Inchiodamento (2)",
+                "$text": "Artiglieria (FD), Area (5\"), Bombardamento (2), Perforante (5+), Inchiodamento (2)",
                 "name": "Regole Speciali",
                 "typeId": "5aad-137a-8ee2-63fd"
               },
@@ -22156,7 +22156,7 @@
                 "typeId": "88c3-1ca5-7dc1-f291"
               },
               {
-                "$text": "Pesante (FP), Perforante (6+)",
+                "$text": "Pesante (PF), Perforante (6+)",
                 "name": "Regole Speciali",
                 "typeId": "5aad-137a-8ee2-63fd"
               },
@@ -22241,7 +22241,7 @@
                 "typeId": "88c3-1ca5-7dc1-f291"
               },
               {
-                "$text": "Avvelenato (2+), Corrosivo (T)",
+                "$text": "Avvelenato (2+), Corrosivo (R)",
                 "name": "Regole Speciali",
                 "typeId": "5aad-137a-8ee2-63fd"
               },
@@ -22326,7 +22326,7 @@
                 "typeId": "88c3-1ca5-7dc1-f291"
               },
               {
-                "$text": "Pesante (RS), Area (5\")",
+                "$text": "Pesante (FD), Area (5\")",
                 "name": "Regole Speciali",
                 "typeId": "5aad-137a-8ee2-63fd"
               },
@@ -22547,7 +22547,7 @@
                 "typeId": "6a9d-4feb-065a-33e7"
               },
               {
-                "$text": "Scossa (Pinned)",
+                "$text": "Scossa (Inchiodato)",
                 "name": "Regole Speciali",
                 "typeId": "ebe0-7b28-b40c-694e"
               },
@@ -23387,7 +23387,7 @@
                 "typeId": "1247-79d2-6cc1-8a03"
               }
             ],
-            "name": "Fucile automatico recuperato ",
+            "name": "Fucile automatico recuperato",
             "typeId": "c591-09ed-3e6f-eb2b",
             "typeName": "Arma a Distanza",
             "hidden": false,
@@ -23405,7 +23405,7 @@
         ],
         "type": "upgrade",
         "import": true,
-        "name": "Fucile automatico recuperato ",
+        "name": "Fucile automatico recuperato",
         "hidden": false,
         "id": "01ff-112d-a051-0a4b"
       },
@@ -24156,7 +24156,7 @@
                     "typeId": "6a9d-4feb-065a-33e7"
                   },
                   {
-                    "$text": "Impatto (IM)",
+                    "$text": "Impatto (MI)",
                     "name": "Regole Speciali",
                     "typeId": "ebe0-7b28-b40c-694e"
                   },
@@ -24609,7 +24609,7 @@
                     "typeId": "6a9d-4feb-065a-33e7"
                   },
                   {
-                    "$text": "Colpo Critico (6+), Corrosivo (S)",
+                    "$text": "Colpo Critico (6+), Corrosivo (Fo)",
                     "name": "Regole Speciali",
                     "typeId": "ebe0-7b28-b40c-694e"
                   },

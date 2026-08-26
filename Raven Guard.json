@@ -92,7 +92,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "se di Tiro in corso e il Giocatore Attivo può passare alla Fase 2 della sequenza di Attacco in Tiro.\nDistaccamenti Addizionali\nCorpo di Decapitazione\nDistaccamento Ausiliario\n2 Riquadri Reparti Speciali;\n2 Riquadri Ricognizione.\nI Riquadri Ricognizione in questo Distaccamento possono essere utilizzati solo per selezionare Unità di Squadra da Ricognizione.\nI Riquadri Reparti Speciali in questo Distaccamento possono essere utilizzati solo per selezionare Unità di Squadra Assaltatrice Veterana o di Squadra di Furie Oscure.\n\n \n \nRegole Speciali\nIl Signore Ammantato\nMentre un Modello con questa Regola Speciale è Ingaggiato in una Sfida, il suo Giocatore Controllante Gambetto: Il Signore Ammantato: Il Giocatore Controllante deve selezionare Talionis all’inizio della Fase Concentrazione e ignora qualsiasi modificatore negativo al Tiro Concentrazione per avere una Caratteristica Ferite Attuali inferiore alla sua Caratteristica Ferite Base. Inoltre, se il Giocatore che ha selezionato questo Gambetto è il Giocatore Attivo e ha messo a segno almeno un Colpo con Talionis sull’avversario durante il Passaggio di Attacco, può scegliere di passare alla Fase Gloria dopo che entrambi i Giocatori hanno risolto la Fase 4 del Passaggio di Attacco corrente, anche se non ha il Vantaggio. Sire della Guardia del Corvo Se quattro o più Riquadri Truppe nel Distaccamento Principale sono occupati da Unità di Squadre Tattiche e/o Squadra Assaltatrice, allora tutti i Riquadri Truppe nel Distaccamento Principale sono considerati Riquadri Primari. Inoltre, fino alla fine del primo Turno di Battaglia, tutti i Modelli di questo Esercito con il Tipo Fanteria e il Tratto Guardia del Corvo hanno la Regola Speciale Movimento in Copertura.",
+                    "$text": "Mentre un Modello con questa Regola Speciale è Ingaggiato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Il Signore Ammantato: Il Giocatore Controllante deve selezionare Talionis all’inizio della Fase Concentrazione e ignora qualsiasi modificatore negativo al Tiro Concentrazione per avere una Caratteristica Ferite Attuali inferiore alla sua Caratteristica Ferite Base.\nInoltre, se il Giocatore che ha selezionato questo Gambetto è il Giocatore Attivo e ha messo a segno almeno un Colpo con Talionis sull’avversario durante il Passaggio di Attacco, può scegliere di passare alla Fase Gloria dopo che entrambi i Giocatori hanno risolto la Fase 4 del Passaggio di Attacco corrente, anche se non ha il Vantaggio.",
                     "name": "Descrizione",
                     "typeId": "2d7d-b1d9-dead-605a"
                   }
@@ -812,7 +812,7 @@
                         "typeId": "88c3-1ca5-7dc1-f291"
                       },
                       {
-                        "$text": "Pesante (FP), Perforante (6+), Stordimento (0)",
+                        "$text": "Pesante (PF), Perforante (6+), Stordimento (0)",
                         "name": "Regole Speciali",
                         "typeId": "5aad-137a-8ee2-63fd"
                       },
@@ -3634,7 +3634,7 @@
                     "field": "830f-ae90-2aeb-2f55"
                   }
                 ],
-                "name": "Può sostituire Arma potenziata con: ",
+                "name": "Può sostituire Arma potenziata con:",
                 "id": "2b1f-2b4d-4987-92f9",
                 "sortIndex": 2
               },
@@ -3794,7 +3794,7 @@
                     "field": "7284-a4e7-48f9-9449"
                   }
                 ],
-                "name": "Può sostituire Combirequiem con: ",
+                "name": "Può sostituire Combirequiem con:",
                 "id": "b63d-c43f-4979-a3b0",
                 "sortIndex": 1,
                 "defaultSelectionEntryId": "1332-d41c-44cf-b702"
@@ -3827,7 +3827,7 @@
                     "targetId": "ab57-e7ca-3fc7-b256"
                   }
                 ],
-                "name": "Può sostituire Combirequiem e Arma potenziata con: ",
+                "name": "Può sostituire Combirequiem e Arma potenziata con:",
                 "id": "2e46-879f-4bcd-a02b",
                 "sortIndex": 3
               },
@@ -4331,7 +4331,7 @@
                     "field": "92f1-2e25-0d90-a0a7"
                   }
                 ],
-                "name": "Può sostituire Arma potenziata con: ",
+                "name": "Può sostituire Arma potenziata con:",
                 "id": "bcc0-f431-429a-9e59",
                 "sortIndex": 2
               },
@@ -4427,7 +4427,7 @@
                     "field": "1658-62cf-499e-a177"
                   }
                 ],
-                "name": "Può sostituire Combirequiem con: ",
+                "name": "Può sostituire Combirequiem con:",
                 "id": "b10a-4dc5-4e0d-b5ce",
                 "sortIndex": 1,
                 "defaultSelectionEntryId": "c38a-8234-4c29-9ef6"
@@ -4460,7 +4460,7 @@
                     "targetId": "ab57-e7ca-3fc7-b256"
                   }
                 ],
-                "name": "Può sostituire Combirequiem e Arma potenziata con: ",
+                "name": "Può sostituire Combirequiem e Arma potenziata con:",
                 "id": "31f3-e5f0-4ab9-9e4a"
               }
             ],
@@ -4985,7 +4985,7 @@
                     "includeChildSelections": true
                   }
                 ],
-                "name": "Un inductii in questa Unità può avere: ",
+                "name": "Un inductii in questa Unità può avere:",
                 "id": "2de5-a5da-40b3-af12",
                 "sortIndex": 6
               },
@@ -5346,7 +5346,7 @@
       {
         "characteristics": [
           {
-            "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il Giocatore Controllante può selezionare il seguente Gambetto: Colpo Decapitante: questo Gambetto può essere selezionato una volta per Sfida. Non viene effettuato alcun Tiro Concentrazione, ma il Giocatore Controllante del Modello per cui è stato selezionato questo Gambetto effettua un singolo attacco alla fine del Passaggio di Concentrazione. Se il Tiro per Colpire e Tiro per Ferire effettuati per questo attacco hanno entrambi successo, il Giocatore Controllante del Modello con questo Gambetto può quindi effettuare i restanti attacchi che il Modello è idoneo a effettuare nel Passaggio di Attacco corrente, meno il singolo attacco già effettuato. Se il Tiro per Colpire o il Tiro per Ferire effettuati per l’attacco iniziale non hanno successo, il Modello per cui è stato selezionato questo Gambetto non può effettuare ulteriori attacchi durante questo Passaggio di Attacco.",
+            "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il Giocatore Controllante può selezionare il seguente Gambetto: Colpo Decapitante: questo Gambetto può essere selezionato una volta per Sfida.\nNon viene effettuato alcun Tiro Concentrazione, ma il Giocatore Controllante del Modello per cui è stato selezionato questo Gambetto effettua un singolo attacco alla fine del Passaggio di Concentrazione.\nSe il Tiro per Colpire e Tiro per Ferire effettuati per questo attacco hanno entrambi successo, il Giocatore Controllante del Modello con questo Gambetto può quindi effettuare i restanti attacchi che il Modello è idoneo a effettuare nel Passaggio di Attacco corrente, meno il singolo attacco già effettuato.\nSe il Tiro per Colpire o il Tiro per Ferire effettuati per l’attacco iniziale non hanno successo, il Modello per cui è stato selezionato questo Gambetto non può effettuare ulteriori attacchi durante questo Passaggio di Attacco.",
             "name": "Descrizione",
             "typeId": "2d7d-b1d9-dead-605a"
           }
@@ -5402,7 +5402,7 @@
                   {
                     "characteristics": [
                       {
-                        "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il Giocatore Controllante può selezionare il seguente Gambetto: Colpo Decapitante: questo Gambetto può essere selezionato una volta per Sfida. Non viene effettuato alcun Tiro Concentrazione, ma il Giocatore Controllante del Modello per cui è stato selezionato questo Gambetto effettua un singolo attacco alla fine del Passaggio di Concentrazione. Se il Tiro per Colpire e Tiro per Ferire effettuati per questo attacco hanno entrambi successo, il Giocatore Controllante del Modello con questo Gambetto può quindi effettuare i restanti attacchi che il Modello è idoneo a effettuare nel Passaggio di Attacco corrente, meno il singolo attacco già effettuato. Se il Tiro per Colpire o il Tiro per Ferire effettuati per l’attacco iniziale non hanno successo, il Modello per cui è stato selezionato questo Gambetto non può effettuare ulteriori attacchi durante questo Passaggio di Attacco.",
+                        "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il Giocatore Controllante può selezionare il seguente Gambetto: Colpo Decapitante: questo Gambetto può essere selezionato una volta per Sfida.\nNon viene effettuato alcun Tiro Concentrazione, ma il Giocatore Controllante del Modello per cui è stato selezionato questo Gambetto effettua un singolo attacco alla fine del Passaggio di Concentrazione.\nSe il Tiro per Colpire e Tiro per Ferire effettuati per questo attacco hanno entrambi successo, il Giocatore Controllante del Modello con questo Gambetto può quindi effettuare i restanti attacchi che il Modello è idoneo a effettuare nel Passaggio di Attacco corrente, meno il singolo attacco già effettuato.\nSe il Tiro per Colpire o il Tiro per Ferire effettuati per l’attacco iniziale non hanno successo, il Modello per cui è stato selezionato questo Gambetto non può effettuare ulteriori attacchi durante questo Passaggio di Attacco.",
                         "name": "Descrizione",
                         "typeId": "2d7d-b1d9-dead-605a"
                       }
@@ -5459,7 +5459,7 @@
                         "typeId": "e102-8fdd-9cd4-c0f9"
                       },
                       {
-                        "$text": "Tutti i Modelli dell’Unità Reattiva possono essere mossi di una distanza pari alla loro Caratteristica di Iniziativa usando le normali Regole di Movimento. Se nessun Modello dell’Unità Bersaglio viene determinato essere entro la Linea di Vista e/o la Gittata di un Modello dell’Unità Attaccante una volta risolto questo movimento, il Giocatore Attivo non può selezionare un bersaglio alternativo per quell’Unità Attaccante durante la Fase di Tiro in corso. Una volta che il Giocatore che Reagisce ha risolto questo Movimento, tutti i Modelli dell’Unità Reattiva ottengono la Regola Speciale Ammantato (5+) per il resto della Fase di Tiro in corso e il Giocatore Attivo può passare alla Fase 2 della sequenza di Attacco in Tiro.",
+                        "$text": "Tutti i Modelli dell’Unità Reattiva possono essere mossi di una distanza pari alla loro Caratteristica di Iniziativa usando le normali Regole di Movimento.\nSe nessun Modello dell’Unità Bersaglio viene determinato essere entro la Linea di Vista e/o la Gittata di un Modello dell’Unità Attaccante una volta risolto questo movimento, il Giocatore Attivo non può selezionare un bersaglio alternativo per quell’Unità Attaccante durante la Fase di Tiro in corso.\nUna volta che il Giocatore che Reagisce ha risolto questo Movimento, tutti i Modelli dell’Unità Reattiva ottengono la Regola Speciale Ammantato (5+) per il resto della Fase di Tiro in corso e il Giocatore Attivo può passare alla Fase 2 della sequenza di Attacco in Tiro.",
                         "name": "Procedura",
                         "typeId": "57cf-1c68-a020-2529"
                       }

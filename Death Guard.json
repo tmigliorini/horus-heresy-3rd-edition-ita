@@ -723,7 +723,7 @@
           {
             "characteristics": [
               {
-                "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Resilienza Tenace: la Caratteristica Resistenza del Modello per cui è stato selezionato questo Gambetto viene sostituita dall’Abilità di Combattimento di Base del Modello avversario per la durata del successivo Passaggio di Attacco. Reazione Avanzata Resistenza Barbarana Attivazione: una volta per battaglia, durante il passaggio 4 di qualsiasi Attacco a Distanza dichiarato dal Giocatore Attivo durante la fase di tiro che prende di mira un’Unità che includa solo modelli con il Tratto Guardia della Morte che non abbiano il tipo Veicolo. Costo: 1 Punto Reazione. Bersaglio: l’Unità il cui Attacco a Distanza ha attivato la Reazione. L’Unità Reattiva è l’Unità dichiarata come bersaglio dell’Attacco a Distanza che ha attivato questa Reazione. Procedura: Tutti i Modelli dell’Unità Reattiva si riprendono immediatamente da qualsiasi Stato Tattico. Per tutta la durata della Fase di Tiro in corso, tutti i Modelli dell’Unità Reattiva ottengono la Regola Speciale “Insensibile al Dolore” (5+). Per tutta la durata della Fase di Tiro in corso, il Giocatore che Reagisce supera automaticamente tutte le Prove di Coraggio o di Disciplina effettuate per l’Unità Reattiva. Distaccamenti Addizionali Schiera Mietitrice Distaccamento Ausiliario 1 Riquadro Truppe (Primario); 1 Riquadro Assalto Pesante; 1 Riquadro Truppe; 1 Riquadro Supporto. I Riquadri Truppe in questo Distaccamento non possono essere utilizzati per selezionare Unità di Squadra Assaltatrice.",
+                "$text": "Mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Resilienza Tenace: la Caratteristica Resistenza del Modello per cui è stato selezionato questo Gambetto viene sostituita dall’Abilità di Combattimento di Base del Modello avversario per la durata del successivo Passaggio di Attacco.",
                 "name": "Descrizione",
                 "typeId": "2d7d-b1d9-dead-605a"
               }
@@ -1147,7 +1147,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "alla fine del primo Turno di Battaglia, ogni volta che il Giocatore Controllante effettua un Attacco a Distanza per un’Unità che includa solo Modelli con il Tratto Guardia della Morte, se un Gruppo di Fuoco ha una Caratteristica Potenza di Fuoco totale di 11 o più, gli Attacchi effettuati da quel Gruppo di Fuoco hanno la Regola Speciale Inchiodamento (0).\n \n \nRegole Speciali\nSangue Stregato\nQuando fa parte di un’Armata che non include Mortarion, un Modello con questa Regola Speciale ha la Disciplina Biomanzia.\nInoltre, una volta per Battaglia, mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante Gambetto: Sangue Stregato: All’inizio del Passaggio di Concentrazione, il Giocatore Controllante può effettuare una Prova di Volontà per questo Modello. Se la Prova ha successo, questo Modello ottiene un modificatore di +2 alle Caratteristiche di Attacchi e Forza nel Passaggio di Attacco successivo. Se la Prova fallisce, questo Modello subisce 1 ferita, con VP di 2 e Danno di 1, senza Tiri Copertura concessi.",
+                    "$text": "Quando fa parte di un’Armata che non include Mortarion, un Modello con questa Regola Speciale ha la Disciplina Biomanzia.\nInoltre, una volta per Battaglia, mentre un Modello con questa Regola Speciale è impegnato in una Sfida, il suo Giocatore Controllante può selezionare il seguente Gambetto: Sangue Stregato: All’inizio del Passaggio di Concentrazione, il Giocatore Controllante può effettuare una Prova di Volontà per questo Modello.\nSe la Prova ha successo, questo Modello ottiene un modificatore di +2 alle Caratteristiche di Attacchi e Forza nel Passaggio di Attacco successivo.\nSe la Prova fallisce, questo Modello subisce 1 ferita, con VP di 2 e Danno di 1, senza Tiri Copertura concessi.",
                     "name": "Descrizione",
                     "typeId": "2d7d-b1d9-dead-605a"
                   }
@@ -3165,7 +3165,7 @@
                     "field": "34a0-824b-82c4-0a21"
                   }
                 ],
-                "name": "Per ogni cinque Modelli in questa Unità,  Un Avvelenatore Mortus può sostituire Fucile requiem con: ",
+                "name": "Per ogni cinque Modelli in questa Unità,  Un Avvelenatore Mortus può sostituire Fucile requiem con:",
                 "id": "0991-204f-4383-b639",
                 "sortIndex": 5
               },
@@ -3207,7 +3207,7 @@
                     "includeChildSelections": true
                   }
                 ],
-                "name": "Un Avvelenatore Mortus in questa Unità può avere: ",
+                "name": "Un Avvelenatore Mortus in questa Unità può avere:",
                 "id": "c411-624b-4633-b595"
               },
               {
@@ -3331,7 +3331,7 @@
                     "field": "1c2f-eda0-e09d-08c0"
                   }
                 ],
-                "name": "Può sostituire Fucile requiem con: ",
+                "name": "Può sostituire Fucile requiem con:",
                 "id": "2d7d-e6f0-f300-512a",
                 "hidden": false,
                 "defaultSelectionEntryId": "a4d6-9b17-4a67-cb9c",
@@ -3965,7 +3965,7 @@
                     "id": "efe2-9780-4061-b87c"
                   }
                 ],
-                "name": "Può sostituire Fucile requiem con: ",
+                "name": "Può sostituire Fucile requiem con:",
                 "id": "53c3-dc56-4a70-98cc",
                 "sortIndex": 1,
                 "defaultSelectionEntryId": "555a-4a1f-4bfa-ae64"
@@ -4463,7 +4463,7 @@
                     "includeChildSelections": true
                   }
                 ],
-                "name": "Un inductii in questa Unità può avere: ",
+                "name": "Un inductii in questa Unità può avere:",
                 "id": "a0a4-bb98-4625-9f50",
                 "sortIndex": 6
               },
@@ -4861,12 +4861,12 @@
           {
             "name": "Bersaglio",
             "typeId": "e102-8fdd-9cd4-c0f9",
-            "$text": "l’Unità il cui Attacco a Distanza ha attivato la Reazione. L’Unità Reattiva è l’Unità dichiarata come bersaglio dell’Attacco a Distanza che ha attivato questa Reazione."
+            "$text": "l’Unità il cui Attacco a Distanza ha attivato la Reazione.\nL’Unità Reattiva è l’Unità dichiarata come bersaglio dell’Attacco a Distanza che ha attivato questa Reazione."
           },
           {
             "name": "Procedura",
             "typeId": "57cf-1c68-a020-2529",
-            "$text": "Tutti i Modelli dell’Unità Reattiva si riprendono immediatamente da qualsiasi Stato Tattico. Per tutta la durata della Fase di Tiro in corso, tutti i Modelli dell’Unità Reattiva ottengono la Regola Speciale “Insensibile al Dolore” (5+). Per tutta la durata della Fase di Tiro in corso, il Giocatore che Reagisce supera automaticamente tutte le Prove di Coraggio o di Disciplina effettuate per l’Unità Reattiva."
+            "$text": "Tutti i Modelli dell’Unità Reattiva si riprendono immediatamente da qualsiasi Stato Tattico.\nPer tutta la durata della Fase di Tiro in corso, tutti i Modelli dell’Unità Reattiva ottengono la Regola Speciale “Insensibile al Dolore” (5+).\nPer tutta la durata della Fase di Tiro in corso, il Giocatore che Reagisce supera automaticamente tutte le Prove di Coraggio o di Disciplina effettuate per l’Unità Reattiva."
           }
         ],
         "modifiers": [
@@ -5181,12 +5181,12 @@
                         "typeId": "954a-972f-5c94-2ede"
                       },
                       {
-                        "$text": "l’Unità il cui Attacco a Distanza ha attivato la Reazione. L’Unità Reattiva è l’Unità dichiarata come bersaglio dell’Attacco a Distanza che ha attivato questa Reazione.",
+                        "$text": "l’Unità il cui Attacco a Distanza ha attivato la Reazione.\nL’Unità Reattiva è l’Unità dichiarata come bersaglio dell’Attacco a Distanza che ha attivato questa Reazione.",
                         "name": "Bersaglio",
                         "typeId": "e102-8fdd-9cd4-c0f9"
                       },
                       {
-                        "$text": "Tutti i Modelli dell’Unità Reattiva si riprendono immediatamente da qualsiasi Stato Tattico. Per tutta la durata della Fase di Tiro in corso, tutti i Modelli dell’Unità Reattiva ottengono la Regola Speciale “Insensibile al Dolore” (5+). Per tutta la durata della Fase di Tiro in corso, il Giocatore che Reagisce supera automaticamente tutte le Prove di Coraggio o di Disciplina effettuate per l’Unità Reattiva.",
+                        "$text": "Tutti i Modelli dell’Unità Reattiva si riprendono immediatamente da qualsiasi Stato Tattico.\nPer tutta la durata della Fase di Tiro in corso, tutti i Modelli dell’Unità Reattiva ottengono la Regola Speciale “Insensibile al Dolore” (5+).\nPer tutta la durata della Fase di Tiro in corso, il Giocatore che Reagisce supera automaticamente tutte le Prove di Coraggio o di Disciplina effettuate per l’Unità Reattiva.",
                         "name": "Procedura",
                         "typeId": "57cf-1c68-a020-2529"
                       }
