@@ -2098,10 +2098,12 @@
     "name": "Scudi Neri",
     "gameSystemId": "sys-b976-0013-2f97-437b",
     "gameSystemRevision": 54,
-    "revision": 3,
+    "revision": 4,
     "battleScribeVersion": 2.03,
     "type": "catalogue",
     "categoryEntries": [],
-    "costTypes": []
+    "costTypes": [],
+    "authorUrl": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita",
+    "authorContact": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita/issues"
   }
 }

@@ -78809,11 +78809,11 @@
     "id": "sys-b976-0013-2f97-437b",
     "name": "Horus Heresy 3ª Edizione ITA",
     "battleScribeVersion": 2.03,
-    "revision": 55,
+    "revision": 56,
     "type": "gameSystem",
     "authorName": "The4D6",
-    "authorContact": "https://github.com/BSData/horus-heresy-3rd-edition/issues",
-    "authorUrl": "https://github.com/BSData/horus-heresy-3rd-edition/",
+    "authorContact": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita/issues",
+    "authorUrl": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita",
     "infoLinks": []
   }
 }
