@@ -318,24 +318,6 @@
             "type": "max",
             "value": 1,
             "field": "selections",
-            "scope": "parent",
-            "shared": true,
-            "id": "a14c-48a2-8f4b-5a25"
-          },
-          {
-            "type": "max",
-            "value": 1,
-            "field": "selections",
-            "scope": "force",
-            "shared": true,
-            "id": "2df6-07ab-31de-4daf",
-            "includeChildSelections": true,
-            "includeChildForces": true
-          },
-          {
-            "type": "max",
-            "value": 1,
-            "field": "selections",
             "scope": "roster",
             "shared": true,
             "id": "a8f1-f98b-d465-46cf",
@@ -4563,24 +4545,6 @@
             "type": "max",
             "value": 1,
             "field": "selections",
-            "scope": "parent",
-            "shared": true,
-            "id": "68ba-ef0d-b470-7a38"
-          },
-          {
-            "type": "max",
-            "value": 1,
-            "field": "selections",
-            "scope": "force",
-            "shared": true,
-            "id": "c73f-1b94-2c18-4952",
-            "includeChildSelections": true,
-            "includeChildForces": true
-          },
-          {
-            "type": "max",
-            "value": 1,
-            "field": "selections",
             "scope": "roster",
             "shared": true,
             "id": "f9e9-05f6-731e-dd5e",
@@ -4809,24 +4773,6 @@
           }
         ],
         "constraints": [
-          {
-            "type": "max",
-            "value": 1,
-            "field": "selections",
-            "scope": "parent",
-            "shared": true,
-            "id": "8ee5-a8c9-f608-5e2b"
-          },
-          {
-            "type": "max",
-            "value": 1,
-            "field": "selections",
-            "scope": "force",
-            "shared": true,
-            "id": "2338-eeed-1148-4458",
-            "includeChildSelections": true,
-            "includeChildForces": true
-          },
           {
             "type": "max",
             "value": 1,
