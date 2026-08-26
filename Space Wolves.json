@@ -770,7 +770,7 @@
                     "type": "and"
                   }
                 ],
-                "name": "Deathsworn",
+                "name": "Morituro",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo",
                 "hidden": false,
@@ -977,7 +977,7 @@
             ],
             "type": "model",
             "import": true,
-            "name": "Deathsworn",
+            "name": "Morituro",
             "hidden": false,
             "id": "bafe-015a-1132-6505",
             "sortIndex": 1
@@ -2447,7 +2447,7 @@
                     "type": "and"
                   }
                 ],
-                "name": "Grey Slayer",
+                "name": "Sventratore grigio",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo",
                 "hidden": false,
@@ -2890,7 +2890,7 @@
             ],
             "type": "model",
             "import": true,
-            "name": "Grey Slayer",
+            "name": "Sventratore grigio",
             "hidden": false,
             "id": "22a4-4fe2-f256-c5bf",
             "sortIndex": 2
@@ -6422,7 +6422,7 @@
                 "typeId": "daae-40ac-68e2-fa78"
               },
               {
-                "$text": "1.\nUna volta determinati il Fulcro e l’Unità Bersaglio, effettua una Prova di Manifestazione.\n2.\nSe la Prova di Manifestazione ha successo, tutti gli attacchi effettuati come parte di un Attacco a Distanza contro il Bersaglio devono essere risolti Alla Cieca.\n3.\nSe la Prova di Manifestazione fallisce, non ci sono ulteriori effetti.",
+                "$text": "1. Una volta determinati il Fulcro e l’Unità Bersaglio, effettua una Prova di Manifestazione.\n2. Se la Prova di Manifestazione ha successo, tutti gli attacchi effettuati come parte di un Attacco a Distanza contro il Bersaglio devono essere risolti Alla Cieca.\n3. Se la Prova di Manifestazione fallisce, non ci sono ulteriori effetti.",
                 "name": "Procedura",
                 "typeId": "8d43-934e-e511-0cfd"
               }
@@ -7456,7 +7456,7 @@
                         "type": "and"
                       }
                     ],
-                    "name": "Per ogni cinque Modelli in questa Unità,  Un hunter in questa Unità può sostituire Pistola lanciafiamme con uno dei seguenti:",
+                    "name": "Ogni 5 Modelli nell’Unità, un singolo Modello di Cacciatore può sostituire Pistola lanciafiamme con uno tra i seguenti:",
                     "id": "fcd0-0302-434a-8b93",
                     "hidden": false,
                     "defaultSelectionEntryId": "none",
@@ -9430,7 +9430,7 @@
                     "type": "and"
                   }
                 ],
-                "name": "Fenrisian Wolf",
+                "name": "Lupo fenrisiano",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo",
                 "hidden": false,
@@ -9553,7 +9553,7 @@
             ],
             "type": "model",
             "import": true,
-            "name": "Fenrisian Wolf",
+            "name": "Lupo fenrisiano",
             "hidden": false,
             "id": "b585-20b3-40b6-af46",
             "page": 107,
@@ -12231,7 +12231,7 @@
                         "field": "f033-df89-4064-6f40"
                       }
                     ],
-                    "name": "Per ogni quattro Modelli in questa Unità,  Un inductii in questa Unità può sostituire Spada a catena con uno dei seguenti:",
+                    "name": "Ogni 4 Modelli nell’Unità, un singolo Modello di Inductii può sostituire Spada a catena con uno tra i seguenti:",
                     "id": "f916-1e64-434c-8169",
                     "hidden": false,
                     "defaultSelectionEntryId": "none"
@@ -12304,7 +12304,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Per ogni quattro Modelli in questa Unità, un Inductii in questa Unità può sostituire la sua Pistola requiem con ",
+                        "value": "Ogni 4 Modelli nell’Unità, un singolo Modello di Inductii può sostituire Pistola requiem con un oggetto dalla lista Pistole della Legione:",
                         "field": "name"
                       },
                       {
@@ -12487,7 +12487,7 @@
                     "id": "b68f-6aab-45f1-a7c1"
                   }
                 ],
-                "name": "Un inductii in questa Unità può selezionare un Vessillo per +10 punti.",
+                "name": "Un singolo Modello di Inductii può prendere un Vessillo:",
                 "id": "4184-f220-4689-a1be",
                 "sortIndex": 5
               }
@@ -12591,7 +12591,7 @@
             "hidden": false
           }
         ],
-        "name": "Squadra di Inductii",
+        "name": "Squadra Inductii dei Lupi Siderali",
         "type": "unit",
         "id": "3ade-f63f-41e2-9a99",
         "page": 7,
@@ -12954,7 +12954,7 @@
           }
         ],
         "import": true,
-        "name": "Squadra di Inductii",
+        "name": "Squadra Inductii dei Lupi Siderali",
         "hidden": false,
         "id": "dabe-5c4c-f981-16fa",
         "type": "selectionEntry",
@@ -13085,7 +13085,7 @@
             "sortIndex": 4
           }
         ],
-        "comment": "Specific to Grey Slayers",
+        "comment": "Specifico degli Sventratori grigi",
         "name": "Arma potenziata",
         "id": "2bda-39f9-7585-a46d",
         "hidden": false,
@@ -13147,7 +13147,7 @@
                 ],
                 "type": "upgrade",
                 "import": true,
-                "name": "Gambits",
+                "name": "Gambetti",
                 "hidden": false,
                 "id": "ddc5-3667-de11-4294",
                 "sortIndex": 2

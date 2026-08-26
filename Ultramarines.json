@@ -1397,7 +1397,7 @@
         ],
         "type": "unit",
         "import": true,
-        "name": "Squadra Suzerain Invictus",
+        "name": "Squadra di Invictarus Suzerain",
         "hidden": false,
         "id": "3a11-d72b-2f04-cc62"
       },
@@ -1779,7 +1779,7 @@
                     "type": "and"
                   }
                 ],
-                "name": "Praetorian Primus",
+                "name": "Primo pretoriano",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo",
                 "hidden": false,
@@ -1885,7 +1885,7 @@
             ],
             "type": "model",
             "import": true,
-            "name": "Praetorian Primus",
+            "name": "Primo pretoriano",
             "hidden": false,
             "id": "d8da-2e7b-77ac-dc40",
             "sortIndex": 1,
@@ -2214,7 +2214,7 @@
                     "type": "and"
                   }
                 ],
-                "name": "Praetorian",
+                "name": "Pretoriano",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo",
                 "hidden": false,
@@ -2296,14 +2296,14 @@
                     "targetId": "46f0-ca50-4e6e-e49f"
                   }
                 ],
-                "name": "Per ogni 5 Modelli in questa Unità,  Un praetorian in questa Unità può sostituire Spada potenziata con:",
+                "name": "Ogni 5 Modelli nell’Unità, un singolo Modello di Pretoriano può sostituire Spada potenziata con uno tra i seguenti:",
                 "id": "d7cc-aa6c-0f9f-1256",
                 "hidden": false
               }
             ],
             "type": "model",
             "import": true,
-            "name": "Praetorian",
+            "name": "Pretoriano",
             "hidden": false,
             "id": "ee11-4138-eeda-58f7",
             "sortIndex": 2,
@@ -3128,7 +3128,7 @@
                     "field": "5745-a590-440f-811a"
                   }
                 ],
-                "name": "Per ogni cinque Modelli in questa Unità,  Un locutarus in questa Unità può sostituire Pistola requiem con:",
+                "name": "Ogni 5 Modelli nell’Unità, un singolo Modello di Locutarus può sostituire Pistola requiem con un oggetto dalla lista Pistole della Legione:",
                 "id": "845e-ef61-42bb-9faa",
                 "defaultSelectionEntryId": "none"
               }
@@ -3327,7 +3327,7 @@
                   }
                 ],
                 "id": "17d0-feae-4974-b88c",
-                "name": "Capo Assalto Locutarus",
+                "name": "Sergente Locutarus",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo"
               }
@@ -3573,7 +3573,7 @@
               }
             ],
             "type": "model",
-            "name": "Capo Assalto Locutarus",
+            "name": "Sergente Locutarus",
             "id": "1149-f536-4302-a6de",
             "page": 119,
             "publicationId": "5469-14da-d0a1-6092",
@@ -4891,7 +4891,7 @@
                     "targetId": "0e69-ccf1-cde7-acaf"
                   }
                 ],
-                "name": "Fino a due Distruttori Nemesi in questa Unità possono avere ciascuno un elemento da:",
+                "name": "Fino a 2 Modelli di Distruttore Nemesi possono prendere un oggetto dalla lista Equipaggiamento della Legione:",
                 "id": "c894-e215-4bbd-9cbe",
                 "sortIndex": 4
               },
@@ -5126,7 +5126,7 @@
                     "field": "a9f1-944e-43a1-812e"
                   }
                 ],
-                "name": "Per ogni 5 Modelli in questa Unità, un Distruttore Nemesi in questa Unità può sostituire Requiem mortifero con uno dei seguenti:",
+                "name": "Ogni 5 Modelli nell’Unità, un singolo Modello di Distruttore Nemesi può sostituire Requiem mortifero con uno tra i seguenti:",
                 "id": "ae85-a9c0-4213-8b0a"
               }
             ],
@@ -5324,7 +5324,7 @@
                   }
                 ],
                 "id": "e0b3-bbcd-461f-85eb",
-                "name": "Sergente Distruttore Nemesi",
+                "name": "Sergente distruttore Nemesi",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo"
               }
@@ -5555,7 +5555,7 @@
               }
             ],
             "type": "model",
-            "name": "Sergente Distruttore Nemesi",
+            "name": "Sergente distruttore Nemesi",
             "id": "8353-e023-4b30-91e6",
             "page": 121,
             "publicationId": "5469-14da-d0a1-6092",
@@ -6611,7 +6611,7 @@
                     "id": "997e-cf8f-4571-831e"
                   }
                 ],
-                "name": "Fino a due Inductii in questa Unità possono sostituire il Fucile requiem con:",
+                "name": "Fino a 2 Modelli di Inductii possono sostituire Fucile requiem con un oggetto dalla lista Armi Speciali della Legione:",
                 "id": "498d-fa05-47eb-bd61",
                 "sortIndex": 1
               },
@@ -6661,7 +6661,7 @@
                     "includeChildSelections": true
                   }
                 ],
-                "name": "Un inductii in questa Unità può selezionare un Vessillo",
+                "name": "Un singolo Modello di Inductii può prendere un Vessillo:",
                 "id": "7bbc-9580-49dc-bb1c",
                 "sortIndex": 6
               },
@@ -6879,7 +6879,7 @@
                   }
                 ],
                 "id": "d0e9-ffe9-42ff-bded",
-                "name": "Evocatus Intendant",
+                "name": "Evocatus Intendente",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo"
               }
@@ -7254,7 +7254,7 @@
               }
             ],
             "type": "model",
-            "name": "Evocatus Intendant",
+            "name": "Evocatus Intendente",
             "id": "0a85-f359-41bc-b251",
             "page": 14,
             "publicationId": "1cef-cfb8-32c9-a1f4"
@@ -7307,7 +7307,7 @@
             "hidden": false
           }
         ],
-        "name": "Squadra di Inductii",
+        "name": "Squadra Inductii degli Ultramarine",
         "type": "unit",
         "id": "455f-d06a-45b1-a332",
         "page": 14,
@@ -7411,7 +7411,7 @@
           }
         ],
         "import": true,
-        "name": "Squadra Suzerain Invictus",
+        "name": "Squadra di Invictarus Suzerain",
         "hidden": false,
         "id": "ff65-1f4a-ab24-12ef",
         "targetId": "3a11-d72b-2f04-cc62",
@@ -7530,7 +7530,7 @@
           }
         ],
         "import": true,
-        "name": "Squadra di Inductii",
+        "name": "Squadra Inductii degli Ultramarine",
         "hidden": false,
         "id": "62c4-dbbe-1738-38c9",
         "type": "selectionEntry",

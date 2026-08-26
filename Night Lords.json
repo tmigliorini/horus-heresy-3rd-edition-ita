@@ -688,7 +688,7 @@
                     "type": "and"
                   }
                 ],
-                "name": "Dissident",
+                "name": "Dissidente",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo",
                 "hidden": false,
@@ -845,7 +845,7 @@
             ],
             "type": "model",
             "import": true,
-            "name": "Dissident",
+            "name": "Dissidente",
             "hidden": false,
             "id": "923b-7664-eddc-1ede",
             "sortIndex": 1
@@ -1499,7 +1499,7 @@
                     "type": "and"
                   }
                 ],
-                "name": "Huntmaster",
+                "name": "Maestro della caccia",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo",
                 "hidden": false,
@@ -1776,7 +1776,7 @@
             ],
             "type": "model",
             "import": true,
-            "name": "Huntmaster",
+            "name": "Maestro della caccia",
             "hidden": false,
             "id": "d5ac-1bc7-f60e-19d4",
             "sortIndex": 1
@@ -1920,7 +1920,7 @@
                     "type": "and"
                   }
                 ],
-                "name": "Night Raptor",
+                "name": "Predatore Notturno",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo",
                 "hidden": false,
@@ -2309,7 +2309,7 @@
             ],
             "type": "model",
             "import": true,
-            "name": "Night Raptor",
+            "name": "Predatore Notturno",
             "hidden": false,
             "id": "2cf7-d782-bfc5-d3cf",
             "sortIndex": 2
@@ -2683,7 +2683,7 @@
                     "type": "and"
                   }
                 ],
-                "name": "Headsman",
+                "name": "Capo Carnefice",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo",
                 "hidden": false,
@@ -3204,7 +3204,7 @@
             ],
             "type": "model",
             "import": true,
-            "name": "Headsman",
+            "name": "Capo Carnefice",
             "hidden": false,
             "id": "7a9d-b03d-d9f9-dfb6",
             "sortIndex": 1
@@ -4870,7 +4870,7 @@
                     "type": "and"
                   }
                 ],
-                "name": "Trucidor Atramentar",
+                "name": "Trucidor",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo",
                 "hidden": false,
@@ -5269,7 +5269,7 @@
             ],
             "type": "model",
             "import": true,
-            "name": "Trucidor Atramentar",
+            "name": "Trucidor",
             "hidden": false,
             "id": "8903-7461-dbb1-20eb",
             "sortIndex": 1
@@ -6084,7 +6084,7 @@
         ],
         "type": "unit",
         "import": true,
-        "name": "Flay-clade Atramentar",
+        "name": "Clade di Scuoiamento Atramentar",
         "hidden": false,
         "id": "ff9f-4970-7f72-e517"
       },
@@ -6374,7 +6374,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Per ogni quattro Modelli in questa Unità, un Inductii in questa Unità può sostituire la sua Pistola requiem con ",
+                        "value": "Ogni 4 Modelli nell’Unità, un singolo Modello di Inductii può sostituire Pistola requiem con un oggetto dalla lista Pistole della Legione:",
                         "field": "name"
                       },
                       {
@@ -6470,7 +6470,7 @@
                     "includeChildSelections": true
                   }
                 ],
-                "name": "Un inductii in questa Unità può selezionare un Vessillo per +10 punti.",
+                "name": "Un singolo Modello di Inductii può prendere un Vessillo:",
                 "id": "d21e-e6fd-40e8-9b7f",
                 "sortIndex": 5
               }
@@ -6645,7 +6645,7 @@
             "hidden": false
           }
         ],
-        "name": "Squadra di Inductii",
+        "name": "Squadra Inductii dei Signori della Notte",
         "type": "unit",
         "id": "a38d-19ab-470a-8e53",
         "page": 9,
@@ -6841,7 +6841,7 @@
           }
         ],
         "import": true,
-        "name": "Flay-clade Atramentar",
+        "name": "Clade di Scuoiamento Atramentar",
         "hidden": false,
         "id": "3cf5-0b78-6f41-4a8f",
         "type": "selectionEntry",
@@ -6857,7 +6857,7 @@
           }
         ],
         "import": true,
-        "name": "Squadra di Inductii",
+        "name": "Squadra Inductii dei Signori della Notte",
         "hidden": false,
         "id": "fc77-f59b-d79f-2ead",
         "type": "selectionEntry",

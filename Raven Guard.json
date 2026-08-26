@@ -1670,7 +1670,7 @@
                         "sortIndex": 6
                       }
                     ],
-                    "name": "Per ogni tre Modelli in questa Unità,  Un Modello può prendere uno dei seguenti:",
+                    "name": "Ogni 3 Modelli nell'Unità, fino a 1 può sostituire Requiem Nemesis con uno tra i seguenti:",
                     "id": "83a7-acaa-697d-062a",
                     "hidden": false
                   }
@@ -1797,7 +1797,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Fanteria (Sergente, Schermagliatore)",
+                    "$text": "Fanteria (Schermagliatore, Sergente)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -1970,7 +1970,7 @@
                     "type": "and"
                   }
                 ],
-                "name": "Ombra Mor Deythan",
+                "name": "Mor Deythan Ombra",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo",
                 "hidden": false,
@@ -2232,7 +2232,7 @@
             ],
             "type": "model",
             "import": true,
-            "name": "Ombra Mor Deythan",
+            "name": "Mor Deythan Ombra",
             "hidden": false,
             "id": "82dc-edb6-6534-0f6f",
             "sortIndex": 1
@@ -2723,7 +2723,7 @@
                     "type": "and"
                   }
                 ],
-                "name": "Dark Fury",
+                "name": "Furia oscura",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo",
                 "hidden": false,
@@ -2734,7 +2734,7 @@
             ],
             "type": "model",
             "import": true,
-            "name": "Dark Fury",
+            "name": "Furia oscura",
             "hidden": false,
             "id": "c88e-ddfb-6f84-acd8",
             "sortIndex": 2
@@ -3250,7 +3250,7 @@
         ],
         "type": "unit",
         "import": true,
-        "name": "Squadra Dark Fury",
+        "name": "Squadra di Furie Oscure",
         "hidden": false,
         "id": "8487-ac3b-d0ec-6d08",
         "sortIndex": 4
@@ -3457,7 +3457,7 @@
                   }
                 ],
                 "id": "d287-b533-43d7-8180",
-                "name": "Deliverer",
+                "name": "Giustiziere",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo"
               }
@@ -3946,7 +3946,7 @@
                     "field": "1ae9-47f6-4364-948e"
                   }
                 ],
-                "name": "Per ogni cinque Modelli in questa Unità,  Un Modello in questa Unità può sostituire Combirequiem con uno dei seguenti:",
+                "name": "Ogni 5 Modelli nell'Unità, fino a 1 può sostituire Combirequiem con uno tra i seguenti:",
                 "id": "6e3e-754c-4206-9787",
                 "hidden": false,
                 "sortIndex": 4
@@ -3967,7 +3967,7 @@
               }
             ],
             "type": "model",
-            "name": "Deliverer",
+            "name": "Giustiziere",
             "id": "377e-9bef-41e2-b597",
             "page": 139,
             "publicationId": "5469-14da-d0a1-6092",
@@ -4152,7 +4152,7 @@
                   }
                 ],
                 "id": "38bd-8011-4690-a71a",
-                "name": "Chieftain Deliverer",
+                "name": "Capogiustiziere",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo"
               }
@@ -4503,7 +4503,7 @@
               }
             ],
             "type": "model",
-            "name": "Chieftain Deliverer",
+            "name": "Capogiustiziere",
             "id": "4773-8470-43ef-846b",
             "page": 139,
             "publicationId": "5469-14da-d0a1-6092",
@@ -4611,7 +4611,7 @@
             "hidden": false
           }
         ],
-        "name": "Squadra di Deliverer",
+        "name": "Squadra di Giustizieri",
         "type": "unit",
         "id": "eef8-a49d-4568-a714",
         "sortIndex": 5,
@@ -4930,7 +4930,7 @@
                         "targetId": "96e3-031c-2139-1335"
                       }
                     ],
-                    "name": "Per ogni dieci Modelli in questa Unità,  Un inductii in questa Unità può prendere:",
+                    "name": "Ogni 10 Modelli nell’Unità, un singolo Modello di Inductii può sostituire Fucile requiem con Requiem Nemesis:",
                     "id": "a492-63c5-dac3-2ad8",
                     "hidden": false
                   }
@@ -4985,7 +4985,7 @@
                     "includeChildSelections": true
                   }
                 ],
-                "name": "Un inductii in questa Unità può avere:",
+                "name": "Un singolo Modello di Inductii può prendere un Vessillo:",
                 "id": "2de5-a5da-40b3-af12",
                 "sortIndex": 6
               },
@@ -5136,7 +5136,7 @@
             "hidden": false
           }
         ],
-        "name": "Squadra di Inductii",
+        "name": "Squadra Inductii della Guardia del Corvo",
         "type": "unit",
         "id": "a997-c8f0-4906-bf63",
         "sortIndex": 6,
@@ -5278,7 +5278,7 @@
           }
         ],
         "import": true,
-        "name": "Squadra Dark Fury",
+        "name": "Squadra di Furie Oscure",
         "hidden": false,
         "id": "c213-20ea-1ed8-11a0",
         "type": "selectionEntry",
@@ -5310,7 +5310,7 @@
           }
         ],
         "import": true,
-        "name": "Squadra di Deliverer",
+        "name": "Squadra di Giustizieri",
         "hidden": false,
         "id": "30c4-e580-a2b6-11da",
         "type": "selectionEntry",
@@ -5326,7 +5326,7 @@
           }
         ],
         "import": true,
-        "name": "Squadra di Inductii",
+        "name": "Squadra Inductii della Guardia del Corvo",
         "hidden": false,
         "id": "b472-2c57-cfc7-0bc0",
         "type": "selectionEntry",

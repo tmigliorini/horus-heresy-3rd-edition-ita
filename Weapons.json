@@ -10224,7 +10224,7 @@
                 "typeId": "1247-79d2-6cc1-8a03"
               }
             ],
-            "name": "Fucile requiem (Primary)",
+            "name": "Requiem (primario)",
             "typeId": "c591-09ed-3e6f-eb2b",
             "typeName": "Arma a Distanza",
             "hidden": false,
@@ -10268,7 +10268,7 @@
                 "typeId": "1247-79d2-6cc1-8a03"
               }
             ],
-            "name": "Lanciafiamme (Secondaria)",
+            "name": "Lanciafiamme (secondario)",
             "typeId": "c591-09ed-3e6f-eb2b",
             "typeName": "Arma a Distanza",
             "hidden": false,
@@ -10367,7 +10367,7 @@
                 "typeId": "1247-79d2-6cc1-8a03"
               }
             ],
-            "name": "Fucile requiem (Primary)",
+            "name": "Requiem (primario)",
             "typeId": "c591-09ed-3e6f-eb2b",
             "typeName": "Arma a Distanza",
             "hidden": false,
@@ -10411,7 +10411,7 @@
                 "typeId": "1247-79d2-6cc1-8a03"
               }
             ],
-            "name": "Fucile termico (Secondaria)",
+            "name": "Fucile termico (secondario)",
             "typeId": "c591-09ed-3e6f-eb2b",
             "typeName": "Arma a Distanza",
             "hidden": false,
@@ -10503,7 +10503,7 @@
                 "typeId": "1247-79d2-6cc1-8a03"
               }
             ],
-            "name": "Fucile requiem (Primary)",
+            "name": "Requiem (primario)",
             "typeId": "c591-09ed-3e6f-eb2b",
             "typeName": "Arma a Distanza",
             "hidden": false,
@@ -10609,7 +10609,7 @@
                 "typeId": "1247-79d2-6cc1-8a03"
               }
             ],
-            "name": "Fucile requiem (Primary)",
+            "name": "Requiem (primario)",
             "typeId": "c591-09ed-3e6f-eb2b",
             "typeName": "Arma a Distanza",
             "hidden": false,
@@ -10653,7 +10653,7 @@
                 "typeId": "1247-79d2-6cc1-8a03"
               }
             ],
-            "name": "Schioppo volkite (Secondaria)",
+            "name": "Schioppo volkite (secondario)",
             "typeId": "c591-09ed-3e6f-eb2b",
             "typeName": "Arma a Distanza",
             "hidden": false,
@@ -10730,7 +10730,7 @@
                 "typeId": "1247-79d2-6cc1-8a03"
               }
             ],
-            "name": "Fucile requiem (Primary)",
+            "name": "Requiem (primario)",
             "typeId": "c591-09ed-3e6f-eb2b",
             "typeName": "Arma a Distanza",
             "hidden": false,
@@ -10774,7 +10774,7 @@
                 "typeId": "1247-79d2-6cc1-8a03"
               }
             ],
-            "name": "Disintegratore (Secondaria)",
+            "name": "Disintegratore (secondario)",
             "typeId": "c591-09ed-3e6f-eb2b",
             "typeName": "Arma a Distanza",
             "hidden": false,
@@ -10866,7 +10866,7 @@
                 "typeId": "1247-79d2-6cc1-8a03"
               }
             ],
-            "name": "Fucile requiem (Primary)",
+            "name": "Requiem (primario)",
             "typeId": "c591-09ed-3e6f-eb2b",
             "typeName": "Arma a Distanza",
             "hidden": false,
@@ -10910,7 +10910,7 @@
                 "typeId": "1247-79d2-6cc1-8a03"
               }
             ],
-            "name": "Fucile gravitonico (Secondaria)",
+            "name": "Fucile gravitonico (secondario)",
             "typeId": "c591-09ed-3e6f-eb2b",
             "typeName": "Arma a Distanza",
             "hidden": false,
@@ -11047,7 +11047,7 @@
                 "typeId": "1247-79d2-6cc1-8a03"
               }
             ],
-            "name": "Fucile requiem (Primary)",
+            "name": "Requiem (primario)",
             "typeId": "c591-09ed-3e6f-eb2b",
             "typeName": "Arma a Distanza",
             "hidden": false,
@@ -11091,7 +11091,7 @@
                 "typeId": "1247-79d2-6cc1-8a03"
               }
             ],
-            "name": "Fucile plasma (Secondaria)",
+            "name": "Fucile plasma (secondario)",
             "typeId": "c591-09ed-3e6f-eb2b",
             "typeName": "Arma a Distanza",
             "hidden": false,
@@ -20612,7 +20612,7 @@
                 "typeId": "1247-79d2-6cc1-8a03"
               }
             ],
-            "name": "Fucile requiem (Primary)",
+            "name": "Requiem (primario)",
             "typeId": "c591-09ed-3e6f-eb2b",
             "typeName": "Arma a Distanza",
             "hidden": false,
@@ -20656,7 +20656,7 @@
                 "typeId": "1247-79d2-6cc1-8a03"
               }
             ],
-            "name": "Lanciafiamme alchemico (Secondaria)",
+            "name": "Lanciafiamme alchemico (secondario)",
             "typeId": "c591-09ed-3e6f-eb2b",
             "typeName": "Arma a Distanza",
             "hidden": false,
@@ -22504,7 +22504,7 @@
             "targetId": "8687-05f8-7034-412c"
           },
           {
-            "name": "Macro-Auspex",
+            "name": "Macro-auspex",
             "id": "bc38-ea08-624b-5627",
             "hidden": false,
             "type": "rule",
@@ -24119,7 +24119,7 @@
             "sortIndex": 4
           }
         ],
-        "name": "Armi Perdition",
+        "name": "Arma della Perdizione",
         "id": "6a6b-1cda-b6a4-8b3e",
         "hidden": false,
         "defaultSelectionEntryId": "none"

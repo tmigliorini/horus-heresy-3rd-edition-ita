@@ -1558,7 +1558,7 @@
                     "type": "and"
                   }
                 ],
-                "name": "Deathshroud",
+                "name": "Manto della Morte",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo",
                 "hidden": false,
@@ -1727,7 +1727,7 @@
             ],
             "type": "model",
             "import": true,
-            "name": "Deathshroud",
+            "name": "Manto della Morte",
             "hidden": false,
             "id": "ea74-4c52-9bcd-b0ca",
             "sortIndex": 1
@@ -1837,7 +1837,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Fanteria (Sergente, Pesante)",
+                    "$text": "Fanteria (Pesante, Sergente)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -2010,7 +2010,7 @@
                     "type": "and"
                   }
                 ],
-                "name": "Maestro Chem",
+                "name": "Chemiomastro",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo",
                 "hidden": false,
@@ -2235,7 +2235,7 @@
             ],
             "type": "model",
             "import": true,
-            "name": "Maestro Chem",
+            "name": "Chemiomastro",
             "hidden": false,
             "id": "dc93-a59a-caaa-789d",
             "sortIndex": 1
@@ -2379,7 +2379,7 @@
                     "type": "and"
                   }
                 ],
-                "name": "Grave Warden",
+                "name": "Guardasepolcro",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo",
                 "hidden": false,
@@ -2587,7 +2587,7 @@
             ],
             "type": "model",
             "import": true,
-            "name": "Grave Warden",
+            "name": "Guardasepolcro",
             "hidden": false,
             "id": "3e2a-b8c7-5ffe-0f9d",
             "sortIndex": 2
@@ -3165,7 +3165,7 @@
                     "field": "34a0-824b-82c4-0a21"
                   }
                 ],
-                "name": "Per ogni cinque Modelli in questa Unità,  Un Avvelenatore Mortus può sostituire Fucile requiem con:",
+                "name": "Ogni 5 Modelli nell'Unità, un singolo Modello di Avvelenatore può sostituire Fucile requiem con uno tra i seguenti:",
                 "id": "0991-204f-4383-b639",
                 "sortIndex": 5
               },
@@ -3207,7 +3207,7 @@
                     "includeChildSelections": true
                   }
                 ],
-                "name": "Un Avvelenatore Mortus in questa Unità può avere:",
+                "name": "Un singolo Modello di Avvelenatore può prendere Vessillo:",
                 "id": "c411-624b-4633-b595"
               },
               {
@@ -4463,7 +4463,7 @@
                     "includeChildSelections": true
                   }
                 ],
-                "name": "Un inductii in questa Unità può avere:",
+                "name": "Un singolo Modello di Inductii può prendere un Vessillo:",
                 "id": "a0a4-bb98-4625-9f50",
                 "sortIndex": 6
               },
@@ -4669,7 +4669,7 @@
                         "field": "01df-0450-0cd0-54f2"
                       }
                     ],
-                    "name": "Per ogni cinque Modelli in questa Unità,  Un inductii in questa Unità può sostituire Fucile requiem con uno dei seguenti:",
+                    "name": "Ogni 5 Modelli nell’Unità, un singolo Modello di Inductii può sostituire Fucile requiem con uno tra i seguenti:",
                     "id": "8799-2d5a-4a2f-9573",
                     "hidden": false
                   }
@@ -4790,7 +4790,7 @@
             "hidden": false
           }
         ],
-        "name": "Squadra di Inductii",
+        "name": "Squadra Inductii della Guardia della Morte",
         "type": "unit",
         "id": "8236-95aa-4580-926a",
         "sortIndex": 6,
@@ -5078,7 +5078,7 @@
           }
         ],
         "import": true,
-        "name": "Squadra di Inductii",
+        "name": "Squadra Inductii della Guardia della Morte",
         "hidden": false,
         "id": "6427-ced4-f774-4bd2",
         "type": "selectionEntry",

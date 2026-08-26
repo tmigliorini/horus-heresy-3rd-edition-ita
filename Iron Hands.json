@@ -2013,7 +2013,7 @@
                     "type": "and"
                   }
                 ],
-                "name": "Immortal",
+                "name": "Immortale",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo",
                 "hidden": false,
@@ -2248,7 +2248,7 @@
             ],
             "type": "model",
             "import": true,
-            "name": "Immortal",
+            "name": "Immortale",
             "hidden": false,
             "id": "de2c-ac8f-4ed3-47d2",
             "sortIndex": 2
@@ -2991,7 +2991,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Fanteria (Sergente, Pesante)",
+                    "$text": "Fanteria (Pesante, Sergente)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -3164,7 +3164,7 @@
                     "type": "and"
                   }
                 ],
-                "name": "Portamartello Gorgon",
+                "name": "Martellatore Gorgon",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo",
                 "hidden": false,
@@ -3256,7 +3256,7 @@
             ],
             "type": "model",
             "import": true,
-            "name": "Portamartello Gorgon",
+            "name": "Martellatore Gorgon",
             "hidden": false,
             "id": "d950-7b5d-c9a4-39f4",
             "sortIndex": 1
@@ -6192,7 +6192,7 @@
                     "id": "8861-b6d0-4e95-b0c5"
                   }
                 ],
-                "name": "L’augmentor in questa Unità può sostituire Combirequiem con uno dei seguenti:",
+                "name": "Il Modello di Augmentor può sostituire Combirequiem con uno tra i seguenti:",
                 "id": "4b9b-3a1f-46bb-b5cb"
               }
             ],
@@ -6670,7 +6670,7 @@
                     "includeChildSelections": true
                   }
                 ],
-                "name": "Un inductii in questa Unità può selezionare Bombe Fosfex",
+                "name": "Un singolo Modello di Inductii può prendere Bombe Fosfex:",
                 "id": "01ba-ae1c-4668-8ccd",
                 "sortIndex": 5
               },
@@ -6720,7 +6720,7 @@
                     "includeChildSelections": true
                   }
                 ],
-                "name": "Un inductii in questa Unità può selezionare un Vessillo",
+                "name": "Un singolo Modello di Inductii può prendere un Vessillo:",
                 "id": "7705-77da-41be-9ac0",
                 "sortIndex": 6
               },
@@ -6859,7 +6859,7 @@
             "hidden": false
           }
         ],
-        "name": "Squadra di Inductii",
+        "name": "Squadra Inductii delle Mani di Ferro",
         "type": "unit",
         "id": "ee40-8340-4718-90ef",
         "page": 11,
@@ -7056,7 +7056,7 @@
           }
         ],
         "import": true,
-        "name": "Squadra di Inductii",
+        "name": "Squadra Inductii delle Mani di Ferro",
         "hidden": false,
         "id": "46f3-4e83-3db3-f1be",
         "type": "selectionEntry",

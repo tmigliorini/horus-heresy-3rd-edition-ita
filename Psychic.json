@@ -204,7 +204,7 @@
                 "typeId": "d7d5-5b31-5b37-66c4"
               },
               {
-                "$text": "1.\nIl Giocatore Attivo deve effettuare una Prova di Manifestazione.\n2.\nSe la Prova di Manifestazione ha successo, l’Unità Bersaglio non può effettuare alcun Attacco a Raffica, ma tutti i suoi Modelli ottengono un bonus di +2 alle loro Caratteristiche di Forza e Resistenza.",
+                "$text": "1. Il Giocatore Attivo deve effettuare una Prova di Manifestazione.\n2. Se la Prova di Manifestazione ha successo, l’Unità Bersaglio non può effettuare alcun Attacco a Raffica, ma tutti i suoi Modelli ottengono un bonus di +2 alle loro Caratteristiche di Forza e Resistenza.",
                 "name": "Procedura",
                 "typeId": "3804-b2cf-9f1a-4ff0"
               }
@@ -481,7 +481,7 @@
                 "typeId": "daae-40ac-68e2-fa78"
               },
               {
-                "$text": "1.\nIl Giocatore Reattivo deve effettuare una Prova di Manifestazione.\n2.\nSe la Prova di Manifestazione ha successo, allora tutti i Modelli nell’Unità Bersaglio ottengono la Regola Speciale Ammantato (3+).",
+                "$text": "1. Il Giocatore Reattivo deve effettuare una Prova di Manifestazione.\n2. Se la Prova di Manifestazione ha successo, allora tutti i Modelli nell’Unità Bersaglio ottengono la Regola Speciale Ammantato (3+).",
                 "name": "Procedura",
                 "typeId": "8d43-934e-e511-0cfd"
               }
@@ -645,7 +645,7 @@
                 "typeId": "d7d5-5b31-5b37-66c4"
               },
               {
-                "$text": "1.\nIl Giocatore Attivo deve effettuare una Prova di Manifestazione.\n2.\nSe la Prova ha successo, allora tutti i Modelli nell’Unità Bersaglio ottengono la Regola Speciale Precisione (5+).",
+                "$text": "1. Il Giocatore Attivo deve effettuare una Prova di Manifestazione.\n2. Se la Prova ha successo, allora tutti i Modelli nell’Unità Bersaglio ottengono la Regola Speciale Precisione (5+).",
                 "name": "Procedura",
                 "typeId": "3804-b2cf-9f1a-4ff0"
               }
@@ -745,7 +745,7 @@
                 "typeId": "d7d5-5b31-5b37-66c4"
               },
               {
-                "$text": "1.\nIl Giocatore che Controlla l’Unità Bersaglio deve effettuare una Prova di Resistenza per la stessa.\n2.\nSe la Prova di Resistenza fallisce, allora tutti i Modelli nell’Unità Bersaglio perdono qualsiasi Status, e successivamente l’Unità Bersaglio deve immediatamente effettuare un Ripiegamento.\n3.\nUna volta completato il Ripiegamento, il Giocatore che Controlla l’Unità Bersaglio deve effettuare una Prova di Disciplina per l’Unità, che non può essere influenzata da nessun effetto o Regola Speciale.\n4.\nSe la Prova di Disciplina fallisce, tutti i Modelli nell’Unità Bersaglio ottengono lo Status In Rotta.\n5.\nIndipendentemente dall’esito della Prova di Manifestazione, l’Unità che contiene il Fulcro di questo Potere Psionico non può muoversi o correre in questa Fase di Movimento.",
+                "$text": "1. Il Giocatore che Controlla l’Unità Bersaglio deve effettuare una Prova di Resistenza per la stessa.\n2. Se la Prova di Resistenza fallisce, allora tutti i Modelli nell’Unità Bersaglio perdono qualsiasi Status, e successivamente l’Unità Bersaglio deve immediatamente effettuare un Ripiegamento.\n3. Una volta completato il Ripiegamento, il Giocatore che Controlla l’Unità Bersaglio deve effettuare una Prova di Disciplina per l’Unità, che non può essere influenzata da nessun effetto o Regola Speciale.\n4. Se la Prova di Disciplina fallisce, tutti i Modelli nell’Unità Bersaglio ottengono lo Status In Rotta.\n5. Indipendentemente dall’esito della Prova di Manifestazione, l’Unità che contiene il Fulcro di questo Potere Psionico non può muoversi o correre in questa Fase di Movimento.",
                 "name": "Procedura",
                 "typeId": "3804-b2cf-9f1a-4ff0"
               }
@@ -862,7 +862,7 @@
                 "typeId": "daae-40ac-68e2-fa78"
               },
               {
-                "$text": "1.\nIl Giocatore Reattivo deve effettuare una Prova di Manifestazione.\n2.\nSe la Prova di Manifestazione ha successo, il Giocatore Controllante deve selezionare un Modello dell’unità Bersaglio che verrà Rimosso come Perdita, e tirare un Dado.\n3.\nSe il risultato del Dado è uguale o superiore a “4”, quel Modello non verrà Rimosso come Perdita e verrà rimesso in gioco in Coesione con la sua Unità, con la sua Caratteristica di Ferite impostata al suo Valore Base.\n4.\nQuesta Reazione Psionica non ha effetto sui Modelli senza Caratteristica di Ferite e se il risultato della Prova di Manifestazione causa Pericoli del Warp, questi vengono risolti dopo che il Modello è stato eventualmente riportato nell’Unità.",
+                "$text": "1. Il Giocatore Reattivo deve effettuare una Prova di Manifestazione.\n2. Se la Prova di Manifestazione ha successo, il Giocatore Controllante deve selezionare un Modello dell’unità Bersaglio che verrà Rimosso come Perdita, e tirare un Dado.\n3. Se il risultato del Dado è uguale o superiore a “4”, quel Modello non verrà Rimosso come Perdita e verrà rimesso in gioco in Coesione con la sua Unità, con la sua Caratteristica di Ferite impostata al suo Valore Base.\n4. Questa Reazione Psionica non ha effetto sui Modelli senza Caratteristica di Ferite e se il risultato della Prova di Manifestazione causa Pericoli del Warp, questi vengono risolti dopo che il Modello è stato eventualmente riportato nell’Unità.",
                 "name": "Procedura",
                 "typeId": "8d43-934e-e511-0cfd"
               }
@@ -896,7 +896,7 @@
                 "typeId": "d7d5-5b31-5b37-66c4"
               },
               {
-                "$text": "1.\nIl Giocatore che Controlla l’Unità Bersaglio deve effettuare una Prova di Resistenza per la stessa.\n2.\nSe la Prova di Resistenza fallisce, tutti i Modelli nell’Unità Bersaglio subiscono una penalità di -2 alla loro Caratteristica di Volontà quando cercano di Manifestare qualsiasi Potere Psionico o Reazione Psionica.\n3.\nSe un Modello nell’Unità Bersaglio effettua attacchi con un’Arma che ha il Tratto Psionico, la Forza di tali Colpi è ridotta di 1.",
+                "$text": "1. Il Giocatore che Controlla l’Unità Bersaglio deve effettuare una Prova di Resistenza per la stessa.\n2. Se la Prova di Resistenza fallisce, tutti i Modelli nell’Unità Bersaglio subiscono una penalità di -2 alla loro Caratteristica di Volontà quando cercano di Manifestare qualsiasi Potere Psionico o Reazione Psionica.\n3. Se un Modello nell’Unità Bersaglio effettua attacchi con un’Arma che ha il Tratto Psionico, la Forza di tali Colpi è ridotta di 1.",
                 "name": "Procedura",
                 "typeId": "3804-b2cf-9f1a-4ff0"
               }
@@ -1166,7 +1166,7 @@
                 "typeId": "d7d5-5b31-5b37-66c4"
               },
               {
-                "$text": "1.\nUna volta determinati il Fulcro e l’Unità Bersaglio, effettua una Prova di Manifestazione.\n2.\nSe la Prova di Manifestazione ha successo, tutti i Modelli nell’Unità Bersaglio ottengono le Regole Speciali Infuocato (1) e Insensibile al Dolore (6+).\n3.\nSe la Prova di Manifestazione fallisce, non ci sono ulteriori effetti.",
+                "$text": "1. Una volta determinati il Fulcro e l’Unità Bersaglio, effettua una Prova di Manifestazione.\n2. Se la Prova di Manifestazione ha successo, tutti i Modelli nell’Unità Bersaglio ottengono le Regole Speciali Infuocato (1) e Insensibile al Dolore (6+).\n3. Se la Prova di Manifestazione fallisce, non ci sono ulteriori effetti.",
                 "name": "Procedura",
                 "typeId": "3804-b2cf-9f1a-4ff0"
               }
@@ -1470,7 +1470,7 @@
             "typeId": "d7d5-5b31-5b37-66c4"
           },
           {
-            "$text": "1.\nUna volta determinato il Fulcro, effettua una Prova di Manifestazione.\n2.\nSe la Prova di Manifestazione ha successo, il Giocatore Attivo può selezionare un’Unità da un Distaccamento Manifestazione Demoniaca appartenente alla stessa Armata del Fulcro che si trova in Riserva.\nI Tiri Riserve effettuati per quell’Unità hanno automaticamente successo per la durata di questo Potere Psionico.",
+            "$text": "1. Una volta determinato il Fulcro, effettua una Prova di Manifestazione.\n2. Se la Prova di Manifestazione ha successo, il Giocatore Attivo può selezionare un’Unità da un Distaccamento Manifestazione Demoniaca appartenente alla stessa Armata del Fulcro che si trova in Riserva.\nI Tiri Riserve effettuati per quell’Unità hanno automaticamente successo per la durata di questo Potere Psionico.",
             "name": "Procedura",
             "typeId": "3804-b2cf-9f1a-4ff0"
           }

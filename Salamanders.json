@@ -2141,7 +2141,7 @@
                     "type": "and"
                   }
                 ],
-                "name": "Pyroclast",
+                "name": "Piroclasta",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo",
                 "hidden": false,
@@ -2205,7 +2205,7 @@
             ],
             "type": "model",
             "import": true,
-            "name": "Pyroclast",
+            "name": "Piroclasta",
             "hidden": false,
             "id": "bad9-4086-bbcb-0941",
             "sortIndex": 2
@@ -2388,7 +2388,7 @@
                     "type": "and"
                   }
                 ],
-                "name": "Guardiano Pyroclast",
+                "name": "Guardiano Piroclasta",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo",
                 "hidden": false,
@@ -2580,7 +2580,7 @@
             ],
             "type": "model",
             "import": true,
-            "name": "Guardiano Pyroclast",
+            "name": "Guardiano Piroclasta",
             "hidden": false,
             "id": "3d2e-0b99-086d-027f",
             "sortIndex": 1
@@ -3115,6 +3115,13 @@
             "targetId": "12ec-97aa-0b8a-7573"
           },
           {
+            "name": "Cyberteurgo",
+            "id": "23df-22ba-0da7-a6d1",
+            "hidden": false,
+            "type": "profile",
+            "targetId": "e4bc-7baa-05c4-6945"
+          },
+          {
             "name": "Fumogeno",
             "id": "85bd-ec8a-2ab7-9964",
             "hidden": false,
@@ -3382,7 +3389,7 @@
                     "type": "and"
                   }
                 ],
-                "name": "Advocate",
+                "name": "Oratore",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo",
                 "hidden": false,
@@ -3576,7 +3583,7 @@
             ],
             "type": "model",
             "import": true,
-            "name": "Advocate",
+            "name": "Oratore",
             "hidden": false,
             "id": "91a8-6553-1938-aae3",
             "defaultAmount": 1,
@@ -3721,7 +3728,7 @@
                     "type": "and"
                   }
                 ],
-                "name": "Adherent",
+                "name": "Aderente",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo",
                 "hidden": false,
@@ -4029,7 +4036,7 @@
             ],
             "type": "model",
             "import": true,
-            "name": "Adherent",
+            "name": "Aderente",
             "hidden": false,
             "id": "8a28-2d25-a523-c78e",
             "sortIndex": 2
@@ -4183,7 +4190,7 @@
         ],
         "type": "unit",
         "import": true,
-        "name": "Squadra di Adherent",
+        "name": "Squadra di Aderenti",
         "hidden": false,
         "id": "fecf-8e98-157d-e5ae",
         "sortIndex": 5
@@ -4368,7 +4375,7 @@
                     "type": "and"
                   }
                 ],
-                "name": "Consecrator",
+                "name": "Consacratore",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo",
                 "hidden": false,
@@ -4799,7 +4806,7 @@
             ],
             "type": "model",
             "import": true,
-            "name": "Consecrator",
+            "name": "Consacratore",
             "hidden": false,
             "id": "546b-c16b-710b-5eef",
             "defaultAmount": 1,
@@ -4944,7 +4951,7 @@
                     "type": "and"
                   }
                 ],
-                "name": "Sanctifier",
+                "name": "Santificatore",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo",
                 "hidden": false,
@@ -5535,7 +5542,7 @@
             ],
             "type": "model",
             "import": true,
-            "name": "Sanctifier",
+            "name": "Santificatore",
             "hidden": false,
             "id": "76c7-1092-4bdd-e2c3",
             "sortIndex": 2
@@ -5712,7 +5719,7 @@
         ],
         "type": "unit",
         "import": true,
-        "name": "Squadra di Sanctifier",
+        "name": "Squadra Santificatrice",
         "hidden": false,
         "id": "b278-6137-8f37-35f8",
         "sortIndex": 6
@@ -6048,7 +6055,7 @@
                     "includeChildSelections": true
                   }
                 ],
-                "name": "Un inductii in questa Unità può avere:",
+                "name": "Un singolo Modello di Inductii può prendere un Vessillo:",
                 "id": "d88d-5701-43a9-b0c6",
                 "sortIndex": 6
               },
@@ -6256,7 +6263,7 @@
                         "field": "a6ce-d088-4e30-b0e2"
                       }
                     ],
-                    "name": "Per ogni cinque Modelli in questa Unità,  Un inductii in questa Unità può sostituire Spada a catena con:",
+                    "name": "Ogni 5 Modelli nell’Unità, un singolo Modello di Inductii può sostituire Spada a catena con un oggetto dalla lista Armi da Mischia da Sergente della Legione:",
                     "id": "b1b9-b4df-4101-8892",
                     "hidden": false
                   },
@@ -6376,7 +6383,7 @@
                         "field": "da82-f54e-542b-7dd3"
                       }
                     ],
-                    "name": "Per ogni dieci Modelli in questa Unità,  Un inductii in questa Unità può sostituire Spada a catena con uno dei seguenti:",
+                    "name": "Ogni 10 Modelli nell’Unità, un singolo Modello di Inductii può sostituire Spada a catena con uno tra i seguenti:",
                     "id": "8d87-414e-4a25-82b2",
                     "hidden": false
                   }
@@ -7239,7 +7246,7 @@
             "hidden": false
           }
         ],
-        "name": "Squadra di Inductii",
+        "name": "Squadra Inductii delle Salamandre",
         "type": "unit",
         "id": "1c7f-663a-4039-9d81",
         "sortIndex": 7,
@@ -7385,7 +7392,7 @@
           }
         ],
         "import": true,
-        "name": "Squadra di Adherent",
+        "name": "Squadra di Aderenti",
         "hidden": false,
         "id": "c6be-bcb9-483e-ca2c",
         "type": "selectionEntry",
@@ -7407,7 +7414,7 @@
           }
         ],
         "import": true,
-        "name": "Squadra di Sanctifier",
+        "name": "Squadra Santificatrice",
         "hidden": false,
         "id": "df71-4618-3ec4-3b9e",
         "type": "selectionEntry",
@@ -7439,7 +7446,7 @@
           }
         ],
         "import": true,
-        "name": "Squadra di Inductii",
+        "name": "Squadra Inductii delle Salamandre",
         "hidden": false,
         "id": "6933-a196-b059-edab",
         "type": "selectionEntry",
@@ -7495,7 +7502,7 @@
             "typeId": "e102-8fdd-9cd4-c0f9"
           },
           {
-            "$text": "1.\nTutti i Modelli dell’Unità Reattiva hanno le loro Caratteristiche di Abilità di Combattimento, Forza e Attacchi modificate di +1 fino alla fine della Fase di Assalto in corso.\n2.\nNella seguente Sottofase degli Stati, il Giocatore Reattivo deve tirare un D6 per ogni Modello dell’Unità Reattiva.\n3.\nPer ogni risultato pari a 1, l’Unità Reattiva subisce 1 ferita automatica con una Caratteristica di Danno di ‘1’ e VP di ‘-’.",
+            "$text": "1. Tutti i Modelli dell’Unità Reattiva hanno le loro Caratteristiche di Abilità di Combattimento, Forza e Attacchi modificate di +1 fino alla fine della Fase di Assalto in corso.\n2. Nella seguente Sottofase degli Stati, il Giocatore Reattivo deve tirare un D6 per ogni Modello dell’Unità Reattiva.\n3. Per ogni risultato pari a 1, l’Unità Reattiva subisce 1 ferita automatica con una Caratteristica di Danno di ‘1’ e VP di ‘-’.",
             "name": "Procedura",
             "typeId": "57cf-1c68-a020-2529"
           }

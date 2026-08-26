@@ -2098,7 +2098,7 @@
                     "typeId": "d7d5-5b31-5b37-66c4"
                   },
                   {
-                    "$text": "1.\nUna volta determinati il Fulcro e l’Unità Bersaglio, il Giocatore Controllante dell’Unità Bersaglio effettua una Prova di Resistenza per quell’Unità.\n2.\nSe la Prova di Resistenza fallisce, il Giocatore Controllante del Modello Fulcro può selezionare un Modello con una Caratteristica Volontà pari o inferiore a 7 dall’Unità Bersaglio.\n3.\nPer la Durata di questo Potere Psionico, il Modello selezionato è considerato sotto il controllo del Giocatore Controllante del Fulcro di questo Potere.\n4.\nSe la Prova di Resistenza ha successo, non ci sono ulteriori effetti.",
+                    "$text": "1. Una volta determinati il Fulcro e l’Unità Bersaglio, il Giocatore Controllante dell’Unità Bersaglio effettua una Prova di Resistenza per quell’Unità.\n2. Se la Prova di Resistenza fallisce, il Giocatore Controllante del Modello Fulcro può selezionare un Modello con una Caratteristica Volontà pari o inferiore a 7 dall’Unità Bersaglio.\n3. Per la Durata di questo Potere Psionico, il Modello selezionato è considerato sotto il controllo del Giocatore Controllante del Fulcro di questo Potere.\n4. Se la Prova di Resistenza ha successo, non ci sono ulteriori effetti.",
                     "name": "Procedura",
                     "typeId": "3804-b2cf-9f1a-4ff0"
                   }
@@ -3208,7 +3208,7 @@
                     "type": "and"
                   }
                 ],
-                "name": "Dark Brethren",
+                "name": "Confatello Oscuro",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo",
                 "hidden": false,
@@ -3530,7 +3530,7 @@
                     "field": "1ab8-9f44-9644-62d7"
                   }
                 ],
-                "name": "Per ogni cinque Modelli in questa Unità,  Uno può sostituire Fucile requiem con:",
+                "name": "Ogni 5 Modelli nell’Unità, fino a 1 può sostituire Fucile requiem con uno tra i seguenti:",
                 "id": "86a1-5bf4-7d5c-6091",
                 "hidden": false
               },
@@ -3603,14 +3603,14 @@
                     "field": "5374-fc57-54f0-927c"
                   }
                 ],
-                "name": "Per ogni cinque Modelli in questa Unità,  Uno può sostituire Artigli corrotti con:",
+                "name": "Ogni 5 Modelli nell’Unità, fino a 1 può sostituire Artigli corrotti con uno tra i seguenti:",
                 "id": "0280-a331-0db3-5ab9",
                 "hidden": false
               }
             ],
             "type": "model",
             "import": true,
-            "name": "Dark Brethren",
+            "name": "Confatello Oscuro",
             "hidden": false,
             "id": "4895-ef9f-062c-0e7c"
           }
@@ -4728,7 +4728,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Fanteria (Sergente, Antigravitazionale)",
+                    "$text": "Fanteria (Antigravitazionale, Sergente)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -4901,7 +4901,7 @@
                     "type": "and"
                   }
                 ],
-                "name": "Iconoclast",
+                "name": "Iconoclasta",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo",
                 "hidden": false,
@@ -5070,7 +5070,7 @@
                     "includeChildSelections": false
                   }
                 ],
-                "name": "L’Iconoclast sostituisce la sua pistola lanciafiamme Akkadica:",
+                "name": "Il Modello di Iconoclasta può sostituire Pistola lanciafiamme Akkadica con uno tra i seguenti:",
                 "id": "ff8a-17b4-3124-b75b",
                 "hidden": false,
                 "defaultSelectionEntryId": "04d0-1f99-ce32-94fc",
@@ -5117,7 +5117,7 @@
             ],
             "type": "model",
             "import": true,
-            "name": "Iconoclast",
+            "name": "Iconoclasta",
             "hidden": false,
             "id": "4844-0ce8-3681-2bfa",
             "sortIndex": 1
@@ -5274,7 +5274,7 @@
         ],
         "type": "unit",
         "import": true,
-        "name": "Circolo di Cenere",
+        "name": "Squadra della Cerchia Cinerea",
         "hidden": false,
         "id": "9290-f8f4-ff78-b09c"
       },
@@ -7998,7 +7998,7 @@
                   }
                 ],
                 "id": "8ecc-695d-4825-987e",
-                "name": "Procurant",
+                "name": "Procurato",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo"
               }
@@ -8290,7 +8290,7 @@
                     "hidden": false
                   }
                 ],
-                "name": "Per ogni cinque Modelli in questa Unità,  Un procurant in questa Unità può:",
+                "name": "Un Modello ogni 5 può essere promosso a Procuratore:",
                 "id": "ee23-504a-4532-9782"
               }
             ],
@@ -8341,7 +8341,7 @@
               }
             ],
             "type": "model",
-            "name": "Procurant",
+            "name": "Procurato",
             "id": "7b76-a23f-4c83-a267",
             "page": 134,
             "publicationId": "5469-14da-d0a1-6092",
@@ -8526,7 +8526,7 @@
                   }
                 ],
                 "id": "3e9f-d114-406b-8a2c",
-                "name": "Procurator",
+                "name": "Procuratore",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo"
               }
@@ -8765,7 +8765,7 @@
               }
             ],
             "type": "model",
-            "name": "Procurator",
+            "name": "Procuratore",
             "id": "e1df-5b20-4bbf-9ee2",
             "page": 134,
             "publicationId": "5469-14da-d0a1-6092",
@@ -8909,7 +8909,7 @@
             "field": "hidden"
           }
         ],
-        "name": "Procurator",
+        "name": "Procuratori",
         "type": "unit",
         "id": "bb9d-a1b4-48d5-ac58",
         "page": 134,
@@ -9083,7 +9083,7 @@
                     "type": "and"
                   }
                 ],
-                "name": "Procurant con Reattori Dorsali",
+                "name": "Procurato con reattori dorsali",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo",
                 "hidden": false,
@@ -9399,7 +9399,7 @@
                     "hidden": false
                   }
                 ],
-                "name": "Per ogni cinque Modelli in questa Unità,  Un procurant in questa Unità può:",
+                "name": "Un Modello ogni 5 può essere promosso a Procuratore:",
                 "id": "ec3c-65d5-1aa6-52ae",
                 "hidden": false
               }
@@ -9459,7 +9459,7 @@
             ],
             "type": "model",
             "import": true,
-            "name": "Procurant con Reattori Dorsali",
+            "name": "Procurato con reattori dorsali",
             "hidden": false,
             "id": "552a-e6e2-3b64-738b",
             "page": 134,
@@ -9644,7 +9644,7 @@
                     "type": "and"
                   }
                 ],
-                "name": "Procurator con Reattori Dorsali",
+                "name": "Procuratore con reattori dorsali",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo",
                 "hidden": false,
@@ -9900,7 +9900,7 @@
             ],
             "type": "model",
             "import": true,
-            "name": "Procurator con Reattori Dorsali",
+            "name": "Procuratore con reattori dorsali",
             "hidden": false,
             "id": "4c00-6da4-8a83-e5ba",
             "page": 134,
@@ -10070,7 +10070,7 @@
         ],
         "type": "unit",
         "import": true,
-        "name": "Procurator con Reattori Dorsali",
+        "name": "Procuratori con reattori dorsali",
         "hidden": false,
         "id": "fd26-9fa0-4360-ae66",
         "page": 134,
@@ -10334,7 +10334,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Per ogni quattro Modelli in questa Unità, un Inductii in questa Unità può sostituire la sua Pistola requiem con ",
+                        "value": "Ogni 4 Modelli nell’Unità, un singolo Modello di Inductii può sostituire Pistola requiem con un oggetto dalla lista Pistole della Legione:",
                         "field": "name"
                       },
                       {
@@ -10520,7 +10520,7 @@
                     "includeChildSelections": true
                   }
                 ],
-                "name": "Un inductii in questa Unità può avere:",
+                "name": "Un singolo Modello di Inductii può prendere un Vessillo:",
                 "id": "32b0-1d72-48e9-9d57",
                 "sortIndex": 6
               },
@@ -10677,7 +10677,7 @@
                         "field": "35ca-dad5-4d2c-be72"
                       }
                     ],
-                    "name": "Per ogni quattro Modelli in questa Unità,  Un inductii in questa Unità può sostituire Spada a catena con uno dei seguenti:",
+                    "name": "Ogni 4 Modelli nell’Unità, un singolo Modello di Inductii può sostituire Spada a catena con uno tra i seguenti:",
                     "id": "c561-4a40-44ce-8489",
                     "hidden": false
                   }
@@ -10785,7 +10785,7 @@
             "hidden": false
           }
         ],
-        "name": "Squadra di Inductii",
+        "name": "Squadra Inductii dei Predicatori",
         "type": "unit",
         "id": "4755-69ce-4a81-894c",
         "page": 19,
@@ -10997,7 +10997,7 @@
                     "field": "f714-1726-37d3-44df"
                   }
                 ],
-                "name": "Phraetus Anointed",
+                "name": "Unto Phraetus",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo",
                 "hidden": false,
@@ -11455,7 +11455,7 @@
             ],
             "type": "model",
             "import": true,
-            "name": "Phraetus Anointed",
+            "name": "Unto Phraetus",
             "hidden": false,
             "id": "19e6-bfec-fb21-70b2",
             "defaultAmount": 2,
@@ -11723,7 +11723,7 @@
                     "field": "f714-1726-37d3-44df"
                   }
                 ],
-                "name": "Phraetus Disciple",
+                "name": "Discepolo Phraetus",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo",
                 "hidden": false,
@@ -12194,7 +12194,7 @@
             ],
             "type": "model",
             "import": true,
-            "name": "Phraetus Disciple",
+            "name": "Discepolo Phraetus",
             "hidden": false,
             "id": "3b02-c677-ca13-ef8d",
             "sortIndex": 1
@@ -12596,7 +12596,7 @@
           }
         ],
         "import": true,
-        "name": "Circolo di Cenere",
+        "name": "Squadra della Cerchia Cinerea",
         "hidden": false,
         "id": "4f05-5ff4-f414-18f4",
         "type": "selectionEntry",
@@ -12698,7 +12698,7 @@
           }
         ],
         "import": true,
-        "name": "Procurator",
+        "name": "Procuratori",
         "hidden": false,
         "id": "4934-5ee3-2d65-7ef3",
         "type": "selectionEntry",
@@ -12714,7 +12714,7 @@
           }
         ],
         "import": true,
-        "name": "Procurator con Reattori Dorsali",
+        "name": "Procuratori con reattori dorsali",
         "hidden": false,
         "id": "eaa2-3547-72f6-d19c",
         "type": "selectionEntry",
@@ -12730,7 +12730,7 @@
           }
         ],
         "import": true,
-        "name": "Squadra di Inductii",
+        "name": "Squadra Inductii dei Predicatori",
         "hidden": false,
         "id": "0114-8012-66c3-7c50",
         "type": "selectionEntry",

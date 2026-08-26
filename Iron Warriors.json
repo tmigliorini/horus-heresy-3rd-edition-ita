@@ -723,7 +723,7 @@
                 "typeId": "76e3-c188-bc65-3467"
               }
             ],
-            "name": "Morte Sprezzante (Profile)",
+            "name": "Morte Sprezzante (Profilo)",
             "typeId": "3587-6dcd-005c-c263",
             "typeName": "Arma da Mischia",
             "hidden": false,
@@ -4836,7 +4836,7 @@
                   }
                 ],
                 "id": "218f-ac92-4c68-a2cf",
-                "name": "Dominator",
+                "name": "Dominatore",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo"
               }
@@ -4976,7 +4976,7 @@
                     "field": "298e-7a1c-4f5c-9e7a"
                   }
                 ],
-                "name": "Per ogni cinque Modelli in questa Unità,  Un dominator può sostituire Combirequiem con uno dei seguenti:",
+                "name": "Ogni 5 Modelli nell’Unità, fino a 1 può sostituire Combirequiem con uno tra i seguenti:",
                 "id": "4901-082a-4b5d-9016",
                 "sortIndex": 3,
                 "defaultSelectionEntryId": "none"
@@ -5212,7 +5212,7 @@
               }
             ],
             "type": "model",
-            "name": "Dominator",
+            "name": "Dominatore",
             "id": "8857-434b-468b-a94e",
             "page": 91,
             "publicationId": "5469-14da-d0a1-6092"
@@ -6755,7 +6755,7 @@
                 "value": "Macro-auspex"
               }
             ],
-            "name": "Macro-Auspex",
+            "name": "Macro-auspex",
             "hidden": false,
             "type": "rule",
             "targetId": "8120-65ac-c2d4-a555",
@@ -7224,7 +7224,7 @@
                     "id": "02b5-e2a1-4e73-ac69"
                   }
                 ],
-                "name": "Un inductii in questa Unità può avere:",
+                "name": "Un singolo Modello di Inductii può prendere un Vessillo:",
                 "id": "aa96-5eff-4308-9212",
                 "sortIndex": 6
               },
@@ -7460,7 +7460,7 @@
             "targetId": "9829-1d35-5b26-51ce"
           }
         ],
-        "name": "Squadra di Inductii",
+        "name": "Squadra Inductii dei Guerrieri di Ferro",
         "type": "unit",
         "id": "bdb6-1c8f-4c24-a156",
         "sortIndex": 10,
@@ -7489,7 +7489,7 @@
           {
             "name": "Procedura",
             "typeId": "57cf-1c68-a020-2529",
-            "$text": "1.\nUna volta dichiarata questa Reazione, il Giocatore Attivo deve risolvere tutti i Passaggi rimanenti del processo di Attacco a Distanza normalmente, fino all’inizio del Passaggio 11.\n2.\nPrima di risolvere il Passaggio 11, Rimuovere le Perdite, il Giocatore Reattivo effettua un Attacco a Distanza con l’Unità Reattiva, inclusi tutti i Modelli che sono stati ridotti a 0 Ferite, prendendo di mira solo l’Unità Bersaglio.\n3.\nMentre effettua questo Attacco di Tiro, le Armi selezionate per esso modificano la loro Caratteristica Potenza di Fuoco di +1 e ottengono la Regola Speciale Surriscaldamento (1), oppure, se quell’Arma ha già la Regola Speciale Surriscaldamento (X), aumentano il valore di X di +1.\n4.\nUna volta che l’Attacco a Distanza effettuato come parte di questa Reazione è stato completamente risolto, il Giocatore Attivo deve quindi terminare la risoluzione del Passaggio 11 dell’Attacco a Distanza originale che ha attivato la Reazione."
+            "$text": "1. Una volta dichiarata questa Reazione, il Giocatore Attivo deve risolvere tutti i Passaggi rimanenti del processo di Attacco a Distanza normalmente, fino all’inizio del Passaggio 11.\n2. Prima di risolvere il Passaggio 11, Rimuovere le Perdite, il Giocatore Reattivo effettua un Attacco a Distanza con l’Unità Reattiva, inclusi tutti i Modelli che sono stati ridotti a 0 Ferite, prendendo di mira solo l’Unità Bersaglio.\n3. Mentre effettua questo Attacco di Tiro, le Armi selezionate per esso modificano la loro Caratteristica Potenza di Fuoco di +1 e ottengono la Regola Speciale Surriscaldamento (1), oppure, se quell’Arma ha già la Regola Speciale Surriscaldamento (X), aumentano il valore di X di +1.\n4. Una volta che l’Attacco a Distanza effettuato come parte di questa Reazione è stato completamente risolto, il Giocatore Attivo deve quindi terminare la risoluzione del Passaggio 11 dell’Attacco a Distanza originale che ha attivato la Reazione."
           }
         ],
         "name": "Reazione Avanzata: Furia Amara",
@@ -7715,7 +7715,7 @@
           }
         ],
         "import": true,
-        "name": "Squadra di Inductii",
+        "name": "Squadra Inductii dei Guerrieri di Ferro",
         "hidden": false,
         "id": "6849-f47a-78f5-639b",
         "type": "selectionEntry",
@@ -7867,7 +7867,7 @@
                         "typeId": "e102-8fdd-9cd4-c0f9"
                       },
                       {
-                        "$text": "1.\nUna volta dichiarata questa Reazione, il Giocatore Attivo deve risolvere tutti i Passaggi rimanenti del processo di Attacco a Distanza normalmente, fino all’inizio del Passaggio 11.\n2.\nPrima di risolvere il Passaggio 11, Rimuovere le Perdite, il Giocatore Reattivo effettua un Attacco a Distanza con l’Unità Reattiva, inclusi tutti i Modelli che sono stati ridotti a 0 Ferite, prendendo di mira solo l’Unità Bersaglio.\n3.\nMentre effettua questo Attacco di Tiro, le Armi selezionate per esso modificano la loro Caratteristica Potenza di Fuoco di +1 e ottengono la Regola Speciale Surriscaldamento (1), oppure, se quell’Arma ha già la Regola Speciale Surriscaldamento (X), aumentano il valore di X di +1.\n4.\nUna volta che l’Attacco a Distanza effettuato come parte di questa Reazione è stato completamente risolto, il Giocatore Attivo deve quindi terminare la risoluzione del Passaggio 11 dell’Attacco a Distanza originale che ha attivato la Reazione.",
+                        "$text": "1. Una volta dichiarata questa Reazione, il Giocatore Attivo deve risolvere tutti i Passaggi rimanenti del processo di Attacco a Distanza normalmente, fino all’inizio del Passaggio 11.\n2. Prima di risolvere il Passaggio 11, Rimuovere le Perdite, il Giocatore Reattivo effettua un Attacco a Distanza con l’Unità Reattiva, inclusi tutti i Modelli che sono stati ridotti a 0 Ferite, prendendo di mira solo l’Unità Bersaglio.\n3. Mentre effettua questo Attacco di Tiro, le Armi selezionate per esso modificano la loro Caratteristica Potenza di Fuoco di +1 e ottengono la Regola Speciale Surriscaldamento (1), oppure, se quell’Arma ha già la Regola Speciale Surriscaldamento (X), aumentano il valore di X di +1.\n4. Una volta che l’Attacco a Distanza effettuato come parte di questa Reazione è stato completamente risolto, il Giocatore Attivo deve quindi terminare la risoluzione del Passaggio 11 dell’Attacco a Distanza originale che ha attivato la Reazione.",
                         "name": "Procedura",
                         "typeId": "57cf-1c68-a020-2529"
                       }

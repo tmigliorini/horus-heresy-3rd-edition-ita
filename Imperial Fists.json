@@ -2062,7 +2062,7 @@
                     "includeChildSelections": false
                   }
                 ],
-                "name": "L’Sergente Guardiano può sostituire Ascia potenziata con uno dei seguenti:",
+                "name": "Il Modello di Sergente Guardiano può sostituire Ascia potenziata con uno tra i seguenti:",
                 "id": "68b5-3a82-acaf-57da",
                 "hidden": false,
                 "defaultSelectionEntryId": "7e32-6cec-e103-8d52",
@@ -2117,7 +2117,7 @@
                     "includeChildSelections": false
                   }
                 ],
-                "name": "L’Sergente Guardiano può sostituire Pistola requiem con uno dei seguenti:",
+                "name": "Il Modello di Sergente Guardiano può sostituire Pistola requiem con:",
                 "id": "749c-111d-e68c-0c0a",
                 "hidden": false,
                 "defaultSelectionEntryId": "6267-2df1-06f6-27f5",
@@ -2387,7 +2387,7 @@
                     "type": "and"
                   }
                 ],
-                "name": "Guardiano della Falange",
+                "name": "Guardiano della Phalanx",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo",
                 "hidden": false,
@@ -2645,7 +2645,7 @@
                     "field": "8152-45da-8f67-6bd7"
                   }
                 ],
-                "name": "Per ogni cinque Modelli in questa Unità,  Un Guardiano della Falange in questa Unità può avere:",
+                "name": "Ogni 5 Modelli nell’Unità, un singolo Modello di Guardiano della Phalanx può prendere uno tra i seguenti:",
                 "id": "4846-14ae-be13-1f91",
                 "hidden": false,
                 "sortIndex": 3
@@ -2704,7 +2704,7 @@
             ],
             "type": "model",
             "import": true,
-            "name": "Guardiano della Falange",
+            "name": "Guardiano della Phalanx",
             "hidden": false,
             "id": "cb0b-fe46-94f9-947c",
             "sortIndex": 2
@@ -2786,7 +2786,7 @@
             ],
             "type": "upgrade",
             "import": true,
-            "name": "Ogni Modello in questa Unità può avere Bombe termiche",
+            "name": "Tutti i Modelli nell'Unità possono scegliere di prendere Bombe termiche:",
             "hidden": false,
             "id": "531e-3c3e-f808-604c",
             "flatten": true,
@@ -2945,7 +2945,7 @@
         ],
         "type": "unit",
         "import": true,
-        "name": "Squadra di Guardiani della Falange",
+        "name": "Guardiani della Phalanx",
         "hidden": false,
         "id": "7ee4-7278-0ad7-4c29"
       },
@@ -4187,7 +4187,7 @@
                     "includeChildSelections": false
                   }
                 ],
-                "name": "L’Campione Templare in questa Unità può sostituire Spada potenziata con uno dei seguenti:",
+                "name": "Il Modello di Campione Templare può sostituire Spada potenziata con uno tra i seguenti:",
                 "id": "7730-69f3-dbe3-53fc",
                 "hidden": false,
                 "defaultSelectionEntryId": "bf9c-03e2-27bc-f068",
@@ -4274,7 +4274,7 @@
                     "includeChildSelections": false
                   }
                 ],
-                "name": "L’Campione Templare in questa Unità può sostituire Pistola requiem con:",
+                "name": "Il Modello di Campione Templare può sostituire Pistola requiem con:",
                 "id": "9064-0afd-f8b5-4d6b",
                 "hidden": false,
                 "defaultSelectionEntryId": "a44d-e8fc-803f-db8e",
@@ -4718,7 +4718,7 @@
             ],
             "type": "model",
             "import": true,
-            "name": "Fratello Templare",
+            "name": "Templare",
             "hidden": false,
             "id": "78de-a30b-05a4-1c6a",
             "sortIndex": 2
@@ -4800,7 +4800,7 @@
             ],
             "type": "upgrade",
             "import": true,
-            "name": "Ogni Modello in questa Unità può avere Bombe termiche",
+            "name": "Tutti i Modelli nell'Unità possono scegliere di prendere Bombe termiche:",
             "hidden": false,
             "id": "2aed-b30d-a2a9-3524",
             "flatten": true
@@ -4909,7 +4909,7 @@
         ],
         "type": "unit",
         "import": true,
-        "name": "Fratello Templare",
+        "name": "Confraternita Templare",
         "hidden": false,
         "id": "0096-62da-55d8-3912"
       },
@@ -5643,7 +5643,7 @@
                   }
                 ],
                 "id": "8f3c-df94-47f4-a0bc",
-                "name": "Terminator Uscarla",
+                "name": "Terminator Uscarlo",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo"
               }
@@ -5775,7 +5775,7 @@
               }
             ],
             "type": "model",
-            "name": "Terminator Uscarla",
+            "name": "Terminator Uscarlo",
             "id": "1386-88cc-46d9-8a89",
             "page": 108,
             "publicationId": "5469-14da-d0a1-6092",
@@ -5960,7 +5960,7 @@
                   }
                 ],
                 "id": "ebba-e225-44b0-b5c3",
-                "name": "Sergente Terminator Uscarla",
+                "name": "Sergente Terminator Uscarlo",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo"
               }
@@ -6145,7 +6145,7 @@
               }
             ],
             "type": "model",
-            "name": "Sergente Terminator Uscarla",
+            "name": "Sergente Terminator Uscarlo",
             "id": "d887-30f7-4307-934a",
             "page": 108,
             "publicationId": "5469-14da-d0a1-6092",
@@ -6259,7 +6259,7 @@
             "targetId": "3fa2-78b1-637f-7fb2"
           }
         ],
-        "name": "Seguito di Terminator Uscarla",
+        "name": "Guardia Terminator Uscarla",
         "type": "unit",
         "id": "03d6-e650-4864-9a0e",
         "page": 108,
@@ -7090,7 +7090,7 @@
                         "field": "f67f-92b6-6973-6b1f"
                       }
                     ],
-                    "name": "Per ogni dieci Modelli in questa Unità,  Un inductii in questa Unità può sostituire Fucile requiem con uno dei seguenti:",
+                    "name": "Ogni 10 Modelli nell’Unità, un singolo Modello di Inductii può sostituire Fucile requiem con uno tra i seguenti:",
                     "id": "fc73-940e-bf8d-654d",
                     "hidden": false
                   }
@@ -7146,7 +7146,7 @@
                     "id": "eb94-cc9d-41c3-8d71"
                   }
                 ],
-                "name": "Un inductii in questa Unità può selezionare un Vessillo per +10 punti.",
+                "name": "Un singolo Modello di Inductii può prendere un Vessillo:",
                 "id": "11e8-7128-460a-8f62",
                 "sortIndex": 5
               },
@@ -7296,7 +7296,7 @@
             "hidden": false
           }
         ],
-        "name": "Squadra di Inductii",
+        "name": "Squadra Inductii dei Magli Imperiali",
         "type": "unit",
         "id": "ca87-d173-4967-add6",
         "page": 8,
@@ -7477,7 +7477,7 @@
           }
         ],
         "import": true,
-        "name": "Squadra di Guardiani della Falange",
+        "name": "Guardiani della Phalanx",
         "hidden": false,
         "id": "0f66-b753-ed91-e9b5",
         "type": "selectionEntry",
@@ -7531,7 +7531,7 @@
           }
         ],
         "import": true,
-        "name": "Seguito di Terminator Uscarla",
+        "name": "Guardia Terminator Uscarla",
         "hidden": false,
         "id": "46c8-cc57-8194-4203",
         "type": "selectionEntry",
@@ -7563,7 +7563,7 @@
           }
         ],
         "import": true,
-        "name": "Squadra di Inductii",
+        "name": "Squadra Inductii dei Magli Imperiali",
         "hidden": false,
         "id": "f042-5dac-5e2d-67df",
         "type": "selectionEntry",

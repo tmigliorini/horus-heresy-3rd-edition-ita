@@ -1101,7 +1101,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Fanteria (Sergente, Schermagliatore)",
+                    "$text": "Fanteria (Schermagliatore, Sergente)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -1274,7 +1274,7 @@
                     "type": "and"
                   }
                 ],
-                "name": "Cacciatore di Teste Primario",
+                "name": "Primo Cacciateste",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo",
                 "hidden": false,
@@ -1534,7 +1534,7 @@
             ],
             "type": "model",
             "import": true,
-            "name": "Cacciatore di Teste Primario",
+            "name": "Primo Cacciateste",
             "hidden": false,
             "id": "09f8-4393-c543-3db6",
             "sortIndex": 1
@@ -1678,7 +1678,7 @@
                     "type": "and"
                   }
                 ],
-                "name": "Cacciatore di Teste",
+                "name": "Cacciateste",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo",
                 "hidden": false,
@@ -1806,7 +1806,7 @@
                         "field": "013d-3de2-2465-e407"
                       }
                     ],
-                    "name": "Per ogni cinque Modelli in questa Unità,  Uno può sostituire Combirequiem Banestrike con:",
+                    "name": "Ogni 5 Modelli nell’Unità, un singolo Modello di Cacciateste può sostituire Combirequiem Banestrike con uno tra i seguenti:",
                     "id": "ea0d-0e8c-edb9-e61f",
                     "hidden": false
                   },
@@ -1954,7 +1954,7 @@
             ],
             "type": "model",
             "import": true,
-            "name": "Cacciatore di Teste",
+            "name": "Cacciateste",
             "hidden": false,
             "id": "b8ac-3017-94f9-d523",
             "sortIndex": 2
@@ -2078,7 +2078,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Ogni Modello in questa Unità può avere Bombe termiche:",
+                "value": "Tutti i Modelli nell’Unità possono scegliere di prendere Bombe termiche:",
                 "field": "name"
               },
               {
@@ -2837,7 +2837,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Fanteria (Sergente, Pesante)",
+                    "$text": "Fanteria (Pesante, Sergente)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -3010,7 +3010,7 @@
                     "type": "and"
                   }
                 ],
-                "name": "Harrower",
+                "name": "Tormentatore",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo",
                 "hidden": false,
@@ -3372,7 +3372,7 @@
             ],
             "type": "model",
             "import": true,
-            "name": "Harrower",
+            "name": "Tormentatore",
             "hidden": false,
             "id": "9e0c-5953-9137-584a",
             "sortIndex": 1
@@ -5276,7 +5276,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Fanteria (Sergente, Schermagliatore)",
+                    "$text": "Fanteria (Schermagliatore, Sergente)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -5807,7 +5807,7 @@
                     "type": "and"
                   }
                 ],
-                "name": "Disruptor",
+                "name": "Disgregatore",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo",
                 "hidden": false,
@@ -5999,7 +5999,7 @@
             ],
             "type": "model",
             "import": true,
-            "name": "Disruptor",
+            "name": "Disgregatore",
             "hidden": false,
             "id": "ebb3-9829-881f-d117",
             "sortIndex": 2
@@ -6181,7 +6181,7 @@
                 "targetId": "2eb4-687e-a515-ee3d"
               }
             ],
-            "name": "Ogni Modello in questa Unità può avere:",
+            "name": "Tutti i Modelli nell’Unità possono scegliere di prendere Bombe termiche:",
             "id": "0251-c090-f583-00b3",
             "hidden": false,
             "sortIndex": 5
@@ -6197,7 +6197,7 @@
         ],
         "type": "unit",
         "import": true,
-        "name": "Nucleo di Disruzione Effrit",
+        "name": "Nucleo di Disgregazione Effrit",
         "hidden": false,
         "id": "ce42-aa07-7613-a86d",
         "sortIndex": 8
@@ -6518,7 +6518,7 @@
                     "includeChildSelections": true
                   }
                 ],
-                "name": "Un inductii in questa Unità può avere:",
+                "name": "Un singolo Modello di Inductii può prendere un Vessillo:",
                 "id": "4e55-b2da-4cda-9f1f",
                 "sortIndex": 6
               },
@@ -6678,7 +6678,7 @@
                         "field": "cfb1-dd95-6e1f-7149"
                       }
                     ],
-                    "name": "Per ogni cinque Modelli in questa Unità,  Un inductii in questa Unità può sostituire Fucile requiem con:",
+                    "name": "Ogni 5 Modelli nell’Unità, un singolo Modello di Inductii può sostituire Fucile requiem con un oggetto dalla lista Combiarmi della Legione:",
                     "id": "3970-99a9-4945-9520",
                     "hidden": false
                   }
@@ -7131,7 +7131,7 @@
           }
         ],
         "import": true,
-        "name": "Squadra Interemptor dell’Ala del Terrore",
+        "name": "Sterminatori dell’Ala del Terrore",
         "hidden": false,
         "id": "ff8c-a2a6-c317-74ca",
         "type": "selectionEntry",
@@ -7545,7 +7545,7 @@
           }
         ],
         "import": true,
-        "name": "Squadra Suzerain Invictus",
+        "name": "Squadra di Invictarus Suzerain",
         "hidden": false,
         "id": "57ab-0246-a6de-f8c5",
         "type": "selectionEntry",
@@ -7617,7 +7617,7 @@
           }
         ],
         "import": true,
-        "name": "Squadra Dark Fury",
+        "name": "Squadra di Furie Oscure",
         "hidden": false,
         "id": "53e3-556b-3428-f7a6",
         "type": "selectionEntry",
@@ -8310,7 +8310,7 @@
           }
         ],
         "import": true,
-        "name": "Nucleo di Disruzione Effrit",
+        "name": "Nucleo di Disgregazione Effrit",
         "hidden": false,
         "id": "e859-a4ec-d4c5-70b1",
         "type": "selectionEntry",
@@ -8923,7 +8923,7 @@
           }
         ],
         "import": true,
-        "name": "Squadra di Chieftain",
+        "name": "Squadra Capiclan",
         "hidden": false,
         "id": "988a-bdd9-3e7f-c18d",
         "type": "selectionEntry",
@@ -9015,7 +9015,7 @@
           }
         ],
         "import": true,
-        "name": "Squadra di Adherent",
+        "name": "Squadra di Aderenti",
         "hidden": false,
         "id": "5f1f-f0e6-ce1a-d950",
         "type": "selectionEntry",
@@ -9038,7 +9038,7 @@
           }
         ],
         "import": true,
-        "name": "Squadra di Sanctifier",
+        "name": "Squadra Santificatrice",
         "hidden": false,
         "id": "efed-0a93-ac08-a5f4",
         "type": "selectionEntry",

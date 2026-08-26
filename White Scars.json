@@ -2438,7 +2438,7 @@
                     "type": "and"
                   }
                 ],
-                "name": "Cavaliere Keshig",
+                "name": "Motociclista Keshig",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo",
                 "hidden": false,
@@ -2710,7 +2710,7 @@
             ],
             "type": "model",
             "import": true,
-            "name": "Cavaliere Keshig",
+            "name": "Motociclista Keshig",
             "hidden": false,
             "id": "3c80-c6ab-8fbb-79f1",
             "sortIndex": 2
@@ -8363,7 +8363,7 @@
                     "type": "and"
                   }
                 ],
-                "name": "Dark Son",
+                "name": "Figlio oscuro",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo",
                 "hidden": false,
@@ -8689,7 +8689,7 @@
             ],
             "type": "model",
             "import": true,
-            "name": "Dark Son",
+            "name": "Figlio oscuro",
             "hidden": false,
             "id": "1dc7-fc84-c17c-85d0",
             "sortIndex": 2
@@ -8872,7 +8872,7 @@
                     "type": "and"
                   }
                 ],
-                "name": "Campione della Morte",
+                "name": "Campione della morte",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo",
                 "hidden": false,
@@ -9272,7 +9272,7 @@
             ],
             "type": "model",
             "import": true,
-            "name": "Campione della Morte",
+            "name": "Campione della morte",
             "hidden": false,
             "id": "15fd-61b6-f9ad-9b46",
             "sortIndex": 1
@@ -10003,7 +10003,7 @@
                         "field": "9a32-d498-cb34-4c7d"
                       }
                     ],
-                    "name": "Per ogni quattro Modelli in questa Unità,  Un inductii in questa Unità può sostituire Spada a catena con uno dei seguenti:",
+                    "name": "Ogni 4 Modelli nell’Unità, un singolo Modello di Inductii può sostituire Spada a catena con uno tra i seguenti:",
                     "id": "13c9-a756-d1df-5423",
                     "hidden": false
                   }
@@ -10072,7 +10072,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Per ogni quattro Modelli in questa Unità, un Inductii in questa Unità può sostituire la sua Pistola requiem con ",
+                        "value": "Ogni 4 Modelli nell’Unità, un singolo Modello di Inductii può sostituire Pistola requiem con un oggetto dalla lista Pistole della Legione:",
                         "field": "name"
                       },
                       {
@@ -10242,7 +10242,7 @@
                     "id": "d49f-615e-4c7c-bd67"
                   }
                 ],
-                "name": "Un inductii in questa Unità può avere:",
+                "name": "Un singolo Modello di Inductii può prendere un Vessillo:",
                 "id": "a642-55d2-4a5f-88c4",
                 "sortIndex": 6
               }
@@ -10325,7 +10325,7 @@
             "hidden": false
           }
         ],
-        "name": "Squadra di Inductii",
+        "name": "Squadra Inductii delle Furie Bianche",
         "type": "unit",
         "id": "5729-fd79-4bf5-a53b",
         "sortIndex": 15,
@@ -10701,7 +10701,7 @@
           }
         ],
         "import": true,
-        "name": "Squadra di Inductii",
+        "name": "Squadra Inductii delle Furie Bianche",
         "hidden": false,
         "id": "1d03-582d-35ba-8cc9",
         "type": "selectionEntry",

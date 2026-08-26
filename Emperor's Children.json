@@ -3339,7 +3339,7 @@
                 "field": "hidden"
               }
             ],
-            "name": "Tutti i Modelli può avere uno dei seguenti: tutti devono avere lo stesso.",
+            "name": "Tutti i Modelli nell’Unità possono scegliere di prendere uno tra i seguenti:",
             "id": "2061-8e93-953f-d964",
             "hidden": true
           }
@@ -4508,7 +4508,7 @@
                     "type": "and"
                   }
                 ],
-                "name": "Orchestrator",
+                "name": "Orchestratore",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo",
                 "hidden": false,
@@ -4700,7 +4700,7 @@
             ],
             "type": "model",
             "import": true,
-            "name": "Orchestrator",
+            "name": "Orchestratore",
             "hidden": false,
             "id": "7a3f-6183-5b33-2a91",
             "sortIndex": 1,
@@ -4883,7 +4883,7 @@
                     "type": "and"
                   }
                 ],
-                "name": "Chora",
+                "name": "Corista",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo",
                 "hidden": false,
@@ -4986,7 +4986,7 @@
             ],
             "type": "model",
             "import": true,
-            "name": "Chora",
+            "name": "Corista",
             "hidden": false,
             "id": "d66a-a50b-2dc9-756a",
             "sortIndex": 2,
@@ -7911,7 +7911,7 @@
                         "field": "3cb2-c44c-7635-6001"
                       }
                     ],
-                    "name": "Per ogni quattro Modelli in questa Unità,  Un inductii in questa Unità può sostituire Spada a catena con:",
+                    "name": "Ogni 4 Modelli nell’Unità, un singolo Modello di Inductii può sostituire Spada a catena con uno tra i seguenti:",
                     "id": "f431-71d3-43ad-92c6",
                     "hidden": false
                   }
@@ -7963,7 +7963,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Per ogni quattro Modelli in questa Unità, un Inductii in questa Unità può sostituire la sua Pistola requiem con ",
+                        "value": "Ogni 4 Modelli nell’Unità, un singolo Modello di Inductii può sostituire Pistola requiem con un oggetto dalla lista Pistole della Legione:",
                         "field": "name"
                       },
                       {
@@ -8077,7 +8077,7 @@
             "hidden": false
           }
         ],
-        "name": "Squadra di Inductii",
+        "name": "Squadra Inductii dei Figli dell'Imperatore",
         "type": "unit",
         "id": "54b6-dc9c-4cd4-884b",
         "page": 4,
@@ -8335,7 +8335,7 @@
           }
         ],
         "import": true,
-        "name": "Squadra di Inductii",
+        "name": "Squadra Inductii dei Figli dell'Imperatore",
         "hidden": false,
         "id": "81c2-b07f-3bdd-e42d",
         "type": "selectionEntry",
@@ -8915,7 +8915,7 @@
                 "id": "21d4-ea05-fb4b-6f4a"
               }
             ],
-            "name": "Primario Alto Comando",
+            "name": "Alto Comando (Primario)",
             "hidden": false,
             "id": "2172-df90-08a5-8cd6",
             "targetId": "3568-ad75-b452-3137"

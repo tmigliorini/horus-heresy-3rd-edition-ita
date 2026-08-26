@@ -2451,7 +2451,7 @@
                     "type": "and"
                   }
                 ],
-                "name": "Praefectus Interemptor",
+                "name": "Prefetto",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo",
                 "hidden": false,
@@ -2571,7 +2571,7 @@
             ],
             "type": "model",
             "import": true,
-            "name": "Praefectus Interemptor",
+            "name": "Prefetto",
             "hidden": false,
             "id": "b9cc-f676-273f-a094",
             "sortIndex": 1
@@ -2752,7 +2752,7 @@
                     "type": "and"
                   }
                 ],
-                "name": "Interemptor",
+                "name": "Sterminatore",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo",
                 "hidden": false,
@@ -2862,7 +2862,7 @@
                         "targetId": "a645-4447-2176-3ca5"
                       }
                     ],
-                    "name": "Per ogni cinque Modelli in questa Unità,  Un Bruciatore al plasma degli Interemptor può essere sostituito con uno dei seguenti:",
+                    "name": "Ogni 5 Modelli nell’Unità, un singolo Modello di Sterminatore può sostituire Bruciatore plasma con uno tra i seguenti:",
                     "id": "52d2-cd67-b6ca-05ba",
                     "hidden": false,
                     "defaultSelectionEntryId": "none"
@@ -2971,7 +2971,7 @@
             ],
             "type": "model",
             "import": true,
-            "name": "Interemptor",
+            "name": "Sterminatore",
             "hidden": false,
             "id": "e956-50db-74c7-d893",
             "sortIndex": 2
@@ -3041,7 +3041,7 @@
         "comment": "Support",
         "type": "unit",
         "import": true,
-        "name": "Squadra Interemptor dell’Ala del Terrore",
+        "name": "Sterminatori dell’Ala del Terrore",
         "hidden": false,
         "id": "d788-b46c-c9f2-0aa9",
         "publicationId": "b905-0414-1057-bb34"
@@ -11336,7 +11336,7 @@
                     "id": "fc5f-d8b6-46e1-b74f"
                   }
                 ],
-                "name": "Un inductii in questa Unità può selezionare un Vessillo per +10 punti.",
+                "name": "Un singolo Modello di Inductii può prendere un Vessillo:",
                 "id": "34bd-c2d5-4070-b2da",
                 "sortIndex": 5
               }
@@ -11412,7 +11412,7 @@
             "targetId": "9829-1d35-5b26-51ce"
           }
         ],
-        "name": "Squadra di Inductii",
+        "name": "Squadra Inductii degli Angeli Oscuri",
         "type": "unit",
         "id": "d6b5-9428-48a9-952f",
         "page": 3,
@@ -11565,7 +11565,7 @@
           }
         ],
         "import": true,
-        "name": "Squadra Interemptor dell’Ala del Terrore",
+        "name": "Sterminatori dell’Ala del Terrore",
         "hidden": false,
         "id": "fbd4-c7ab-dfef-cc42",
         "type": "selectionEntry",
@@ -11713,7 +11713,7 @@
           }
         ],
         "import": true,
-        "name": "Squadra di Inductii",
+        "name": "Squadra Inductii degli Angeli Oscuri",
         "hidden": false,
         "id": "0eef-e7e7-b3da-778e",
         "type": "selectionEntry",

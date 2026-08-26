@@ -2854,7 +2854,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Fanteria (Sergente, Pesante)",
+                    "$text": "Fanteria (Pesante, Sergente)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -3045,7 +3045,7 @@
                     "type": "and"
                   }
                 ],
-                "name": "Sekhmet Inceptor",
+                "name": "Inceptor Sekhmet",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo",
                 "hidden": false,
@@ -3549,7 +3549,7 @@
             ],
             "type": "model",
             "import": true,
-            "name": "Sekhmet Inceptor",
+            "name": "Inceptor Sekhmet",
             "hidden": false,
             "id": "6b06-8e9d-f110-8058",
             "sortIndex": 1
@@ -4621,7 +4621,7 @@
                     "type": "and"
                   }
                 ],
-                "name": "Khenetai Blademaster",
+                "name": "Maestro di lame",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo",
                 "hidden": false,
@@ -4777,7 +4777,7 @@
             ],
             "type": "model",
             "import": true,
-            "name": "Khenetai Blademaster",
+            "name": "Maestro di lame",
             "hidden": false,
             "id": "b811-45c5-f560-eea7",
             "sortIndex": 1,
@@ -4977,7 +4977,7 @@
                     "type": "and"
                   }
                 ],
-                "name": "Lama Khenetai",
+                "name": "Khenetai",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo",
                 "hidden": false,
@@ -5125,7 +5125,7 @@
                     "field": "ca1c-66ab-7eb7-a047"
                   }
                 ],
-                "name": "Per ogni cinque Modelli in questa Unità,  Un Modello in questa Unità può sostituire Pistola requiem con:",
+                "name": "Ogni 5 Modelli nell'Unità, fino a 1 può sostituire Pistola requiem con uno tra i seguenti:",
                 "id": "c4b8-7371-61f3-156d",
                 "hidden": false
               },
@@ -5205,7 +5205,7 @@
             ],
             "type": "model",
             "import": true,
-            "name": "Lama Khenetai",
+            "name": "Khenetai",
             "hidden": false,
             "id": "5ffc-2d00-d1b9-73e8",
             "sortIndex": 2
@@ -5252,7 +5252,7 @@
                 "typeId": "d7d5-5b31-5b37-66c4"
               },
               {
-                "$text": "1.\nUna volta determinati il Fulcro e l’Unità Bersaglio, il Giocatore Controllante del Fulcro deve effettuare una Prova di Manifestazione.\n2.\nSe la Prova di Manifestazione ha successo, tutte le spade energetiche Achea abbinate possedute dai Modelli nell’Unità Bersaglio ottengono la Regola Speciale Precisione (5+).\n3.\nSe la Prova di Manifestazione fallisce, non ci sono ulteriori effetti.",
+                "$text": "1. Una volta determinati il Fulcro e l’Unità Bersaglio, il Giocatore Controllante del Fulcro deve effettuare una Prova di Manifestazione.\n2. Se la Prova di Manifestazione ha successo, tutte le spade energetiche Achea abbinate possedute dai Modelli nell’Unità Bersaglio ottengono la Regola Speciale Precisione (5+).\n3. Se la Prova di Manifestazione fallisce, non ci sono ulteriori effetti.",
                 "name": "Procedura",
                 "typeId": "3804-b2cf-9f1a-4ff0"
               }
@@ -5291,7 +5291,7 @@
                 "typeId": "daae-40ac-68e2-fa78"
               },
               {
-                "$text": "1.\nUna volta determinati il Fulcro e l’Unità Bersaglio, il Giocatore Controllante del Fulcro deve effettuare una Prova di Manifestazione.\n2.\nSe la Prova di Manifestazione ha successo, tutti i Modelli nell’Unità bersaglio della Benedizione ottengono un Tiro Invulnerabilità di 5+ contro qualsiasi ferita inflitta.\n3.\nSe la Prova di Manifestazione fallisce, non ci sono effetti.",
+                "$text": "1. Una volta determinati il Fulcro e l’Unità Bersaglio, il Giocatore Controllante del Fulcro deve effettuare una Prova di Manifestazione.\n2. Se la Prova di Manifestazione ha successo, tutti i Modelli nell’Unità bersaglio della Benedizione ottengono un Tiro Invulnerabilità di 5+ contro qualsiasi ferita inflitta.\n3. Se la Prova di Manifestazione fallisce, non ci sono effetti.",
                 "name": "Procedura",
                 "typeId": "8d43-934e-e511-0cfd"
               }
@@ -7171,7 +7171,7 @@
                   }
                 ],
                 "id": "4e1d-d5ef-4d18-830d",
-                "name": "Guardia Vitale",
+                "name": "Custode del Sapere",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo"
               }
@@ -7333,7 +7333,7 @@
                     "includeChildSelections": true
                   }
                 ],
-                "name": "Un Guardia Vitale può sostituire Spada a catena con:",
+                "name": "Un singolo Modello di Custode del Sapere può sostituire Spada a catena con uno tra i seguenti:",
                 "id": "3f76-dbf0-40a1-8107"
               },
               {
@@ -7425,7 +7425,7 @@
                     "field": "9b1b-549b-486d-a06b"
                   }
                 ],
-                "name": "Per ogni cinque Modelli in questa Unità,  Un Guardia Vitale in questa Unità può sostituire Pistola requiem con uno dei seguenti:",
+                "name": "Ogni 5 Modelli nell’Unità, un singolo Modello di Custode del Sapere può sostituire Pistola requiem con uno tra i seguenti:",
                 "id": "c8bc-adec-40e6-966d"
               },
               {
@@ -7466,7 +7466,7 @@
                     "includeChildSelections": true
                   }
                 ],
-                "name": "Un Guardia Vitale in questa Unità può avere:",
+                "name": "Un singolo Modello di Custode del Sapere può prendere:",
                 "id": "bc99-de0f-4819-b566"
               }
             ],
@@ -7487,7 +7487,7 @@
               }
             ],
             "type": "model",
-            "name": "Guardia Vitale",
+            "name": "Custode del Sapere",
             "id": "ddaa-5e34-46cc-b4a1",
             "page": 124,
             "publicationId": "5469-14da-d0a1-6092",
@@ -7690,7 +7690,7 @@
                   }
                 ],
                 "id": "2419-8bd5-4562-bb79",
-                "name": "Numerologist",
+                "name": "Numerologo",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo"
               }
@@ -8231,7 +8231,7 @@
               }
             ],
             "type": "model",
-            "name": "Numerologist",
+            "name": "Numerologo",
             "id": "ff53-083b-489b-b9c6",
             "page": 124,
             "publicationId": "5469-14da-d0a1-6092",
@@ -8509,7 +8509,7 @@
                   }
                 ],
                 "id": "6030-130e-427f-b075",
-                "name": "Intercessor",
+                "name": "Interdittore",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo"
               }
@@ -8578,7 +8578,7 @@
                     "includeChildSelections": true
                   }
                 ],
-                "name": "Un intercessor in questa Unità può avere:",
+                "name": "Un singolo Modello di Interdittore può prendere Nuncio-vox:",
                 "id": "9d92-e733-45e3-8231",
                 "sortIndex": 3
               },
@@ -8690,7 +8690,7 @@
                 "defaultSelectionEntryId": "9b09-dc9c-3bf4-3742",
                 "selectionEntryGroups": [
                   {
-                    "name": "Per ogni cinque Modelli in questa Unità,  Fino a due intercessors in questa Unità può sostituire Requiem Nemesis con uno dei seguenti:",
+                    "name": "Ogni 5 Modelli nell’Unità, fino a 2 Modelli di Interdittore possono sostituire Requiem Nemesis con uno tra i seguenti:",
                     "id": "1b44-6ba9-4b8f-a253",
                     "hidden": false,
                     "entryLinks": [
@@ -8840,7 +8840,7 @@
               }
             ],
             "type": "model",
-            "name": "Intercessor",
+            "name": "Interdittore",
             "id": "2507-0dbb-49af-9357",
             "page": 126,
             "publicationId": "5469-14da-d0a1-6092",
@@ -9043,7 +9043,7 @@
                   }
                 ],
                 "id": "8c00-b22b-4998-adbb",
-                "name": "Ammitara Fate",
+                "name": "Fato Amittara",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo"
               }
@@ -9252,7 +9252,7 @@
               }
             ],
             "type": "model",
-            "name": "Ammitara Fate",
+            "name": "Fato Amittara",
             "id": "5bd7-0847-420e-b1f4",
             "page": 126,
             "publicationId": "5469-14da-d0a1-6092",
@@ -9420,7 +9420,7 @@
             "name": "Corvidae"
           }
         ],
-        "name": "Cabala di Interdizione degli Amittara",
+        "name": "Cabala di interdizione degli Amittara",
         "type": "unit",
         "id": "d661-5aa7-4e05-a6e5",
         "page": 126,
@@ -9663,7 +9663,7 @@
                     "includeChildSelections": true
                   }
                 ],
-                "name": "Un inductii in questa Unità può avere:",
+                "name": "Un singolo Modello di Inductii può prendere un Vessillo:",
                 "id": "cdfe-c182-4607-ab42",
                 "sortIndex": 6
               },
@@ -9874,7 +9874,7 @@
                         "field": "fd59-9f13-dd15-08d1"
                       }
                     ],
-                    "name": "Per ogni quattro Modelli in questa Unità,  Un inductii in questa Unità può avere:",
+                    "name": "Ogni 4 Modelli nell’Unità, un singolo Modello di Inductii può sostituire Fucile requiem con Archibugio volkite:",
                     "id": "9939-7c8b-42e9-8988",
                     "hidden": false
                   }
@@ -10057,7 +10057,7 @@
                 "typeId": "d7d5-5b31-5b37-66c4"
               },
               {
-                "$text": "1.\nUna volta determinati il Fulcro e l’Unità Bersaglio, il Giocatore Controllante del Fulcro deve effettuare una Prova di Manifestazione.\n2.\nSe la Prova di Manifestazione ha successo, tutte le armi a distanza possedute dai Modelli nell’Unità Bersaglio (escluse le armi con la Regola Speciale Area (X)) ottengono la Regola Speciale Perforante (6+).\n3.\nSe la Prova di Manifestazione fallisce, non ci sono ulteriori effetti.",
+                "$text": "1. Una volta determinati il Fulcro e l’Unità Bersaglio, il Giocatore Controllante del Fulcro deve effettuare una Prova di Manifestazione.\n2. Se la Prova di Manifestazione ha successo, tutte le armi a distanza possedute dai Modelli nell’Unità Bersaglio (escluse le armi con la Regola Speciale Area (X)) ottengono la Regola Speciale Perforante (6+).\n3. Se la Prova di Manifestazione fallisce, non ci sono ulteriori effetti.",
                 "name": "Procedura",
                 "typeId": "3804-b2cf-9f1a-4ff0"
               }
@@ -10077,7 +10077,7 @@
             "id": "0254-5986-d357-da77"
           }
         ],
-        "name": "Squadra di Inductii",
+        "name": "Squadra Inductii della Stirpe dei Mille",
         "type": "unit",
         "id": "8dfd-8240-4e8d-8e0e",
         "page": 16,
@@ -10697,7 +10697,7 @@
           }
         ],
         "import": true,
-        "name": "Cabala di Interdizione degli Amittara",
+        "name": "Cabala di interdizione degli Amittara",
         "hidden": false,
         "id": "72ac-23f1-6eee-988e",
         "type": "selectionEntry",
@@ -10713,7 +10713,7 @@
           }
         ],
         "import": true,
-        "name": "Squadra di Inductii",
+        "name": "Squadra Inductii della Stirpe dei Mille",
         "hidden": false,
         "id": "f4f6-a913-a0f2-9666",
         "type": "selectionEntry",
@@ -10742,7 +10742,7 @@
         "hidden": false
       },
       {
-        "name": "Athanaen",
+        "name": "Athanaean",
         "id": "b582-64ed-5b52-23cb",
         "hidden": false
       },

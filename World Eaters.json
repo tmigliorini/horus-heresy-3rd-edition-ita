@@ -697,7 +697,7 @@
                     "type": "and"
                   }
                 ],
-                "name": "Campione Rampager",
+                "name": "Campione Berserker",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo",
                 "hidden": false,
@@ -921,7 +921,7 @@
             ],
             "type": "model",
             "import": true,
-            "name": "Campione Rampager",
+            "name": "Campione Berserker",
             "hidden": false,
             "id": "0003-9a3a-fba8-92aa",
             "sortIndex": 1
@@ -1065,7 +1065,7 @@
                     "type": "and"
                   }
                 ],
-                "name": "Rampager",
+                "name": "Berserker",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo",
                 "hidden": false,
@@ -1172,7 +1172,7 @@
             ],
             "type": "model",
             "import": true,
-            "name": "Rampager",
+            "name": "Berserker",
             "hidden": false,
             "id": "821a-4497-0743-9777",
             "sortIndex": 2
@@ -2271,7 +2271,7 @@
                     "type": "and"
                   }
                 ],
-                "name": "Red Butcher",
+                "name": "Macellaio rosso",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo",
                 "hidden": false,
@@ -2514,7 +2514,7 @@
             ],
             "type": "model",
             "import": true,
-            "name": "Red Butcher",
+            "name": "Macellaio rosso",
             "hidden": false,
             "id": "08a3-46d5-a3ce-0b30",
             "sortIndex": 2
@@ -4528,7 +4528,7 @@
                   }
                 ],
                 "id": "2759-d0dd-4ad8-8f59",
-                "name": "Ravager",
+                "name": "Flagello",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo"
               }
@@ -4780,7 +4780,7 @@
                     "field": "2e25-8451-4913-b971"
                   }
                 ],
-                "name": "Per ogni cinque Modelli in questa Unità,  Un ravager può sostituire una Pistola requiem con:",
+                "name": "Ogni 5 Modelli nell’Unità, un singolo Modello di Flagello può sostituire Pistola requiem con uno tra i seguenti:",
                 "id": "96d4-b3e6-4214-8b29",
                 "hidden": false,
                 "sortIndex": 3
@@ -4795,7 +4795,7 @@
               }
             ],
             "type": "model",
-            "name": "Ravager",
+            "name": "Flagello",
             "id": "5c18-97c2-498c-bcc9",
             "page": 117,
             "publicationId": "5469-14da-d0a1-6092",
@@ -4980,7 +4980,7 @@
                   }
                 ],
                 "id": "0897-39ca-4180-8397",
-                "name": "Legato dal Sangue",
+                "name": "Flagello insanguinato",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo"
               }
@@ -5234,7 +5234,7 @@
               }
             ],
             "type": "model",
-            "name": "Legato dal Sangue",
+            "name": "Flagello insanguinato",
             "id": "6a93-e0c6-49e9-967b",
             "page": 117,
             "publicationId": "5469-14da-d0a1-6092",
@@ -5535,7 +5535,7 @@
                   }
                 ],
                 "id": "8b6e-4e11-45a1-84b7",
-                "name": "Ravager con Reattori Dorsali",
+                "name": "Flagello con reattori dorsali",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo"
               }
@@ -5787,7 +5787,7 @@
                     "field": "0fa3-d8b2-dfb3-3090"
                   }
                 ],
-                "name": "Per ogni cinque Modelli in questa Unità,  Un Ravager con Reattori Dorsali può sostituire una Pistola requiem con:",
+                "name": "Ogni 5 Modelli nell’Unità, un singolo Modello di Flagello con reattori dorsali può sostituire Pistola requiem con uno tra i seguenti:",
                 "id": "1633-ecaa-ec4d-b5ac",
                 "hidden": false
               }
@@ -5807,7 +5807,7 @@
               }
             ],
             "type": "model",
-            "name": "Ravager con Reattori Dorsali",
+            "name": "Flagello con reattori dorsali",
             "id": "175d-5084-4a94-a562",
             "page": 118,
             "publicationId": "5469-14da-d0a1-6092",
@@ -5992,7 +5992,7 @@
                   }
                 ],
                 "id": "e7b9-bd6f-416d-9cbc",
-                "name": "Legato dal Sangue con Reattori Dorsali",
+                "name": "Flagello insanguinato con reattori dorsali",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo"
               }
@@ -6213,7 +6213,7 @@
               }
             ],
             "type": "model",
-            "name": "Legato dal Sangue con Reattori Dorsali",
+            "name": "Flagello insanguinato con reattori dorsali",
             "id": "1af9-fee8-4304-921b",
             "page": 118,
             "publicationId": "5469-14da-d0a1-6092",
@@ -6665,7 +6665,7 @@
                     "includeChildSelections": true
                   }
                 ],
-                "name": "Un inductii in questa Unità può avere:",
+                "name": "Un singolo Modello di Inductii può prendere un Vessillo:",
                 "id": "df89-f5f0-41a5-8d7b",
                 "sortIndex": 6,
                 "defaultSelectionEntryId": "none"
@@ -6733,7 +6733,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Per ogni quattro Modelli in questa Unità, un Inductii in questa Unità può sostituire la sua Pistola requiem con ",
+                        "value": "Ogni 4 Modelli nell’Unità, un singolo Modello di Inductii può sostituire Pistola requiem con un oggetto dalla lista Pistole della Legione:",
                         "field": "name"
                       },
                       {
@@ -7047,7 +7047,7 @@
                         "field": "e7d3-8923-fd35-6b29"
                       }
                     ],
-                    "name": "Per ogni quattro Modelli in questa Unità,  Un inductii in questa Unità può sostituire Spada a catena con uno dei seguenti:",
+                    "name": "Ogni 4 Modelli nell’Unità, un singolo Modello di Inductii può sostituire Spada a catena con uno tra i seguenti:",
                     "id": "4760-f8a2-4878-8589",
                     "hidden": false
                   }
@@ -7197,7 +7197,7 @@
             "targetId": "c320-4fba-0a25-15ff"
           }
         ],
-        "name": "Squadra di Inductii",
+        "name": "Squadra Inductii dei Divoratori di Mondi",
         "type": "unit",
         "id": "b725-0c21-4adf-a683",
         "page": 12,
@@ -7882,7 +7882,7 @@
           }
         ],
         "import": true,
-        "name": "Squadra di Inductii",
+        "name": "Squadra Inductii dei Divoratori di Mondi",
         "hidden": false,
         "id": "00b8-a44a-f21d-3c6c",
         "type": "selectionEntry",

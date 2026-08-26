@@ -1278,7 +1278,7 @@
                     "type": "and"
                   }
                 ],
-                "name": "Dark Emmissary",
+                "name": "Emissario Oscuro",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo",
                 "hidden": false,
@@ -1325,7 +1325,7 @@
             ],
             "type": "model",
             "import": true,
-            "name": "Dark Emmissary",
+            "name": "Emissario Oscuro",
             "hidden": false,
             "id": "f0cd-2432-330b-9652",
             "sortIndex": 1
@@ -1542,7 +1542,7 @@
         ],
         "type": "unit",
         "import": true,
-        "name": "Dark Emmissary",
+        "name": "Emissario Oscuro",
         "hidden": false,
         "id": "ac51-dccb-d5ff-3d20"
       },
@@ -9008,7 +9008,7 @@
                     "type": "and"
                   }
                 ],
-                "name": "Chieftain",
+                "name": "Capoclan",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo",
                 "hidden": false,
@@ -9325,7 +9325,7 @@
             ],
             "type": "model",
             "import": true,
-            "name": "Chieftain",
+            "name": "Capoclan",
             "hidden": false,
             "id": "bf87-e130-4199-ae3b",
             "page": 128,
@@ -9393,7 +9393,7 @@
         ],
         "type": "unit",
         "import": true,
-        "name": "Squadra di Chieftain",
+        "name": "Squadra Capiclan",
         "hidden": false,
         "id": "5664-ef98-46b9-85a1",
         "page": 128,
@@ -9636,7 +9636,7 @@
                     "includeChildSelections": true
                   }
                 ],
-                "name": "Un inductii in questa Unità può avere:",
+                "name": "Un singolo Modello di Inductii può prendere un Vessillo:",
                 "id": "6ad7-00b2-4d08-93c6",
                 "sortIndex": 5
               },
@@ -9683,7 +9683,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Per ogni quattro Modelli in questa Unità, un Inductii in questa Unità può sostituire la sua Pistola requiem con ",
+                        "value": "Ogni 4 Modelli nell’Unità, un singolo Modello di Inductii può sostituire Pistola requiem con un oggetto dalla lista Pistole della Legione:",
                         "field": "name"
                       },
                       {
@@ -9898,7 +9898,7 @@
                         "field": "454c-b651-727b-222f"
                       }
                     ],
-                    "name": "Per ogni quattro Modelli in questa Unità,  Un inductii in questa Unità può sostituire Spada a catena con:",
+                    "name": "Ogni 4 Modelli nell’Unità, un singolo Modello di Inductii può sostituire Spada a catena con uno tra i seguenti:",
                     "id": "e271-4591-4a14-b9f3",
                     "hidden": false
                   }
@@ -9974,7 +9974,7 @@
             "targetId": "641c-ca0a-7093-4525"
           }
         ],
-        "name": "Squadra di Inductii",
+        "name": "Squadra Inductii dei Figli di Horus",
         "type": "unit",
         "id": "e8b7-bff3-4c22-b342",
         "page": 18,
@@ -10424,7 +10424,7 @@
           }
         ],
         "import": true,
-        "name": "Dark Emmissary",
+        "name": "Emissario Oscuro",
         "hidden": false,
         "id": "0517-aa86-94c6-43b6",
         "type": "selectionEntry",
@@ -10550,7 +10550,7 @@
           }
         ],
         "import": true,
-        "name": "Squadra di Chieftain",
+        "name": "Squadra Capiclan",
         "hidden": false,
         "id": "bb2a-0229-ffdf-4617",
         "type": "selectionEntry",
@@ -10566,7 +10566,7 @@
           }
         ],
         "import": true,
-        "name": "Squadra di Inductii",
+        "name": "Squadra Inductii dei Figli di Horus",
         "hidden": false,
         "id": "7718-647a-3e24-1126",
         "type": "selectionEntry",

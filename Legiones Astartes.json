@@ -1862,7 +1862,7 @@
                         "field": "f714-1726-37d3-44df"
                       }
                     ],
-                    "name": "Rapier Carrier",
+                    "name": "Piattaforma Rapier",
                     "typeId": "a76f-8e23-8c3e-166d",
                     "typeName": "Profilo",
                     "hidden": false,
@@ -1913,7 +1913,7 @@
                 ],
                 "type": "model",
                 "import": true,
-                "name": "Rapier Carrier",
+                "name": "Piattaforma Rapier",
                 "hidden": false,
                 "id": "058f-9c48-b7f1-360b",
                 "sortIndex": 2
@@ -5246,7 +5246,7 @@
                         "type": "and"
                       }
                     ],
-                    "name": "Rapier Carrier",
+                    "name": "Piattaforma Rapier",
                     "typeId": "a76f-8e23-8c3e-166d",
                     "typeName": "Profilo",
                     "hidden": false,
@@ -5298,7 +5298,7 @@
                 ],
                 "type": "model",
                 "import": true,
-                "name": "Rapier Carrier",
+                "name": "Piattaforma Rapier",
                 "hidden": false,
                 "id": "2bf1-924c-bc55-8879",
                 "sortIndex": 3
@@ -10307,7 +10307,7 @@
                         "type": "and"
                       }
                     ],
-                    "name": "Rapier Carrier",
+                    "name": "Piattaforma Rapier",
                     "typeId": "a76f-8e23-8c3e-166d",
                     "typeName": "Profilo",
                     "hidden": false,
@@ -10359,7 +10359,7 @@
                 ],
                 "type": "model",
                 "import": true,
-                "name": "Rapier Carrier",
+                "name": "Piattaforma Rapier",
                 "hidden": false,
                 "id": "8fb8-8ad4-e6fa-4fd7",
                 "sortIndex": 3
@@ -17203,7 +17203,7 @@
                     "field": "f714-1726-37d3-44df"
                   }
                 ],
-                "name": "Pretore Saturnine",
+                "name": "Pretore Saturnino",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo",
                 "hidden": false,
@@ -17487,7 +17487,7 @@
             ],
             "type": "model",
             "import": true,
-            "name": "Pretore Saturnine",
+            "name": "Pretore Saturnino",
             "hidden": false,
             "id": "0b24-87fb-26e8-13d2",
             "sortIndex": 1
@@ -19321,7 +19321,7 @@
             ],
             "type": "model",
             "import": true,
-            "name": "Legionario",
+            "name": "Legionario assaltatore",
             "hidden": false,
             "id": "cdf1-272d-d4f4-eba2",
             "sortIndex": 2
@@ -20498,7 +20498,7 @@
             ],
             "type": "model",
             "import": true,
-            "name": "Sergente",
+            "name": "Sergente assaltatore",
             "hidden": false,
             "id": "956c-75a7-824e-0d9a",
             "sortIndex": 1
@@ -20923,7 +20923,7 @@
                 ],
                 "type": "upgrade",
                 "import": true,
-                "name": "L’Unità sostituisce le pistole requiem con scudi da combattimento",
+                "name": "Tutti i Modelli nell’Unità possono scegliere di sostituire Pistola requiem con Scudo da combattimento:",
                 "hidden": false,
                 "id": "ef80-aa2a-fc61-ef0e"
               }
@@ -40587,7 +40587,7 @@
                         "field": "d9a1-9c33-b8b0-7420"
                       }
                     ],
-                    "name": "Può prendere uno dei seguenti:",
+                    "name": "Qualsiasi Modello nell’Unità può migliorare Fucile requiem con uno tra i seguenti:",
                     "id": "5fab-da25-90b5-21a2",
                     "hidden": false
                   }
@@ -42099,7 +42099,7 @@
                     "field": "41fe-1f6a-87f8-7431"
                   }
                 ],
-                "name": "Può prendere uno dei seguenti:",
+                "name": "Qualsiasi Modello nell’Unità può migliorare Fucile requiem con uno tra i seguenti:",
                 "id": "c0cf-6067-8474-0c84",
                 "hidden": false,
                 "sortIndex": 3
@@ -69349,7 +69349,7 @@
                     "includeChildSelections": true
                   }
                 ],
-                "name": "Un Veterano in questa Unità può avere:",
+                "name": "Un singolo Modello di Veterano può prendere uno tra i seguenti:",
                 "id": "13dc-994d-b425-b80a",
                 "hidden": false,
                 "sortIndex": 4
@@ -80987,7 +80987,7 @@
             ],
             "type": "model",
             "import": true,
-            "name": "Legionario",
+            "name": "Legionario depredatore",
             "hidden": false,
             "id": "9de3-15fa-986b-500a",
             "sortIndex": 2
@@ -82039,7 +82039,7 @@
             ],
             "type": "model",
             "import": true,
-            "name": "Sergente",
+            "name": "Sergente depredatore",
             "hidden": false,
             "id": "0356-4939-6734-352b",
             "defaultAmount": 1,
@@ -98282,7 +98282,7 @@
                     "field": "f714-1726-37d3-44df"
                   }
                 ],
-                "name": "Sergente in arcione",
+                "name": "Sergente motociclista",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo",
                 "hidden": false,
@@ -98403,7 +98403,7 @@
             ],
             "type": "model",
             "import": true,
-            "name": "Sergente in arcione",
+            "name": "Sergente motociclista",
             "hidden": false,
             "id": "01c7-6624-9476-cf7b",
             "sortIndex": 1
@@ -100116,7 +100116,7 @@
                     "type": "and"
                   }
                 ],
-                "name": "Sergente da Ricognizione",
+                "name": "Sergente ricognitore",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo",
                 "hidden": false,
@@ -100725,7 +100725,7 @@
             ],
             "type": "model",
             "import": true,
-            "name": "Sergente da Ricognizione",
+            "name": "Sergente ricognitore",
             "hidden": false,
             "id": "5edb-60b4-02ed-5d08",
             "defaultAmount": 1,
@@ -100997,7 +100997,7 @@
                     "type": "and"
                   }
                 ],
-                "name": "Legionario da Ricognizione",
+                "name": "Legionario ricognitore",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo",
                 "hidden": false,
@@ -101760,7 +101760,7 @@
             ],
             "type": "model",
             "import": true,
-            "name": "Legionario da Ricognizione",
+            "name": "Legionario ricognitore",
             "hidden": false,
             "id": "d975-ae05-e0ce-af48",
             "sortIndex": 2
@@ -104019,7 +104019,7 @@
                     "field": "f714-1726-37d3-44df"
                   }
                 ],
-                "name": "Sergente Scimitar",
+                "name": "Sergente su Scimitar",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo",
                 "hidden": false,
@@ -104639,7 +104639,7 @@
             ],
             "type": "model",
             "import": true,
-            "name": "Sergente Scimitar",
+            "name": "Sergente su Scimitar",
             "hidden": false,
             "id": "9011-92da-37e3-f605",
             "sortIndex": 1
@@ -104886,7 +104886,7 @@
                     "field": "f714-1726-37d3-44df"
                   }
                 ],
-                "name": "Cacciatore Scimitar",
+                "name": "Cacciatore su Scimitar",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo",
                 "hidden": false,
@@ -105840,7 +105840,7 @@
             ],
             "type": "model",
             "import": true,
-            "name": "Cacciatore Scimitar",
+            "name": "Cacciatore su Scimitar",
             "hidden": false,
             "id": "df2a-765e-ebf1-6d6b",
             "sortIndex": 2
@@ -106222,7 +106222,7 @@
                 "typeId": "e102-8fdd-9cd4-c0f9"
               },
               {
-                "$text": "1.\nIl Giocatore Reattivo può posizionare l’Unità Reattiva in qualsiasi punto del Limite del Campo di Battaglia e poi muoverla in avanti per un numero di pollici pari alla sua Caratteristica Movimento, senza effettuare rotazioni;\n2.\nDopo questo movimento, il Giocatore Reattivo può effettuare un singolo Attacco a Distanza con l’Unità Reattiva mirato all’Unità Bersaglio, considerando tutte le proprie Armi come Difensive;\n3.\nUna volta che questo Attacco a Distanza è stato completamente risolto, l’Unità Reattiva viene rimossa dal gioco e ritornata alle Riserve Aeree.",
+                "$text": "1. Il Giocatore Reattivo può posizionare l’Unità Reattiva in qualsiasi punto del Limite del Campo di Battaglia e poi muoverla in avanti per un numero di pollici pari alla sua Caratteristica Movimento, senza effettuare rotazioni;\n2. Dopo questo movimento, il Giocatore Reattivo può effettuare un singolo Attacco a Distanza con l’Unità Reattiva mirato all’Unità Bersaglio, considerando tutte le proprie Armi come Difensive;\n3. Una volta che questo Attacco a Distanza è stato completamente risolto, l’Unità Reattiva viene rimossa dal gioco e ritornata alle Riserve Aeree.",
                 "name": "Procedura",
                 "typeId": "57cf-1c68-a020-2529"
               }
@@ -106583,7 +106583,7 @@
                     "includeChildSelections": false
                   }
                 ],
-                "name": "Nose",
+                "name": "Questo Modello può sostituire Requiem pesante binato (Arco Centrale) con uno tra i seguenti:",
                 "id": "43c5-6af3-713a-52ba",
                 "hidden": false,
                 "sortIndex": 1,
@@ -106674,7 +106674,7 @@
                     "includeChildSelections": false
                   }
                 ],
-                "name": "Wing Mounts",
+                "name": "Questo Modello può sostituire 4 esemplari di Razzo Tempesta (Arco Centrale) con uno tra i seguenti:",
                 "id": "bc55-e09e-398f-0ff2",
                 "hidden": false,
                 "sortIndex": 2,
@@ -107060,7 +107060,7 @@
                     "includeChildSelections": false
                   }
                 ],
-                "name": "Sponsons",
+                "name": "Questo Modello può sostituire Batteria di requiem pesanti Gravis (2, Piattaforme Laterali) con:",
                 "id": "3413-da10-517b-d76d",
                 "hidden": false,
                 "defaultSelectionEntryId": "785e-d41a-2b0b-e9dd",
@@ -107128,7 +107128,7 @@
                     "includeChildSelections": false
                   }
                 ],
-                "name": "Missiles",
+                "name": "Questo Modello può sostituire 4 esemplari di Razzo Tempesta (Arco Centrale) con uno tra i seguenti:",
                 "id": "e12f-9234-f28d-875c",
                 "hidden": false,
                 "sortIndex": 2,
@@ -107491,7 +107491,7 @@
                     "field": "f714-1726-37d3-44df"
                   }
                 ],
-                "name": "Javelin Speeder",
+                "name": "Javelin",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo",
                 "hidden": false,
@@ -107906,7 +107906,7 @@
             ],
             "type": "model",
             "import": true,
-            "name": "Javelin Speeder",
+            "name": "Javelin",
             "hidden": false,
             "id": "bcab-d669-63bc-66fd",
             "publicationId": "b905-0414-1057-bb34",
@@ -108083,7 +108083,7 @@
         ],
         "type": "unit",
         "import": true,
-        "name": "Squadrone di Speeder Javelin",
+        "name": "Squadrone di Javelin",
         "hidden": false,
         "id": "50f3-fca2-49ab-6de4",
         "sortIndex": 62,
@@ -113619,7 +113619,7 @@
                     "includeChildSelections": false
                   }
                 ],
-                "name": "Main weapon",
+                "name": "Arma principale",
                 "id": "d06c-2663-0a1c-d1f3",
                 "hidden": false,
                 "sortIndex": 2
@@ -120101,7 +120101,7 @@
                     "field": "6556-b604-6e2a-c31f"
                   }
                 ],
-                "name": "Uno può sostituire Fucile requiem con:",
+                "name": "Un singolo Modello nell’Unità può sostituire Fucile requiem con uno tra i seguenti:",
                 "id": "62b6-dace-2e08-4d11",
                 "hidden": false,
                 "defaultSelectionEntryId": "7c91-46ba-941f-4c23",
@@ -120720,7 +120720,7 @@
                     "field": "f714-1726-37d3-44df"
                   }
                 ],
-                "name": "Legionario Comando e Controllo",
+                "name": "Legionario Augure",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo",
                 "hidden": false,
@@ -120729,7 +120729,7 @@
             ],
             "type": "model",
             "import": true,
-            "name": "Legionario Comando e Controllo",
+            "name": "Legionario Augure",
             "hidden": false,
             "id": "f1b1-c53d-92ba-8d6c",
             "sortIndex": 1
@@ -158341,7 +158341,7 @@
                   }
                 ],
                 "id": "24fe-6527-4706-9acf",
-                "name": "Delegatus in arcione",
+                "name": "Delegato su moto",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo"
               }
@@ -159187,7 +159187,7 @@
               }
             ],
             "type": "model",
-            "name": "Delegatus in arcione",
+            "name": "Delegato su moto",
             "id": "15e7-afdf-4986-8e20",
             "page": 55,
             "publicationId": "5469-14da-d0a1-6092",
@@ -159655,7 +159655,7 @@
                   }
                 ],
                 "id": "590f-8896-4ca4-bde8",
-                "name": "Delegatus Catafratto",
+                "name": "Delegato Catafratto",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo"
               }
@@ -160273,7 +160273,7 @@
               }
             ],
             "type": "model",
-            "name": "Delegatus Catafratto",
+            "name": "Delegato Catafratto",
             "id": "5248-df21-4aaf-b2a5",
             "page": 56,
             "publicationId": "5469-14da-d0a1-6092"
@@ -167795,7 +167795,7 @@
                   }
                 ],
                 "id": "4622-ce47-49eb-809d",
-                "name": "Prescelto Scimitar",
+                "name": "Prescelto su Scimitar",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo"
               }
@@ -168487,7 +168487,7 @@
               }
             ],
             "type": "model",
-            "name": "Prescelto Scimitar",
+            "name": "Prescelto su Scimitar",
             "id": "fd3b-18b0-43c0-9a0d",
             "page": 63,
             "publicationId": "5469-14da-d0a1-6092",
@@ -168718,7 +168718,7 @@
                   }
                 ],
                 "id": "a3b5-0eb6-49e4-a56e",
-                "name": "Campione Prescelto Scimitar",
+                "name": "Campione Prescelto su Scimitar",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo"
               }
@@ -169408,7 +169408,7 @@
               }
             ],
             "type": "model",
-            "name": "Campione Prescelto Scimitar",
+            "name": "Campione Prescelto su Scimitar",
             "id": "7775-9f85-4474-ad0e",
             "page": 63,
             "publicationId": "5469-14da-d0a1-6092",
@@ -169879,7 +169879,7 @@
                   }
                 ],
                 "id": "4872-eed9-4d83-9e2b",
-                "name": "Prescelto in arcione",
+                "name": "Prescelto su moto",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo"
               }
@@ -170519,7 +170519,7 @@
               }
             ],
             "type": "model",
-            "name": "Prescelto in arcione",
+            "name": "Prescelto su moto",
             "id": "1822-1348-4534-8f13",
             "page": 64,
             "publicationId": "5469-14da-d0a1-6092",
@@ -170750,7 +170750,7 @@
                   }
                 ],
                 "id": "1366-1b49-4fff-b68d",
-                "name": "Campione Prescelto in arcione",
+                "name": "Campione Prescelto su moto",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo"
               }
@@ -171380,7 +171380,7 @@
               }
             ],
             "type": "model",
-            "name": "Campione Prescelto in arcione",
+            "name": "Campione Prescelto su moto",
             "id": "f854-ce3e-4c4c-9c38",
             "page": 64,
             "publicationId": "5469-14da-d0a1-6092",
@@ -173122,7 +173122,7 @@
                         "field": "dbe9-20b9-46d1-b3a1"
                       }
                     ],
-                    "name": "Per ogni cinque Modelli in questa Unità, fino a due Veterani d’Abbordaggio in questa Unità possono sostituire Fucile requiem con uno dei seguenti:",
+                    "name": "Ogni 5 Modelli nell’Unità, fino a 2 Modelli di Veterano d’abbordaggio possono sostituire Fucile requiem con uno tra i seguenti:",
                     "id": "40ff-2a99-443f-b3fd",
                     "hidden": false
                   }
@@ -176256,7 +176256,7 @@
                   }
                 ],
                 "id": "ad43-4ee4-4f97-b3ec",
-                "name": "Veterano di Supporto",
+                "name": "Veterano devastatore",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo"
               }
@@ -176630,7 +176630,7 @@
                     "id": "863b-40de-402b-bb79"
                   }
                 ],
-                "name": "Un Veterano di Supporto in questa Unità può selezionare un Vessillo per +10 punti.",
+                "name": "Un singolo Modello di Veterano devastatore può prendere Vessillo:",
                 "id": "e109-eed7-4360-897a",
                 "sortIndex": 5
               },
@@ -177055,7 +177055,7 @@
                     "flatten": true
                   }
                 ],
-                "name": "Ogni Modello in questa Unità deve selezionare uno dei seguenti:",
+                "name": "Ogni Modello nell’Unità deve prendere uno tra i seguenti:",
                 "id": "75d4-aa74-436c-ac96",
                 "hidden": false,
                 "sortIndex": 4
@@ -177070,7 +177070,7 @@
               }
             ],
             "type": "model",
-            "name": "Veterano di Supporto",
+            "name": "Veterano devastatore",
             "id": "9723-c5f2-4244-943d",
             "page": 66,
             "publicationId": "5469-14da-d0a1-6092",
@@ -177337,7 +177337,7 @@
                   }
                 ],
                 "id": "9030-5556-4f94-a3be",
-                "name": "Sergente Veterano di Supporto",
+                "name": "Sergente devastatore Veterano",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo"
               }
@@ -177679,7 +177679,7 @@
                     "id": "6757-d3ac-4798-8670"
                   }
                 ],
-                "name": "L’Sergente Veterano di Supporto in questa Unità può selezionare un elemento dalla lista Armi da Mischia del Sergente di Legione:",
+                "name": "Il Modello di Sergente devastatore Veterano può prendere un oggetto dalla lista Armi da Mischia da Sergente della Legione:",
                 "id": "a8ae-4213-4595-9a0a",
                 "sortIndex": 4
               },
@@ -178104,7 +178104,7 @@
                     "flatten": true
                   }
                 ],
-                "name": "Ogni Modello in questa Unità deve selezionare uno dei seguenti:",
+                "name": "Ogni Modello nell’Unità deve prendere uno tra i seguenti:",
                 "id": "ef12-1523-b5c6-e2d9",
                 "hidden": false,
                 "sortIndex": 5
@@ -178158,7 +178158,7 @@
               }
             ],
             "type": "model",
-            "name": "Sergente Veterano di Supporto",
+            "name": "Sergente devastatore Veterano",
             "id": "da8e-8b85-4b60-9a21",
             "page": 66,
             "publicationId": "5469-14da-d0a1-6092",
@@ -179282,7 +179282,7 @@
                     "id": "5f40-20cc-42b2-b7e8"
                   }
                 ],
-                "name": "L’Sergente Terminator Tartaros in questa Unità può selezionare un Lanciagranate ausiliario per +5 punti.",
+                "name": "Il Modello di Sergente Terminator Tartaros d’Assedio può prendere Lanciagranate ausiliario:",
                 "id": "5523-ffcb-45fd-a042",
                 "sortIndex": 4
               },
@@ -180584,7 +180584,7 @@
                             "field": "8046-4974-470c-9fdb"
                           }
                         ],
-                        "name": "Per ogni cinque Modelli in questa Unità,  Un Terminator Indomitus in questa Unità può sostituire Combirequiem con uno dei seguenti:",
+                        "name": "Ogni 5 Modelli nell’Unità, un singolo Modello di Terminator Indomitus può sostituire Combirequiem con uno tra i seguenti:",
                         "id": "3137-98c9-48af-b89f",
                         "hidden": false,
                         "sortIndex": 4
@@ -183728,7 +183728,7 @@
                     "id": "9914-6db4-4564-94d5"
                   }
                 ],
-                "name": "Un Distruttore Mortalis in questa Unità può selezionare un Vessillo per +10 punti.",
+                "name": "Un singolo Modello di Distruttore Mortalis può prendere Vessillo:",
                 "id": "46d1-400f-4921-ab0f",
                 "sortIndex": 5
               },
@@ -183896,7 +183896,7 @@
                     "field": "hidden"
                   }
                 ],
-                "name": "Per ogni cinque Modelli in questa Unità, un Distruttore Mortalis in questa Unità può sostituire una delle sue pistole requiem con uno dei seguenti:",
+                "name": "Ogni 5 Modelli nell’Unità, un singolo Modello di Distruttore Mortalis può sostituire Pistola requiem con uno tra i seguenti:",
                 "id": "8ad5-0e97-4d30-955a",
                 "sortIndex": 3
               },
@@ -185004,7 +185004,7 @@
                   }
                 ],
                 "id": "a4cc-eb7b-4579-924a",
-                "name": "Sergente Distruttore Mortalis",
+                "name": "Sergente distruttore Mortalis",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo"
               }
@@ -186023,7 +186023,7 @@
               }
             ],
             "type": "model",
-            "name": "Sergente Distruttore Mortalis",
+            "name": "Sergente distruttore Mortalis",
             "id": "8676-1761-4bfa-a177",
             "page": 69,
             "publicationId": "5469-14da-d0a1-6092",
@@ -186710,7 +186710,7 @@
                   }
                 ],
                 "id": "8289-ffff-4b07-9273",
-                "name": "Distruttore d’Assalto",
+                "name": "Distruttore",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo"
               }
@@ -187628,7 +187628,7 @@
                     "field": "3004-dc15-4c99-b5d8"
                   }
                 ],
-                "name": "Per ogni cinque Modelli in questa Unità, un Distruttore d’Assalto in questa Unità può sostituire Spada a catena con uno dei seguenti:",
+                "name": "Ogni 5 Modelli nell’Unità, un singolo Modello di Distruttore può sostituire Spada a catena con uno tra i seguenti:",
                 "id": "35dc-b253-4884-a42d",
                 "defaultSelectionEntryId": "none",
                 "sortIndex": 5
@@ -187750,7 +187750,7 @@
                     "field": "hidden"
                   }
                 ],
-                "name": "Per ogni cinque Modelli in questa Unità, un Distruttore Mortalis in questa Unità può sostituire una delle sue pistole requiem con uno dei seguenti:",
+                "name": "Ogni 5 Modelli nell’Unità, un singolo Modello di Distruttore Mortalis può sostituire Pistola requiem con uno tra i seguenti:",
                 "id": "5ec2-683b-c560-5e2e",
                 "hidden": false,
                 "sortIndex": 3
@@ -188005,7 +188005,7 @@
               }
             ],
             "type": "model",
-            "name": "Distruttore d’Assalto",
+            "name": "Distruttore",
             "id": "2325-d6d0-4a44-b00f",
             "page": 70,
             "publicationId": "5469-14da-d0a1-6092",
@@ -188272,7 +188272,7 @@
                   }
                 ],
                 "id": "74ef-9f7c-4aba-ac89",
-                "name": "Sergente Distruttore d’Assalto",
+                "name": "Sergente distruttore",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo"
               }
@@ -189468,7 +189468,7 @@
               }
             ],
             "type": "model",
-            "name": "Sergente Distruttore d’Assalto",
+            "name": "Sergente distruttore",
             "id": "9007-dd86-4c66-a845",
             "page": 70,
             "publicationId": "5469-14da-d0a1-6092",
@@ -192501,7 +192501,7 @@
                   }
                 ],
                 "id": "22ab-3237-4d3a-ae8e",
-                "name": "Moto d’Assalto",
+                "name": "Moto d’assalto",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo"
               }
@@ -193320,7 +193320,7 @@
               }
             ],
             "type": "model",
-            "name": "Moto d’Assalto",
+            "name": "Moto d’assalto",
             "id": "ae47-7a4e-45f5-a55b",
             "page": 74,
             "publicationId": "5469-14da-d0a1-6092",
@@ -195474,7 +195474,7 @@
                   }
                 ],
                 "id": "651f-bbd4-4c93-b400",
-                "name": "Sergente Esploratore",
+                "name": "Sergente esploratore",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo"
               }
@@ -197078,7 +197078,7 @@
               }
             ],
             "type": "model",
-            "name": "Sergente Esploratore",
+            "name": "Sergente esploratore",
             "id": "3651-0b83-44fd-ba37",
             "page": 75,
             "publicationId": "5469-14da-d0a1-6092",
@@ -198604,7 +198604,7 @@
                     "field": "f714-1726-37d3-44df"
                   }
                 ],
-                "name": "Centurione Saturnine",
+                "name": "Centurione Saturnino",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo",
                 "hidden": false,
@@ -198731,7 +198731,7 @@
                             "id": "4e80-fa2e-9653-39c6"
                           }
                         ],
-                        "name": "Può prendere uno dei seguenti:",
+                        "name": "Qualsiasi Modello nell’Unità può migliorare Maglio disgregante Saturnino con uno tra i seguenti:",
                         "id": "837c-150c-1c79-3ac2",
                         "hidden": false
                       }
@@ -198791,7 +198791,7 @@
                     "includeChildSelections": false
                   }
                 ],
-                "name": "Hand #2",
+                "name": "Questo Modello può sostituire Maglio disgregante Saturnino con uno tra i seguenti:",
                 "id": "cd2c-21cd-7703-a4e9",
                 "hidden": false,
                 "sortIndex": 2
@@ -198840,7 +198840,7 @@
                     "id": "0b5a-2a52-6fba-32cd"
                   }
                 ],
-                "name": "Hand #1",
+                "name": "Questo Modello può sostituire Bombarda plasma con uno tra i seguenti:",
                 "id": "cc30-2d4b-bab0-4244",
                 "hidden": false,
                 "sortIndex": 2,
@@ -198987,7 +198987,7 @@
             ],
             "type": "model",
             "import": true,
-            "name": "Centurione Saturnine",
+            "name": "Centurione Saturnino",
             "hidden": false,
             "id": "595f-07cc-7270-cfb1",
             "sortIndex": 1
@@ -199504,7 +199504,7 @@
                     "field": "f714-1726-37d3-44df"
                   }
                 ],
-                "name": "Prescelto Saturnine",
+                "name": "Prescelto Saturnino",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo",
                 "hidden": false,
@@ -199990,7 +199990,7 @@
                     "id": "44ed-7450-1f8e-4ad6"
                   }
                 ],
-                "name": "Può prendere uno dei seguenti:",
+                "name": "Qualsiasi Modello nell’Unità può prendere uno tra i seguenti:",
                 "id": "2318-545a-8fd0-7034",
                 "hidden": false,
                 "sortIndex": 3
@@ -200033,7 +200033,7 @@
                     "id": "b888-34ed-f6d0-4ea6"
                   }
                 ],
-                "name": "Uno può prendere:",
+                "name": "Un singolo Modello di Prescelto Saturnino può prendere:",
                 "id": "4ccc-8480-d8b5-913a",
                 "hidden": false,
                 "sortIndex": 6
@@ -200142,7 +200142,7 @@
             ],
             "type": "model",
             "import": true,
-            "name": "Prescelto Saturnine",
+            "name": "Prescelto Saturnino",
             "hidden": false,
             "id": "88d5-615e-e32d-e6e1",
             "defaultAmount": 1,
@@ -200461,7 +200461,7 @@
                     "field": "f714-1726-37d3-44df"
                   }
                 ],
-                "name": "Campione Prescelto Saturnine",
+                "name": "Campione Prescelto Saturnino",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo",
                 "hidden": false,
@@ -200947,7 +200947,7 @@
                     "id": "404e-4c79-1ab2-ad2e"
                   }
                 ],
-                "name": "Può prendere uno dei seguenti:",
+                "name": "Qualsiasi Modello nell’Unità può prendere uno tra i seguenti:",
                 "id": "bdf2-6691-e069-921b",
                 "hidden": false,
                 "sortIndex": 3
@@ -201049,7 +201049,7 @@
             ],
             "type": "model",
             "import": true,
-            "name": "Campione Prescelto Saturnine",
+            "name": "Campione Prescelto Saturnino",
             "hidden": false,
             "id": "86a0-824d-53a3-2bed",
             "sortIndex": 1
@@ -203517,7 +203517,7 @@
                     "field": "f714-1726-37d3-44df"
                   }
                 ],
-                "name": "Veterano Despoiler",
+                "name": "Depredatore Veterano",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo",
                 "hidden": false,
@@ -204505,7 +204505,7 @@
             ],
             "type": "model",
             "import": true,
-            "name": "Veterano Despoiler",
+            "name": "Depredatore Veterano",
             "hidden": false,
             "id": "dc61-2769-9783-02a5",
             "sortIndex": 2
@@ -204770,7 +204770,7 @@
                     "field": "f714-1726-37d3-44df"
                   }
                 ],
-                "name": "Sergente Veterano Despoiler",
+                "name": "Sergente Depredatore Veterano",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo",
                 "hidden": false,
@@ -205755,7 +205755,7 @@
             ],
             "type": "model",
             "import": true,
-            "name": "Sergente Veterano Despoiler",
+            "name": "Sergente Depredatore Veterano",
             "hidden": false,
             "id": "4f33-02ee-b521-ce33",
             "sortIndex": 1
@@ -207873,7 +207873,7 @@
           }
         ],
         "import": true,
-        "name": "Squadrone di Speeder Javelin",
+        "name": "Squadrone di Javelin",
         "hidden": false,
         "id": "5e2b-dc62-44d4-247a",
         "type": "selectionEntry",
@@ -219401,7 +219401,7 @@
                     "typeId": "e102-8fdd-9cd4-c0f9"
                   },
                   {
-                    "$text": "1.\nIl Giocatore Reattivo deve selezionare un Modello dall’Unità Reattiva e posizionarlo in un punto qualsiasi del Campo di Battaglia al di fuori della Zona di Schieramento dell’Avversario, entro 6\" dall’Unità che ha attivato questa Reazione ma almeno 5\" oltre qualsiasi Modello nemico, ed oltre 1\" da qualsiasi Bordo del Campo di Battaglia o Terreno Intransitabile;\n2.\nI Modelli rimanenti devono poi essere posizionati in Coesione ed entro 6\" dal primo Modello posizionato, al di fuori della Zona di Schieramento dell’Avversario, almeno 5\" oltre qualsiasi Modello nemico, ed oltre 1\" da qualsiasi Bordo del Campo di Battaglia o Terreno Intransitabile.\nQualsiasi Modello che non può essere posizionato usando queste Regole deve essere Rimosso come Perdita.\n3.\nUna volta che l’Unità Reattiva è stata schierata, può effettuare un Attacco a Distanza risolto Alla Cieca, oppure dichiarare una Carica Scomposta, contro l’Unità che ha innescato questa Reazione.",
+                    "$text": "1. Il Giocatore Reattivo deve selezionare un Modello dall’Unità Reattiva e posizionarlo in un punto qualsiasi del Campo di Battaglia al di fuori della Zona di Schieramento dell’Avversario, entro 6\" dall’Unità che ha attivato questa Reazione ma almeno 5\" oltre qualsiasi Modello nemico, ed oltre 1\" da qualsiasi Bordo del Campo di Battaglia o Terreno Intransitabile;\n2. I Modelli rimanenti devono poi essere posizionati in Coesione ed entro 6\" dal primo Modello posizionato, al di fuori della Zona di Schieramento dell’Avversario, almeno 5\" oltre qualsiasi Modello nemico, ed oltre 1\" da qualsiasi Bordo del Campo di Battaglia o Terreno Intransitabile.\nQualsiasi Modello che non può essere posizionato usando queste Regole deve essere Rimosso come Perdita.\n3. Una volta che l’Unità Reattiva è stata schierata, può effettuare un Attacco a Distanza risolto Alla Cieca, oppure dichiarare una Carica Scomposta, contro l’Unità che ha innescato questa Reazione.",
                     "name": "Procedura",
                     "typeId": "57cf-1c68-a020-2529"
                   }
@@ -220119,7 +220119,7 @@
             ],
             "type": "upgrade",
             "import": true,
-            "name": "Castellan",
+            "name": "Castellano",
             "hidden": true,
             "id": "da17-ab73-7d33-c76f"
           },
@@ -220373,7 +220373,7 @@
             ],
             "type": "upgrade",
             "import": true,
-            "name": "Phoenix Warden",
+            "name": "Guardiano della Fenice",
             "hidden": true,
             "id": "eb48-9812-af4c-6912"
           },
@@ -220693,7 +220693,7 @@
             ],
             "type": "upgrade",
             "import": true,
-            "name": "Butcher Surgeon",
+            "name": "Chirurgo-Macellaio",
             "hidden": true,
             "id": "dc34-d8f6-a366-2e25"
           },
@@ -222798,7 +222798,7 @@
                     "typeId": "d7d5-5b31-5b37-66c4"
                   },
                   {
-                    "$text": "1.\nUna volta determinati il Focus e l’Unità Bersaglio, il Giocatore che controlla il Focus deve effettuare una Prova di Manifestazione.\n2.\nSe la Prova di Manifestazione ha successo, il Giocatore Controllante può selezionare un singolo Status Tattico posseduto da qualsiasi Modello nell’Unità Bersaglio, che verrà immediatamente rimosso da ogni Modello nell’Unità Bersaglio.",
+                    "$text": "1. Una volta determinati il Focus e l’Unità Bersaglio, il Giocatore che controlla il Focus deve effettuare una Prova di Manifestazione.\n2. Se la Prova di Manifestazione ha successo, il Giocatore Controllante può selezionare un singolo Status Tattico posseduto da qualsiasi Modello nell’Unità Bersaglio, che verrà immediatamente rimosso da ogni Modello nell’Unità Bersaglio.",
                     "name": "Procedura",
                     "typeId": "3804-b2cf-9f1a-4ff0"
                   }
@@ -222965,7 +222965,7 @@
                     "typeId": "d7d5-5b31-5b37-66c4"
                   },
                   {
-                    "$text": "1.\nUna volta determinati il Focus e l’Unità Bersaglio, il Giocatore che controlla il Focus deve effettuare una Prova di Manifestazione.\n2.\nSe la Prova di Manifestazione ha successo, tutte le Armi a Distanza nell’Unità Bersaglio, escluse le Armi con la Regola Speciale Area (X), ottengono la Regola Speciale Dilaniante (5+).",
+                    "$text": "1. Una volta determinati il Focus e l’Unità Bersaglio, il Giocatore che controlla il Focus deve effettuare una Prova di Manifestazione.\n2. Se la Prova di Manifestazione ha successo, tutte le Armi a Distanza nell’Unità Bersaglio, escluse le Armi con la Regola Speciale Area (X), ottengono la Regola Speciale Dilaniante (5+).",
                     "name": "Procedura",
                     "typeId": "3804-b2cf-9f1a-4ff0"
                   }
@@ -223171,7 +223171,7 @@
                     "typeId": "d7d5-5b31-5b37-66c4"
                   },
                   {
-                    "$text": "1.\nDeterminati il Focus e l’Unità Bersaglio, il Giocatore Controllante il Focus deve effettuare una Prova di Manifestazione.\n2.\nSe la Prova di Manifestazione ha successo, alla fine di ogni Livello di Iniziativa, ogni Unità che ha messo a segno dei Colpi contro l’Unità Bersaglio subisce D6 Colpi con Forza ‘4’, VP ‘-’ e Danno ‘1’, assegnati dal Giocatore Controllante.",
+                    "$text": "1. Determinati il Focus e l’Unità Bersaglio, il Giocatore Controllante il Focus deve effettuare una Prova di Manifestazione.\n2. Se la Prova di Manifestazione ha successo, alla fine di ogni Livello di Iniziativa, ogni Unità che ha messo a segno dei Colpi contro l’Unità Bersaglio subisce D6 Colpi con Forza ‘4’, VP ‘-’ e Danno ‘1’, assegnati dal Giocatore Controllante.",
                     "name": "Procedura",
                     "typeId": "3804-b2cf-9f1a-4ff0"
                   }
@@ -223376,7 +223376,7 @@
                     "typeId": "daae-40ac-68e2-fa78"
                   },
                   {
-                    "$text": "1.\nUna volta determinati il Focus e l’Unità Bersaglio, il Giocatore che controlla il Focus deve effettuare una Prova di Manifestazione.\n2.\nSe ha successo, tutti i Modelli nell’Unità Bersaglio ottengono la Regola Speciale Ammantato (4+).",
+                    "$text": "1. Una volta determinati il Focus e l’Unità Bersaglio, il Giocatore che controlla il Focus deve effettuare una Prova di Manifestazione.\n2. Se ha successo, tutti i Modelli nell’Unità Bersaglio ottengono la Regola Speciale Ammantato (4+).",
                     "name": "Procedura",
                     "typeId": "8d43-934e-e511-0cfd"
                   }

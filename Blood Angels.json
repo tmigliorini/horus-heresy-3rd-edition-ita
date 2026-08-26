@@ -2058,7 +2058,7 @@
                     "typeId": "a951-a772-7ce0-0b64"
                   }
                 ],
-                "name": "Aster Chrone",
+                "name": "Aster Crohne",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo",
                 "hidden": false,
@@ -2332,7 +2332,7 @@
             ],
             "type": "model",
             "import": true,
-            "name": "Aster Chrone",
+            "name": "Aster Crohne",
             "hidden": false,
             "id": "d9ec-69fe-a232-391e"
           }
@@ -2447,7 +2447,7 @@
         ],
         "type": "unit",
         "import": true,
-        "name": "Aster Chrone",
+        "name": "Aster Crohne",
         "hidden": false,
         "id": "93c6-02e1-f5e2-5b76",
         "sortIndex": 4
@@ -3104,7 +3104,7 @@
               {
                 "characteristics": [
                   {
-                    "$text": "Fanteria (Sergente, Pesante)",
+                    "$text": "Fanteria (Pesante, Sergente)",
                     "name": "Tipo",
                     "typeId": "50fc-9241-d4a2-045b"
                   },
@@ -3277,7 +3277,7 @@
                     "type": "and"
                   }
                 ],
-                "name": "Crimson Exemplar",
+                "name": "Esemplare cremisi",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo",
                 "hidden": false,
@@ -3510,7 +3510,7 @@
                             "id": "6095-695d-6a9a-1932"
                           }
                         ],
-                        "name": "Armi Perdition",
+                        "name": "Arma della Perdizione",
                         "id": "cc93-21af-e299-35ee",
                         "hidden": false,
                         "flatten": false
@@ -3529,7 +3529,7 @@
                     ],
                     "type": "upgrade",
                     "import": true,
-                    "name": "Un’arma Perdition",
+                    "name": "Arma della Perdizione",
                     "hidden": false,
                     "id": "c201-26c6-bd82-aa96",
                     "sortIndex": 3,
@@ -3585,7 +3585,7 @@
                           }
                         ],
                         "import": true,
-                        "name": "Armi Perdition",
+                        "name": "Arma della Perdizione",
                         "hidden": false,
                         "id": "2e3d-c3a6-1259-eb80",
                         "type": "selectionEntryGroup",
@@ -3628,7 +3628,7 @@
                     ],
                     "type": "upgrade",
                     "import": true,
-                    "name": "Arma Perdition e scudo potenziato Coriolis",
+                    "name": "Arma della Perdizione e scudo potenziato Coriolis",
                     "hidden": false,
                     "id": "52b8-ee0e-9c5d-5655",
                     "flatten": false,
@@ -3737,7 +3737,7 @@
             ],
             "type": "model",
             "import": true,
-            "name": "Crimson Exemplar",
+            "name": "Esemplare cremisi",
             "hidden": false,
             "id": "278d-bf9a-e0f6-bf00",
             "sortIndex": 1
@@ -4014,7 +4014,7 @@
                     "type": "and"
                   }
                 ],
-                "name": "Paladino Cremisi",
+                "name": "Paladino cremisi",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo",
                 "hidden": false,
@@ -4184,7 +4184,7 @@
                     "field": "7f0e-e768-9933-775a"
                   }
                 ],
-                "name": "Per ogni cinque Modelli in questa Unità,  Un crimson paladin può sostituire Scudo potenziato Coriolis con:",
+                "name": "Ogni 5 Modelli nell’Unità, un singolo Modello di Paladino cremisi può sostituire Scudo potenziato Coriolis con uno tra i seguenti:",
                 "id": "0954-dc66-02a4-51f5",
                 "hidden": false,
                 "defaultSelectionEntryId": "none",
@@ -4234,7 +4234,7 @@
             ],
             "type": "model",
             "import": true,
-            "name": "Paladino Cremisi",
+            "name": "Paladino cremisi",
             "hidden": false,
             "id": "9512-6456-9d41-221f",
             "sortIndex": 2
@@ -4403,7 +4403,7 @@
                 "automatic": true
               }
             ],
-            "name": "Fino a due Paladini Cremisi in questa Unità può sostituire Spada potenziata con uno dei seguenti:",
+            "name": "Fino a 2 Modelli di Paladino cremisi possono sostituire Spada potenziata con uno tra i seguenti:",
             "id": "be69-a75d-d61d-272a",
             "hidden": false,
             "sortIndex": 3
@@ -4598,7 +4598,7 @@
                     "type": "and"
                   }
                 ],
-                "name": "Campione Dawnbreaker",
+                "name": "Campione Frangialba",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo",
                 "hidden": false,
@@ -4642,7 +4642,7 @@
                       }
                     ],
                     "import": true,
-                    "name": "Armi Perdition",
+                    "name": "Arma della Perdizione",
                     "hidden": false,
                     "id": "0a40-66cc-7a7e-e66f",
                     "type": "selectionEntryGroup",
@@ -4874,7 +4874,7 @@
             ],
             "type": "model",
             "import": true,
-            "name": "Campione Dawnbreaker",
+            "name": "Campione Frangialba",
             "hidden": false,
             "id": "ea92-6cc8-da41-db4c",
             "sortIndex": 1,
@@ -5020,7 +5020,7 @@
                     "type": "and"
                   }
                 ],
-                "name": "Dawnbreaker",
+                "name": "Frangialba",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo",
                 "hidden": false,
@@ -5269,7 +5269,7 @@
             ],
             "type": "model",
             "import": true,
-            "name": "Dawnbreaker",
+            "name": "Frangialba",
             "hidden": false,
             "id": "19b6-5ae5-10d3-46ec",
             "sortIndex": 2
@@ -6366,7 +6366,7 @@
                     "type": "and"
                   }
                 ],
-                "name": "Arch-Erelim",
+                "name": "Arci Erelim",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo",
                 "hidden": false,
@@ -6429,7 +6429,7 @@
             ],
             "type": "model",
             "import": true,
-            "name": "Arch-Erelim",
+            "name": "Arci Erelim",
             "hidden": false,
             "id": "ed0b-6ee1-6d21-4d1e",
             "sortIndex": 1
@@ -7190,13 +7190,13 @@
                         "field": "a195-5ac0-4c43-b922"
                       }
                     ],
-                    "name": "Per ogni cinque Modelli in questa Unità,  Un Modello in questa Unità può sostituire Arma Perdition con:",
+                    "name": "Ogni 5 Modelli nell'Unità, fino a 1 può sostituire Arma della Perdizione con Lama esemplare, per +15 punti per Modello:",
                     "id": "6d8f-8399-4e60-a64a",
                     "hidden": false
                   }
                 ],
                 "import": true,
-                "name": "Armi Perdition",
+                "name": "Arma della Perdizione",
                 "hidden": false,
                 "id": "04f7-ba09-e4e7-78bf",
                 "type": "selectionEntryGroup",
@@ -7428,7 +7428,7 @@
             ],
             "type": "upgrade",
             "import": true,
-            "name": "Un Modello in questa Unità può sostituire Arma Perdition e Pistola requiem con:",
+            "name": "Un singolo Modello nell'Unità può sostituire Arma della Perdizione e Pistola requiem con:",
             "hidden": false,
             "id": "07ac-f857-ceab-ad83",
             "sortIndex": 3
@@ -7545,7 +7545,7 @@
             "modifiers": [
               {
                 "type": "prepend",
-                "value": "Ogni Modello nell’Unità può avere:",
+                "value": "Tutti i Modelli nell’Unità possono scegliere di prendere Bombe termiche:",
                 "field": "name"
               }
             ],
@@ -7970,7 +7970,7 @@
             "includeChildForces": true
           }
         ],
-        "name": "Corte di Ofanim",
+        "name": "Coorte di Ofanim",
         "type": "unit",
         "id": "cd4b-8935-4b71-aecd",
         "sortIndex": 10,
@@ -8387,7 +8387,7 @@
             "includeChildForces": true
           }
         ],
-        "name": "Corte di Ofanim con Reattori Dorsali",
+        "name": "Coorte di Ofanim con reattori dorsali",
         "type": "unit",
         "id": "0e97-f032-4f2a-91ac",
         "sortIndex": 11,
@@ -8790,7 +8790,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Per ogni quattro Modelli in questa Unità, un Inductii in questa Unità può sostituire la sua Pistola requiem con ",
+                        "value": "Ogni 4 Modelli nell'Unità, un singolo Modello di Inductii può sostituire Pistola requiem con un oggetto dalla lista Pistole della Legione:",
                         "field": "name"
                       },
                       {
@@ -8976,7 +8976,7 @@
                     "id": "41e9-a101-4408-8c92"
                   }
                 ],
-                "name": "Un inductii in questa Unità può selezionare un Vessillo per +10 punti.",
+                "name": "Un singolo Modello di Inductii può prendere un Vessillo:",
                 "id": "4401-18bb-4b17-948d",
                 "sortIndex": 5
               },
@@ -9140,7 +9140,7 @@
                         "field": "5102-2910-459b-a625"
                       }
                     ],
-                    "name": "Per ogni quattro Modelli in questa Unità,  Un inductii in questa Unità può sostituire Spada a catena con:",
+                    "name": "Ogni 4 Modelli nell’Unità, un singolo Modello di Inductii può sostituire Spada a catena con uno tra i seguenti:",
                     "id": "13a2-1482-4dca-a228",
                     "hidden": false
                   }
@@ -9268,7 +9268,7 @@
             "hidden": false
           }
         ],
-        "name": "Squadra di Inductii",
+        "name": "Squadra Inductii degli Angeli Sanguinari",
         "type": "unit",
         "id": "d534-5849-4506-b269",
         "sortIndex": 12,
@@ -9327,7 +9327,7 @@
             "type": "upgrade",
             "import": true,
             "name": "New Entry",
-            "hidden": false,
+            "hidden": true,
             "id": "d036-bbb6-8fbc-f6ab"
           }
         ],
@@ -9398,7 +9398,7 @@
           }
         ],
         "import": true,
-        "name": "Aster Chrone",
+        "name": "Aster Crohne",
         "hidden": false,
         "id": "c822-0582-5290-a9d2",
         "type": "selectionEntry",
@@ -9536,7 +9536,7 @@
           }
         ],
         "import": true,
-        "name": "Corte di Ofanim",
+        "name": "Coorte di Ofanim",
         "hidden": false,
         "id": "1c25-a035-0b32-43f1",
         "type": "selectionEntry",
@@ -9552,7 +9552,7 @@
           }
         ],
         "import": true,
-        "name": "Corte di Ofanim con Reattori Dorsali",
+        "name": "Coorte di Ofanim con reattori dorsali",
         "hidden": false,
         "id": "3442-23a4-4db6-0060",
         "type": "selectionEntry",
@@ -9584,7 +9584,7 @@
           }
         ],
         "import": true,
-        "name": "Squadra di Inductii",
+        "name": "Squadra Inductii degli Angeli Sanguinari",
         "hidden": false,
         "id": "316a-720a-4ef3-1314",
         "type": "selectionEntry",
@@ -9707,7 +9707,7 @@
                         "typeId": "e102-8fdd-9cd4-c0f9"
                       },
                       {
-                        "$text": "1.\nUna volta dichiarata la Reazione Avanzata dell’Ira degli Angeli, il Giocatore Attivo deve risolvere normalmente tutti i Passaggi rimanenti del processo di Attacco a Distanza, fino all’inizio del Passaggio 11.\n2.\nImmediatamente dopo la risoluzione del Passaggio 11 dell’Attacco a Distanza che ha attivato questa Reazione, ogni Modello dell’Unità Reattiva deve effettuare un Movimento normale, direttamente verso il Modello più vicino dell’Unità Bersaglio, muovendosi della massima distanza possibile rimanendo ad almeno 1\" di distanza da qualsiasi Modello nemico.\n3.\nDopo aver risolto questo Movimento, se un Modello dell’Unità Reattiva si trova entro 6\" da un Modello dell’Unità Bersaglio, il Giocatore che Controlla l’Unità Bersaglio deve effettuare una Prova di Coraggio nella Sottofase del Morale dello stesso Turno del Giocatore.\n4.\nSe la Prova fallisce, tutti i Modelli dell’Unità Bersaglio ottengono lo Status Inchiodato.",
+                        "$text": "1. Una volta dichiarata la Reazione Avanzata dell’Ira degli Angeli, il Giocatore Attivo deve risolvere normalmente tutti i Passaggi rimanenti del processo di Attacco a Distanza, fino all’inizio del Passaggio 11.\n2. Immediatamente dopo la risoluzione del Passaggio 11 dell’Attacco a Distanza che ha attivato questa Reazione, ogni Modello dell’Unità Reattiva deve effettuare un Movimento normale, direttamente verso il Modello più vicino dell’Unità Bersaglio, muovendosi della massima distanza possibile rimanendo ad almeno 1\" di distanza da qualsiasi Modello nemico.\n3. Dopo aver risolto questo Movimento, se un Modello dell’Unità Reattiva si trova entro 6\" da un Modello dell’Unità Bersaglio, il Giocatore che Controlla l’Unità Bersaglio deve effettuare una Prova di Coraggio nella Sottofase del Morale dello stesso Turno del Giocatore.\n4. Se la Prova fallisce, tutti i Modelli dell’Unità Bersaglio ottengono lo Status Inchiodato.",
                         "name": "Procedura",
                         "typeId": "57cf-1c68-a020-2529"
                       }

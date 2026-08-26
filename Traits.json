@@ -403,6 +403,14 @@
         "typeName": "Tratti",
         "hidden": false,
         "id": "eb97-548b-dc3a-38a7"
+      },
+      {
+        "characteristics": [],
+        "name": "Cyberteurgo",
+        "typeId": "d5a9-9164-1e30-7a35",
+        "typeName": "Tratti",
+        "hidden": false,
+        "id": "e4bc-7baa-05c4-6945"
       }
     ],
     "categoryEntries": [
