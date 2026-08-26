@@ -54826,7 +54826,7 @@
         "name": "Tabella di Organizzazione dell'Esercito della Crociata",
         "id": "8562-592c-8d4b-a1f0",
         "hidden": false,
-        "childForcesLabel": "Detachments",
+        "childForcesLabel": "Distaccamenti",
         "sortIndex": 2
       },
       {
@@ -58267,7 +58267,7 @@
         "name": "Distaccamento Alleato e suo Ausiliario",
         "id": "256b-b8a8-017a-75e9",
         "hidden": false,
-        "childForcesLabel": "Detachments",
+        "childForcesLabel": "Distaccamenti",
         "sortIndex": 3
       },
       {
@@ -58445,7 +58445,7 @@
         "id": "b7a1-629f-9d60-c2a9",
         "hidden": false,
         "sortIndex": 4,
-        "childForcesLabel": "Detachments",
+        "childForcesLabel": "Distaccamenti",
         "profiles": [
           {
             "name": "Distaccamento Sovrano della Guerra",
@@ -75090,7 +75090,7 @@
         "name": "Zone Mortalis",
         "id": "0100-417d-f496-971d",
         "hidden": false,
-        "childForcesLabel": "Detachments"
+        "childForcesLabel": "Distaccamenti"
       }
     ],
     "selectionEntries": [
