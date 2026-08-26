@@ -582,17 +582,17 @@
       {
         "costs": [
           {
-            "name": "Punti",
+            "name": "Point(s)",
             "typeId": "9893-c379-920b-8982",
             "value": 0
           },
           {
-            "name": "Punti Assetto",
+            "name": "Asset Point(s)",
             "typeId": "57e3-1031-7d4d-5ae3",
             "value": 0
           },
           {
-            "name": "Punti Reazione",
+            "name": "Reaction Point(s)",
             "typeId": "c9ba-097e-c47f-ecc2",
             "value": 0
           }
@@ -702,17 +702,17 @@
         ],
         "costs": [
           {
-            "name": "Punti",
+            "name": "Point(s)",
             "typeId": "9893-c379-920b-8982",
             "value": 0
           },
           {
-            "name": "Punti Assetto",
+            "name": "Asset Point(s)",
             "typeId": "57e3-1031-7d4d-5ae3",
             "value": 0
           },
           {
-            "name": "Punti Reazione",
+            "name": "Reaction Point(s)",
             "typeId": "c9ba-097e-c47f-ecc2",
             "value": 0
           }
@@ -722,7 +722,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Impatto (VP)",
+                "value": "Impact (AP)",
                 "field": "name"
               }
             ],
@@ -736,7 +736,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Perforante (5+)",
+                "value": "Breaching (5+)",
                 "field": "name"
               }
             ],
@@ -796,7 +796,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Imponente (3)",
+                "value": "Bulky (3)",
                 "field": "name"
               }
             ],
@@ -898,7 +898,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Perforante (6+)",
+                "value": "Breaching (6+)",
                 "field": "name"
               }
             ],
@@ -966,7 +966,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Paura (1)",
+                "value": "Fear (1)",
                 "field": "name"
               }
             ],
@@ -1024,22 +1024,22 @@
         ],
         "costs": [
           {
-            "name": "Punti Assetto",
+            "name": "Asset Point(s)",
             "typeId": "57e3-1031-7d4d-5ae3",
             "value": 0
           },
           {
-            "name": "Punti Reazione",
+            "name": "Reaction Point(s)",
             "typeId": "c9ba-097e-c47f-ecc2",
             "value": 0
           },
           {
-            "name": "Distaccamenti Ausiliari",
+            "name": "Auxiliary Detachment(s)",
             "typeId": "3e8e-05ee-be52-12d6",
             "value": 0
           },
           {
-            "name": "Distaccamenti Apice",
+            "name": "Apex Detachment(s)",
             "typeId": "159d-855c-533d-f592",
             "value": 0
           }
@@ -1191,7 +1191,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Insensibile al Dolore (5+)",
+                "value": "Feel No Pain (5+)",
                 "field": "name"
               }
             ],
@@ -1228,17 +1228,17 @@
       {
         "costs": [
           {
-            "name": "Punti",
+            "name": "Point(s)",
             "typeId": "9893-c379-920b-8982",
             "value": 20
           },
           {
-            "name": "Punti Assetto",
+            "name": "Asset Point(s)",
             "typeId": "57e3-1031-7d4d-5ae3",
             "value": 0
           },
           {
-            "name": "Punti Reazione",
+            "name": "Reaction Point(s)",
             "typeId": "c9ba-097e-c47f-ecc2",
             "value": 0
           }
@@ -1260,7 +1260,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Imponente (2)",
+                "value": "Bulky (2)",
                 "field": "name"
               }
             ],
@@ -1373,22 +1373,22 @@
       {
         "costs": [
           {
-            "name": "Punti Assetto",
+            "name": "Asset Point(s)",
             "typeId": "57e3-1031-7d4d-5ae3",
             "value": 0
           },
           {
-            "name": "Punti Reazione",
+            "name": "Reaction Point(s)",
             "typeId": "c9ba-097e-c47f-ecc2",
             "value": 0
           },
           {
-            "name": "Distaccamenti Ausiliari",
+            "name": "Auxiliary Detachment(s)",
             "typeId": "3e8e-05ee-be52-12d6",
             "value": 0
           },
           {
-            "name": "Distaccamenti Apice",
+            "name": "Apex Detachment(s)",
             "typeId": "159d-855c-533d-f592",
             "value": 0
           }
@@ -1532,27 +1532,27 @@
             ],
             "costs": [
               {
-                "name": "Punti",
+                "name": "Point(s)",
                 "typeId": "9893-c379-920b-8982",
                 "value": 10
               },
               {
-                "name": "Punti Assetto",
+                "name": "Asset Point(s)",
                 "typeId": "57e3-1031-7d4d-5ae3",
                 "value": 0
               },
               {
-                "name": "Punti Reazione",
+                "name": "Reaction Point(s)",
                 "typeId": "c9ba-097e-c47f-ecc2",
                 "value": 0
               },
               {
-                "name": "Distaccamenti Ausiliari",
+                "name": "Auxiliary Detachment(s)",
                 "typeId": "3e8e-05ee-be52-12d6",
                 "value": 0
               },
               {
-                "name": "Distaccamenti Apice",
+                "name": "Apex Detachment(s)",
                 "typeId": "159d-855c-533d-f592",
                 "value": 0
               }
@@ -1594,7 +1594,7 @@
     "name": "Equipaggiamento",
     "gameSystemId": "sys-b976-0013-2f97-437b",
     "gameSystemRevision": 1,
-    "revision": 25,
+    "revision": 26,
     "authorName": "The4D6",
     "battleScribeVersion": 2.03,
     "type": "catalogue",

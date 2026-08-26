@@ -47,7 +47,7 @@
       {
         "costs": [
           {
-            "name": "Punti",
+            "name": "Point(s)",
             "typeId": "9893-c379-920b-8982",
             "value": 160
           }
@@ -141,7 +141,7 @@
             ],
             "costs": [
               {
-                "name": "Punti",
+                "name": "Point(s)",
                 "typeId": "9893-c379-920b-8982",
                 "value": 0
               }
@@ -345,7 +345,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Colpo Critico (6+)",
+                        "value": "Critical Hit (6+)",
                         "field": "name"
                       }
                     ],
@@ -411,7 +411,7 @@
               {
                 "type": "set",
                 "field": "name",
-                "value": "Guerriero Eterno (1)"
+                "value": "Eternal Warrior (1)"
               }
             ],
             "name": "Guerriero Eterno (X)",
@@ -503,7 +503,7 @@
       {
         "costs": [
           {
-            "name": "Punti",
+            "name": "Point(s)",
             "typeId": "9893-c379-920b-8982",
             "value": 130
           }
@@ -597,7 +597,7 @@
             ],
             "costs": [
               {
-                "name": "Punti",
+                "name": "Point(s)",
                 "typeId": "9893-c379-920b-8982",
                 "value": 0
               }
@@ -921,7 +921,7 @@
               {
                 "type": "set",
                 "field": "name",
-                "value": "Guerriero Eterno (1)"
+                "value": "Eternal Warrior (1)"
               }
             ],
             "name": "Guerriero Eterno (X)",
@@ -1088,7 +1088,7 @@
     "name": "Cavalieri Erranti",
     "gameSystemId": "sys-b976-0013-2f97-437b",
     "gameSystemRevision": 48,
-    "revision": 3,
+    "revision": 4,
     "battleScribeVersion": 2.03,
     "type": "catalogue",
     "categoryEntries": [],

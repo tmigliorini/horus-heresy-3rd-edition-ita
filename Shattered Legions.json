@@ -1376,7 +1376,7 @@
         "modifiers": [
           {
             "type": "prepend",
-            "value": "Guardia del Corvo",
+            "value": "Raven Guard",
             "field": "name"
           }
         ],
@@ -1647,7 +1647,7 @@
         "modifiers": [
           {
             "type": "prepend",
-            "value": "Angeli Oscuri",
+            "value": "Dark Angels",
             "field": "name"
           }
         ],
@@ -1852,7 +1852,7 @@
         "modifiers": [
           {
             "type": "prepend",
-            "value": "Figli dell’Imperatore",
+            "value": "Emperor's Children",
             "field": "name"
           }
         ],
@@ -2024,7 +2024,7 @@
         "modifiers": [
           {
             "type": "prepend",
-            "value": "Guerrieri di Ferro",
+            "value": "Iron Warriors",
             "field": "name"
           }
         ],
@@ -2229,7 +2229,7 @@
         "modifiers": [
           {
             "type": "prepend",
-            "value": "Furie Bianche",
+            "value": "White Scars",
             "field": "name"
           }
         ],
@@ -2434,7 +2434,7 @@
         "modifiers": [
           {
             "type": "prepend",
-            "value": "Lupi Siderali",
+            "value": "Space Wolves",
             "field": "name"
           }
         ],
@@ -2573,7 +2573,7 @@
         "modifiers": [
           {
             "type": "prepend",
-            "value": "Magli Imperiali",
+            "value": "Imperial Fists",
             "field": "name"
           }
         ],
@@ -2745,7 +2745,7 @@
         "modifiers": [
           {
             "type": "prepend",
-            "value": "Signori della Notte",
+            "value": "Night Lords",
             "field": "name"
           }
         ],
@@ -3016,7 +3016,7 @@
         "modifiers": [
           {
             "type": "prepend",
-            "value": "Angeli Sanguinari",
+            "value": "Blood Angels",
             "field": "name"
           }
         ],
@@ -3155,7 +3155,7 @@
         "modifiers": [
           {
             "type": "prepend",
-            "value": "Mani di Ferro",
+            "value": "Iron Hands",
             "field": "name"
           }
         ],
@@ -3327,7 +3327,7 @@
         "modifiers": [
           {
             "type": "prepend",
-            "value": "Divoratori di Mondi",
+            "value": "World Eaters",
             "field": "name"
           }
         ],
@@ -3532,7 +3532,7 @@
         "modifiers": [
           {
             "type": "prepend",
-            "value": "Ultramarine",
+            "value": "Ultramarines",
             "field": "name"
           }
         ],
@@ -3671,7 +3671,7 @@
         "modifiers": [
           {
             "type": "prepend",
-            "value": "Guardia della Morte",
+            "value": "Death Guard",
             "field": "name"
           }
         ],
@@ -3909,7 +3909,7 @@
         "modifiers": [
           {
             "type": "prepend",
-            "value": "Stirpe dei Mille",
+            "value": "Thousand Sons",
             "field": "name"
           }
         ],
@@ -4081,7 +4081,7 @@
         "modifiers": [
           {
             "type": "prepend",
-            "value": "Figli di Horus",
+            "value": "Sons of Horus",
             "field": "name"
           }
         ],
@@ -4286,7 +4286,7 @@
         "modifiers": [
           {
             "type": "prepend",
-            "value": "Predicatori",
+            "value": "Word Bearers",
             "field": "name"
           }
         ],
@@ -4458,7 +4458,7 @@
         "modifiers": [
           {
             "type": "prepend",
-            "value": "Salamandre",
+            "value": "Salamanders",
             "field": "name"
           }
         ],
@@ -4696,7 +4696,7 @@
         "modifiers": [
           {
             "type": "prepend",
-            "value": "Legione Alfa",
+            "value": "Alpha Legion",
             "field": "name"
           }
         ],
@@ -4772,7 +4772,7 @@
     "name": "Legioni Spezzate",
     "gameSystemId": "sys-b976-0013-2f97-437b",
     "gameSystemRevision": 54,
-    "revision": 2,
+    "revision": 3,
     "authorName": "m455954",
     "battleScribeVersion": 2.03,
     "type": "catalogue",

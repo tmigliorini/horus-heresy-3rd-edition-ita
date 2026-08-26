@@ -406,7 +406,7 @@
               {
                 "comment": "4",
                 "type": "set",
-                "value": "Imponente (4)",
+                "value": "Bulky (4)",
                 "field": "name"
               }
             ],
@@ -420,7 +420,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Impatto (Fo)",
+                "value": "Impact (S)",
                 "field": "name"
               }
             ],
@@ -434,7 +434,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Guerriero Eterno (2)",
+                "value": "Eternal Warrior (2)",
                 "field": "name"
               }
             ],
@@ -502,17 +502,17 @@
         ],
         "costs": [
           {
-            "name": "Punti",
+            "name": "Point(s)",
             "typeId": "9893-c379-920b-8982",
             "value": 450
           },
           {
-            "name": "Punti Assetto",
+            "name": "Asset Point(s)",
             "typeId": "57e3-1031-7d4d-5ae3",
             "value": 0
           },
           {
-            "name": "Punti Reazione",
+            "name": "Reaction Point(s)",
             "typeId": "c9ba-097e-c47f-ecc2",
             "value": 0
           }
@@ -748,7 +748,7 @@
                   {
                     "costs": [
                       {
-                        "name": "Punti",
+                        "name": "Point(s)",
                         "typeId": "9893-c379-920b-8982",
                         "value": 10
                       }
@@ -840,7 +840,7 @@
                   {
                     "costs": [
                       {
-                        "name": "Punti",
+                        "name": "Point(s)",
                         "typeId": "9893-c379-920b-8982",
                         "value": 15
                       }
@@ -890,7 +890,7 @@
                   {
                     "costs": [
                       {
-                        "name": "Punti",
+                        "name": "Point(s)",
                         "typeId": "9893-c379-920b-8982",
                         "value": 5
                       }
@@ -1092,17 +1092,17 @@
             ],
             "costs": [
               {
-                "name": "Punti",
+                "name": "Point(s)",
                 "typeId": "9893-c379-920b-8982",
                 "value": 22
               },
               {
-                "name": "Punti Assetto",
+                "name": "Asset Point(s)",
                 "typeId": "57e3-1031-7d4d-5ae3",
                 "value": 0
               },
               {
-                "name": "Punti Reazione",
+                "name": "Reaction Point(s)",
                 "typeId": "c9ba-097e-c47f-ecc2",
                 "value": 0
               }
@@ -1300,17 +1300,17 @@
         ],
         "costs": [
           {
-            "name": "Punti",
+            "name": "Point(s)",
             "typeId": "9893-c379-920b-8982",
             "value": 47
           },
           {
-            "name": "Punti Assetto",
+            "name": "Asset Point(s)",
             "typeId": "57e3-1031-7d4d-5ae3",
             "value": 0
           },
           {
-            "name": "Punti Reazione",
+            "name": "Reaction Point(s)",
             "typeId": "c9ba-097e-c47f-ecc2",
             "value": 0
           }
@@ -1441,7 +1441,7 @@
                       },
                       {
                         "type": "replace",
-                        "value": "Sergente, Campione",
+                        "value": "Sergeant, Champion",
                         "field": "50fc-9241-d4a2-045b",
                         "arg": "Sergeant"
                       }
@@ -1572,7 +1572,7 @@
                           {
                             "comment": "4",
                             "type": "set",
-                            "value": "Perforante (4+)",
+                            "value": "Breaching (4+)",
                             "field": "name"
                           }
                         ],
@@ -1655,7 +1655,7 @@
                           {
                             "comment": "6",
                             "type": "set",
-                            "value": "Lacerante (6+)",
+                            "value": "Shred (6+)",
                             "field": "name"
                           }
                         ],
@@ -1675,17 +1675,17 @@
                     ],
                     "costs": [
                       {
-                        "name": "Punti",
+                        "name": "Point(s)",
                         "typeId": "9893-c379-920b-8982",
                         "value": 10
                       },
                       {
-                        "name": "Punti Assetto",
+                        "name": "Asset Point(s)",
                         "typeId": "57e3-1031-7d4d-5ae3",
                         "value": 0
                       },
                       {
-                        "name": "Punti Reazione",
+                        "name": "Reaction Point(s)",
                         "typeId": "c9ba-097e-c47f-ecc2",
                         "value": 0
                       }
@@ -1724,7 +1724,7 @@
                   {
                     "costs": [
                       {
-                        "name": "Punti",
+                        "name": "Point(s)",
                         "typeId": "9893-c379-920b-8982",
                         "value": 10
                       }
@@ -1764,7 +1764,7 @@
                       {
                         "costs": [
                           {
-                            "name": "Punti",
+                            "name": "Point(s)",
                             "typeId": "9893-c379-920b-8982",
                             "value": 10
                           }
@@ -1780,7 +1780,7 @@
                       {
                         "costs": [
                           {
-                            "name": "Punti",
+                            "name": "Point(s)",
                             "typeId": "9893-c379-920b-8982",
                             "value": 5
                           }
@@ -1796,7 +1796,7 @@
                       {
                         "costs": [
                           {
-                            "name": "Punti",
+                            "name": "Point(s)",
                             "typeId": "9893-c379-920b-8982",
                             "value": 5
                           }
@@ -1887,7 +1887,7 @@
                       {
                         "costs": [
                           {
-                            "name": "Punti",
+                            "name": "Point(s)",
                             "typeId": "9893-c379-920b-8982",
                             "value": 10
                           }
@@ -1903,7 +1903,7 @@
                       {
                         "costs": [
                           {
-                            "name": "Punti",
+                            "name": "Point(s)",
                             "typeId": "9893-c379-920b-8982",
                             "value": 5
                           }
@@ -1919,7 +1919,7 @@
                       {
                         "costs": [
                           {
-                            "name": "Punti",
+                            "name": "Point(s)",
                             "typeId": "9893-c379-920b-8982",
                             "value": 5
                           }
@@ -2075,7 +2075,7 @@
               {
                 "costs": [
                   {
-                    "name": "Punti",
+                    "name": "Point(s)",
                     "typeId": "9893-c379-920b-8982",
                     "value": 5
                   }
@@ -2280,17 +2280,17 @@
             ],
             "costs": [
               {
-                "name": "Punti",
+                "name": "Point(s)",
                 "typeId": "9893-c379-920b-8982",
                 "value": 45
               },
               {
-                "name": "Punti Assetto",
+                "name": "Asset Point(s)",
                 "typeId": "57e3-1031-7d4d-5ae3",
                 "value": 0
               },
               {
-                "name": "Punti Reazione",
+                "name": "Reaction Point(s)",
                 "typeId": "c9ba-097e-c47f-ecc2",
                 "value": 0
               }
@@ -2365,7 +2365,7 @@
                           {
                             "comment": "4",
                             "type": "set",
-                            "value": "Perforante (4+)",
+                            "value": "Breaching (4+)",
                             "field": "name"
                           }
                         ],
@@ -2471,7 +2471,7 @@
                   {
                     "costs": [
                       {
-                        "name": "Punti",
+                        "name": "Point(s)",
                         "typeId": "9893-c379-920b-8982",
                         "value": 10
                       }
@@ -2522,17 +2522,17 @@
         ],
         "costs": [
           {
-            "name": "Punti",
+            "name": "Point(s)",
             "typeId": "9893-c379-920b-8982",
             "value": 70
           },
           {
-            "name": "Punti Assetto",
+            "name": "Asset Point(s)",
             "typeId": "57e3-1031-7d4d-5ae3",
             "value": 0
           },
           {
-            "name": "Punti Reazione",
+            "name": "Reaction Point(s)",
             "typeId": "c9ba-097e-c47f-ecc2",
             "value": 0
           }
@@ -2589,7 +2589,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Imponente (2)",
+                "value": "Bulky (2)",
                 "field": "name"
               }
             ],
@@ -2617,7 +2617,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Guerriero Eterno (1)",
+                "value": "Eternal Warrior (1)",
                 "field": "name"
               }
             ],
@@ -2666,17 +2666,17 @@
         ],
         "costs": [
           {
-            "name": "Punti",
+            "name": "Point(s)",
             "typeId": "9893-c379-920b-8982",
             "value": 85
           },
           {
-            "name": "Punti Assetto",
+            "name": "Asset Point(s)",
             "typeId": "57e3-1031-7d4d-5ae3",
             "value": 0
           },
           {
-            "name": "Punti Reazione",
+            "name": "Reaction Point(s)",
             "typeId": "c9ba-097e-c47f-ecc2",
             "value": 0
           }
@@ -3204,17 +3204,17 @@
       {
         "costs": [
           {
-            "name": "Punti",
+            "name": "Point(s)",
             "typeId": "9893-c379-920b-8982",
             "value": 600
           },
           {
-            "name": "Punti Assetto",
+            "name": "Asset Point(s)",
             "typeId": "57e3-1031-7d4d-5ae3",
             "value": 0
           },
           {
-            "name": "Punti Reazione",
+            "name": "Reaction Point(s)",
             "typeId": "c9ba-097e-c47f-ecc2",
             "value": 0
           }
@@ -3266,7 +3266,7 @@
               {
                 "comment": "7",
                 "type": "set",
-                "value": "Imponente (7)",
+                "value": "Bulky (7)",
                 "field": "name"
               }
             ],
@@ -3281,7 +3281,7 @@
               {
                 "comment": "2",
                 "type": "set",
-                "value": "Guerriero Eterno (2)",
+                "value": "Eternal Warrior (2)",
                 "field": "name"
               }
             ],
@@ -3295,7 +3295,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Paura (2)",
+                "value": "Fear (2)",
                 "field": "name"
               }
             ],
@@ -3567,7 +3567,7 @@
                   {
                     "comment": "2",
                     "type": "set",
-                    "value": "Colpo Mietitore (2)",
+                    "value": "Reaping Blow (2)",
                     "field": "name"
                   }
                 ],
@@ -3582,7 +3582,7 @@
                   {
                     "comment": "6",
                     "type": "set",
-                    "value": "Colpo Critico (6+)",
+                    "value": "Critical Hit (6+)",
                     "field": "name"
                   }
                 ],
@@ -3669,17 +3669,17 @@
         ],
         "costs": [
           {
-            "name": "Punti",
+            "name": "Point(s)",
             "typeId": "9893-c379-920b-8982",
             "value": 175
           },
           {
-            "name": "Punti Assetto",
+            "name": "Asset Point(s)",
             "typeId": "57e3-1031-7d4d-5ae3",
             "value": 0
           },
           {
-            "name": "Punti Reazione",
+            "name": "Reaction Point(s)",
             "typeId": "c9ba-097e-c47f-ecc2",
             "value": 0
           }
@@ -3824,7 +3824,7 @@
               {
                 "comment": "2",
                 "type": "set",
-                "value": "Colpo Mietitore (2)",
+                "value": "Reaping Blow (2)",
                 "field": "name"
               }
             ],
@@ -3839,7 +3839,7 @@
               {
                 "comment": "1",
                 "type": "set",
-                "value": "Guerriero Eterno (1)",
+                "value": "Eternal Warrior (1)",
                 "field": "name"
               }
             ],
@@ -3854,7 +3854,7 @@
               {
                 "comment": "5",
                 "type": "set",
-                "value": "Precisione (5+)",
+                "value": "Precision (5+)",
                 "field": "name"
               }
             ],
@@ -4051,7 +4051,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Colpo Critico (6+)",
+                        "value": "Critical Hit (6+)",
                         "field": "name"
                       }
                     ],
@@ -4121,7 +4121,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Colpo Critico (6+)",
+                        "value": "Critical Hit (6+)",
                         "field": "name"
                       }
                     ],
@@ -4135,7 +4135,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Lacerante (5+)",
+                        "value": "Shred (5+)",
                         "field": "name"
                       }
                     ],
@@ -4182,27 +4182,27 @@
                 ],
                 "costs": [
                   {
-                    "name": "Punti",
+                    "name": "Point(s)",
                     "typeId": "9893-c379-920b-8982",
                     "value": 10
                   },
                   {
-                    "name": "Punti Assetto",
+                    "name": "Asset Point(s)",
                     "typeId": "57e3-1031-7d4d-5ae3",
                     "value": 0
                   },
                   {
-                    "name": "Punti Reazione",
+                    "name": "Reaction Point(s)",
                     "typeId": "c9ba-097e-c47f-ecc2",
                     "value": 0
                   },
                   {
-                    "name": "Distaccamenti Ausiliari",
+                    "name": "Auxiliary Detachment(s)",
                     "typeId": "3e8e-05ee-be52-12d6",
                     "value": 0
                   },
                   {
-                    "name": "Distaccamenti Apice",
+                    "name": "Apex Detachment(s)",
                     "typeId": "159d-855c-533d-f592",
                     "value": 0
                   }
@@ -4382,7 +4382,7 @@
       {
         "costs": [
           {
-            "name": "Punti",
+            "name": "Point(s)",
             "typeId": "9893-c379-920b-8982",
             "value": 25
           }
@@ -4535,7 +4535,7 @@
             ],
             "costs": [
               {
-                "name": "Punti",
+                "name": "Point(s)",
                 "typeId": "9893-c379-920b-8982",
                 "value": 15
               }
@@ -4564,7 +4564,7 @@
                   {
                     "type": "set",
                     "field": "name",
-                    "value": "Due Pistole requiem"
+                    "value": "Two bolt pistols"
                   }
                 ],
                 "constraints": [
@@ -4701,7 +4701,7 @@
                   {
                     "costs": [
                       {
-                        "name": "Punti",
+                        "name": "Point(s)",
                         "typeId": "9893-c379-920b-8982",
                         "value": 15
                       }
@@ -4727,7 +4727,7 @@
                   {
                     "costs": [
                       {
-                        "name": "Punti",
+                        "name": "Point(s)",
                         "typeId": "9893-c379-920b-8982",
                         "value": 15
                       }
@@ -4958,7 +4958,7 @@
                       },
                       {
                         "type": "replace",
-                        "value": "Sergente, Campione",
+                        "value": "Sergeant, Champion",
                         "field": "50fc-9241-d4a2-045b",
                         "arg": "Sergeant"
                       }
@@ -4987,7 +4987,7 @@
             ],
             "costs": [
               {
-                "name": "Punti",
+                "name": "Point(s)",
                 "typeId": "9893-c379-920b-8982",
                 "value": 0
               }
@@ -5016,7 +5016,7 @@
                   {
                     "type": "set",
                     "field": "name",
-                    "value": "Due Pistole requiem"
+                    "value": "Two bolt pistols"
                   }
                 ],
                 "constraints": [
@@ -5047,7 +5047,7 @@
               {
                 "costs": [
                   {
-                    "name": "Punti",
+                    "name": "Point(s)",
                     "typeId": "9893-c379-920b-8982",
                     "value": 10
                   }
@@ -5072,7 +5072,7 @@
               {
                 "costs": [
                   {
-                    "name": "Punti",
+                    "name": "Point(s)",
                     "typeId": "9893-c379-920b-8982",
                     "value": 10
                   }
@@ -5389,7 +5389,7 @@
       {
         "costs": [
           {
-            "name": "Punti",
+            "name": "Point(s)",
             "typeId": "9893-c379-920b-8982",
             "value": 30
           }
@@ -5542,7 +5542,7 @@
             ],
             "costs": [
               {
-                "name": "Punti",
+                "name": "Point(s)",
                 "typeId": "9893-c379-920b-8982",
                 "value": 20
               }
@@ -5571,7 +5571,7 @@
                   {
                     "type": "set",
                     "field": "name",
-                    "value": "Due Pistole requiem"
+                    "value": "Two bolt pistols"
                   }
                 ],
                 "constraints": [
@@ -5708,7 +5708,7 @@
                   {
                     "costs": [
                       {
-                        "name": "Punti",
+                        "name": "Point(s)",
                         "typeId": "9893-c379-920b-8982",
                         "value": 15
                       }
@@ -5734,7 +5734,7 @@
                   {
                     "costs": [
                       {
-                        "name": "Punti",
+                        "name": "Point(s)",
                         "typeId": "9893-c379-920b-8982",
                         "value": 15
                       }
@@ -5970,7 +5970,7 @@
                       },
                       {
                         "type": "replace",
-                        "value": "Sergente, Campione",
+                        "value": "Sergeant, Champion",
                         "field": "50fc-9241-d4a2-045b",
                         "arg": "Sergeant"
                       }
@@ -5999,7 +5999,7 @@
             ],
             "costs": [
               {
-                "name": "Punti",
+                "name": "Point(s)",
                 "typeId": "9893-c379-920b-8982",
                 "value": 0
               }
@@ -6028,7 +6028,7 @@
                   {
                     "type": "set",
                     "field": "name",
-                    "value": "Due Pistole requiem"
+                    "value": "Two bolt pistols"
                   }
                 ],
                 "constraints": [
@@ -6059,7 +6059,7 @@
               {
                 "costs": [
                   {
-                    "name": "Punti",
+                    "name": "Point(s)",
                     "typeId": "9893-c379-920b-8982",
                     "value": 10
                   }
@@ -6085,7 +6085,7 @@
               {
                 "costs": [
                   {
-                    "name": "Punti",
+                    "name": "Point(s)",
                     "typeId": "9893-c379-920b-8982",
                     "value": 10
                   }
@@ -6226,7 +6226,7 @@
               {
                 "type": "set",
                 "field": "name",
-                "value": "Imponente (2)"
+                "value": "Bulky (2)"
               }
             ],
             "name": "Imponente (X)",
@@ -6390,7 +6390,7 @@
         "costs": [
           {
             "typeId": "9893-c379-920b-8982",
-            "name": "Punti",
+            "name": "Point(s)",
             "value": 10
           }
         ],
@@ -6484,7 +6484,7 @@
             "costs": [
               {
                 "typeId": "9893-c379-920b-8982",
-                "name": "Punti",
+                "name": "Point(s)",
                 "value": 9
               }
             ],
@@ -6563,7 +6563,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Fino a due Inductii in questa Unità possono avere uno dei seguenti:",
+                    "value": "Up to two Inductii in this Unit may each have one of",
                     "field": "name"
                   }
                 ],
@@ -6583,7 +6583,7 @@
                     "costs": [
                       {
                         "typeId": "9893-c379-920b-8982",
-                        "name": "Punti",
+                        "name": "Point(s)",
                         "value": 5
                       }
                     ],
@@ -6625,7 +6625,7 @@
                     "costs": [
                       {
                         "typeId": "9893-c379-920b-8982",
-                        "name": "Punti",
+                        "name": "Point(s)",
                         "value": 10
                       }
                     ],
@@ -6733,7 +6733,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Ogni 4 Modelli nell’Unità, un singolo Modello di Inductii può sostituire Pistola requiem con un oggetto dalla lista Pistole della Legione:",
+                        "value": "For every four Models in this Unit, one Inductii in this Unit may have its bolt pistol exchanged for ",
                         "field": "name"
                       },
                       {
@@ -6896,7 +6896,7 @@
                         "costs": [
                           {
                             "typeId": "9893-c379-920b-8982",
-                            "name": "Punti",
+                            "name": "Point(s)",
                             "value": 5
                           }
                         ],
@@ -6941,7 +6941,7 @@
                         "costs": [
                           {
                             "typeId": "9893-c379-920b-8982",
-                            "name": "Punti",
+                            "name": "Point(s)",
                             "value": 5
                           }
                         ],
@@ -7421,7 +7421,7 @@
                   }
                 ],
                 "type": "add",
-                "value": "Legiones Hereticus può essere selezionato solo per un’Armata con Fedeltà Traditore",
+                "value": "Legiones Hereticus can only be selected for an Army with the Traitor Allegiance",
                 "field": "error"
               }
             ],
@@ -7895,7 +7895,7 @@
     "name": "                        XII - Divoratori di Mondi",
     "gameSystemId": "sys-b976-0013-2f97-437b",
     "gameSystemRevision": 1,
-    "revision": 19,
+    "revision": 20,
     "authorUrl": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita",
     "authorContact": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita/issues",
     "authorName": "The4D6",

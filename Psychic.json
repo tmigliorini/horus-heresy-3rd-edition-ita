@@ -221,7 +221,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Psichicità (D)",
+                "value": "Force (D)",
                 "field": "name"
               }
             ],
@@ -243,7 +243,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Impatto (Fo)",
+                "value": "Impact (S)",
                 "field": "name"
               }
             ],
@@ -365,7 +365,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Psichicità (Fo)",
+                "value": "Force (S)",
                 "field": "name"
               }
             ],
@@ -380,7 +380,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Panico (1)",
+                "value": "Panic (1)",
                 "field": "name"
               }
             ],
@@ -395,7 +395,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Area (5\")",
+                "value": "Blast (5\")",
                 "field": "name"
               }
             ],
@@ -410,7 +410,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Deflagrazione (5)",
+                "value": "Deflagrate (5)",
                 "field": "name"
               }
             ],
@@ -425,7 +425,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Esplosione (4+)",
+                "value": "Explodes (4+)",
                 "field": "name"
               }
             ],
@@ -542,7 +542,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Inchiodamento (2)",
+                "value": "Pinning (2)",
                 "field": "name"
               }
             ],
@@ -557,7 +557,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Psichicità (PF)",
+                "value": "Force (FP)",
                 "field": "name"
               }
             ],
@@ -572,7 +572,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Ammantato (4+)",
+                "value": "Shrouded (4+)",
                 "field": "name"
               }
             ],
@@ -662,7 +662,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Maestria del Duellante (2)",
+                "value": "Duellist's Edge (2)",
                 "field": "name"
               }
             ],
@@ -694,7 +694,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Paura (1)",
+                "value": "Fear (1)",
                 "field": "name"
               }
             ],
@@ -709,7 +709,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Stordimento (-)",
+                "value": "Stun (-)",
                 "field": "name"
               }
             ],
@@ -821,7 +821,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Odio (Psyker)",
+                "value": "Hatred (Psyker)",
                 "field": "name"
               }
             ],
@@ -929,7 +929,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Psichicità (D)",
+                "value": "Force (D)",
                 "field": "name"
               }
             ],
@@ -944,7 +944,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Paura (1)",
+                "value": "Fear (1)",
                 "field": "name"
               }
             ],
@@ -959,7 +959,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Lacerante (5+)",
+                "value": "Shred (5+)",
                 "field": "name"
               }
             ],
@@ -1043,7 +1043,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Paura (1)",
+                "value": "Fear (1)",
                 "field": "name"
               }
             ],
@@ -1058,7 +1058,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Perforante (6+)",
+                "value": "Breaching (6+)",
                 "field": "name"
               }
             ],
@@ -1072,7 +1072,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Deflagrazione (7)",
+                "value": "Deflagrate (7)",
                 "field": "name"
               }
             ],
@@ -1087,7 +1087,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Psichicità (D)",
+                "value": "Force (D)",
                 "field": "name"
               }
             ],
@@ -1565,7 +1565,7 @@
     "name": "Psionica",
     "gameSystemId": "sys-b976-0013-2f97-437b",
     "gameSystemRevision": 2,
-    "revision": 6,
+    "revision": 7,
     "battleScribeVersion": 2.03,
     "authorContact": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita/issues",
     "authorUrl": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita",

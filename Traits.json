@@ -26,7 +26,7 @@
               }
             ],
             "type": "set",
-            "value": "Lealista",
+            "value": "Loyalist",
             "field": "name"
           },
           {
@@ -43,7 +43,7 @@
               }
             ],
             "type": "set",
-            "value": "Traditore",
+            "value": "Traitor",
             "field": "name"
           }
         ],
@@ -68,7 +68,7 @@
               }
             ],
             "type": "set",
-            "value": "Angeli Oscuri",
+            "value": "Dark Angels",
             "field": "name"
           },
           {
@@ -83,7 +83,7 @@
               }
             ],
             "type": "set",
-            "value": "Figli dell’Imperatore",
+            "value": "Emperor's Children",
             "field": "name"
           },
           {
@@ -98,7 +98,7 @@
               }
             ],
             "type": "set",
-            "value": "Guerrieri di Ferro",
+            "value": "Iron Warriors",
             "field": "name"
           },
           {
@@ -114,7 +114,7 @@
               }
             ],
             "type": "set",
-            "value": "Furie Bianche",
+            "value": "White Scars",
             "field": "name"
           },
           {
@@ -129,7 +129,7 @@
               }
             ],
             "type": "set",
-            "value": "Lupi Siderali",
+            "value": "Space Wolves",
             "field": "name"
           },
           {
@@ -144,7 +144,7 @@
               }
             ],
             "type": "set",
-            "value": "Magli Imperiali",
+            "value": "Imperial Fists",
             "field": "name"
           },
           {
@@ -159,7 +159,7 @@
               }
             ],
             "type": "set",
-            "value": "Signori della Notte",
+            "value": "Night Lords",
             "field": "name"
           },
           {
@@ -174,7 +174,7 @@
               }
             ],
             "type": "set",
-            "value": "Angeli Sanguinari",
+            "value": "Blood Angels",
             "field": "name"
           },
           {
@@ -189,7 +189,7 @@
               }
             ],
             "type": "set",
-            "value": "Mani di Ferro",
+            "value": "Iron Hands",
             "field": "name"
           },
           {
@@ -204,7 +204,7 @@
               }
             ],
             "type": "set",
-            "value": "Divoratori di Mondi",
+            "value": "World Eaters",
             "field": "name"
           },
           {
@@ -219,7 +219,7 @@
               }
             ],
             "type": "set",
-            "value": "Ultramarine",
+            "value": "Ultramarines",
             "field": "name"
           },
           {
@@ -234,7 +234,7 @@
               }
             ],
             "type": "set",
-            "value": "Guardia della Morte",
+            "value": "Death Guard",
             "field": "name"
           },
           {
@@ -249,7 +249,7 @@
               }
             ],
             "type": "set",
-            "value": "Stirpe dei Mille",
+            "value": "Thousand Sons",
             "field": "name"
           },
           {
@@ -264,7 +264,7 @@
               }
             ],
             "type": "set",
-            "value": "Figli di Horus",
+            "value": "Sons of Horus",
             "field": "name"
           },
           {
@@ -279,7 +279,7 @@
               }
             ],
             "type": "set",
-            "value": "Predicatori",
+            "value": "Word Bearers",
             "field": "name"
           },
           {
@@ -294,7 +294,7 @@
               }
             ],
             "type": "set",
-            "value": "Salamandre",
+            "value": "Salamanders",
             "field": "name"
           },
           {
@@ -309,7 +309,7 @@
               }
             ],
             "type": "set",
-            "value": "Guardia del Corvo",
+            "value": "Raven Guard",
             "field": "name"
           },
           {
@@ -324,7 +324,7 @@
               }
             ],
             "type": "set",
-            "value": "Legione Alfa",
+            "value": "Alpha Legion",
             "field": "name"
           },
           {
@@ -339,7 +339,7 @@
               }
             ],
             "type": "set",
-            "value": "Scudi Neri",
+            "value": "Blackshields",
             "field": "name"
           },
           {
@@ -354,7 +354,7 @@
               }
             ],
             "type": "set",
-            "value": "Legioni Spezzate",
+            "value": "Shattered Legions",
             "field": "name"
           }
         ],
@@ -897,7 +897,7 @@
     "name": "Tratti",
     "gameSystemId": "sys-b976-0013-2f97-437b",
     "gameSystemRevision": 1,
-    "revision": 8,
+    "revision": 9,
     "authorName": "The4D6",
     "battleScribeVersion": 2.03,
     "type": "catalogue",

@@ -114,17 +114,17 @@
             ],
             "costs": [
               {
-                "name": "Punti",
+                "name": "Point(s)",
                 "typeId": "9893-c379-920b-8982",
                 "value": 425
               },
               {
-                "name": "Punti Assetto",
+                "name": "Asset Point(s)",
                 "typeId": "57e3-1031-7d4d-5ae3",
                 "value": 0
               },
               {
-                "name": "Punti Reazione",
+                "name": "Reaction Point(s)",
                 "typeId": "c9ba-097e-c47f-ecc2",
                 "value": 0
               }
@@ -342,7 +342,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Colpo Mietitore (3)",
+                    "value": "Reaping Blow (3)",
                     "field": "name"
                   }
                 ],
@@ -357,7 +357,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Colpo Critico (6+)",
+                    "value": "Critical Hit (6+)",
                     "field": "name"
                   }
                 ],
@@ -402,7 +402,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Imponente (5)",
+                "value": "Bulky (5)",
                 "field": "name"
               }
             ],
@@ -417,7 +417,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Paura (1)",
+                "value": "Fear (1)",
                 "field": "name"
               }
             ],
@@ -439,7 +439,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Guerriero Eterno (3)",
+                "value": "Eternal Warrior (3)",
                 "field": "name"
               }
             ],
@@ -612,7 +612,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Guerriero Eterno (2)",
+                "value": "Eternal Warrior (2)",
                 "field": "name"
               }
             ],
@@ -917,7 +917,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Colpo Mietitore (3)",
+                        "value": "Reaping Blow (3)",
                         "field": "name"
                       }
                     ],
@@ -932,7 +932,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Avvelenato (3+)",
+                        "value": "Poisoned (3+)",
                         "field": "name"
                       }
                     ],
@@ -1035,7 +1035,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Avvelenato (2+)",
+                        "value": "Poisoned (2+)",
                         "field": "name"
                       }
                     ],
@@ -1050,7 +1050,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Panico (1)",
+                        "value": "Panic (1)",
                         "field": "name"
                       }
                     ],
@@ -1255,17 +1255,17 @@
         ],
         "costs": [
           {
-            "name": "Punti",
+            "name": "Point(s)",
             "typeId": "9893-c379-920b-8982",
             "value": 200
           },
           {
-            "name": "Punti Assetto",
+            "name": "Asset Point(s)",
             "typeId": "57e3-1031-7d4d-5ae3",
             "value": 0
           },
           {
-            "name": "Punti Reazione",
+            "name": "Reaction Point(s)",
             "typeId": "c9ba-097e-c47f-ecc2",
             "value": 0
           }
@@ -1304,7 +1304,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Imponente (2)",
+                "value": "Bulky (2)",
                 "field": "name"
               }
             ],
@@ -1319,7 +1319,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Guerriero Eterno (1)",
+                "value": "Eternal Warrior (1)",
                 "field": "name"
               }
             ],
@@ -1571,17 +1571,17 @@
             ],
             "costs": [
               {
-                "name": "Punti",
+                "name": "Point(s)",
                 "typeId": "9893-c379-920b-8982",
                 "value": 45
               },
               {
-                "name": "Punti Assetto",
+                "name": "Asset Point(s)",
                 "typeId": "57e3-1031-7d4d-5ae3",
                 "value": 0
               },
               {
-                "name": "Punti Reazione",
+                "name": "Reaction Point(s)",
                 "typeId": "c9ba-097e-c47f-ecc2",
                 "value": 0
               }
@@ -1657,7 +1657,7 @@
               {
                 "costs": [
                   {
-                    "name": "Punti",
+                    "name": "Point(s)",
                     "typeId": "9893-c379-920b-8982",
                     "value": 5
                   }
@@ -1683,7 +1683,7 @@
               {
                 "costs": [
                   {
-                    "name": "Punti",
+                    "name": "Point(s)",
                     "typeId": "9893-c379-920b-8982",
                     "value": 5
                   }
@@ -1717,17 +1717,17 @@
         ],
         "costs": [
           {
-            "name": "Punti",
+            "name": "Point(s)",
             "typeId": "9893-c379-920b-8982",
             "value": 10
           },
           {
-            "name": "Punti Assetto",
+            "name": "Asset Point(s)",
             "typeId": "57e3-1031-7d4d-5ae3",
             "value": 0
           },
           {
-            "name": "Punti Reazione",
+            "name": "Reaction Point(s)",
             "typeId": "c9ba-097e-c47f-ecc2",
             "value": 0
           }
@@ -1752,7 +1752,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Guerriero Eterno (1)",
+                "value": "Eternal Warrior (1)",
                 "field": "name"
               }
             ],
@@ -1774,7 +1774,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Imponente (2)",
+                "value": "Bulky (2)",
                 "field": "name"
               }
             ],
@@ -1971,7 +1971,7 @@
                       },
                       {
                         "type": "replace",
-                        "value": "Sergente, Campione",
+                        "value": "Sergeant, Champion",
                         "field": "50fc-9241-d4a2-045b",
                         "arg": "Sergeant"
                       }
@@ -2106,7 +2106,7 @@
                       {
                         "costs": [
                           {
-                            "name": "Punti",
+                            "name": "Point(s)",
                             "typeId": "9893-c379-920b-8982",
                             "value": 5
                           }
@@ -2122,7 +2122,7 @@
                       {
                         "costs": [
                           {
-                            "name": "Punti",
+                            "name": "Point(s)",
                             "typeId": "9893-c379-920b-8982",
                             "value": 5
                           }
@@ -2191,7 +2191,7 @@
               {
                 "costs": [
                   {
-                    "name": "Punti",
+                    "name": "Point(s)",
                     "typeId": "9893-c379-920b-8982",
                     "value": 5
                   }
@@ -2392,17 +2392,17 @@
             ],
             "costs": [
               {
-                "name": "Punti",
+                "name": "Point(s)",
                 "typeId": "9893-c379-920b-8982",
                 "value": 40
               },
               {
-                "name": "Punti Assetto",
+                "name": "Asset Point(s)",
                 "typeId": "57e3-1031-7d4d-5ae3",
                 "value": 0
               },
               {
-                "name": "Punti Reazione",
+                "name": "Reaction Point(s)",
                 "typeId": "c9ba-097e-c47f-ecc2",
                 "value": 0
               }
@@ -2473,7 +2473,7 @@
                         ],
                         "costs": [
                           {
-                            "name": "Punti",
+                            "name": "Point(s)",
                             "typeId": "9893-c379-920b-8982",
                             "value": 5
                           }
@@ -2507,7 +2507,7 @@
                       {
                         "costs": [
                           {
-                            "name": "Punti",
+                            "name": "Point(s)",
                             "typeId": "9893-c379-920b-8982",
                             "value": 5
                           }
@@ -2577,17 +2577,17 @@
         ],
         "costs": [
           {
-            "name": "Punti",
+            "name": "Point(s)",
             "typeId": "9893-c379-920b-8982",
             "value": 65
           },
           {
-            "name": "Punti Assetto",
+            "name": "Asset Point(s)",
             "typeId": "57e3-1031-7d4d-5ae3",
             "value": 0
           },
           {
-            "name": "Punti Reazione",
+            "name": "Reaction Point(s)",
             "typeId": "c9ba-097e-c47f-ecc2",
             "value": 0
           }
@@ -2612,7 +2612,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Imponente (2)",
+                "value": "Bulky (2)",
                 "field": "name"
               }
             ],
@@ -2647,7 +2647,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Avanguardia (3)",
+                "value": "Vanguard (3)",
                 "field": "name"
               }
             ],
@@ -2786,7 +2786,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Avvelenato (3+)",
+                "value": "Poisoned (3+)",
                 "field": "name"
               }
             ],
@@ -2860,7 +2860,7 @@
       {
         "costs": [
           {
-            "name": "Punti",
+            "name": "Point(s)",
             "typeId": "9893-c379-920b-8982",
             "value": 22
           }
@@ -3013,7 +3013,7 @@
             ],
             "costs": [
               {
-                "name": "Punti",
+                "name": "Point(s)",
                 "typeId": "9893-c379-920b-8982",
                 "value": 12
               }
@@ -3066,7 +3066,7 @@
               {
                 "costs": [
                   {
-                    "name": "Punti",
+                    "name": "Point(s)",
                     "typeId": "9893-c379-920b-8982",
                     "value": 2
                   }
@@ -3115,7 +3115,7 @@
                   {
                     "costs": [
                       {
-                        "name": "Punti",
+                        "name": "Point(s)",
                         "typeId": "9893-c379-920b-8982",
                         "value": 10
                       }
@@ -3156,7 +3156,7 @@
                   {
                     "costs": [
                       {
-                        "name": "Punti",
+                        "name": "Point(s)",
                         "typeId": "9893-c379-920b-8982",
                         "value": 10
                       }
@@ -3235,7 +3235,7 @@
                   {
                     "costs": [
                       {
-                        "name": "Punti",
+                        "name": "Point(s)",
                         "typeId": "9893-c379-920b-8982",
                         "value": 2
                       }
@@ -3324,7 +3324,7 @@
                   {
                     "costs": [
                       {
-                        "name": "Punti",
+                        "name": "Point(s)",
                         "typeId": "9893-c379-920b-8982",
                         "value": 1
                       }
@@ -3349,7 +3349,7 @@
                   {
                     "costs": [
                       {
-                        "name": "Punti",
+                        "name": "Point(s)",
                         "typeId": "9893-c379-920b-8982",
                         "value": 2
                       }
@@ -3613,7 +3613,7 @@
                       },
                       {
                         "type": "replace",
-                        "value": "Sergente, Campione",
+                        "value": "Sergeant, Champion",
                         "field": "50fc-9241-d4a2-045b",
                         "arg": "Sergeant"
                       }
@@ -3642,7 +3642,7 @@
             ],
             "costs": [
               {
-                "name": "Punti",
+                "name": "Point(s)",
                 "typeId": "9893-c379-920b-8982",
                 "value": 0
               }
@@ -3695,7 +3695,7 @@
               {
                 "costs": [
                   {
-                    "name": "Punti",
+                    "name": "Point(s)",
                     "typeId": "9893-c379-920b-8982",
                     "value": 2
                   }
@@ -3721,7 +3721,7 @@
               {
                 "costs": [
                   {
-                    "name": "Punti",
+                    "name": "Point(s)",
                     "typeId": "9893-c379-920b-8982",
                     "value": 10
                   }
@@ -3747,7 +3747,7 @@
               {
                 "costs": [
                   {
-                    "name": "Punti",
+                    "name": "Point(s)",
                     "typeId": "9893-c379-920b-8982",
                     "value": 10
                   }
@@ -3777,7 +3777,7 @@
                   {
                     "costs": [
                       {
-                        "name": "Punti",
+                        "name": "Point(s)",
                         "typeId": "9893-c379-920b-8982",
                         "value": 1
                       }
@@ -3801,7 +3801,7 @@
                   {
                     "costs": [
                       {
-                        "name": "Punti",
+                        "name": "Point(s)",
                         "typeId": "9893-c379-920b-8982",
                         "value": 2
                       }
@@ -3906,7 +3906,7 @@
                   {
                     "costs": [
                       {
-                        "name": "Punti",
+                        "name": "Point(s)",
                         "typeId": "9893-c379-920b-8982",
                         "value": 2
                       }
@@ -3957,7 +3957,7 @@
                   {
                     "costs": [
                       {
-                        "name": "Punti",
+                        "name": "Point(s)",
                         "typeId": "9893-c379-920b-8982",
                         "value": 15
                       }
@@ -4186,7 +4186,7 @@
         "costs": [
           {
             "typeId": "9893-c379-920b-8982",
-            "name": "Punti",
+            "name": "Point(s)",
             "value": 0
           }
         ],
@@ -4280,7 +4280,7 @@
             "costs": [
               {
                 "typeId": "9893-c379-920b-8982",
-                "name": "Punti",
+                "name": "Point(s)",
                 "value": 9
               }
             ],
@@ -4385,7 +4385,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Fino a due Inductii in questa Unità possono avere uno dei seguenti:",
+                    "value": "Up to two Inductii in this Unit may each have one of",
                     "field": "name"
                   }
                 ],
@@ -4405,7 +4405,7 @@
                     "costs": [
                       {
                         "typeId": "9893-c379-920b-8982",
-                        "name": "Punti",
+                        "name": "Point(s)",
                         "value": 10
                       }
                     ],
@@ -4455,7 +4455,7 @@
                     "costs": [
                       {
                         "typeId": "9893-c379-920b-8982",
-                        "name": "Punti",
+                        "name": "Point(s)",
                         "value": 1
                       }
                     ],
@@ -4479,7 +4479,7 @@
                     "costs": [
                       {
                         "typeId": "9893-c379-920b-8982",
-                        "name": "Punti",
+                        "name": "Point(s)",
                         "value": 2
                       }
                     ],
@@ -4541,7 +4541,7 @@
                         "costs": [
                           {
                             "typeId": "9893-c379-920b-8982",
-                            "name": "Punti",
+                            "name": "Point(s)",
                             "value": 5
                           }
                         ],
@@ -4566,7 +4566,7 @@
                         "costs": [
                           {
                             "typeId": "9893-c379-920b-8982",
-                            "name": "Punti",
+                            "name": "Point(s)",
                             "value": 5
                           }
                         ],
@@ -4591,7 +4591,7 @@
                         "costs": [
                           {
                             "typeId": "9893-c379-920b-8982",
-                            "name": "Punti",
+                            "name": "Point(s)",
                             "value": 10
                           }
                         ],
@@ -5224,7 +5224,7 @@
     "name": "                        XIV - Guardia della Morte",
     "gameSystemId": "sys-b976-0013-2f97-437b",
     "gameSystemRevision": 1,
-    "revision": 10,
+    "revision": 11,
     "authorUrl": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita",
     "authorContact": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita/issues",
     "authorName": "The4D6",

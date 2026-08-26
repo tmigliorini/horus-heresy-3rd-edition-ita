@@ -48,27 +48,27 @@
       {
         "costs": [
           {
-            "name": "Punti",
+            "name": "Point(s)",
             "typeId": "9893-c379-920b-8982",
             "value": 165
           },
           {
-            "name": "Punti Assetto",
+            "name": "Asset Point(s)",
             "typeId": "57e3-1031-7d4d-5ae3",
             "value": 0
           },
           {
-            "name": "Punti Reazione",
+            "name": "Reaction Point(s)",
             "typeId": "c9ba-097e-c47f-ecc2",
             "value": 0
           },
           {
-            "name": "Distaccamenti Ausiliari",
+            "name": "Auxiliary Detachment(s)",
             "typeId": "3e8e-05ee-be52-12d6",
             "value": 0
           },
           {
-            "name": "Distaccamenti Apice",
+            "name": "Apex Detachment(s)",
             "typeId": "159d-855c-533d-f592",
             "value": 0
           }
@@ -180,7 +180,7 @@
                     "modifiers": [
                       {
                         "type": "replace",
-                        "value": "Automa",
+                        "value": "Automata",
                         "field": "50fc-9241-d4a2-045b",
                         "arg": "Infantry"
                       }
@@ -436,7 +436,7 @@
             "modifiers": [
               {
                 "type": "replace",
-                "value": "Divoratori di Mondi",
+                "value": "World Eaters",
                 "field": "name",
                 "arg": "X"
               }
@@ -2098,7 +2098,7 @@
     "name": "Scudi Neri",
     "gameSystemId": "sys-b976-0013-2f97-437b",
     "gameSystemRevision": 54,
-    "revision": 4,
+    "revision": 5,
     "battleScribeVersion": 2.03,
     "type": "catalogue",
     "categoryEntries": [],

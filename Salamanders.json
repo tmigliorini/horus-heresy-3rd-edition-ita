@@ -151,27 +151,27 @@
             ],
             "costs": [
               {
-                "name": "Punti",
+                "name": "Point(s)",
                 "typeId": "9893-c379-920b-8982",
                 "value": 45
               },
               {
-                "name": "Punti Assetto",
+                "name": "Asset Point(s)",
                 "typeId": "57e3-1031-7d4d-5ae3",
                 "value": 0
               },
               {
-                "name": "Punti Reazione",
+                "name": "Reaction Point(s)",
                 "typeId": "c9ba-097e-c47f-ecc2",
                 "value": 0
               },
               {
-                "name": "Distaccamenti Ausiliari",
+                "name": "Auxiliary Detachment(s)",
                 "typeId": "3e8e-05ee-be52-12d6",
                 "value": 0
               },
               {
-                "name": "Distaccamenti Apice",
+                "name": "Apex Detachment(s)",
                 "typeId": "159d-855c-533d-f592",
                 "value": 0
               }
@@ -326,7 +326,7 @@
                         ],
                         "costs": [
                           {
-                            "name": "Punti",
+                            "name": "Point(s)",
                             "typeId": "9893-c379-920b-8982",
                             "value": 5
                           }
@@ -519,7 +519,7 @@
                             ],
                             "costs": [
                               {
-                                "name": "Punti",
+                                "name": "Point(s)",
                                 "typeId": "9893-c379-920b-8982",
                                 "value": 10
                               }
@@ -743,7 +743,7 @@
                       },
                       {
                         "type": "replace",
-                        "value": "Sergente, Campione",
+                        "value": "Sergeant, Champion",
                         "field": "50fc-9241-d4a2-045b",
                         "arg": "Sergeant"
                       }
@@ -1010,7 +1010,7 @@
                         ],
                         "costs": [
                           {
-                            "name": "Punti",
+                            "name": "Point(s)",
                             "typeId": "9893-c379-920b-8982",
                             "value": 10
                           }
@@ -1046,7 +1046,7 @@
                         ],
                         "costs": [
                           {
-                            "name": "Punti",
+                            "name": "Point(s)",
                             "typeId": "9893-c379-920b-8982",
                             "value": 5
                           }
@@ -1256,7 +1256,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Imponente (2)",
+                "value": "Bulky (2)",
                 "field": "name"
               }
             ],
@@ -1284,7 +1284,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Avanguardia (4)",
+                "value": "Vanguard (4)",
                 "field": "name"
               }
             ],
@@ -1297,27 +1297,27 @@
         ],
         "costs": [
           {
-            "name": "Punti",
+            "name": "Point(s)",
             "typeId": "9893-c379-920b-8982",
             "value": 70
           },
           {
-            "name": "Punti Assetto",
+            "name": "Asset Point(s)",
             "typeId": "57e3-1031-7d4d-5ae3",
             "value": 0
           },
           {
-            "name": "Punti Reazione",
+            "name": "Reaction Point(s)",
             "typeId": "c9ba-097e-c47f-ecc2",
             "value": 0
           },
           {
-            "name": "Distaccamenti Ausiliari",
+            "name": "Auxiliary Detachment(s)",
             "typeId": "3e8e-05ee-be52-12d6",
             "value": 0
           },
           {
-            "name": "Distaccamenti Apice",
+            "name": "Apex Detachment(s)",
             "typeId": "159d-855c-533d-f592",
             "value": 0
           }
@@ -1547,7 +1547,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Panico (1)",
+                        "value": "Panic (1)",
                         "field": "name"
                       }
                     ],
@@ -1638,7 +1638,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Colpo Critico (5+)",
+                        "value": "Critical Hit (5+)",
                         "field": "name"
                       }
                     ],
@@ -1737,7 +1737,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Panico (2)",
+                        "value": "Panic (2)",
                         "field": "name"
                       }
                     ],
@@ -1844,7 +1844,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Guerriero Eterno (3)",
+                    "value": "Eternal Warrior (3)",
                     "field": "name"
                   }
                 ],
@@ -1858,7 +1858,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Imponente (5)",
+                    "value": "Bulky (5)",
                     "field": "name"
                   }
                 ],
@@ -1892,27 +1892,27 @@
         ],
         "costs": [
           {
-            "name": "Punti",
+            "name": "Point(s)",
             "typeId": "9893-c379-920b-8982",
             "value": 465
           },
           {
-            "name": "Punti Assetto",
+            "name": "Asset Point(s)",
             "typeId": "57e3-1031-7d4d-5ae3",
             "value": 0
           },
           {
-            "name": "Punti Reazione",
+            "name": "Reaction Point(s)",
             "typeId": "c9ba-097e-c47f-ecc2",
             "value": 0
           },
           {
-            "name": "Distaccamenti Ausiliari",
+            "name": "Auxiliary Detachment(s)",
             "typeId": "3e8e-05ee-be52-12d6",
             "value": 0
           },
           {
-            "name": "Distaccamenti Apice",
+            "name": "Apex Detachment(s)",
             "typeId": "159d-855c-533d-f592",
             "value": 0
           }
@@ -2150,27 +2150,27 @@
             ],
             "costs": [
               {
-                "name": "Punti",
+                "name": "Point(s)",
                 "typeId": "9893-c379-920b-8982",
                 "value": 30
               },
               {
-                "name": "Punti Assetto",
+                "name": "Asset Point(s)",
                 "typeId": "57e3-1031-7d4d-5ae3",
                 "value": 0
               },
               {
-                "name": "Punti Reazione",
+                "name": "Reaction Point(s)",
                 "typeId": "c9ba-097e-c47f-ecc2",
                 "value": 0
               },
               {
-                "name": "Distaccamenti Ausiliari",
+                "name": "Auxiliary Detachment(s)",
                 "typeId": "3e8e-05ee-be52-12d6",
                 "value": 0
               },
               {
-                "name": "Distaccamenti Apice",
+                "name": "Apex Detachment(s)",
                 "typeId": "159d-855c-533d-f592",
                 "value": 0
               }
@@ -2367,7 +2367,7 @@
                       },
                       {
                         "type": "replace",
-                        "value": "Sergente, Campione",
+                        "value": "Sergeant, Champion",
                         "field": "50fc-9241-d4a2-045b",
                         "arg": "Sergeant"
                       }
@@ -2435,7 +2435,7 @@
                   {
                     "costs": [
                       {
-                        "name": "Punti",
+                        "name": "Point(s)",
                         "typeId": "9893-c379-920b-8982",
                         "value": 20
                       }
@@ -2462,7 +2462,7 @@
                   {
                     "costs": [
                       {
-                        "name": "Punti",
+                        "name": "Point(s)",
                         "typeId": "9893-c379-920b-8982",
                         "value": 25
                       }
@@ -2509,7 +2509,7 @@
                   {
                     "costs": [
                       {
-                        "name": "Punti",
+                        "name": "Point(s)",
                         "typeId": "9893-c379-920b-8982",
                         "value": 30
                       }
@@ -2611,27 +2611,27 @@
         ],
         "costs": [
           {
-            "name": "Punti",
+            "name": "Point(s)",
             "typeId": "9893-c379-920b-8982",
             "value": 55
           },
           {
-            "name": "Punti Assetto",
+            "name": "Asset Point(s)",
             "typeId": "57e3-1031-7d4d-5ae3",
             "value": 0
           },
           {
-            "name": "Punti Reazione",
+            "name": "Reaction Point(s)",
             "typeId": "c9ba-097e-c47f-ecc2",
             "value": 0
           },
           {
-            "name": "Distaccamenti Ausiliari",
+            "name": "Auxiliary Detachment(s)",
             "typeId": "3e8e-05ee-be52-12d6",
             "value": 0
           },
           {
-            "name": "Distaccamenti Apice",
+            "name": "Apex Detachment(s)",
             "typeId": "159d-855c-533d-f592",
             "value": 0
           }
@@ -2981,7 +2981,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Esplosione (5+)",
+                    "value": "Explodes (5+)",
                     "field": "name"
                   }
                 ],
@@ -2995,7 +2995,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Imponente (6)",
+                    "value": "Bulky (6)",
                     "field": "name"
                   }
                 ],
@@ -3016,7 +3016,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Fabbro da Battaglia (1)",
+                    "value": "Battlesmith (1)",
                     "field": "name"
                   }
                 ],
@@ -3149,27 +3149,27 @@
         ],
         "costs": [
           {
-            "name": "Punti",
+            "name": "Point(s)",
             "typeId": "9893-c379-920b-8982",
             "value": 220
           },
           {
-            "name": "Punti Assetto",
+            "name": "Asset Point(s)",
             "typeId": "57e3-1031-7d4d-5ae3",
             "value": 0
           },
           {
-            "name": "Punti Reazione",
+            "name": "Reaction Point(s)",
             "typeId": "c9ba-097e-c47f-ecc2",
             "value": 0
           },
           {
-            "name": "Distaccamenti Ausiliari",
+            "name": "Auxiliary Detachment(s)",
             "typeId": "3e8e-05ee-be52-12d6",
             "value": 0
           },
           {
-            "name": "Distaccamenti Apice",
+            "name": "Apex Detachment(s)",
             "typeId": "159d-855c-533d-f592",
             "value": 0
           }
@@ -3368,7 +3368,7 @@
                       },
                       {
                         "type": "replace",
-                        "value": "Sergente, Campione",
+                        "value": "Sergeant, Champion",
                         "field": "50fc-9241-d4a2-045b",
                         "arg": "Sergeant"
                       }
@@ -3513,7 +3513,7 @@
               {
                 "costs": [
                   {
-                    "name": "Punti",
+                    "name": "Point(s)",
                     "typeId": "9893-c379-920b-8982",
                     "value": 10
                   }
@@ -3787,7 +3787,7 @@
                           {
                             "costs": [
                               {
-                                "name": "Punti",
+                                "name": "Point(s)",
                                 "typeId": "9893-c379-920b-8982",
                                 "value": 10
                               }
@@ -3880,27 +3880,27 @@
             ],
             "costs": [
               {
-                "name": "Punti",
+                "name": "Point(s)",
                 "typeId": "9893-c379-920b-8982",
                 "value": 15
               },
               {
-                "name": "Punti Assetto",
+                "name": "Asset Point(s)",
                 "typeId": "57e3-1031-7d4d-5ae3",
                 "value": 0
               },
               {
-                "name": "Punti Reazione",
+                "name": "Reaction Point(s)",
                 "typeId": "c9ba-097e-c47f-ecc2",
                 "value": 0
               },
               {
-                "name": "Distaccamenti Ausiliari",
+                "name": "Auxiliary Detachment(s)",
                 "typeId": "3e8e-05ee-be52-12d6",
                 "value": 0
               },
               {
-                "name": "Distaccamenti Apice",
+                "name": "Apex Detachment(s)",
                 "typeId": "159d-855c-533d-f592",
                 "value": 0
               }
@@ -3937,7 +3937,7 @@
                 ],
                 "costs": [
                   {
-                    "name": "Punti",
+                    "name": "Point(s)",
                     "typeId": "9893-c379-920b-8982",
                     "value": 10
                   }
@@ -4155,27 +4155,27 @@
         ],
         "costs": [
           {
-            "name": "Punti",
+            "name": "Point(s)",
             "typeId": "9893-c379-920b-8982",
             "value": 25
           },
           {
-            "name": "Punti Assetto",
+            "name": "Asset Point(s)",
             "typeId": "57e3-1031-7d4d-5ae3",
             "value": 0
           },
           {
-            "name": "Punti Reazione",
+            "name": "Reaction Point(s)",
             "typeId": "c9ba-097e-c47f-ecc2",
             "value": 0
           },
           {
-            "name": "Distaccamenti Ausiliari",
+            "name": "Auxiliary Detachment(s)",
             "typeId": "3e8e-05ee-be52-12d6",
             "value": 0
           },
           {
-            "name": "Distaccamenti Apice",
+            "name": "Apex Detachment(s)",
             "typeId": "159d-855c-533d-f592",
             "value": 0
           }
@@ -4354,7 +4354,7 @@
                       },
                       {
                         "type": "replace",
-                        "value": "Sergente, Campione",
+                        "value": "Sergeant, Champion",
                         "field": "50fc-9241-d4a2-045b",
                         "arg": "Sergeant"
                       }
@@ -4551,27 +4551,27 @@
                         ],
                         "costs": [
                           {
-                            "name": "Punti",
+                            "name": "Point(s)",
                             "typeId": "9893-c379-920b-8982",
                             "value": 5
                           },
                           {
-                            "name": "Punti Assetto",
+                            "name": "Asset Point(s)",
                             "typeId": "57e3-1031-7d4d-5ae3",
                             "value": 0
                           },
                           {
-                            "name": "Punti Reazione",
+                            "name": "Reaction Point(s)",
                             "typeId": "c9ba-097e-c47f-ecc2",
                             "value": 0
                           },
                           {
-                            "name": "Distaccamenti Ausiliari",
+                            "name": "Auxiliary Detachment(s)",
                             "typeId": "3e8e-05ee-be52-12d6",
                             "value": 0
                           },
                           {
-                            "name": "Distaccamenti Apice",
+                            "name": "Apex Detachment(s)",
                             "typeId": "159d-855c-533d-f592",
                             "value": 0
                           }
@@ -4614,27 +4614,27 @@
                         ],
                         "costs": [
                           {
-                            "name": "Punti",
+                            "name": "Point(s)",
                             "typeId": "9893-c379-920b-8982",
                             "value": 10
                           },
                           {
-                            "name": "Punti Assetto",
+                            "name": "Asset Point(s)",
                             "typeId": "57e3-1031-7d4d-5ae3",
                             "value": 0
                           },
                           {
-                            "name": "Punti Reazione",
+                            "name": "Reaction Point(s)",
                             "typeId": "c9ba-097e-c47f-ecc2",
                             "value": 0
                           },
                           {
-                            "name": "Distaccamenti Ausiliari",
+                            "name": "Auxiliary Detachment(s)",
                             "typeId": "3e8e-05ee-be52-12d6",
                             "value": 0
                           },
                           {
-                            "name": "Distaccamenti Apice",
+                            "name": "Apex Detachment(s)",
                             "typeId": "159d-855c-533d-f592",
                             "value": 0
                           }
@@ -4677,27 +4677,27 @@
                         ],
                         "costs": [
                           {
-                            "name": "Punti",
+                            "name": "Point(s)",
                             "typeId": "9893-c379-920b-8982",
                             "value": 15
                           },
                           {
-                            "name": "Punti Assetto",
+                            "name": "Asset Point(s)",
                             "typeId": "57e3-1031-7d4d-5ae3",
                             "value": 0
                           },
                           {
-                            "name": "Punti Reazione",
+                            "name": "Reaction Point(s)",
                             "typeId": "c9ba-097e-c47f-ecc2",
                             "value": 0
                           },
                           {
-                            "name": "Distaccamenti Ausiliari",
+                            "name": "Auxiliary Detachment(s)",
                             "typeId": "3e8e-05ee-be52-12d6",
                             "value": 0
                           },
                           {
-                            "name": "Distaccamenti Apice",
+                            "name": "Apex Detachment(s)",
                             "typeId": "159d-855c-533d-f592",
                             "value": 0
                           }
@@ -5132,27 +5132,27 @@
                         ],
                         "costs": [
                           {
-                            "name": "Punti",
+                            "name": "Point(s)",
                             "typeId": "9893-c379-920b-8982",
                             "value": 10
                           },
                           {
-                            "name": "Punti Assetto",
+                            "name": "Asset Point(s)",
                             "typeId": "57e3-1031-7d4d-5ae3",
                             "value": 0
                           },
                           {
-                            "name": "Punti Reazione",
+                            "name": "Reaction Point(s)",
                             "typeId": "c9ba-097e-c47f-ecc2",
                             "value": 0
                           },
                           {
-                            "name": "Distaccamenti Ausiliari",
+                            "name": "Auxiliary Detachment(s)",
                             "typeId": "3e8e-05ee-be52-12d6",
                             "value": 0
                           },
                           {
-                            "name": "Distaccamenti Apice",
+                            "name": "Apex Detachment(s)",
                             "typeId": "159d-855c-533d-f592",
                             "value": 0
                           }
@@ -5231,27 +5231,27 @@
                         ],
                         "costs": [
                           {
-                            "name": "Punti",
+                            "name": "Point(s)",
                             "typeId": "9893-c379-920b-8982",
                             "value": 5
                           },
                           {
-                            "name": "Punti Assetto",
+                            "name": "Asset Point(s)",
                             "typeId": "57e3-1031-7d4d-5ae3",
                             "value": 0
                           },
                           {
-                            "name": "Punti Reazione",
+                            "name": "Reaction Point(s)",
                             "typeId": "c9ba-097e-c47f-ecc2",
                             "value": 0
                           },
                           {
-                            "name": "Distaccamenti Ausiliari",
+                            "name": "Auxiliary Detachment(s)",
                             "typeId": "3e8e-05ee-be52-12d6",
                             "value": 0
                           },
                           {
-                            "name": "Distaccamenti Apice",
+                            "name": "Apex Detachment(s)",
                             "typeId": "159d-855c-533d-f592",
                             "value": 0
                           }
@@ -5294,27 +5294,27 @@
                         ],
                         "costs": [
                           {
-                            "name": "Punti",
+                            "name": "Point(s)",
                             "typeId": "9893-c379-920b-8982",
                             "value": 10
                           },
                           {
-                            "name": "Punti Assetto",
+                            "name": "Asset Point(s)",
                             "typeId": "57e3-1031-7d4d-5ae3",
                             "value": 0
                           },
                           {
-                            "name": "Punti Reazione",
+                            "name": "Reaction Point(s)",
                             "typeId": "c9ba-097e-c47f-ecc2",
                             "value": 0
                           },
                           {
-                            "name": "Distaccamenti Ausiliari",
+                            "name": "Auxiliary Detachment(s)",
                             "typeId": "3e8e-05ee-be52-12d6",
                             "value": 0
                           },
                           {
-                            "name": "Distaccamenti Apice",
+                            "name": "Apex Detachment(s)",
                             "typeId": "159d-855c-533d-f592",
                             "value": 0
                           }
@@ -5457,7 +5457,7 @@
                     ],
                     "costs": [
                       {
-                        "name": "Punti",
+                        "name": "Point(s)",
                         "typeId": "9893-c379-920b-8982",
                         "value": 10
                       }
@@ -5507,27 +5507,27 @@
             ],
             "costs": [
               {
-                "name": "Punti",
+                "name": "Point(s)",
                 "typeId": "9893-c379-920b-8982",
                 "value": 16
               },
               {
-                "name": "Punti Assetto",
+                "name": "Asset Point(s)",
                 "typeId": "57e3-1031-7d4d-5ae3",
                 "value": 0
               },
               {
-                "name": "Punti Reazione",
+                "name": "Reaction Point(s)",
                 "typeId": "c9ba-097e-c47f-ecc2",
                 "value": 0
               },
               {
-                "name": "Distaccamenti Ausiliari",
+                "name": "Auxiliary Detachment(s)",
                 "typeId": "3e8e-05ee-be52-12d6",
                 "value": 0
               },
               {
-                "name": "Distaccamenti Apice",
+                "name": "Apex Detachment(s)",
                 "typeId": "159d-855c-533d-f592",
                 "value": 0
               }
@@ -5629,7 +5629,7 @@
           {
             "costs": [
               {
-                "name": "Punti",
+                "name": "Point(s)",
                 "typeId": "9893-c379-920b-8982",
                 "value": 25
               }
@@ -5672,7 +5672,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Avanguardia (3)",
+                "value": "Vanguard (3)",
                 "field": "name"
               }
             ],
@@ -5692,27 +5692,27 @@
         ],
         "costs": [
           {
-            "name": "Punti",
+            "name": "Point(s)",
             "typeId": "9893-c379-920b-8982",
             "value": 26
           },
           {
-            "name": "Punti Assetto",
+            "name": "Asset Point(s)",
             "typeId": "57e3-1031-7d4d-5ae3",
             "value": 0
           },
           {
-            "name": "Punti Reazione",
+            "name": "Reaction Point(s)",
             "typeId": "c9ba-097e-c47f-ecc2",
             "value": 0
           },
           {
-            "name": "Distaccamenti Ausiliari",
+            "name": "Auxiliary Detachment(s)",
             "typeId": "3e8e-05ee-be52-12d6",
             "value": 0
           },
           {
-            "name": "Distaccamenti Apice",
+            "name": "Apex Detachment(s)",
             "typeId": "159d-855c-533d-f592",
             "value": 0
           }
@@ -5781,7 +5781,7 @@
         "costs": [
           {
             "typeId": "9893-c379-920b-8982",
-            "name": "Punti",
+            "name": "Point(s)",
             "value": 10
           }
         ],
@@ -5875,7 +5875,7 @@
             "costs": [
               {
                 "typeId": "9893-c379-920b-8982",
-                "name": "Punti",
+                "name": "Point(s)",
                 "value": 9
               }
             ],
@@ -5954,7 +5954,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Fino a due Inductii in questa Unità possono avere uno dei seguenti:",
+                    "value": "Up to two Inductii in this Unit may each have one of",
                     "field": "name"
                   }
                 ],
@@ -5974,7 +5974,7 @@
                     "costs": [
                       {
                         "typeId": "9893-c379-920b-8982",
-                        "name": "Punti",
+                        "name": "Point(s)",
                         "value": 5
                       }
                     ],
@@ -6015,7 +6015,7 @@
                     "costs": [
                       {
                         "typeId": "9893-c379-920b-8982",
-                        "name": "Punti",
+                        "name": "Point(s)",
                         "value": 10
                       }
                     ],
@@ -6273,7 +6273,7 @@
                         "costs": [
                           {
                             "typeId": "9893-c379-920b-8982",
-                            "name": "Punti",
+                            "name": "Point(s)",
                             "value": 5
                           }
                         ],
@@ -6298,7 +6298,7 @@
                         "costs": [
                           {
                             "typeId": "9893-c379-920b-8982",
-                            "name": "Punti",
+                            "name": "Point(s)",
                             "value": 15
                           }
                         ],
@@ -6323,7 +6323,7 @@
                         "costs": [
                           {
                             "typeId": "9893-c379-920b-8982",
-                            "name": "Punti",
+                            "name": "Point(s)",
                             "value": 10
                           }
                         ],
@@ -6630,27 +6630,27 @@
             ],
             "costs": [
               {
-                "name": "Punti",
+                "name": "Point(s)",
                 "typeId": "9893-c379-920b-8982",
                 "value": 24
               },
               {
-                "name": "Punti Assetto",
+                "name": "Asset Point(s)",
                 "typeId": "57e3-1031-7d4d-5ae3",
                 "value": 0
               },
               {
-                "name": "Punti Reazione",
+                "name": "Reaction Point(s)",
                 "typeId": "c9ba-097e-c47f-ecc2",
                 "value": 0
               },
               {
-                "name": "Distaccamenti Ausiliari",
+                "name": "Auxiliary Detachment(s)",
                 "typeId": "3e8e-05ee-be52-12d6",
                 "value": 0
               },
               {
-                "name": "Distaccamenti Apice",
+                "name": "Apex Detachment(s)",
                 "typeId": "159d-855c-533d-f592",
                 "value": 0
               }
@@ -6716,7 +6716,7 @@
                     "costs": [
                       {
                         "typeId": "9893-c379-920b-8982",
-                        "name": "Punti",
+                        "name": "Point(s)",
                         "value": 5
                       }
                     ],
@@ -6740,7 +6740,7 @@
                     "costs": [
                       {
                         "typeId": "9893-c379-920b-8982",
-                        "name": "Punti",
+                        "name": "Point(s)",
                         "value": 10
                       }
                     ],
@@ -7131,7 +7131,7 @@
                     "costs": [
                       {
                         "typeId": "9893-c379-920b-8982",
-                        "name": "Punti",
+                        "name": "Point(s)",
                         "value": 10
                       }
                     ],
@@ -7699,7 +7699,7 @@
     "name": "                        XVIII - Salamandre",
     "gameSystemId": "sys-b976-0013-2f97-437b",
     "gameSystemRevision": 1,
-    "revision": 14,
+    "revision": 15,
     "authorUrl": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita",
     "authorContact": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita/issues",
     "authorName": "The4D6",

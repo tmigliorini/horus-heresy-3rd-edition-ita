@@ -455,17 +455,17 @@
         ],
         "costs": [
           {
-            "name": "Punti",
+            "name": "Point(s)",
             "typeId": "9893-c379-920b-8982",
             "value": 450
           },
           {
-            "name": "Punti Assetto",
+            "name": "Asset Point(s)",
             "typeId": "57e3-1031-7d4d-5ae3",
             "value": 0
           },
           {
-            "name": "Punti Reazione",
+            "name": "Reaction Point(s)",
             "typeId": "c9ba-097e-c47f-ecc2",
             "value": 0
           }
@@ -526,7 +526,7 @@
               {
                 "comment": "5",
                 "type": "set",
-                "value": "Imponente (5)",
+                "value": "Bulky (5)",
                 "field": "name"
               }
             ],
@@ -541,7 +541,7 @@
               {
                 "comment": "2",
                 "type": "set",
-                "value": "Guerriero Eterno (2)",
+                "value": "Eternal Warrior (2)",
                 "field": "name"
               }
             ],
@@ -618,17 +618,17 @@
             ],
             "costs": [
               {
-                "name": "Punti",
+                "name": "Point(s)",
                 "typeId": "9893-c379-920b-8982",
                 "value": 30
               },
               {
-                "name": "Punti Assetto",
+                "name": "Asset Point(s)",
                 "typeId": "57e3-1031-7d4d-5ae3",
                 "value": 0
               },
               {
-                "name": "Punti Reazione",
+                "name": "Reaction Point(s)",
                 "typeId": "c9ba-097e-c47f-ecc2",
                 "value": 0
               }
@@ -803,7 +803,7 @@
                       {
                         "costs": [
                           {
-                            "name": "Punti",
+                            "name": "Point(s)",
                             "typeId": "9893-c379-920b-8982",
                             "value": 5
                           }
@@ -838,7 +838,7 @@
                       {
                         "costs": [
                           {
-                            "name": "Punti",
+                            "name": "Point(s)",
                             "typeId": "9893-c379-920b-8982",
                             "value": 5
                           }
@@ -854,7 +854,7 @@
                       {
                         "costs": [
                           {
-                            "name": "Punti",
+                            "name": "Point(s)",
                             "typeId": "9893-c379-920b-8982",
                             "value": 10
                           }
@@ -935,7 +935,7 @@
                 ],
                 "costs": [
                   {
-                    "name": "Punti",
+                    "name": "Point(s)",
                     "typeId": "9893-c379-920b-8982",
                     "value": 5
                   }
@@ -961,7 +961,7 @@
                 ],
                 "costs": [
                   {
-                    "name": "Punti",
+                    "name": "Point(s)",
                     "typeId": "9893-c379-920b-8982",
                     "value": 5
                   }
@@ -1019,17 +1019,17 @@
         ],
         "costs": [
           {
-            "name": "Punti",
+            "name": "Point(s)",
             "typeId": "9893-c379-920b-8982",
             "value": 25
           },
           {
-            "name": "Punti Assetto",
+            "name": "Asset Point(s)",
             "typeId": "57e3-1031-7d4d-5ae3",
             "value": 0
           },
           {
-            "name": "Punti Reazione",
+            "name": "Reaction Point(s)",
             "typeId": "c9ba-097e-c47f-ecc2",
             "value": 0
           }
@@ -1227,17 +1227,17 @@
         ],
         "costs": [
           {
-            "name": "Punti",
+            "name": "Point(s)",
             "typeId": "9893-c379-920b-8982",
             "value": 105
           },
           {
-            "name": "Punti Assetto",
+            "name": "Asset Point(s)",
             "typeId": "57e3-1031-7d4d-5ae3",
             "value": 0
           },
           {
-            "name": "Punti Reazione",
+            "name": "Reaction Point(s)",
             "typeId": "c9ba-097e-c47f-ecc2",
             "value": 0
           }
@@ -1353,7 +1353,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Ufficiale di Linea (2)",
+                    "value": "Officer of the Line (2)",
                     "field": "name"
                   }
                 ],
@@ -1445,7 +1445,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Perforante (4+)",
+                    "value": "Breaching (4+)",
                     "field": "name"
                   }
                 ],
@@ -1706,7 +1706,7 @@
                 ],
                 "costs": [
                   {
-                    "name": "Punti",
+                    "name": "Point(s)",
                     "typeId": "9893-c379-920b-8982",
                     "value": 15
                   }
@@ -1722,7 +1722,7 @@
               {
                 "costs": [
                   {
-                    "name": "Punti",
+                    "name": "Point(s)",
                     "typeId": "9893-c379-920b-8982",
                     "value": 10
                   }
@@ -1751,7 +1751,7 @@
                   {
                     "costs": [
                       {
-                        "name": "Punti",
+                        "name": "Point(s)",
                         "typeId": "9893-c379-920b-8982",
                         "value": 15
                       }
@@ -1766,7 +1766,7 @@
                   {
                     "costs": [
                       {
-                        "name": "Punti",
+                        "name": "Point(s)",
                         "typeId": "9893-c379-920b-8982",
                         "value": 10
                       }
@@ -1781,7 +1781,7 @@
                   {
                     "costs": [
                       {
-                        "name": "Punti",
+                        "name": "Point(s)",
                         "typeId": "9893-c379-920b-8982",
                         "value": 15
                       }
@@ -1963,7 +1963,7 @@
                   {
                     "costs": [
                       {
-                        "name": "Punti",
+                        "name": "Point(s)",
                         "typeId": "9893-c379-920b-8982",
                         "value": 1
                       }
@@ -1979,7 +1979,7 @@
                   {
                     "costs": [
                       {
-                        "name": "Punti",
+                        "name": "Point(s)",
                         "typeId": "9893-c379-920b-8982",
                         "value": 2
                       }
@@ -2225,7 +2225,7 @@
                       },
                       {
                         "type": "replace",
-                        "value": "Sergente, Campione",
+                        "value": "Sergeant, Champion",
                         "field": "50fc-9241-d4a2-045b",
                         "arg": "Sergeant"
                       }
@@ -2295,17 +2295,17 @@
           {
             "costs": [
               {
-                "name": "Punti",
+                "name": "Point(s)",
                 "typeId": "9893-c379-920b-8982",
                 "value": 12
               },
               {
-                "name": "Punti Assetto",
+                "name": "Asset Point(s)",
                 "typeId": "57e3-1031-7d4d-5ae3",
                 "value": 0
               },
               {
-                "name": "Punti Reazione",
+                "name": "Reaction Point(s)",
                 "typeId": "c9ba-097e-c47f-ecc2",
                 "value": 0
               }
@@ -2532,7 +2532,7 @@
                       {
                         "costs": [
                           {
-                            "name": "Punti",
+                            "name": "Point(s)",
                             "typeId": "9893-c379-920b-8982",
                             "value": 2
                           }
@@ -2547,7 +2547,7 @@
                       {
                         "costs": [
                           {
-                            "name": "Punti",
+                            "name": "Point(s)",
                             "typeId": "9893-c379-920b-8982",
                             "value": 20
                           }
@@ -2562,7 +2562,7 @@
                       {
                         "costs": [
                           {
-                            "name": "Punti",
+                            "name": "Point(s)",
                             "typeId": "9893-c379-920b-8982",
                             "value": 10
                           }
@@ -2701,7 +2701,7 @@
                   {
                     "costs": [
                       {
-                        "name": "Punti",
+                        "name": "Point(s)",
                         "typeId": "9893-c379-920b-8982",
                         "value": 1
                       }
@@ -2717,7 +2717,7 @@
                   {
                     "costs": [
                       {
-                        "name": "Punti",
+                        "name": "Point(s)",
                         "typeId": "9893-c379-920b-8982",
                         "value": 2
                       }
@@ -2830,7 +2830,7 @@
               {
                 "costs": [
                   {
-                    "name": "Punti",
+                    "name": "Point(s)",
                     "typeId": "9893-c379-920b-8982",
                     "value": 10
                   }
@@ -2898,17 +2898,17 @@
         ],
         "costs": [
           {
-            "name": "Punti",
+            "name": "Point(s)",
             "typeId": "9893-c379-920b-8982",
             "value": 37
           },
           {
-            "name": "Punti Assetto",
+            "name": "Asset Point(s)",
             "typeId": "57e3-1031-7d4d-5ae3",
             "value": 0
           },
           {
-            "name": "Punti Reazione",
+            "name": "Reaction Point(s)",
             "typeId": "c9ba-097e-c47f-ecc2",
             "value": 0
           }
@@ -3005,7 +3005,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Linea (2)",
+                "value": "Line (2)",
                 "field": "name"
               }
             ],
@@ -3049,17 +3049,17 @@
         ],
         "costs": [
           {
-            "name": "Punti",
+            "name": "Point(s)",
             "typeId": "9893-c379-920b-8982",
             "value": 210
           },
           {
-            "name": "Punti Assetto",
+            "name": "Asset Point(s)",
             "typeId": "57e3-1031-7d4d-5ae3",
             "value": 0
           },
           {
-            "name": "Punti Reazione",
+            "name": "Reaction Point(s)",
             "typeId": "c9ba-097e-c47f-ecc2",
             "value": 0
           }
@@ -3275,7 +3275,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Imponente (2)",
+                "value": "Bulky (2)",
                 "field": "name"
               }
             ],
@@ -3290,7 +3290,7 @@
               {
                 "comment": "1",
                 "type": "set",
-                "value": "Paura (1)",
+                "value": "Fear (1)",
                 "field": "name"
               }
             ],
@@ -3668,7 +3668,7 @@
                         ],
                         "costs": [
                           {
-                            "name": "Punti",
+                            "name": "Point(s)",
                             "typeId": "9893-c379-920b-8982",
                             "value": 0
                           }
@@ -3685,7 +3685,7 @@
                       {
                         "costs": [
                           {
-                            "name": "Punti",
+                            "name": "Point(s)",
                             "typeId": "9893-c379-920b-8982",
                             "value": 5
                           }
@@ -3700,7 +3700,7 @@
                       {
                         "costs": [
                           {
-                            "name": "Punti",
+                            "name": "Point(s)",
                             "typeId": "9893-c379-920b-8982",
                             "value": 10
                           }
@@ -3715,7 +3715,7 @@
                       {
                         "costs": [
                           {
-                            "name": "Punti",
+                            "name": "Point(s)",
                             "typeId": "9893-c379-920b-8982",
                             "value": 10
                           }
@@ -3730,7 +3730,7 @@
                       {
                         "costs": [
                           {
-                            "name": "Punti",
+                            "name": "Point(s)",
                             "typeId": "9893-c379-920b-8982",
                             "value": 10
                           }
@@ -3764,7 +3764,7 @@
                       {
                         "costs": [
                           {
-                            "name": "Punti",
+                            "name": "Point(s)",
                             "typeId": "9893-c379-920b-8982",
                             "value": 5
                           }
@@ -3780,7 +3780,7 @@
                       {
                         "costs": [
                           {
-                            "name": "Punti",
+                            "name": "Point(s)",
                             "typeId": "9893-c379-920b-8982",
                             "value": 5
                           }
@@ -3796,7 +3796,7 @@
                       {
                         "costs": [
                           {
-                            "name": "Punti",
+                            "name": "Point(s)",
                             "typeId": "9893-c379-920b-8982",
                             "value": 5
                           }
@@ -3812,7 +3812,7 @@
                       {
                         "costs": [
                           {
-                            "name": "Punti",
+                            "name": "Point(s)",
                             "typeId": "9893-c379-920b-8982",
                             "value": 15
                           }
@@ -3901,7 +3901,7 @@
                 ],
                 "costs": [
                   {
-                    "name": "Punti",
+                    "name": "Point(s)",
                     "typeId": "9893-c379-920b-8982",
                     "value": 5
                   }
@@ -3943,17 +3943,17 @@
             ],
             "costs": [
               {
-                "name": "Punti",
+                "name": "Point(s)",
                 "typeId": "9893-c379-920b-8982",
                 "value": 45
               },
               {
-                "name": "Punti Assetto",
+                "name": "Asset Point(s)",
                 "typeId": "57e3-1031-7d4d-5ae3",
                 "value": 0
               },
               {
-                "name": "Punti Reazione",
+                "name": "Reaction Point(s)",
                 "typeId": "c9ba-097e-c47f-ecc2",
                 "value": 0
               }
@@ -4135,7 +4135,7 @@
                         ],
                         "costs": [
                           {
-                            "name": "Punti",
+                            "name": "Point(s)",
                             "typeId": "9893-c379-920b-8982",
                             "value": 0
                           }
@@ -4152,7 +4152,7 @@
                       {
                         "costs": [
                           {
-                            "name": "Punti",
+                            "name": "Point(s)",
                             "typeId": "9893-c379-920b-8982",
                             "value": 10
                           }
@@ -4168,7 +4168,7 @@
                       {
                         "costs": [
                           {
-                            "name": "Punti",
+                            "name": "Point(s)",
                             "typeId": "9893-c379-920b-8982",
                             "value": 10
                           }
@@ -4184,7 +4184,7 @@
                       {
                         "costs": [
                           {
-                            "name": "Punti",
+                            "name": "Point(s)",
                             "typeId": "9893-c379-920b-8982",
                             "value": 10
                           }
@@ -4219,7 +4219,7 @@
                       {
                         "costs": [
                           {
-                            "name": "Punti",
+                            "name": "Point(s)",
                             "typeId": "9893-c379-920b-8982",
                             "value": 5
                           }
@@ -4235,7 +4235,7 @@
                       {
                         "costs": [
                           {
-                            "name": "Punti",
+                            "name": "Point(s)",
                             "typeId": "9893-c379-920b-8982",
                             "value": 5
                           }
@@ -4251,7 +4251,7 @@
                       {
                         "costs": [
                           {
-                            "name": "Punti",
+                            "name": "Point(s)",
                             "typeId": "9893-c379-920b-8982",
                             "value": 5
                           }
@@ -4267,7 +4267,7 @@
                       {
                         "costs": [
                           {
-                            "name": "Punti",
+                            "name": "Point(s)",
                             "typeId": "9893-c379-920b-8982",
                             "value": 15
                           }
@@ -4346,7 +4346,7 @@
               {
                 "costs": [
                   {
-                    "name": "Punti",
+                    "name": "Point(s)",
                     "typeId": "9893-c379-920b-8982",
                     "value": 10
                   }
@@ -4389,17 +4389,17 @@
         ],
         "costs": [
           {
-            "name": "Punti",
+            "name": "Point(s)",
             "typeId": "9893-c379-920b-8982",
             "value": 70
           },
           {
-            "name": "Punti Assetto",
+            "name": "Asset Point(s)",
             "typeId": "57e3-1031-7d4d-5ae3",
             "value": 0
           },
           {
-            "name": "Punti Reazione",
+            "name": "Reaction Point(s)",
             "typeId": "c9ba-097e-c47f-ecc2",
             "value": 0
           }
@@ -4410,7 +4410,7 @@
               {
                 "comment": "2",
                 "type": "set",
-                "value": "Imponente (2)",
+                "value": "Bulky (2)",
                 "field": "name"
               }
             ],
@@ -4439,7 +4439,7 @@
               {
                 "comment": "4",
                 "type": "set",
-                "value": "Avanguardia (4)",
+                "value": "Vanguard (4)",
                 "field": "name"
               }
             ],
@@ -4454,7 +4454,7 @@
               {
                 "comment": "1",
                 "type": "set",
-                "value": "Paura (1)",
+                "value": "Fear (1)",
                 "field": "name"
               }
             ],
@@ -4526,17 +4526,17 @@
       {
         "costs": [
           {
-            "name": "Punti",
+            "name": "Point(s)",
             "typeId": "9893-c379-920b-8982",
             "value": 100
           },
           {
-            "name": "Punti Assetto",
+            "name": "Asset Point(s)",
             "typeId": "57e3-1031-7d4d-5ae3",
             "value": 0
           },
           {
-            "name": "Punti Reazione",
+            "name": "Reaction Point(s)",
             "typeId": "c9ba-097e-c47f-ecc2",
             "value": 0
           }
@@ -4868,7 +4868,7 @@
               {
                 "comment": "1",
                 "type": "set",
-                "value": "Paura (1)",
+                "value": "Fear (1)",
                 "field": "name"
               }
             ],
@@ -4889,7 +4889,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Imponente (4)",
+                "value": "Bulky (4)",
                 "field": "name"
               }
             ],
@@ -4904,7 +4904,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Insensibile al Dolore (5+)",
+                "value": "Feel No Pain (5+)",
                 "field": "name"
               }
             ],
@@ -4919,7 +4919,7 @@
               {
                 "comment": "2",
                 "type": "set",
-                "value": "Veloce (2)",
+                "value": "Fast (2)",
                 "field": "name"
               }
             ],
@@ -5022,17 +5022,17 @@
         ],
         "costs": [
           {
-            "name": "Punti",
+            "name": "Point(s)",
             "typeId": "9893-c379-920b-8982",
             "value": 110
           },
           {
-            "name": "Punti Assetto",
+            "name": "Asset Point(s)",
             "typeId": "57e3-1031-7d4d-5ae3",
             "value": 0
           },
           {
-            "name": "Punti Reazione",
+            "name": "Reaction Point(s)",
             "typeId": "c9ba-097e-c47f-ecc2",
             "value": 0
           }
@@ -5502,7 +5502,7 @@
                 ],
                 "costs": [
                   {
-                    "name": "Punti",
+                    "name": "Point(s)",
                     "typeId": "9893-c379-920b-8982",
                     "value": 20
                   }
@@ -5527,7 +5527,7 @@
                 ],
                 "costs": [
                   {
-                    "name": "Punti",
+                    "name": "Point(s)",
                     "typeId": "9893-c379-920b-8982",
                     "value": 20
                   }
@@ -5552,7 +5552,7 @@
                 ],
                 "costs": [
                   {
-                    "name": "Punti",
+                    "name": "Point(s)",
                     "typeId": "9893-c379-920b-8982",
                     "value": 20
                   }
@@ -5651,7 +5651,7 @@
               {
                 "comment": "4",
                 "type": "set",
-                "value": "Perforante (4+)",
+                "value": "Breaching (4+)",
                 "field": "name"
               }
             ],
@@ -5666,7 +5666,7 @@
               {
                 "comment": "1",
                 "type": "set",
-                "value": "Colpo Mietitore (1)",
+                "value": "Reaping Blow (1)",
                 "field": "name"
               }
             ],
@@ -5679,17 +5679,17 @@
         ],
         "costs": [
           {
-            "name": "Punti",
+            "name": "Point(s)",
             "typeId": "9893-c379-920b-8982",
             "value": 0
           },
           {
-            "name": "Punti Assetto",
+            "name": "Asset Point(s)",
             "typeId": "57e3-1031-7d4d-5ae3",
             "value": 0
           },
           {
-            "name": "Punti Reazione",
+            "name": "Reaction Point(s)",
             "typeId": "c9ba-097e-c47f-ecc2",
             "value": 0
           }
@@ -5703,27 +5703,27 @@
       {
         "costs": [
           {
-            "name": "Punti",
+            "name": "Point(s)",
             "typeId": "9893-c379-920b-8982",
             "value": 130
           },
           {
-            "name": "Punti Assetto",
+            "name": "Asset Point(s)",
             "typeId": "57e3-1031-7d4d-5ae3",
             "value": 0
           },
           {
-            "name": "Punti Reazione",
+            "name": "Reaction Point(s)",
             "typeId": "c9ba-097e-c47f-ecc2",
             "value": 0
           },
           {
-            "name": "Distaccamenti Ausiliari",
+            "name": "Auxiliary Detachment(s)",
             "typeId": "3e8e-05ee-be52-12d6",
             "value": 0
           },
           {
-            "name": "Distaccamenti Apice",
+            "name": "Apex Detachment(s)",
             "typeId": "159d-855c-533d-f592",
             "value": 0
           }
@@ -5824,7 +5824,7 @@
                     ],
                     "comment": "Tartaros",
                     "type": "set",
-                    "value": "Fanteria (Comando)",
+                    "value": "Infantry (Command)",
                     "field": "50fc-9241-d4a2-045b"
                   },
                   {
@@ -5965,7 +5965,7 @@
             ],
             "costs": [
               {
-                "name": "Punti",
+                "name": "Point(s)",
                 "typeId": "9893-c379-920b-8982",
                 "value": 0
               }
@@ -6069,7 +6069,7 @@
                     ],
                     "costs": [
                       {
-                        "name": "Punti",
+                        "name": "Point(s)",
                         "typeId": "9893-c379-920b-8982",
                         "value": 20
                       }
@@ -6094,7 +6094,7 @@
                     ],
                     "costs": [
                       {
-                        "name": "Punti",
+                        "name": "Point(s)",
                         "typeId": "9893-c379-920b-8982",
                         "value": 20
                       }
@@ -6119,7 +6119,7 @@
                     ],
                     "costs": [
                       {
-                        "name": "Punti",
+                        "name": "Point(s)",
                         "typeId": "9893-c379-920b-8982",
                         "value": 20
                       }
@@ -6237,7 +6237,7 @@
               {
                 "comment": "2",
                 "type": "set",
-                "value": "Imponente (2)",
+                "value": "Bulky (2)",
                 "field": "name"
               }
             ],
@@ -6318,17 +6318,17 @@
         ],
         "costs": [
           {
-            "name": "Punti",
+            "name": "Point(s)",
             "typeId": "9893-c379-920b-8982",
             "value": 15
           },
           {
-            "name": "Punti Assetto",
+            "name": "Asset Point(s)",
             "typeId": "57e3-1031-7d4d-5ae3",
             "value": 0
           },
           {
-            "name": "Punti Reazione",
+            "name": "Reaction Point(s)",
             "typeId": "c9ba-097e-c47f-ecc2",
             "value": 0
           }
@@ -6338,7 +6338,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Odio (Psykers)",
+                "value": "Hatred (Psykers)",
                 "field": "name"
               }
             ],
@@ -6443,7 +6443,7 @@
       {
         "costs": [
           {
-            "name": "Punti",
+            "name": "Point(s)",
             "typeId": "9893-c379-920b-8982",
             "value": 140
           }
@@ -6632,7 +6632,7 @@
             ],
             "costs": [
               {
-                "name": "Punti",
+                "name": "Point(s)",
                 "typeId": "9893-c379-920b-8982",
                 "value": 0
               }
@@ -6781,7 +6781,7 @@
                     ],
                     "costs": [
                       {
-                        "name": "Punti",
+                        "name": "Point(s)",
                         "typeId": "9893-c379-920b-8982",
                         "value": 20
                       }
@@ -6806,7 +6806,7 @@
                     ],
                     "costs": [
                       {
-                        "name": "Punti",
+                        "name": "Point(s)",
                         "typeId": "9893-c379-920b-8982",
                         "value": 20
                       }
@@ -6831,7 +6831,7 @@
                     ],
                     "costs": [
                       {
-                        "name": "Punti",
+                        "name": "Point(s)",
                         "typeId": "9893-c379-920b-8982",
                         "value": 20
                       }
@@ -6988,7 +6988,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Imponente (2)",
+                "value": "Bulky (2)",
                 "field": "name"
               }
             ],
@@ -7059,7 +7059,7 @@
       {
         "costs": [
           {
-            "name": "Punti",
+            "name": "Point(s)",
             "typeId": "9893-c379-920b-8982",
             "value": 27
           }
@@ -7213,7 +7213,7 @@
             ],
             "costs": [
               {
-                "name": "Punti",
+                "name": "Point(s)",
                 "typeId": "9893-c379-920b-8982",
                 "value": 17
               }
@@ -7294,7 +7294,7 @@
               {
                 "costs": [
                   {
-                    "name": "Punti",
+                    "name": "Point(s)",
                     "typeId": "9893-c379-920b-8982",
                     "value": 10
                   }
@@ -7371,7 +7371,7 @@
                       {
                         "costs": [
                           {
-                            "name": "Punti",
+                            "name": "Point(s)",
                             "typeId": "9893-c379-920b-8982",
                             "value": 5
                           }
@@ -7397,7 +7397,7 @@
                       {
                         "costs": [
                           {
-                            "name": "Punti",
+                            "name": "Point(s)",
                             "typeId": "9893-c379-920b-8982",
                             "value": 5
                           }
@@ -7502,7 +7502,7 @@
                     ],
                     "costs": [
                       {
-                        "name": "Punti",
+                        "name": "Point(s)",
                         "typeId": "9893-c379-920b-8982",
                         "value": 2
                       }
@@ -7714,7 +7714,7 @@
                       },
                       {
                         "type": "replace",
-                        "value": "Sergente, Campione",
+                        "value": "Sergeant, Champion",
                         "field": "50fc-9241-d4a2-045b",
                         "arg": "Sergeant"
                       }
@@ -7744,7 +7744,7 @@
             ],
             "costs": [
               {
-                "name": "Punti",
+                "name": "Point(s)",
                 "typeId": "9893-c379-920b-8982",
                 "value": 0
               }
@@ -7845,7 +7845,7 @@
                   {
                     "costs": [
                       {
-                        "name": "Punti",
+                        "name": "Point(s)",
                         "typeId": "9893-c379-920b-8982",
                         "value": 5
                       }
@@ -7917,7 +7917,7 @@
                   {
                     "costs": [
                       {
-                        "name": "Punti",
+                        "name": "Point(s)",
                         "typeId": "9893-c379-920b-8982",
                         "value": 15
                       }
@@ -7943,7 +7943,7 @@
                   {
                     "costs": [
                       {
-                        "name": "Punti",
+                        "name": "Point(s)",
                         "typeId": "9893-c379-920b-8982",
                         "value": 15
                       }
@@ -7969,7 +7969,7 @@
                   {
                     "costs": [
                       {
-                        "name": "Punti",
+                        "name": "Point(s)",
                         "typeId": "9893-c379-920b-8982",
                         "value": 20
                       }
@@ -8005,7 +8005,7 @@
                     ],
                     "costs": [
                       {
-                        "name": "Punti",
+                        "name": "Point(s)",
                         "typeId": "9893-c379-920b-8982",
                         "value": 2
                       }
@@ -8040,7 +8040,7 @@
                   {
                     "costs": [
                       {
-                        "name": "Punti",
+                        "name": "Point(s)",
                         "typeId": "9893-c379-920b-8982",
                         "value": 10
                       }
@@ -8141,7 +8141,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Avanguardia (3)",
+                "value": "Vanguard (3)",
                 "field": "name"
               }
             ],
@@ -8205,7 +8205,7 @@
       {
         "costs": [
           {
-            "name": "Punti",
+            "name": "Point(s)",
             "typeId": "9893-c379-920b-8982",
             "value": 150
           }
@@ -8301,17 +8301,17 @@
                       },
                       {
                         "type": "replace",
-                        "value": ", Antigravitazionale)",
+                        "value": ", Antigrav)",
                         "field": "50fc-9241-d4a2-045b",
                         "arg": ")"
                       },
                       {
                         "type": "set",
-                        "value": "Sacerdote delle Rune su Scimitar",
+                        "value": "Caster of Runes on Scimitar Jetbike",
                         "field": "name"
                       }
                     ],
-                    "comment": "Scimitar",
+                    "comment": "Scimitar Jetbike",
                     "conditions": [
                       {
                         "type": "atLeast",
@@ -8424,7 +8424,7 @@
             ],
             "costs": [
               {
-                "name": "Punti",
+                "name": "Point(s)",
                 "typeId": "9893-c379-920b-8982",
                 "value": 0
               }
@@ -8463,7 +8463,7 @@
                       }
                     ],
                     "type": "set",
-                    "value": "Imponente (2)",
+                    "value": "Bulky (2)",
                     "field": "name"
                   },
                   {
@@ -8479,7 +8479,7 @@
                       }
                     ],
                     "type": "set",
-                    "value": "Imponente (3)",
+                    "value": "Bulky (3)",
                     "field": "name"
                   }
                 ],
@@ -8733,7 +8733,7 @@
                   {
                     "costs": [
                       {
-                        "name": "Punti",
+                        "name": "Point(s)",
                         "typeId": "9893-c379-920b-8982",
                         "value": 15
                       }
@@ -8846,7 +8846,7 @@
                     ],
                     "costs": [
                       {
-                        "name": "Punti",
+                        "name": "Point(s)",
                         "typeId": "9893-c379-920b-8982",
                         "value": 20
                       }
@@ -8871,7 +8871,7 @@
                     ],
                     "costs": [
                       {
-                        "name": "Punti",
+                        "name": "Point(s)",
                         "typeId": "9893-c379-920b-8982",
                         "value": 20
                       }
@@ -8896,7 +8896,7 @@
                     ],
                     "costs": [
                       {
-                        "name": "Punti",
+                        "name": "Point(s)",
                         "typeId": "9893-c379-920b-8982",
                         "value": 20
                       }
@@ -9037,7 +9037,7 @@
                   {
                     "costs": [
                       {
-                        "name": "Punti",
+                        "name": "Point(s)",
                         "typeId": "9893-c379-920b-8982",
                         "value": 10
                       }
@@ -9062,7 +9062,7 @@
                   {
                     "costs": [
                       {
-                        "name": "Punti",
+                        "name": "Point(s)",
                         "typeId": "9893-c379-920b-8982",
                         "value": 15
                       }
@@ -9087,7 +9087,7 @@
                   {
                     "costs": [
                       {
-                        "name": "Punti",
+                        "name": "Point(s)",
                         "typeId": "9893-c379-920b-8982",
                         "value": 20
                       }
@@ -9216,7 +9216,7 @@
                   }
                 ],
                 "type": "set",
-                "value": "Sacerdote delle Rune su Scimitar",
+                "value": "Caster of Runes on Scimitar Jetbike",
                 "field": "name"
               }
             ],
@@ -9285,7 +9285,7 @@
       {
         "costs": [
           {
-            "name": "Punti",
+            "name": "Point(s)",
             "typeId": "9893-c379-920b-8982",
             "value": 1
           }
@@ -9439,7 +9439,7 @@
             ],
             "costs": [
               {
-                "name": "Punti",
+                "name": "Point(s)",
                 "typeId": "9893-c379-920b-8982",
                 "value": 9
               }
@@ -9614,7 +9614,7 @@
       {
         "costs": [
           {
-            "name": "Punti",
+            "name": "Point(s)",
             "typeId": "9893-c379-920b-8982",
             "value": 100
           }
@@ -9825,7 +9825,7 @@
                       }
                     ],
                     "type": "set",
-                    "value": "Portavoce dei Morti con reattori dorsali",
+                    "value": "Speaker of the Dead with Jump Pack",
                     "field": "name"
                   },
                   {
@@ -9855,7 +9855,7 @@
                       }
                     ],
                     "type": "set",
-                    "value": "Fanteria (Comando, Antigravitazionale)",
+                    "value": "Infantry (Command, Antigrav)",
                     "field": "50fc-9241-d4a2-045b"
                   }
                 ],
@@ -9868,7 +9868,7 @@
             ],
             "costs": [
               {
-                "name": "Punti",
+                "name": "Point(s)",
                 "typeId": "9893-c379-920b-8982",
                 "value": 0
               }
@@ -9896,7 +9896,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Medico (5+)",
+                    "value": "Medic (5+)",
                     "field": "name"
                   }
                 ],
@@ -10023,7 +10023,7 @@
                   {
                     "costs": [
                       {
-                        "name": "Punti",
+                        "name": "Point(s)",
                         "typeId": "9893-c379-920b-8982",
                         "value": 5
                       }
@@ -10201,7 +10201,7 @@
                   }
                 ],
                 "type": "set",
-                "value": "Portavoce dei Morti con reattori dorsali",
+                "value": "Speaker of the Dead with Jump Pack",
                 "field": "name"
               },
               {
@@ -10278,7 +10278,7 @@
       {
         "costs": [
           {
-            "name": "Punti",
+            "name": "Point(s)",
             "typeId": "9893-c379-920b-8982",
             "value": 120
           }
@@ -10379,7 +10379,7 @@
                     ],
                     "comment": "Tartaros",
                     "type": "set",
-                    "value": "Fanteria (Comando)",
+                    "value": "Infantry (Command)",
                     "field": "50fc-9241-d4a2-045b"
                   },
                   {
@@ -10520,7 +10520,7 @@
             ],
             "costs": [
               {
-                "name": "Punti",
+                "name": "Point(s)",
                 "typeId": "9893-c379-920b-8982",
                 "value": 0
               }
@@ -10548,7 +10548,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Medico (5+)",
+                    "value": "Medic (5+)",
                     "field": "name"
                   }
                 ],
@@ -10758,7 +10758,7 @@
               {
                 "comment": "2",
                 "type": "set",
-                "value": "Imponente (2)",
+                "value": "Bulky (2)",
                 "field": "name"
               }
             ],
@@ -10845,7 +10845,7 @@
       {
         "costs": [
           {
-            "name": "Punti",
+            "name": "Point(s)",
             "typeId": "9893-c379-920b-8982",
             "value": 130
           }
@@ -10941,17 +10941,17 @@
                       },
                       {
                         "type": "replace",
-                        "value": ", Antigravitazionale)",
+                        "value": ", Antigrav)",
                         "field": "50fc-9241-d4a2-045b",
                         "arg": ")"
                       },
                       {
                         "type": "set",
-                        "value": "Sacerdote delle Rune su Scimitar",
+                        "value": "Caster of Runes on Scimitar Jetbike",
                         "field": "name"
                       }
                     ],
-                    "comment": "Scimitar",
+                    "comment": "Scimitar Jetbike",
                     "conditions": [
                       {
                         "type": "atLeast",
@@ -11064,7 +11064,7 @@
             ],
             "costs": [
               {
-                "name": "Punti",
+                "name": "Point(s)",
                 "typeId": "9893-c379-920b-8982",
                 "value": 0
               }
@@ -11103,7 +11103,7 @@
                       }
                     ],
                     "type": "set",
-                    "value": "Imponente (2)",
+                    "value": "Bulky (2)",
                     "field": "name"
                   },
                   {
@@ -11119,7 +11119,7 @@
                       }
                     ],
                     "type": "set",
-                    "value": "Imponente (3)",
+                    "value": "Bulky (3)",
                     "field": "name"
                   }
                 ],
@@ -11400,7 +11400,7 @@
                   {
                     "costs": [
                       {
-                        "name": "Punti",
+                        "name": "Point(s)",
                         "typeId": "9893-c379-920b-8982",
                         "value": 15
                       }
@@ -11503,7 +11503,7 @@
                   {
                     "costs": [
                       {
-                        "name": "Punti",
+                        "name": "Point(s)",
                         "typeId": "9893-c379-920b-8982",
                         "value": 5
                       }
@@ -11564,7 +11564,7 @@
                   {
                     "costs": [
                       {
-                        "name": "Punti",
+                        "name": "Point(s)",
                         "typeId": "9893-c379-920b-8982",
                         "value": 10
                       }
@@ -11589,7 +11589,7 @@
                   {
                     "costs": [
                       {
-                        "name": "Punti",
+                        "name": "Point(s)",
                         "typeId": "9893-c379-920b-8982",
                         "value": 15
                       }
@@ -11614,7 +11614,7 @@
                   {
                     "costs": [
                       {
-                        "name": "Punti",
+                        "name": "Point(s)",
                         "typeId": "9893-c379-920b-8982",
                         "value": 20
                       }
@@ -11743,7 +11743,7 @@
                   }
                 ],
                 "type": "set",
-                "value": "Portavoce dei Morti su Scimitar",
+                "value": "Speaker of the Dead on Scimitar Jetbike",
                 "field": "name"
               }
             ],
@@ -11858,7 +11858,7 @@
         "costs": [
           {
             "typeId": "9893-c379-920b-8982",
-            "name": "Punti",
+            "name": "Point(s)",
             "value": 10
           }
         ],
@@ -11952,7 +11952,7 @@
             "costs": [
               {
                 "typeId": "9893-c379-920b-8982",
-                "name": "Punti",
+                "name": "Point(s)",
                 "value": 9
               }
             ],
@@ -12031,7 +12031,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Fino a due Inductii in questa Unità possono avere uno dei seguenti:",
+                    "value": "Up to two Inductii in this Unit may each have one of",
                     "field": "name"
                   }
                 ],
@@ -12086,7 +12086,7 @@
                   {
                     "costs": [
                       {
-                        "name": "Punti",
+                        "name": "Point(s)",
                         "typeId": "9893-c379-920b-8982",
                         "value": 2
                       }
@@ -12135,7 +12135,7 @@
                         "costs": [
                           {
                             "typeId": "9893-c379-920b-8982",
-                            "name": "Punti",
+                            "name": "Point(s)",
                             "value": 5
                           }
                         ],
@@ -12161,7 +12161,7 @@
                         "costs": [
                           {
                             "typeId": "9893-c379-920b-8982",
-                            "name": "Punti",
+                            "name": "Point(s)",
                             "value": 5
                           }
                         ],
@@ -12304,7 +12304,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Ogni 4 Modelli nell’Unità, un singolo Modello di Inductii può sostituire Pistola requiem con un oggetto dalla lista Pistole della Legione:",
+                        "value": "For every four Models in this Unit, one Inductii in this Unit may have its bolt pistol exchanged for ",
                         "field": "name"
                       },
                       {
@@ -12447,7 +12447,7 @@
                     "costs": [
                       {
                         "typeId": "9893-c379-920b-8982",
-                        "name": "Punti",
+                        "name": "Point(s)",
                         "value": 10
                       }
                     ],
@@ -12967,7 +12967,7 @@
           {
             "costs": [
               {
-                "name": "Punti",
+                "name": "Point(s)",
                 "typeId": "9893-c379-920b-8982",
                 "value": 15
               }
@@ -12983,7 +12983,7 @@
           {
             "costs": [
               {
-                "name": "Punti",
+                "name": "Point(s)",
                 "typeId": "9893-c379-920b-8982",
                 "value": 15
               }
@@ -12999,7 +12999,7 @@
           {
             "costs": [
               {
-                "name": "Punti",
+                "name": "Point(s)",
                 "typeId": "9893-c379-920b-8982",
                 "value": 15
               }
@@ -13303,7 +13303,7 @@
     "name": "                         VI - Lupi Siderali",
     "gameSystemId": "sys-b976-0013-2f97-437b",
     "gameSystemRevision": 1,
-    "revision": 19,
+    "revision": 20,
     "authorUrl": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita",
     "authorContact": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita/issues",
     "authorName": "The4D6",
