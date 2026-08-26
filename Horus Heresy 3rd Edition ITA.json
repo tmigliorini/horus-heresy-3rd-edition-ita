@@ -6445,7 +6445,8 @@
                 "name": "Comando - Solo Centurioni",
                 "hidden": false,
                 "id": "ab27-8132-c95f-e16d",
-                "targetId": "1429-f03a-e8a5-478c"
+                "targetId": "1429-f03a-e8a5-478c",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -8323,7 +8324,8 @@
                 "name": "Generale",
                 "hidden": false,
                 "id": "2a9f-70e6-d060-3978",
-                "targetId": "22ee-7208-4089-b005"
+                "targetId": "22ee-7208-4089-b005",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -11063,7 +11065,8 @@
                 "name": "Comando - Solo Centurioni",
                 "hidden": false,
                 "id": "5526-4df9-e594-6e32",
-                "targetId": "1429-f03a-e8a5-478c"
+                "targetId": "1429-f03a-e8a5-478c",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -28804,7 +28807,8 @@
                 "name": "Corazzato - Solo Bombarda Arquitor",
                 "hidden": false,
                 "id": "2ba5-198c-9b80-1720",
-                "targetId": "b58f-c88f-6b2e-02b1"
+                "targetId": "b58f-c88f-6b2e-02b1",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -30409,7 +30413,8 @@
                 "name": "Comando - Solo Optae",
                 "hidden": false,
                 "id": "cc04-ac5c-f2c5-8c7a",
-                "targetId": "ee42-a241-c364-489d"
+                "targetId": "ee42-a241-c364-489d",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -31398,7 +31403,8 @@
                 "name": "Supporto Leggero - Solo Squadroni su Scimitar",
                 "hidden": false,
                 "id": "118a-8a04-7902-9a00",
-                "targetId": "eaec-7669-f5ba-3ad9"
+                "targetId": "eaec-7669-f5ba-3ad9",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -31450,7 +31456,8 @@
                 "name": "Ricognizione - Solo Squadroni di Motociclisti",
                 "hidden": false,
                 "id": "b016-d320-a1d9-4f3b",
-                "targetId": "a8bc-a4af-e5b3-2684"
+                "targetId": "a8bc-a4af-e5b3-2684",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -32234,7 +32241,8 @@
                 "name": "Comando - Solo Praevian",
                 "hidden": false,
                 "id": "7af5-6fff-edb0-8932",
-                "targetId": "7c8e-52bb-951b-9c7f"
+                "targetId": "7c8e-52bb-951b-9c7f",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -33136,7 +33144,8 @@
                 "name": "Truppe - Solo Squadre del Terrore",
                 "hidden": false,
                 "id": "0f3a-d373-9df5-93fb",
-                "targetId": "6e0b-c31d-739b-d9cc"
+                "targetId": "6e0b-c31d-739b-d9cc",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -33920,7 +33929,8 @@
                 "name": "Seguito - Solo Squadre Comando Catafratta o Tartaros",
                 "hidden": false,
                 "id": "478c-8c25-0b78-22df",
-                "targetId": "637c-2d13-1879-9655"
+                "targetId": "637c-2d13-1879-9655",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -33936,7 +33946,8 @@
                 "name": "Assalto Pesante - Solo Catafratta o Tartaros",
                 "hidden": false,
                 "id": "6887-ef58-c512-0b16",
-                "targetId": "6cc6-9558-dd27-949f"
+                "targetId": "6cc6-9558-dd27-949f",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -33953,7 +33964,8 @@
                 "name": "Seguito (Primario)",
                 "hidden": false,
                 "id": "0c72-64ce-bc4f-c018",
-                "targetId": "c66b-ef39-b20f-725b"
+                "targetId": "c66b-ef39-b20f-725b",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -33970,7 +33982,8 @@
                 "name": "Assalto Pesante (Primario)",
                 "hidden": false,
                 "id": "6da5-c637-720d-b0e9",
-                "targetId": "1e95-35f0-1353-ffa1"
+                "targetId": "1e95-35f0-1353-ffa1",
+                "tracked": true
               }
             ],
             "modifiers": [
@@ -34087,7 +34100,8 @@
                 "name": "Assalto Pesante - Solo Squadre di Massacratori",
                 "hidden": false,
                 "id": "b686-b285-d2bd-e8e2",
-                "targetId": "91f0-1b91-0a9a-c542"
+                "targetId": "91f0-1b91-0a9a-c542",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -34891,7 +34905,8 @@
                 "name": "Truppe - Solo Branchi di Sventratori Grigi",
                 "hidden": false,
                 "id": "aa62-7956-a2d2-fec4",
-                "targetId": "a4aa-d941-3aab-a81b"
+                "targetId": "a4aa-d941-3aab-a81b",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -35695,7 +35710,8 @@
                 "name": "Truppe - Solo Squadre Assaltatrici",
                 "hidden": false,
                 "id": "9de0-e8ca-656a-5fbb",
-                "targetId": "5091-8467-38f9-a6fb"
+                "targetId": "5091-8467-38f9-a6fb",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -35729,7 +35745,8 @@
                 "name": "Reparti Speciali - Solo Coorti Frangialba o Squadre Assaltatrici Veterane",
                 "hidden": false,
                 "id": "1339-011e-ba47-8333",
-                "targetId": "97b0-7a9b-b549-18b4"
+                "targetId": "97b0-7a9b-b549-18b4",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -36498,7 +36515,8 @@
                 "name": "Supporto - Solo Apotecario",
                 "hidden": false,
                 "id": "cccd-5667-9e16-e4d4",
-                "targetId": "4a48-9154-40d8-d6b7"
+                "targetId": "4a48-9154-40d8-d6b7",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -37299,7 +37317,8 @@
                 "name": "Trasporto Pesante - Solo Land Raider Carrier o Spartan",
                 "hidden": false,
                 "id": "34cc-c81a-e963-0919",
-                "targetId": "6b8d-15cd-2d41-9709"
+                "targetId": "6b8d-15cd-2d41-9709",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -39890,7 +39909,8 @@
                 "name": "Ricognizione - Solo Squadroni di Motociclisti",
                 "hidden": false,
                 "id": "d5a5-e528-301f-e1b8",
-                "targetId": "a8bc-a4af-e5b3-2684"
+                "targetId": "a8bc-a4af-e5b3-2684",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -40562,7 +40582,8 @@
                 "name": "Supporto Leggero (Primario)",
                 "hidden": false,
                 "id": "2a88-6b95-ee4d-0c4b",
-                "targetId": "c291-144b-3da6-37ed"
+                "targetId": "c291-144b-3da6-37ed",
+                "tracked": true
               },
               {
                 "name": "Operativo di Clade",
@@ -40694,7 +40715,8 @@
                 "name": "Reparti Speciali - Solo Squadre di Cacciatori",
                 "hidden": false,
                 "id": "9ef4-28d6-7a6a-290b",
-                "targetId": "6ab9-f648-a6de-e2e8"
+                "targetId": "6ab9-f648-a6de-e2e8",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -41653,7 +41675,8 @@
                 "name": "Supporto - Solo Dreadwing o Rapier",
                 "hidden": false,
                 "id": "7843-04fb-71c7-c434",
-                "targetId": "d52d-47c6-e17a-9e35"
+                "targetId": "d52d-47c6-e17a-9e35",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -42473,7 +42496,8 @@
                 "name": "Truppe - Solo Squadre d'Abbordaggio",
                 "hidden": false,
                 "id": "ee65-4faf-127b-8c50",
-                "targetId": "2b63-c3cd-b88c-a465"
+                "targetId": "2b63-c3cd-b88c-a465",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -43244,7 +43268,8 @@
                 "name": "Ricognizione - Solo Squadra da Ricognizione",
                 "hidden": false,
                 "id": "a25f-674d-d2e3-f98c",
-                "targetId": "f8c3-f44e-569f-4418"
+                "targetId": "f8c3-f44e-569f-4418",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -43260,7 +43285,8 @@
                 "name": "Reparti Speciali - Solo Squadre Assaltatrici Veterane o Squadre di Furie Oscure",
                 "hidden": false,
                 "id": "7326-9bc1-56dd-df83",
-                "targetId": "2e9d-4d50-d9f1-0fcf"
+                "targetId": "2e9d-4d50-d9f1-0fcf",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -44989,7 +45015,8 @@
                 "name": "Reparti Speciali - Solo Squadre di Cacciatori o Squadre d'Uccisione Cacciateste",
                 "hidden": false,
                 "id": "832a-df38-fd99-3ca0",
-                "targetId": "5c0d-4d49-44e2-0a99"
+                "targetId": "5c0d-4d49-44e2-0a99",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -46424,7 +46451,8 @@
                       }
                     ]
                   }
-                ]
+                ],
+                "tracked": true
               }
             ],
             "name": "Manifestazione Demoniaca",
@@ -47936,7 +47964,8 @@
                 "name": "Supporto - Solo Apotecario",
                 "hidden": false,
                 "id": "d378-d558-8199-1aef",
-                "targetId": "4a48-9154-40d8-d6b7"
+                "targetId": "4a48-9154-40d8-d6b7",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -49281,7 +49310,8 @@
                 "name": "Supporto - Solo Techmarine",
                 "hidden": false,
                 "id": "7c32-fc69-8436-734b",
-                "targetId": "103f-d00d-f8cf-52de"
+                "targetId": "103f-d00d-f8cf-52de",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -50647,7 +50677,8 @@
                 "name": "Supporto - Solo Batteria Rapier",
                 "hidden": false,
                 "id": "933f-a441-79bd-56e3",
-                "targetId": "b59d-a86f-b951-9f06"
+                "targetId": "b59d-a86f-b951-9f06",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -50716,7 +50747,8 @@
                 "name": "Corazzato - Solo Arquitor o Vindicator",
                 "hidden": false,
                 "id": "be8e-5119-3ed1-8713",
-                "targetId": "eb97-692e-8c90-1622"
+                "targetId": "eb97-692e-8c90-1622",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -51494,7 +51526,8 @@
                 "name": "Ricognizione - Solo Squadra da Ricognizione",
                 "hidden": false,
                 "id": "7ce6-438b-4534-48c2",
-                "targetId": "f8c3-f44e-569f-4418"
+                "targetId": "f8c3-f44e-569f-4418",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -53047,7 +53080,8 @@
                 "name": "Reparti Speciali - Solo Squadre Assaltatrici Veterane",
                 "hidden": false,
                 "id": "453e-4c0b-3c13-417b",
-                "targetId": "2fed-0e3c-cc68-e4d4"
+                "targetId": "2fed-0e3c-cc68-e4d4",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -53106,7 +53140,8 @@
                 "name": "Seguito - Solo Squadra Comando Pretoriana con reattori dorsali",
                 "hidden": false,
                 "id": "7d0f-4b59-bd7a-0b69",
-                "targetId": "af7b-1fc6-d5b1-0841"
+                "targetId": "af7b-1fc6-d5b1-0841",
+                "tracked": true
               },
               {
                 "name": "Operativo di Clade",
@@ -53735,7 +53770,8 @@
                       }
                     ]
                   }
-                ]
+                ],
+                "tracked": true
               }
             ],
             "costs": [
@@ -54673,7 +54709,8 @@
                 "name": "Assalto Pesante - Solo Saturnine",
                 "hidden": false,
                 "id": "d920-fb7b-9c2a-981a",
-                "targetId": "7071-45ae-bdfe-9004"
+                "targetId": "7071-45ae-bdfe-9004",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -54757,7 +54794,8 @@
                 "name": "Seguito - Solo Saturnine",
                 "hidden": false,
                 "id": "f1e4-ce6a-7ac1-0965",
-                "targetId": "4757-3241-ca42-c64c"
+                "targetId": "4757-3241-ca42-c64c",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -56186,7 +56224,8 @@
                 "name": "Assalto Pesante - Solo Catafratta",
                 "hidden": false,
                 "id": "3955-aa98-10b0-412f",
-                "targetId": "833c-5bc6-bcc3-d147"
+                "targetId": "833c-5bc6-bcc3-d147",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -56270,7 +56309,8 @@
                 "name": "Seguito - Solo Catafratta",
                 "hidden": false,
                 "id": "b71a-cf47-a216-e5ab",
-                "targetId": "308f-e6d5-9133-fdc0"
+                "targetId": "308f-e6d5-9133-fdc0",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -57649,7 +57689,8 @@
                 "name": "Assalto Pesante - Solo Tartaros",
                 "hidden": false,
                 "id": "cb39-84bd-5c1c-7274",
-                "targetId": "a0d8-093f-bcbd-5ddd"
+                "targetId": "a0d8-093f-bcbd-5ddd",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -57733,7 +57774,8 @@
                 "name": "Seguito - Solo Tartaros",
                 "hidden": false,
                 "id": "6431-a6a9-ebd7-cfd7",
-                "targetId": "2be1-bf88-59df-0338"
+                "targetId": "2be1-bf88-59df-0338",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -58806,7 +58848,8 @@
                 "name": "Supporto - Solo unità di Piattaforma Quad Arakne",
                 "hidden": false,
                 "id": "6df6-15ee-8307-635f",
-                "targetId": "9a5a-a469-c15d-380d"
+                "targetId": "9a5a-a469-c15d-380d",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -58865,7 +58908,8 @@
                 "name": "Ricognizione - Solo Batterie Tarantola",
                 "hidden": false,
                 "id": "af25-7bfa-307b-c317",
-                "targetId": "6177-f967-f944-a7bd"
+                "targetId": "6177-f967-f944-a7bd",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -60796,7 +60840,8 @@
                 "name": "Sovrano della Guerra",
                 "hidden": false,
                 "id": "3af9-88f3-14f9-4ab8",
-                "targetId": "a46f-a465-0ead-d6b8"
+                "targetId": "a46f-a465-0ead-d6b8",
+                "tracked": true
               }
             ],
             "name": "Pugno Corazzato Leviathan",
@@ -62348,7 +62393,8 @@
                 "name": "Corazzato (Primario)",
                 "hidden": false,
                 "id": "20c7-12a7-0597-8363",
-                "targetId": "4460-7bc1-4d80-aecb"
+                "targetId": "4460-7bc1-4d80-aecb",
+                "tracked": true
               }
             ],
             "modifiers": [
@@ -66746,7 +66792,8 @@
                 "name": "Comando - Solo Centurioni",
                 "hidden": false,
                 "id": "5e02-935b-3ae3-4485",
-                "targetId": "1429-f03a-e8a5-478c"
+                "targetId": "1429-f03a-e8a5-478c",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -68137,7 +68184,8 @@
                 "name": "Comando (Primario) - Solo Centurioni",
                 "hidden": false,
                 "id": "9dff-cea8-05de-908a",
-                "targetId": "afc8-c83d-00a6-936e"
+                "targetId": "afc8-c83d-00a6-936e",
+                "tracked": true
               }
             ],
             "modifiers": [
@@ -69558,7 +69606,8 @@
             "name": "Sovrano della Guerra",
             "hidden": false,
             "id": "3c0a-1455-992a-6156",
-            "targetId": "a46f-a465-0ead-d6b8"
+            "targetId": "a46f-a465-0ead-d6b8",
+            "tracked": true
           },
           {
             "constraints": [
@@ -69601,7 +69650,8 @@
             "name": "Usa invece una forza con un Sovrano della Guerra Knight",
             "hidden": false,
             "id": "162a-d5fe-ecab-fa55",
-            "targetId": "f7dd-b6b0-69d0-1a53"
+            "targetId": "f7dd-b6b0-69d0-1a53",
+            "tracked": true
           }
         ],
         "constraints": [
@@ -72011,7 +72061,8 @@
                 "name": "Comando - Solo Centurioni",
                 "hidden": false,
                 "id": "e7a1-e484-9ab9-3869",
-                "targetId": "1429-f03a-e8a5-478c"
+                "targetId": "1429-f03a-e8a5-478c",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -75325,7 +75376,8 @@
                 "name": "Comando - Solo Centurioni",
                 "hidden": false,
                 "id": "89e1-b109-fcdd-807f",
-                "targetId": "1429-f03a-e8a5-478c"
+                "targetId": "1429-f03a-e8a5-478c",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -78443,7 +78495,8 @@
                 "name": "Comando - Solo Centurioni",
                 "hidden": false,
                 "id": "9407-302a-ae98-c538",
-                "targetId": "1429-f03a-e8a5-478c"
+                "targetId": "1429-f03a-e8a5-478c",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -84573,7 +84626,8 @@
                 "name": "Comando - Solo Centurioni",
                 "hidden": false,
                 "id": "c8e6-c9f2-adb4-818b",
-                "targetId": "1429-f03a-e8a5-478c"
+                "targetId": "1429-f03a-e8a5-478c",
+                "tracked": true
               },
               {
                 "constraints": [
@@ -91666,7 +91720,7 @@
     "id": "sys-b976-0013-2f97-437b",
     "name": "Horus Heresy 3ª Edizione ITA",
     "battleScribeVersion": 2.03,
-    "revision": 63,
+    "revision": 64,
     "type": "gameSystem",
     "authorName": "The4D6",
     "authorContact": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita/issues",

@@ -17914,7 +17914,7 @@
                     "type": "and"
                   }
                 ],
-                "name": "Legionario d'Assalto",
+                "name": "Legionario assaltatore",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo",
                 "hidden": false,
@@ -19517,7 +19517,7 @@
                     "type": "and"
                   }
                 ],
-                "name": "Sergente d’Assalto",
+                "name": "Sergente assaltatore",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo",
                 "hidden": false,
@@ -79806,7 +79806,7 @@
                     "type": "and"
                   }
                 ],
-                "name": "Legionario Despoiler",
+                "name": "Legionario depredatore",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo",
                 "hidden": false,
@@ -80982,7 +80982,7 @@
                     "type": "and"
                   }
                 ],
-                "name": "Sergente Despoiler",
+                "name": "Sergente depredatore",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo",
                 "hidden": false,
@@ -238103,7 +238103,7 @@
     "name": "Legiones Astartes",
     "gameSystemId": "sys-b976-0013-2f97-437b",
     "gameSystemRevision": 1,
-    "revision": 67,
+    "revision": 68,
     "authorName": "The4D6",
     "battleScribeVersion": 2.03,
     "type": "catalogue",
