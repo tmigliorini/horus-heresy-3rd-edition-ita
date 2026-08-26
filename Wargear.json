@@ -79,8 +79,8 @@
               }
             ],
             "name": "Granate a frammentazione",
-            "typeId": "c591-09ed-3e6f-eb2b",
-            "typeName": "Arma a Distanza",
+            "typeId": "ea01-0001-0000-0001",
+            "typeName": "Equipaggiamento - Arma a Distanza",
             "hidden": false,
             "id": "c4a9-24d0-9e9e-99a6"
           }
@@ -722,7 +722,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Impact (AP)",
+                "value": "Impatto (VP)",
                 "field": "name"
               }
             ],
@@ -736,7 +736,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (5+)",
+                "value": "Perforante (5+)",
                 "field": "name"
               }
             ],
@@ -796,7 +796,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Bulky (3)",
+                "value": "Imponente (3)",
                 "field": "name"
               }
             ],
@@ -898,7 +898,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (6+)",
+                "value": "Perforante (6+)",
                 "field": "name"
               }
             ],
@@ -966,7 +966,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Fear (1)",
+                "value": "Paura (1)",
                 "field": "name"
               }
             ],
@@ -1191,7 +1191,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Feel No Pain (5+)",
+                "value": "Insensibile al Dolore (5+)",
                 "field": "name"
               }
             ],
@@ -1260,7 +1260,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Bulky (2)",
+                "value": "Imponente (2)",
                 "field": "name"
               }
             ],
@@ -1594,7 +1594,7 @@
     "name": "Equipaggiamento",
     "gameSystemId": "sys-b976-0013-2f97-437b",
     "gameSystemRevision": 1,
-    "revision": 28,
+    "revision": 29,
     "authorName": "The4D6",
     "battleScribeVersion": 2.03,
     "type": "catalogue",

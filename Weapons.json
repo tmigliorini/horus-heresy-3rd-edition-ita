@@ -178,7 +178,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Overload (1)",
+                "value": "Surriscaldamento (1)",
                 "field": "name"
               }
             ],
@@ -247,7 +247,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Overload (1)",
+                "value": "Surriscaldamento (1)",
                 "field": "name"
               }
             ],
@@ -318,7 +318,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Overload (1)",
+                "value": "Surriscaldamento (1)",
                 "field": "name"
               }
             ],
@@ -332,11 +332,11 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Heavy (FP)",
+                "value": "Pesante (PF)",
                 "field": "name"
               }
             ],
-            "comment": "FP",
+            "comment": "PF",
             "name": "Pesante (X)",
             "id": "529e-0ec5-ce19-3dfc",
             "hidden": false,
@@ -403,7 +403,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Overload (1)",
+                "value": "Surriscaldamento (1)",
                 "field": "name"
               }
             ],
@@ -571,11 +571,11 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (6+) (Sustained)",
+                "value": "Perforante (6+) (Fuoco sostenuto)",
                 "field": "name"
               }
             ],
-            "comment": "6+ (Sustained)",
+            "comment": "6+ (Fuoco sostenuto)",
             "name": "Perforante (X)",
             "id": "ae15-bd04-4656-b978",
             "hidden": false,
@@ -586,11 +586,11 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (5+) (Maximal)",
+                "value": "Perforante (5+) (Fuoco massiccio)",
                 "field": "name"
               }
             ],
-            "comment": "5+ (Maximal)",
+            "comment": "5+ (Fuoco massiccio)",
             "name": "Perforante (X)",
             "id": "7c91-6b66-b3bf-e69d",
             "hidden": false,
@@ -601,11 +601,11 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Overload (1)",
+                "value": "Surriscaldamento (1)",
                 "field": "name"
               }
             ],
-            "comment": "1 (Maximal)",
+            "comment": "1 (Fuoco massiccio)",
             "name": "Surriscaldamento (X)",
             "id": "eeef-cf8c-1ecc-2712",
             "hidden": false,
@@ -722,7 +722,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Barrage (1)",
+                "value": "Bombardamento (1)",
                 "field": "name"
               }
             ],
@@ -737,11 +737,11 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (6+) (Sustained)",
+                "value": "Perforante (6+) (Fuoco sostenuto)",
                 "field": "name"
               }
             ],
-            "comment": "6+ (Sustained)",
+            "comment": "6+ (Fuoco sostenuto)",
             "name": "Perforante (X)",
             "id": "ba14-af71-81d8-a676",
             "hidden": false,
@@ -752,11 +752,11 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (5+) (Maximal)",
+                "value": "Perforante (5+) (Fuoco massiccio)",
                 "field": "name"
               }
             ],
-            "comment": "5+ (Maximal)",
+            "comment": "5+ (Fuoco massiccio)",
             "name": "Perforante (X)",
             "id": "d262-d934-69fb-95f7",
             "hidden": false,
@@ -767,11 +767,11 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Overload (2) (Maximal)",
+                "value": "Surriscaldamento (2) (Fuoco massiccio)",
                 "field": "name"
               }
             ],
-            "comment": "2 (Maximal)",
+            "comment": "2 (Fuoco massiccio)",
             "name": "Surriscaldamento (X)",
             "id": "49a9-b587-0774-4b16",
             "hidden": false,
@@ -782,7 +782,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Blast (3\")",
+                "value": "Area (3\")",
                 "field": "name"
               }
             ],
@@ -853,7 +853,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Critical Hit (6+)",
+                "value": "Colpo Critico (6+)",
                 "field": "name"
               }
             ],
@@ -923,7 +923,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Reaping Blow (2)",
+                "value": "Colpo Mietitore (2)",
                 "field": "name"
               }
             ],
@@ -1037,11 +1037,11 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (6+) (Sustained)",
+                "value": "Perforante (6+) (Fuoco sostenuto)",
                 "field": "name"
               }
             ],
-            "comment": "6+ (Sustained)",
+            "comment": "6+ (Fuoco sostenuto)",
             "name": "Perforante (X)",
             "id": "d163-f2be-10a5-9f6b",
             "hidden": false,
@@ -1052,11 +1052,11 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (5+) (Maximal)",
+                "value": "Perforante (5+) (Fuoco massiccio)",
                 "field": "name"
               }
             ],
-            "comment": "5+ (Maximal)",
+            "comment": "5+ (Fuoco massiccio)",
             "name": "Perforante (X)",
             "id": "b5b8-aace-e6a8-a99f",
             "hidden": false,
@@ -1067,11 +1067,11 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Overload (1)",
+                "value": "Surriscaldamento (1)",
                 "field": "name"
               }
             ],
-            "comment": "1 (Maximal)",
+            "comment": "1 (Fuoco massiccio)",
             "name": "Surriscaldamento (X)",
             "id": "a5d2-0902-9880-74a0",
             "hidden": false,
@@ -1181,7 +1181,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "(Barrage (1)",
+                "value": "(Bombardamento (1",
                 "field": "name"
               }
             ],
@@ -1193,11 +1193,11 @@
             "targetId": "85f5-3a91-69f4-c3b7"
           },
           {
-            "comment": "6+ (Sustained)",
+            "comment": "6+ (Fuoco sostenuto)",
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (6+) (Sustained)",
+                "value": "Perforante (6+) (Fuoco sostenuto)",
                 "field": "name"
               }
             ],
@@ -1208,11 +1208,11 @@
             "targetId": "b094-0b64-eb57-aed6"
           },
           {
-            "comment": "5+ (Maximal)",
+            "comment": "5+ (Fuoco massiccio)",
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (5+) (Maximal)",
+                "value": "Perforante (5+) (Fuoco massiccio)",
                 "field": "name"
               }
             ],
@@ -1227,7 +1227,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Blast (5\")",
+                "value": "Area (5\")",
                 "field": "name"
               }
             ],
@@ -1242,7 +1242,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Overload (2)",
+                "value": "Surriscaldamento (2)",
                 "field": "name"
               }
             ],
@@ -1312,7 +1312,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Overload (2)",
+                "value": "Surriscaldamento (2)",
                 "field": "name"
               }
             ],
@@ -1389,7 +1389,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Panic (2)",
+                "value": "Panico (2)",
                 "field": "name"
               }
             ],
@@ -1460,7 +1460,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (6+)",
+                "value": "Perforante (6+)",
                 "field": "name"
               }
             ],
@@ -1532,7 +1532,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (5+)",
+                "value": "Perforante (5+)",
                 "field": "name"
               }
             ],
@@ -1656,7 +1656,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Melta (6)",
+                "value": "Termico (6)",
                 "field": "name"
               }
             ],
@@ -1728,7 +1728,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Heavy (D)",
+                "value": "Pesante (D)",
                 "field": "name"
               }
             ],
@@ -1807,11 +1807,11 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Heavy (FP)",
+                "value": "Pesante (PF)",
                 "field": "name"
               }
             ],
-            "comment": "FP",
+            "comment": "PF",
             "name": "Pesante (X)",
             "id": "7b72-fe6e-6de5-fb03",
             "hidden": false,
@@ -1880,7 +1880,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Duellist's Edge (1)",
+                "value": "Maestria del Duellante (1)",
                 "field": "name"
               }
             ],
@@ -1894,7 +1894,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (6+)",
+                "value": "Perforante (6+)",
                 "field": "name"
               }
             ],
@@ -2008,7 +2008,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Overload (1)",
+                "value": "Surriscaldamento (1)",
                 "field": "name"
               }
             ],
@@ -2030,7 +2030,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (6+) (Sustained)",
+                "value": "Perforante (6+) (Fuoco sostenuto)",
                 "field": "name"
               }
             ],
@@ -2100,7 +2100,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Overload (2) (Maximal)",
+                "value": "Surriscaldamento (2) (Fuoco massiccio)",
                 "field": "name"
               }
             ],
@@ -2214,11 +2214,11 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Heavy (RS)",
+                "value": "Pesante (FD)",
                 "field": "name"
               }
             ],
-            "comment": "RS",
+            "comment": "FD",
             "name": "Pesante (X)",
             "id": "9afd-c76a-83a9-b93f",
             "hidden": false,
@@ -2229,7 +2229,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Blast (5\")",
+                "value": "Area (5\")",
                 "field": "name"
               }
             ],
@@ -2299,7 +2299,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (6+)",
+                "value": "Perforante (6+)",
                 "field": "name"
               }
             ],
@@ -2314,7 +2314,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Blast (3\")",
+                "value": "Area (3\")",
                 "field": "name"
               }
             ],
@@ -2326,11 +2326,11 @@
             "targetId": "8687-05f8-7034-412c"
           },
           {
-            "comment": "Pinned",
+            "comment": "Inchiodato",
             "modifiers": [
               {
                 "type": "set",
-                "value": "Shock (Pinned)",
+                "value": "Scossa (Inchiodato)",
                 "field": "name"
               }
             ],
@@ -2345,7 +2345,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Pinning (3)",
+                "value": "Inchiodamento (3)",
                 "field": "name"
               }
             ],
@@ -2359,7 +2359,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Heavy (D)",
+                "value": "Pesante (D)",
                 "field": "name"
               }
             ],
@@ -2430,7 +2430,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Overload (1)",
+                "value": "Surriscaldamento (1)",
                 "field": "name"
               }
             ],
@@ -2452,7 +2452,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Stun (2)",
+                "value": "Stordimento (2)",
                 "field": "name"
               }
             ],
@@ -2521,7 +2521,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Overload (1)",
+                "value": "Surriscaldamento (1)",
                 "field": "name"
               }
             ],
@@ -2543,7 +2543,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (6+) (Sustained)",
+                "value": "Perforante (6+) (Fuoco sostenuto)",
                 "field": "name"
               }
             ],
@@ -2616,7 +2616,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Stun (1)",
+                "value": "Stordimento (1)",
                 "field": "name"
               }
             ],
@@ -2630,7 +2630,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (5+)",
+                "value": "Perforante (5+)",
                 "field": "name"
               }
             ],
@@ -2645,7 +2645,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Blast (3\")",
+                "value": "Area (3\")",
                 "field": "name"
               }
             ],
@@ -2661,7 +2661,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Ordnance (D)",
+                "value": "Artiglieria (D)",
                 "field": "name"
               }
             ],
@@ -2729,7 +2729,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Blast (5\")",
+                "value": "Area (5\")",
                 "field": "name"
               }
             ],
@@ -2744,11 +2744,11 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (6+) (HE shell)",
+                "value": "Perforante (6+) (HE)",
                 "field": "name"
               }
             ],
-            "comment": "6+ (HE shell)",
+            "comment": "6+ (HE)",
             "name": "Perforante (X)",
             "id": "201d-9ca0-d836-45b8",
             "hidden": false,
@@ -2756,11 +2756,11 @@
             "targetId": "b094-0b64-eb57-aed6"
           },
           {
-            "comment": "D (HE shell)",
+            "comment": "D (HE)",
             "modifiers": [
               {
                 "type": "set",
-                "value": "Ordnance (D) (HE shell)",
+                "value": "Artiglieria (D) (HE)",
                 "field": "name"
               }
             ],
@@ -2774,11 +2774,11 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Barrage (2) (HE shell)",
+                "value": "Bombardamento (2) (HE)",
                 "field": "name"
               }
             ],
-            "comment": "2 (HE shell)",
+            "comment": "2 (HE)",
             "name": "Bombardamento (X)",
             "id": "0186-15ad-35e8-0ec2",
             "hidden": false,
@@ -2887,11 +2887,11 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Blast (5\") (Frag)",
+                "value": "Area (5\") (Missile a frammentazione)",
                 "field": "name"
               }
             ],
-            "comment": "5\" (Frag)",
+            "comment": "5\" (Missile a frammentazione)",
             "name": "Area (X)",
             "id": "5b86-3150-c64c-1973",
             "hidden": false,
@@ -2903,7 +2903,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Heavy (FP) (Frag)",
+                "value": "Pesante (PF) (Missile a frammentazione)",
                 "field": "name"
               }
             ],
@@ -2918,7 +2918,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Heavy (D) (Shatter)",
+                "value": "Pesante (D) (Colpo distruttore)",
                 "field": "name"
               }
             ],
@@ -2932,11 +2932,11 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Barrage (2) (Frag)",
+                "value": "Bombardamento (2) (Missile a frammentazione)",
                 "field": "name"
               }
             ],
-            "comment": "2 (Frag)",
+            "comment": "2 (Missile a frammentazione)",
             "name": "Bombardamento (X)",
             "id": "7500-873a-8816-28a6",
             "hidden": false,
@@ -2944,11 +2944,11 @@
             "targetId": "85f5-3a91-69f4-c3b7"
           },
           {
-            "comment": "Shatter",
+            "comment": "Colpo distruttore",
             "modifiers": [
               {
                 "type": "set",
-                "value": "Armourbane (Shatter)",
+                "value": "Sfondacorazze (Colpo distruttore)",
                 "field": "name"
               }
             ],
@@ -3017,7 +3017,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Stun (1)",
+                "value": "Stordimento (1)",
                 "field": "name"
               }
             ],
@@ -3032,7 +3032,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Ordnance (D)",
+                "value": "Artiglieria (D)",
                 "field": "name"
               }
             ],
@@ -3046,7 +3046,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (5+)",
+                "value": "Perforante (5+)",
                 "field": "name"
               }
             ],
@@ -3061,7 +3061,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Blast (5\")",
+                "value": "Area (5\")",
                 "field": "name"
               }
             ],
@@ -3131,7 +3131,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (3+)",
+                "value": "Perforante (3+)",
                 "field": "name"
               }
             ],
@@ -3293,11 +3293,11 @@
         ],
         "infoLinks": [
           {
-            "comment": "RS",
+            "comment": "FD",
             "modifiers": [
               {
                 "type": "set",
-                "value": "Heavy (RS)",
+                "value": "Pesante (FD)",
                 "field": "name"
               }
             ],
@@ -3312,7 +3312,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Blast (3\")",
+                "value": "Area (3\")",
                 "field": "name"
               }
             ],
@@ -3466,11 +3466,11 @@
         ],
         "infoLinks": [
           {
-            "comment": "RS",
+            "comment": "FD",
             "modifiers": [
               {
                 "type": "set",
-                "value": "Heavy (RS)",
+                "value": "Pesante (FD)",
                 "field": "name"
               }
             ],
@@ -3485,7 +3485,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Blast (5\")",
+                "value": "Area (5\")",
                 "field": "name"
               }
             ],
@@ -3554,7 +3554,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Blast (3\")",
+                "value": "Area (3\")",
                 "field": "name"
               }
             ],
@@ -3569,7 +3569,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (6+)",
+                "value": "Perforante (6+)",
                 "field": "name"
               }
             ],
@@ -3581,11 +3581,11 @@
             "targetId": "b094-0b64-eb57-aed6"
           },
           {
-            "comment": "Pinned",
+            "comment": "Inchiodato",
             "modifiers": [
               {
                 "type": "set",
-                "value": "Shock (Pinned)",
+                "value": "Scossa (Inchiodato)",
                 "field": "name"
               }
             ],
@@ -3600,7 +3600,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Pinning (1)",
+                "value": "Inchiodamento (1)",
                 "field": "name"
               }
             ],
@@ -3669,7 +3669,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Blast (3\")",
+                "value": "Area (3\")",
                 "field": "name"
               }
             ],
@@ -3684,7 +3684,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (6+)",
+                "value": "Perforante (6+)",
                 "field": "name"
               }
             ],
@@ -3696,11 +3696,11 @@
             "targetId": "b094-0b64-eb57-aed6"
           },
           {
-            "comment": "Pinned",
+            "comment": "Inchiodato",
             "modifiers": [
               {
                 "type": "set",
-                "value": "Shock (Pinned)",
+                "value": "Scossa (Inchiodato)",
                 "field": "name"
               }
             ],
@@ -3715,7 +3715,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Pinning (2)",
+                "value": "Inchiodamento (2)",
                 "field": "name"
               }
             ],
@@ -3729,7 +3729,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Heavy (D)",
+                "value": "Pesante (D)",
                 "field": "name"
               }
             ],
@@ -3799,7 +3799,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (6+)",
+                "value": "Perforante (6+)",
                 "field": "name"
               }
             ],
@@ -3811,11 +3811,11 @@
             "targetId": "b094-0b64-eb57-aed6"
           },
           {
-            "comment": "Pinned",
+            "comment": "Inchiodato",
             "modifiers": [
               {
                 "type": "set",
-                "value": "Shock (Pinned)",
+                "value": "Scossa (Inchiodato)",
                 "field": "name"
               }
             ],
@@ -3829,7 +3829,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Blast (5\")",
+                "value": "Area (5\")",
                 "field": "name"
               }
             ],
@@ -3845,7 +3845,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Pinning (3)",
+                "value": "Inchiodamento (3)",
                 "field": "name"
               }
             ],
@@ -3859,7 +3859,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Heavy (D)",
+                "value": "Pesante (D)",
                 "field": "name"
               }
             ],
@@ -3874,7 +3874,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Barrage (1)",
+                "value": "Bombardamento (1)",
                 "field": "name"
               }
             ],
@@ -3944,7 +3944,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (6+)",
+                "value": "Perforante (6+)",
                 "field": "name"
               }
             ],
@@ -3956,11 +3956,11 @@
             "targetId": "b094-0b64-eb57-aed6"
           },
           {
-            "comment": "Pinned",
+            "comment": "Inchiodato",
             "modifiers": [
               {
                 "type": "set",
-                "value": "Shock (Pinned)",
+                "value": "Scossa (Inchiodato)",
                 "field": "name"
               }
             ],
@@ -3974,7 +3974,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Blast (5\")",
+                "value": "Area (5\")",
                 "field": "name"
               }
             ],
@@ -3990,7 +3990,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Pinning (2)",
+                "value": "Inchiodamento (2)",
                 "field": "name"
               }
             ],
@@ -4004,7 +4004,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Heavy (D)",
+                "value": "Pesante (D)",
                 "field": "name"
               }
             ],
@@ -4084,7 +4084,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Panic (1)",
+                "value": "Panico (1)",
                 "field": "name"
               }
             ],
@@ -4163,7 +4163,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Panic (1)",
+                "value": "Panico (1)",
                 "field": "name"
               }
             ],
@@ -4311,7 +4311,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Panic (2)",
+                "value": "Panico (2)",
                 "field": "name"
               }
             ],
@@ -4388,7 +4388,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Panic (2)",
+                "value": "Panico (2)",
                 "field": "name"
               }
             ],
@@ -4459,7 +4459,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Heavy (D)",
+                "value": "Pesante (D)",
                 "field": "name"
               }
             ],
@@ -4598,11 +4598,11 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Heavy (RS)",
+                "value": "Pesante (FD)",
                 "field": "name"
               }
             ],
-            "comment": "RS",
+            "comment": "FD",
             "name": "Pesante (X)",
             "id": "d97a-9e03-7732-0589",
             "hidden": false,
@@ -4684,7 +4684,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Heavy (D)",
+                "value": "Pesante (D)",
                 "field": "name"
               }
             ],
@@ -4769,7 +4769,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Ordnance (D)",
+                "value": "Artiglieria (D)",
                 "field": "name"
               }
             ],
@@ -4846,7 +4846,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Ordnance (D)",
+                "value": "Artiglieria (D)",
                 "field": "name"
               }
             ],
@@ -4857,11 +4857,11 @@
             "targetId": "b6b3-909a-b78a-3dbf"
           },
           {
-            "comment": "Suppressed",
+            "comment": "Soppresso",
             "modifiers": [
               {
                 "type": "set",
-                "value": "Shock (Suppressed)",
+                "value": "Scossa (Soppresso)",
                 "field": "name"
               }
             ],
@@ -4875,7 +4875,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Overload (1)",
+                "value": "Surriscaldamento (1)",
                 "field": "name"
               }
             ],
@@ -4949,11 +4949,11 @@
             "targetId": "36ee-4c54-bced-a696"
           },
           {
-            "comment": "Suppressed",
+            "comment": "Soppresso",
             "modifiers": [
               {
                 "type": "set",
-                "value": "Shock (Suppressed)",
+                "value": "Scossa (Soppresso)",
                 "field": "name"
               }
             ],
@@ -4967,7 +4967,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Overload (1)",
+                "value": "Surriscaldamento (1)",
                 "field": "name"
               }
             ],
@@ -5045,7 +5045,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Ordnance (D)",
+                "value": "Artiglieria (D)",
                 "field": "name"
               }
             ],
@@ -5056,11 +5056,11 @@
             "targetId": "b6b3-909a-b78a-3dbf"
           },
           {
-            "comment": "Suppressed",
+            "comment": "Soppresso",
             "modifiers": [
               {
                 "type": "set",
-                "value": "Shock (Suppressed)",
+                "value": "Scossa (Soppresso)",
                 "field": "name"
               }
             ],
@@ -5137,7 +5137,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Ordnance (D)",
+                "value": "Artiglieria (D)",
                 "field": "name"
               }
             ],
@@ -5148,11 +5148,11 @@
             "targetId": "b6b3-909a-b78a-3dbf"
           },
           {
-            "comment": "Stunned",
+            "comment": "Stordito",
             "modifiers": [
               {
                 "type": "set",
-                "value": "Shock (Stunned)",
+                "value": "Scossa (Stordito)",
                 "field": "name"
               }
             ],
@@ -5228,7 +5228,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Blast (3\")",
+                "value": "Area (3\")",
                 "field": "name"
               }
             ],
@@ -5300,7 +5300,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Melta (8)",
+                "value": "Termico (8)",
                 "field": "name"
               }
             ],
@@ -5315,11 +5315,11 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Heavy (RS)",
+                "value": "Pesante (FD)",
                 "field": "name"
               }
             ],
-            "comment": "RS",
+            "comment": "FD",
             "name": "Pesante (X)",
             "id": "241a-942f-2bb4-b526",
             "hidden": false,
@@ -5385,7 +5385,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Melta (8)",
+                "value": "Termico (8)",
                 "field": "name"
               }
             ],
@@ -5400,11 +5400,11 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Heavy (RS)",
+                "value": "Pesante (FD)",
                 "field": "name"
               }
             ],
-            "comment": "RS",
+            "comment": "FD",
             "name": "Pesante (X)",
             "id": "3ec5-1a1b-5868-7a4b",
             "hidden": false,
@@ -5470,7 +5470,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Melta (8)",
+                "value": "Termico (8)",
                 "field": "name"
               }
             ],
@@ -5485,11 +5485,11 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Heavy (RS)",
+                "value": "Pesante (FD)",
                 "field": "name"
               }
             ],
-            "comment": "RS",
+            "comment": "FD",
             "name": "Pesante (X)",
             "id": "0575-1d8c-b185-c015",
             "hidden": false,
@@ -5555,7 +5555,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Melta (12)",
+                "value": "Termico (12)",
                 "field": "name"
               }
             ],
@@ -5570,11 +5570,11 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Heavy (RS)",
+                "value": "Pesante (FD)",
                 "field": "name"
               }
             ],
-            "comment": "RS",
+            "comment": "FD",
             "name": "Pesante (X)",
             "id": "c814-c39d-f80d-4897",
             "hidden": false,
@@ -5640,7 +5640,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Melta (8)",
+                "value": "Termico (8)",
                 "field": "name"
               }
             ],
@@ -5655,11 +5655,11 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Heavy (RS)",
+                "value": "Pesante (FD)",
                 "field": "name"
               }
             ],
-            "comment": "RS",
+            "comment": "FD",
             "name": "Pesante (X)",
             "id": "a13a-81ed-938a-f47d",
             "hidden": false,
@@ -5725,7 +5725,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Melta (6)",
+                "value": "Termico (6)",
                 "field": "name"
               }
             ],
@@ -5740,11 +5740,11 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Heavy (RS)",
+                "value": "Pesante (FD)",
                 "field": "name"
               }
             ],
-            "comment": "RS",
+            "comment": "FD",
             "name": "Pesante (X)",
             "id": "d986-4036-5c3c-f6c3",
             "hidden": false,
@@ -5755,7 +5755,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Blast (5\")",
+                "value": "Area (5\")",
                 "field": "name"
               }
             ],
@@ -5825,7 +5825,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Melta (3)",
+                "value": "Termico (3)",
                 "field": "name"
               }
             ],
@@ -5840,11 +5840,11 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Heavy (RS)",
+                "value": "Pesante (FD)",
                 "field": "name"
               }
             ],
-            "comment": "RS",
+            "comment": "FD",
             "name": "Pesante (X)",
             "id": "eaa7-a525-fdd8-86b7",
             "hidden": false,
@@ -5855,7 +5855,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Blast (3\")",
+                "value": "Area (3\")",
                 "field": "name"
               }
             ],
@@ -5925,7 +5925,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Melta (24)",
+                "value": "Termico (24)",
                 "field": "name"
               }
             ],
@@ -5940,11 +5940,11 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Heavy (RS)",
+                "value": "Pesante (FD)",
                 "field": "name"
               }
             ],
-            "comment": "RS",
+            "comment": "FD",
             "name": "Pesante (X)",
             "id": "d4be-e12f-1dca-f12d",
             "hidden": false,
@@ -6010,7 +6010,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Melta (8)",
+                "value": "Termico (8)",
                 "field": "name"
               }
             ],
@@ -6025,11 +6025,11 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Heavy (RS)",
+                "value": "Pesante (FD)",
                 "field": "name"
               }
             ],
-            "comment": "RS",
+            "comment": "FD",
             "name": "Pesante (X)",
             "id": "8c87-252d-9178-53e1",
             "hidden": false,
@@ -6183,11 +6183,11 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Heavy RS (Frag)",
+                "value": "Pesante (FD) (Missile a frammentazione)",
                 "field": "name"
               }
             ],
-            "comment": "RS (Frag)",
+            "comment": "FD (Missile a frammentazione)",
             "name": "Pesante (X)",
             "id": "c083-74e7-60e5-f9f7",
             "hidden": false,
@@ -6195,11 +6195,11 @@
             "targetId": "bc30-3b33-2683-01a2"
           },
           {
-            "comment": "D (Krak & Flak)",
+            "comment": "D (Perforante e Antiaereo)",
             "modifiers": [
               {
                 "type": "set",
-                "value": "Heavy (D) (Krak & Flak)",
+                "value": "Pesante (D) (Perforante e Antiaereo)",
                 "field": "name"
               }
             ],
@@ -6213,11 +6213,11 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Blast (3\") (Frag)",
+                "value": "Area (3\") (Missile a frammentazione)",
                 "field": "name"
               }
             ],
-            "comment": "3\" (Frag)",
+            "comment": "3\" (Missile a frammentazione)",
             "name": "Area (X)",
             "id": "b9be-b6b2-6873-c018",
             "hidden": false,
@@ -6228,11 +6228,11 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Skyfire (Flak)",
+                "value": "Contraereo (Antiaereo)",
                 "field": "name"
               }
             ],
-            "comment": "Flak",
+            "comment": "Antiaereo",
             "name": "Contraereo",
             "id": "cd55-5581-a492-8111",
             "hidden": false,
@@ -6298,7 +6298,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Blast (5\")",
+                "value": "Area (5\")",
                 "field": "name"
               }
             ],
@@ -6322,7 +6322,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Blast (3\")",
+                "value": "Area (3\")",
                 "field": "name"
               }
             ],
@@ -6338,7 +6338,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Stun (1)",
+                "value": "Stordimento (1)",
                 "field": "name"
               }
             ],
@@ -6463,7 +6463,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Limited (1)",
+                "value": "Limitato (1)",
                 "field": "name"
               }
             ],
@@ -6542,7 +6542,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Limited (1)",
+                "value": "Limitato (1)",
                 "field": "name"
               }
             ],
@@ -6612,7 +6612,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Pinning (1)",
+                "value": "Inchiodamento (1)",
                 "field": "name"
               }
             ],
@@ -6682,7 +6682,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Pinning (1)",
+                "value": "Inchiodamento (1)",
                 "field": "name"
               }
             ],
@@ -6805,7 +6805,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Limited (1)",
+                "value": "Limitato (1)",
                 "field": "name"
               }
             ],
@@ -6819,7 +6819,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (6+)",
+                "value": "Perforante (6+)",
                 "field": "name"
               }
             ],
@@ -6844,7 +6844,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Limited (1)",
+                "value": "Limitato (1)",
                 "field": "name"
               }
             ],
@@ -6966,7 +6966,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Blast (3\")",
+                "value": "Area (3\")",
                 "field": "name"
               }
             ],
@@ -6981,11 +6981,11 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Heavy (FP)",
+                "value": "Pesante (PF)",
                 "field": "name"
               }
             ],
-            "comment": "FP",
+            "comment": "PF",
             "name": "Pesante (X)",
             "id": "0efd-d2df-e9d7-f9af",
             "hidden": false,
@@ -6996,7 +6996,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Barrage (1)",
+                "value": "Bombardamento (1)",
                 "field": "name"
               }
             ],
@@ -7067,7 +7067,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Limited (1)",
+                "value": "Limitato (1)",
                 "field": "name"
               }
             ],
@@ -7150,7 +7150,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Blast (7\")",
+                "value": "Area (7\")",
                 "field": "name"
               }
             ],
@@ -7165,7 +7165,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Barrage (2)",
+                "value": "Bombardamento (2)",
                 "field": "name"
               }
             ],
@@ -7181,7 +7181,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Suppressive (1)",
+                "value": "Soppressione (1)",
                 "field": "name"
               }
             ],
@@ -7383,7 +7383,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Skyfire (Skyspear)",
+                "value": "Contraereo (Skyspear)",
                 "field": "name"
               }
             ],
@@ -7397,7 +7397,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Armourbane (Skyspear)",
+                "value": "Sfondacorazze (Skyspear)",
                 "field": "name"
               }
             ],
@@ -7412,7 +7412,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Rapid Tracking (Skyspear)",
+                "value": "Puntamento Rapido (Skyspear)",
                 "field": "name"
               }
             ],
@@ -7428,7 +7428,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Blast (5\") (Pyrax)",
+                "value": "Area (5\") (Pyrax)",
                 "field": "name"
               }
             ],
@@ -7443,7 +7443,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Panic (1) (Pyrax)",
+                "value": "Panico (1) (Pyrax)",
                 "field": "name"
               }
             ],
@@ -7458,7 +7458,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Shock (Suppressed) (Neutron-flux)",
+                "value": "Scossa (Soppresso) (Flusso neutronico)",
                 "field": "name"
               }
             ],
@@ -7615,11 +7615,11 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Heavy RS (Frag)",
+                "value": "Pesante (FD) (Missile a frammentazione)",
                 "field": "name"
               }
             ],
-            "comment": "RS (Frag)",
+            "comment": "FD (Missile a frammentazione)",
             "name": "Pesante (X)",
             "id": "5673-4b53-54d5-1c54",
             "hidden": false,
@@ -7627,11 +7627,11 @@
             "targetId": "bc30-3b33-2683-01a2"
           },
           {
-            "comment": "D (Krak & Flak)",
+            "comment": "D (Perforante e Antiaereo)",
             "modifiers": [
               {
                 "type": "set",
-                "value": "Heavy (D) (Krak & Flak)",
+                "value": "Pesante (D) (Perforante e Antiaereo)",
                 "field": "name"
               }
             ],
@@ -7645,11 +7645,11 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Blast (5\") (Frag)",
+                "value": "Area (5\") (Missile a frammentazione)",
                 "field": "name"
               }
             ],
-            "comment": "5\" (Frag)",
+            "comment": "5\" (Missile a frammentazione)",
             "name": "Area (X)",
             "id": "47fb-51ea-81bd-9120",
             "hidden": false,
@@ -7660,11 +7660,11 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Skyfire (Flak)",
+                "value": "Contraereo (Antiaereo)",
                 "field": "name"
               }
             ],
-            "comment": "Flak",
+            "comment": "Antiaereo",
             "name": "Contraereo",
             "id": "fd31-0d1f-f57a-53b1",
             "hidden": false,
@@ -7730,7 +7730,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Barrage (2)",
+                "value": "Bombardamento (2)",
                 "field": "name"
               }
             ],
@@ -7745,7 +7745,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Blast (3\")",
+                "value": "Area (3\")",
                 "field": "name"
               }
             ],
@@ -7760,11 +7760,11 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Heavy (FP)",
+                "value": "Pesante (PF)",
                 "field": "name"
               }
             ],
-            "comment": "FP",
+            "comment": "PF",
             "name": "Pesante (X)",
             "id": "6e76-bc89-70b3-7171",
             "hidden": false,
@@ -7775,7 +7775,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (5+)",
+                "value": "Perforante (5+)",
                 "field": "name"
               }
             ],
@@ -7914,7 +7914,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Blast (5\")",
+                "value": "Area (5\")",
                 "field": "name"
               }
             ],
@@ -7930,7 +7930,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Barrage (3)",
+                "value": "Bombardamento (3)",
                 "field": "name"
               }
             ],
@@ -7945,7 +7945,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Limited (1)",
+                "value": "Limitato (1)",
                 "field": "name"
               }
             ],
@@ -8015,7 +8015,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Stun (0)",
+                "value": "Stordimento (0)",
                 "field": "name"
               }
             ],
@@ -8086,11 +8086,11 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Heavy (FP)",
+                "value": "Pesante (PF)",
                 "field": "name"
               }
             ],
-            "comment": "FP",
+            "comment": "PF",
             "name": "Pesante (X)",
             "id": "e1d1-9894-8a6e-5a51",
             "hidden": false,
@@ -8102,7 +8102,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Suppressive (1)",
+                "value": "Soppressione (1)",
                 "field": "name"
               }
             ],
@@ -8173,11 +8173,11 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Heavy (FP)",
+                "value": "Pesante (PF)",
                 "field": "name"
               }
             ],
-            "comment": "FP",
+            "comment": "PF",
             "name": "Pesante (X)",
             "id": "2cbd-c5f6-1a17-3bb1",
             "hidden": false,
@@ -8188,7 +8188,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (6+)",
+                "value": "Perforante (6+)",
                 "field": "name"
               }
             ],
@@ -8258,11 +8258,11 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Heavy (FP)",
+                "value": "Pesante (PF)",
                 "field": "name"
               }
             ],
-            "comment": "FP",
+            "comment": "PF",
             "name": "Pesante (X)",
             "id": "0126-192f-caa0-4ec0",
             "hidden": false,
@@ -8273,7 +8273,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (6+)",
+                "value": "Perforante (6+)",
                 "field": "name"
               }
             ],
@@ -8343,11 +8343,11 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Heavy (FP)",
+                "value": "Pesante (PF)",
                 "field": "name"
               }
             ],
-            "comment": "FP",
+            "comment": "PF",
             "name": "Pesante (X)",
             "id": "fb78-bfd7-7b2e-3000",
             "hidden": false,
@@ -8358,7 +8358,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (6+)",
+                "value": "Perforante (6+)",
                 "field": "name"
               }
             ],
@@ -8430,11 +8430,11 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Heavy (FP)",
+                "value": "Pesante (PF)",
                 "field": "name"
               }
             ],
-            "comment": "FP",
+            "comment": "PF",
             "name": "Pesante (X)",
             "id": "cd90-07e8-54bf-5dc0",
             "hidden": false,
@@ -8445,7 +8445,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (6+)",
+                "value": "Perforante (6+)",
                 "field": "name"
               }
             ],
@@ -8515,11 +8515,11 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Heavy (FP)",
+                "value": "Pesante (PF)",
                 "field": "name"
               }
             ],
-            "comment": "FP",
+            "comment": "PF",
             "name": "Pesante (X)",
             "id": "2e7d-2227-2227-afe4",
             "hidden": false,
@@ -8530,7 +8530,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (6+)",
+                "value": "Perforante (6+)",
                 "field": "name"
               }
             ],
@@ -8600,11 +8600,11 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Heavy (FP)",
+                "value": "Pesante (PF)",
                 "field": "name"
               }
             ],
-            "comment": "FP",
+            "comment": "PF",
             "name": "Pesante (X)",
             "id": "cdff-4199-e0f8-abdc",
             "hidden": false,
@@ -8615,7 +8615,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (6+)",
+                "value": "Perforante (6+)",
                 "field": "name"
               }
             ],
@@ -8682,11 +8682,11 @@
         ],
         "infoLinks": [
           {
-            "comment": "FP",
+            "comment": "PF",
             "modifiers": [
               {
                 "type": "set",
-                "value": "Ordnance (FP)",
+                "value": "Artiglieria (PF)",
                 "field": "name"
               }
             ],
@@ -8701,7 +8701,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Suppressive (2)",
+                "value": "Soppressione (2)",
                 "field": "name"
               }
             ],
@@ -8784,7 +8784,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (6+)",
+                "value": "Perforante (6+)",
                 "field": "name"
               }
             ],
@@ -8868,7 +8868,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (6+)",
+                "value": "Perforante (6+)",
                 "field": "name"
               }
             ],
@@ -8982,11 +8982,11 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Blast (3\") (AE shell)",
+                "value": "Area (3\") (AE)",
                 "field": "name"
               }
             ],
-            "comment": "3\" (AE shell)",
+            "comment": "3\" (AE)",
             "name": "Area (X)",
             "id": "e7fb-b77b-5ba3-db79",
             "hidden": false,
@@ -8994,11 +8994,11 @@
             "targetId": "8687-05f8-7034-412c"
           },
           {
-            "comment": "D (AE shell)",
+            "comment": "D (AE)",
             "modifiers": [
               {
                 "type": "set",
-                "value": "Ordnance (D) (AE shell)",
+                "value": "Artiglieria (D) (AE)",
                 "field": "name"
               }
             ],
@@ -9012,11 +9012,11 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Blast (5\") (HE shell)",
+                "value": "Area (5\") (HE)",
                 "field": "name"
               }
             ],
-            "comment": "5\" (HE shell)",
+            "comment": "5\" (HE)",
             "name": "Area (X)",
             "id": "8875-b447-16cf-a3e3",
             "hidden": false,
@@ -9024,11 +9024,11 @@
             "targetId": "8687-05f8-7034-412c"
           },
           {
-            "comment": "2 (HE shell)",
+            "comment": "2 (HE)",
             "modifiers": [
               {
                 "type": "set",
-                "value": "Stun (2) (HE shell)",
+                "value": "Stordimento (2) (HE)",
                 "field": "name"
               }
             ],
@@ -9180,7 +9180,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (5+)",
+                "value": "Perforante (5+)",
                 "field": "name"
               }
             ],
@@ -9250,7 +9250,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (5+)",
+                "value": "Perforante (5+)",
                 "field": "name"
               }
             ],
@@ -9320,7 +9320,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (5+)",
+                "value": "Perforante (5+)",
                 "field": "name"
               }
             ],
@@ -9335,11 +9335,11 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Heavy (FP)",
+                "value": "Pesante (PF)",
                 "field": "name"
               }
             ],
-            "comment": "FP",
+            "comment": "PF",
             "name": "Pesante (X)",
             "id": "2cf1-f6be-4ed1-37c9",
             "hidden": false,
@@ -9450,7 +9450,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Ordnance (D)",
+                "value": "Artiglieria (D)",
                 "field": "name"
               }
             ],
@@ -9464,11 +9464,11 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Blast (5\") (HE shells)",
+                "value": "Area (5\") (HE)",
                 "field": "name"
               }
             ],
-            "comment": "5\" (HE shells)",
+            "comment": "5\" (HE)",
             "name": "Area (X)",
             "id": "34d0-1bef-fbc8-ef67",
             "hidden": false,
@@ -9476,11 +9476,11 @@
             "targetId": "8687-05f8-7034-412c"
           },
           {
-            "comment": "1 (HE shells)",
+            "comment": "1 (HE)",
             "modifiers": [
               {
                 "type": "set",
-                "value": "Stun (1) (HE shells)",
+                "value": "Stordimento (1) (HE)",
                 "field": "name"
               }
             ],
@@ -9495,7 +9495,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Armourbane (AP & Flashburn shells)",
+                "value": "Sfondacorazze (AP e Flashburn shells)",
                 "field": "name"
               }
             ],
@@ -9506,11 +9506,11 @@
             "targetId": "36ee-4c54-bced-a696"
           },
           {
-            "comment": "1 (Flashburn shells)",
+            "comment": "1 (Munizioni conflagranti)",
             "modifiers": [
               {
                 "type": "set",
-                "value": "Overload (1) (Flashburn shells)",
+                "value": "Surriscaldamento (1) (Munizioni conflagranti)",
                 "field": "name"
               }
             ],
@@ -9780,7 +9780,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Precision (4+)",
+                "value": "Precisione (4+)",
                 "field": "name"
               }
             ],
@@ -9857,7 +9857,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Precision (4+)",
+                "value": "Precisione (4+)",
                 "field": "name"
               }
             ],
@@ -9872,7 +9872,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Pinning (1)",
+                "value": "Inchiodamento (1)",
                 "field": "name"
               }
             ],
@@ -9886,7 +9886,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (5+)",
+                "value": "Perforante (5+)",
                 "field": "name"
               }
             ],
@@ -9901,11 +9901,11 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Heavy (RS)",
+                "value": "Pesante (FD)",
                 "field": "name"
               }
             ],
-            "comment": "RS",
+            "comment": "FD",
             "name": "Pesante (X)",
             "id": "8d63-dc4a-1c5e-c7dc",
             "hidden": false,
@@ -10026,11 +10026,11 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Heavy (FP)",
+                "value": "Pesante (PF)",
                 "field": "name"
               }
             ],
-            "comment": "FP",
+            "comment": "PF",
             "name": "Pesante (X)",
             "id": "d3cc-c7e4-2563-cf26",
             "hidden": false,
@@ -10097,7 +10097,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Suppressive (2)",
+                "value": "Soppressione (2)",
                 "field": "name"
               }
             ],
@@ -10167,7 +10167,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Suppressive (2)",
+                "value": "Soppressione (2)",
                 "field": "name"
               }
             ],
@@ -10281,7 +10281,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Panic (1)",
+                "value": "Panico (1)",
                 "field": "name"
               }
             ],
@@ -10310,7 +10310,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Limited (1)",
+                "value": "Limitato (1)",
                 "field": "name"
               }
             ],
@@ -10423,7 +10423,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Melta (6)",
+                "value": "Termico (6)",
                 "field": "name"
               }
             ],
@@ -10446,7 +10446,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Limited (1)",
+                "value": "Limitato (1)",
                 "field": "name"
               }
             ],
@@ -10673,7 +10673,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Deflagrate (5)",
+                "value": "Deflagrazione (5)",
                 "field": "name"
               }
             ],
@@ -10793,7 +10793,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Overload (1)",
+                "value": "Surriscaldamento (1)",
                 "field": "name"
               }
             ],
@@ -10809,7 +10809,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Limited (1)",
+                "value": "Limitato (1)",
                 "field": "name"
               }
             ],
@@ -10929,7 +10929,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Blast (3\")",
+                "value": "Area (3\")",
                 "field": "name"
               }
             ],
@@ -10944,7 +10944,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (6+)",
+                "value": "Perforante (6+)",
                 "field": "name"
               }
             ],
@@ -10960,7 +10960,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Pinning (1)",
+                "value": "Inchiodamento (1)",
                 "field": "name"
               }
             ],
@@ -10971,11 +10971,11 @@
             "targetId": "88b6-6493-e4d7-1805"
           },
           {
-            "comment": "Pinned",
+            "comment": "Inchiodato",
             "modifiers": [
               {
                 "type": "set",
-                "value": "Shock (Pinned)",
+                "value": "Scossa (Inchiodato)",
                 "field": "name"
               }
             ],
@@ -10990,7 +10990,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Limited (1)",
+                "value": "Limitato (1)",
                 "field": "name"
               }
             ],
@@ -11112,7 +11112,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Limited (1)",
+                "value": "Limitato (1)",
                 "field": "name"
               }
             ],
@@ -11126,7 +11126,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (6+) (Sustained)",
+                "value": "Perforante (6+) (Fuoco sostenuto)",
                 "field": "name"
               }
             ],
@@ -11241,11 +11241,11 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (6+) (Sustained)",
+                "value": "Perforante (6+) (Fuoco sostenuto)",
                 "field": "name"
               }
             ],
-            "comment": "6+ (Sustained)",
+            "comment": "6+ (Fuoco sostenuto)",
             "name": "Perforante (X)",
             "id": "2c66-51e8-bef0-c195",
             "hidden": false,
@@ -11256,11 +11256,11 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (5+) (Maximal)",
+                "value": "Perforante (5+) (Fuoco massiccio)",
                 "field": "name"
               }
             ],
-            "comment": "5+ (Maximal)",
+            "comment": "5+ (Fuoco massiccio)",
             "name": "Perforante (X)",
             "id": "f73b-176f-2da3-5b94",
             "hidden": false,
@@ -11271,11 +11271,11 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Overload (1)",
+                "value": "Surriscaldamento (1)",
                 "field": "name"
               }
             ],
-            "comment": "1 (Maximal)",
+            "comment": "1 (Fuoco massiccio)",
             "name": "Surriscaldamento (X)",
             "id": "ba72-27e2-d28c-5ffb",
             "hidden": false,
@@ -11330,8 +11330,8 @@
               }
             ],
             "name": "Bombe Fosfex",
-            "typeId": "c591-09ed-3e6f-eb2b",
-            "typeName": "Arma a Distanza",
+            "typeId": "ea01-0001-0000-0001",
+            "typeName": "Equipaggiamento - Arma a Distanza",
             "hidden": false,
             "id": "346b-bb91-350b-6e1d"
           }
@@ -11341,7 +11341,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Blast (3\")",
+                "value": "Area (3\")",
                 "field": "name"
               }
             ],
@@ -11357,7 +11357,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Poisoned (3+)",
+                "value": "Avvelenato (3+)",
                 "field": "name"
               }
             ],
@@ -11371,7 +11371,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (5+)",
+                "value": "Perforante (5+)",
                 "field": "name"
               }
             ],
@@ -11387,7 +11387,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Panic (3)",
+                "value": "Panico (3)",
                 "field": "name"
               }
             ],
@@ -11456,7 +11456,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Blast (3\")",
+                "value": "Area (3\")",
                 "field": "name"
               }
             ],
@@ -11472,7 +11472,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Poisoned (3+)",
+                "value": "Avvelenato (3+)",
                 "field": "name"
               }
             ],
@@ -11486,7 +11486,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (5+)",
+                "value": "Perforante (5+)",
                 "field": "name"
               }
             ],
@@ -11502,7 +11502,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Panic (3)",
+                "value": "Panico (3)",
                 "field": "name"
               }
             ],
@@ -11517,7 +11517,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Limited (3)",
+                "value": "Limitato (3)",
                 "field": "name"
               }
             ],
@@ -11575,8 +11575,8 @@
               }
             ],
             "name": "Granate radioattive",
-            "typeId": "c591-09ed-3e6f-eb2b",
-            "typeName": "Arma a Distanza",
+            "typeId": "ea01-0001-0000-0001",
+            "typeName": "Equipaggiamento - Arma a Distanza",
             "hidden": false,
             "id": "cd07-ddf1-caeb-fcdd",
             "page": 55,
@@ -11589,7 +11589,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Poisoned (2+)",
+                "value": "Avvelenato (2+)",
                 "field": "name"
               }
             ],
@@ -11600,11 +11600,11 @@
             "targetId": "076f-2c91-c58b-71b3"
           },
           {
-            "comment": "T",
+            "comment": "Re",
             "modifiers": [
               {
                 "type": "set",
-                "value": "Phage (T)",
+                "value": "Corrosivo (R)",
                 "field": "name"
               }
             ],
@@ -11676,7 +11676,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Deflagrate (5)",
+                "value": "Deflagrazione (5)",
                 "field": "name"
               }
             ],
@@ -11748,7 +11748,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Deflagrate (5)",
+                "value": "Deflagrazione (5)",
                 "field": "name"
               }
             ],
@@ -11825,7 +11825,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Deflagrate (5)",
+                "value": "Deflagrazione (5)",
                 "field": "name"
               }
             ],
@@ -11847,7 +11847,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Overload (1)",
+                "value": "Surriscaldamento (1)",
                 "field": "name"
               }
             ],
@@ -11917,7 +11917,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Deflagrate (5)",
+                "value": "Deflagrazione (5)",
                 "field": "name"
               }
             ],
@@ -11989,7 +11989,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Deflagrate (6)",
+                "value": "Deflagrazione (6)",
                 "field": "name"
               }
             ],
@@ -12059,7 +12059,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Deflagrate (6)",
+                "value": "Deflagrazione (6)",
                 "field": "name"
               }
             ],
@@ -12073,11 +12073,11 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Heavy (FP)",
+                "value": "Pesante (PF)",
                 "field": "name"
               }
             ],
-            "comment": "FP",
+            "comment": "PF",
             "name": "Pesante (X)",
             "id": "86e0-1bf2-9f92-5f62",
             "hidden": false,
@@ -12146,7 +12146,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Deflagrate (6)",
+                "value": "Deflagrazione (6)",
                 "field": "name"
               }
             ],
@@ -12160,11 +12160,11 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Heavy (FP)",
+                "value": "Pesante (PF)",
                 "field": "name"
               }
             ],
-            "comment": "FP",
+            "comment": "PF",
             "name": "Pesante (X)",
             "id": "9d9a-d4a5-6621-4c06",
             "hidden": false,
@@ -12231,7 +12231,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Deflagrate (6)",
+                "value": "Deflagrazione (6)",
                 "field": "name"
               }
             ],
@@ -12245,11 +12245,11 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Heavy (FP)",
+                "value": "Pesante (PF)",
                 "field": "name"
               }
             ],
-            "comment": "FP",
+            "comment": "PF",
             "name": "Pesante (X)",
             "id": "cdb7-d9d4-0c1f-1018",
             "hidden": false,
@@ -12316,7 +12316,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Deflagrate (7)",
+                "value": "Deflagrazione (7)",
                 "field": "name"
               }
             ],
@@ -12331,7 +12331,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Pinning (2)",
+                "value": "Inchiodamento (2)",
                 "field": "name"
               }
             ],
@@ -12401,7 +12401,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Deflagrate (6)",
+                "value": "Deflagrazione (6)",
                 "field": "name"
               }
             ],
@@ -12471,7 +12471,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Deflagrate (6)",
+                "value": "Deflagrazione (6)",
                 "field": "name"
               }
             ],
@@ -12541,7 +12541,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Deflagrate (8)",
+                "value": "Deflagrazione (8)",
                 "field": "name"
               }
             ],
@@ -12611,7 +12611,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Deflagrate (7)",
+                "value": "Deflagrazione (7)",
                 "field": "name"
               }
             ],
@@ -12626,7 +12626,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Suppressive (1)",
+                "value": "Soppressione (1)",
                 "field": "name"
               }
             ],
@@ -12696,7 +12696,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Limited (1)",
+                "value": "Limitato (1)",
                 "field": "name"
               }
             ],
@@ -12710,7 +12710,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Blast (3\")",
+                "value": "Area (3\")",
                 "field": "name"
               }
             ],
@@ -12825,7 +12825,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Ordnance (D)",
+                "value": "Artiglieria (D)",
                 "field": "name"
               }
             ],
@@ -12904,7 +12904,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Critical Hit (6+)",
+                "value": "Colpo Critico (6+)",
                 "field": "name"
               }
             ],
@@ -12973,7 +12973,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (4+)",
+                "value": "Perforante (4+)",
                 "field": "name"
               }
             ],
@@ -12988,7 +12988,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Overload (1)",
+                "value": "Surriscaldamento (1)",
                 "field": "name"
               }
             ],
@@ -13110,11 +13110,11 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (5+) (Sustained)",
+                "value": "Perforante (5+) (Fuoco sostenuto)",
                 "field": "name"
               }
             ],
-            "comment": "5+ (Sustained)",
+            "comment": "5+ (Fuoco sostenuto)",
             "name": "Perforante (X)",
             "id": "637f-1567-b1f2-0799",
             "hidden": false,
@@ -13125,11 +13125,11 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (4+) (Maximal)",
+                "value": "Perforante (4+) (Fuoco massiccio)",
                 "field": "name"
               }
             ],
-            "comment": "4+ (Maximal)",
+            "comment": "4+ (Fuoco massiccio)",
             "name": "Perforante (X)",
             "id": "8e7b-6634-d3c8-e17f",
             "hidden": false,
@@ -13140,11 +13140,11 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Overload (1)",
+                "value": "Surriscaldamento (1)",
                 "field": "name"
               }
             ],
-            "comment": "1 (Maximal)",
+            "comment": "1 (Fuoco massiccio)",
             "name": "Surriscaldamento (X)",
             "id": "9626-d774-1196-050e",
             "hidden": false,
@@ -13255,11 +13255,11 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (6+) (Sustained)",
+                "value": "Perforante (6+) (Fuoco sostenuto)",
                 "field": "name"
               }
             ],
-            "comment": "6+ (Sustained)",
+            "comment": "6+ (Fuoco sostenuto)",
             "name": "Perforante (X)",
             "id": "e4fd-a8a5-731c-c067",
             "hidden": false,
@@ -13270,11 +13270,11 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (5+) (Maximal)",
+                "value": "Perforante (5+) (Fuoco massiccio)",
                 "field": "name"
               }
             ],
-            "comment": "5+ (Maximal)",
+            "comment": "5+ (Fuoco massiccio)",
             "name": "Perforante (X)",
             "id": "0962-604d-3536-9c58",
             "hidden": false,
@@ -13285,11 +13285,11 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Overload (2)",
+                "value": "Surriscaldamento (2)",
                 "field": "name"
               }
             ],
-            "comment": "2 (Maximal)",
+            "comment": "2 (Fuoco massiccio)",
             "name": "Surriscaldamento (X)",
             "id": "8f6e-27fd-a471-c708",
             "hidden": false,
@@ -13300,7 +13300,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Blast (3\")",
+                "value": "Area (3\")",
                 "field": "name"
               }
             ],
@@ -13315,11 +13315,11 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Heavy (RS)",
+                "value": "Pesante (FD)",
                 "field": "name"
               }
             ],
-            "comment": "RS",
+            "comment": "FD",
             "name": "Pesante (X)",
             "id": "b3c1-b3fc-2018-7189",
             "hidden": false,
@@ -13430,11 +13430,11 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (6+) (Sustained)",
+                "value": "Perforante (6+) (Fuoco sostenuto)",
                 "field": "name"
               }
             ],
-            "comment": "6+ (Sustained)",
+            "comment": "6+ (Fuoco sostenuto)",
             "name": "Perforante (X)",
             "id": "b54a-2767-0de4-b1b9",
             "hidden": false,
@@ -13445,11 +13445,11 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (5+) (Maximal)",
+                "value": "Perforante (5+) (Fuoco massiccio)",
                 "field": "name"
               }
             ],
-            "comment": "5+ (Maximal)",
+            "comment": "5+ (Fuoco massiccio)",
             "name": "Perforante (X)",
             "id": "b4df-e491-3485-0021",
             "hidden": false,
@@ -13460,11 +13460,11 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Overload (1)",
+                "value": "Surriscaldamento (1)",
                 "field": "name"
               }
             ],
-            "comment": "1 (Maximal)",
+            "comment": "1 (Fuoco massiccio)",
             "name": "Surriscaldamento (X)",
             "id": "80b4-3984-c0bf-9cec",
             "hidden": false,
@@ -13475,7 +13475,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Blast (5\")",
+                "value": "Area (5\")",
                 "field": "name"
               }
             ],
@@ -13490,11 +13490,11 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Heavy (RS)",
+                "value": "Pesante (FD)",
                 "field": "name"
               }
             ],
-            "comment": "RS",
+            "comment": "FD",
             "name": "Pesante (X)",
             "id": "e619-3a47-7c38-4b72",
             "hidden": false,
@@ -13604,7 +13604,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Blast (5\")",
+                "value": "Area (5\")",
                 "field": "name"
               }
             ],
@@ -13619,11 +13619,11 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (5+) (Sustained)",
+                "value": "Perforante (5+) (Fuoco sostenuto)",
                 "field": "name"
               }
             ],
-            "comment": "5+ (Sustained)",
+            "comment": "5+ (Fuoco sostenuto)",
             "name": "Perforante (X)",
             "id": "897c-14fb-4d4b-c2e7",
             "hidden": false,
@@ -13634,11 +13634,11 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (4+) (Maximal)",
+                "value": "Perforante (4+) (Fuoco massiccio)",
                 "field": "name"
               }
             ],
-            "comment": "4+ (Maximal)",
+            "comment": "4+ (Fuoco massiccio)",
             "name": "Perforante (X)",
             "id": "9e9e-1047-cf12-32c1",
             "hidden": false,
@@ -13649,11 +13649,11 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Overload (1)",
+                "value": "Surriscaldamento (1)",
                 "field": "name"
               }
             ],
-            "comment": "1 (Maximal)",
+            "comment": "1 (Fuoco massiccio)",
             "name": "Surriscaldamento (X)",
             "id": "1053-2189-aa0f-1f14",
             "hidden": false,
@@ -13763,11 +13763,11 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Blast (5\") (Maximal)",
+                "value": "Area (5\") (Fuoco massiccio)",
                 "field": "name"
               }
             ],
-            "comment": "5\" (Maximal)",
+            "comment": "5\" (Fuoco massiccio)",
             "name": "Area (X)",
             "id": "4da0-4146-eb2e-22a3",
             "hidden": false,
@@ -13778,11 +13778,11 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (5+) (Sustained)",
+                "value": "Perforante (5+) (Fuoco sostenuto)",
                 "field": "name"
               }
             ],
-            "comment": "5+ (Sustained)",
+            "comment": "5+ (Fuoco sostenuto)",
             "name": "Perforante (X)",
             "id": "196c-926d-08fb-ce82",
             "hidden": false,
@@ -13793,11 +13793,11 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (4+) (Maximal)",
+                "value": "Perforante (4+) (Fuoco massiccio)",
                 "field": "name"
               }
             ],
-            "comment": "4+ (Maximal)",
+            "comment": "4+ (Fuoco massiccio)",
             "name": "Perforante (X)",
             "id": "2a6a-3881-4838-8777",
             "hidden": false,
@@ -13808,11 +13808,11 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Overload (1)",
+                "value": "Surriscaldamento (1)",
                 "field": "name"
               }
             ],
-            "comment": "1 (Maximal)",
+            "comment": "1 (Fuoco massiccio)",
             "name": "Surriscaldamento (X)",
             "id": "0bd7-c348-a818-1f6b",
             "hidden": false,
@@ -13922,11 +13922,11 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Blast (5\") (Maximal)",
+                "value": "Area (5\") (Fuoco massiccio)",
                 "field": "name"
               }
             ],
-            "comment": "5\" (Maximal)",
+            "comment": "5\" (Fuoco massiccio)",
             "name": "Area (X)",
             "id": "9172-3728-5346-f0f7",
             "hidden": false,
@@ -13937,11 +13937,11 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (5+) (Sustained)",
+                "value": "Perforante (5+) (Fuoco sostenuto)",
                 "field": "name"
               }
             ],
-            "comment": "5+ (Sustained)",
+            "comment": "5+ (Fuoco sostenuto)",
             "name": "Perforante (X)",
             "id": "d787-fda3-8cc4-35ed",
             "hidden": false,
@@ -13952,11 +13952,11 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (4+) (Maximal)",
+                "value": "Perforante (4+) (Fuoco massiccio)",
                 "field": "name"
               }
             ],
-            "comment": "4+ (Maximal)",
+            "comment": "4+ (Fuoco massiccio)",
             "name": "Perforante (X)",
             "id": "d1b9-ca23-2612-ff41",
             "hidden": false,
@@ -13967,11 +13967,11 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Overload (1)",
+                "value": "Surriscaldamento (1)",
                 "field": "name"
               }
             ],
-            "comment": "1 (Maximal)",
+            "comment": "1 (Fuoco massiccio)",
             "name": "Surriscaldamento (X)",
             "id": "dc09-fc22-061e-dd60",
             "hidden": false,
@@ -14039,7 +14039,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (6+)",
+                "value": "Perforante (6+)",
                 "field": "name"
               }
             ],
@@ -14112,7 +14112,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Precision (6+)",
+                "value": "Precisione (6+)",
                 "field": "name"
               }
             ],
@@ -14342,7 +14342,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (6+)",
+                "value": "Perforante (6+)",
                 "field": "name"
               }
             ],
@@ -14412,7 +14412,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (6+)",
+                "value": "Perforante (6+)",
                 "field": "name"
               }
             ],
@@ -14428,7 +14428,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Rending (6+)",
+                "value": "Dilaniante (6+)",
                 "field": "name"
               }
             ],
@@ -14497,7 +14497,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (6+)",
+                "value": "Perforante (6+)",
                 "field": "name"
               }
             ],
@@ -14513,7 +14513,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Rending (6+)",
+                "value": "Dilaniante (6+)",
                 "field": "name"
               }
             ],
@@ -14571,8 +14571,8 @@
               }
             ],
             "name": "Granate perforanti",
-            "typeId": "3587-6dcd-005c-c263",
-            "typeName": "Arma da Mischia",
+            "typeId": "ea01-0001-0000-0002",
+            "typeName": "Equipaggiamento - Arma da Mischia",
             "hidden": false,
             "id": "18b8-b0a0-a95e-3236",
             "page": 57,
@@ -14635,8 +14635,8 @@
               }
             ],
             "name": "Bombe termiche",
-            "typeId": "3587-6dcd-005c-c263",
-            "typeName": "Arma da Mischia",
+            "typeId": "ea01-0001-0000-0002",
+            "typeName": "Equipaggiamento - Arma da Mischia",
             "hidden": false,
             "id": "d0b8-6aa6-9753-e0d9",
             "page": 57,
@@ -14957,7 +14957,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Shred (6+)",
+                "value": "Lacerante (6+)",
                 "field": "name"
               }
             ],
@@ -15029,7 +15029,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Shred (6+)",
+                "value": "Lacerante (6+)",
                 "field": "name"
               }
             ],
@@ -15101,7 +15101,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Shred (6+)",
+                "value": "Lacerante (6+)",
                 "field": "name"
               }
             ],
@@ -15171,7 +15171,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Shred (6+)",
+                "value": "Lacerante (6+)",
                 "field": "name"
               }
             ],
@@ -15287,7 +15287,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Shred (6+)",
+                "value": "Lacerante (6+)",
                 "field": "name"
               }
             ],
@@ -15364,7 +15364,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Shred (6+)",
+                "value": "Lacerante (6+)",
                 "field": "name"
               }
             ],
@@ -15441,7 +15441,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Shred (6+)",
+                "value": "Lacerante (6+)",
                 "field": "name"
               }
             ],
@@ -15472,7 +15472,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Shred (6+)",
+                "value": "Lacerante (6+)",
                 "field": "name"
               }
             ],
@@ -15588,7 +15588,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Force (D)",
+                "value": "Psichicità (D)",
                 "field": "name"
               }
             ],
@@ -15658,7 +15658,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Force (D)",
+                "value": "Psichicità (D)",
                 "field": "name"
               }
             ],
@@ -15728,7 +15728,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Force (D)",
+                "value": "Psichicità (D)",
                 "field": "name"
               }
             ],
@@ -15798,7 +15798,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Force (D)",
+                "value": "Psichicità (D)",
                 "field": "name"
               }
             ],
@@ -15867,7 +15867,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (6+)",
+                "value": "Perforante (6+)",
                 "field": "name"
               }
             ],
@@ -15937,7 +15937,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (5+)",
+                "value": "Perforante (5+)",
                 "field": "name"
               }
             ],
@@ -15953,7 +15953,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Pinning (1)",
+                "value": "Inchiodamento (1)",
                 "field": "name"
               }
             ],
@@ -15968,7 +15968,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Precision (4+)",
+                "value": "Precisione (4+)",
                 "field": "name"
               }
             ],
@@ -15982,7 +15982,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Heavy (D)",
+                "value": "Pesante (D)",
                 "field": "name"
               }
             ],
@@ -16052,7 +16052,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Shock (Pinning, Stunned, Suppressed)",
+                "value": "Scossa (Stordito, Inchiodato, Soppresso)",
                 "field": "name"
               }
             ],
@@ -16122,7 +16122,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Impact (IM)",
+                "value": "Impatto (MF)",
                 "field": "name"
               }
             ],
@@ -16136,7 +16136,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Rending (6+)",
+                "value": "Dilaniante (6+)",
                 "field": "name"
               }
             ],
@@ -16150,7 +16150,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (6+)",
+                "value": "Perforante (6+)",
                 "field": "name"
               }
             ],
@@ -16219,7 +16219,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (6+)",
+                "value": "Perforante (6+)",
                 "field": "name"
               }
             ],
@@ -16233,7 +16233,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Impact (IM)",
+                "value": "Impatto (MF)",
                 "field": "name"
               }
             ],
@@ -16247,7 +16247,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Rending (6+)",
+                "value": "Dilaniante (6+)",
                 "field": "name"
               }
             ],
@@ -16316,7 +16316,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Melta (3)",
+                "value": "Termico (3)",
                 "field": "name"
               }
             ],
@@ -16392,7 +16392,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (6+)",
+                "value": "Perforante (6+)",
                 "field": "name"
               }
             ],
@@ -16406,7 +16406,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Aflame (1)",
+                "value": "Infuocato (1)",
                 "field": "name"
               }
             ],
@@ -16475,7 +16475,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (5+)",
+                "value": "Perforante (5+)",
                 "field": "name"
               }
             ],
@@ -16489,7 +16489,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Aflame (1)",
+                "value": "Infuocato (1)",
                 "field": "name"
               }
             ],
@@ -16558,7 +16558,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (6+)",
+                "value": "Perforante (6+)",
                 "field": "name"
               }
             ],
@@ -16572,7 +16572,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Aflame (1)",
+                "value": "Infuocato (1)",
                 "field": "name"
               }
             ],
@@ -16641,7 +16641,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Aflame (1)",
+                "value": "Infuocato (1)",
                 "field": "name"
               }
             ],
@@ -16656,7 +16656,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Precision (6+)",
+                "value": "Precisione (6+)",
                 "field": "name"
               }
             ],
@@ -16727,7 +16727,7 @@
                   }
                 ],
                 "type": "set",
-                "value": "Heavy (FP), Breaching (6+), Skyfire, Precision (6+)",
+                "value": "Pesante (PF), Perforante (6+), Contraereo, Precisione (6+)",
                 "field": "5aad-137a-8ee2-63fd"
               }
             ],
@@ -16789,7 +16789,7 @@
                   }
                 ],
                 "type": "set",
-                "value": "Heavy (FP), Breaching (6+), Overload (1), Skyfire, Precision (6+)",
+                "value": "Pesante (PF), Perforante (6+), Surriscaldamento (1), Contraereo, Precisione (6+)",
                 "field": "5aad-137a-8ee2-63fd"
               }
             ],
@@ -16805,7 +16805,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Heavy (FP)",
+                "value": "Pesante (PF)",
                 "field": "name"
               }
             ],
@@ -16819,7 +16819,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (6+)",
+                "value": "Perforante (6+)",
                 "field": "name"
               }
             ],
@@ -16833,7 +16833,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Overload (1)",
+                "value": "Surriscaldamento (1)",
                 "field": "name"
               }
             ],
@@ -16946,7 +16946,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Heavy (FP)",
+                "value": "Pesante (PF)",
                 "field": "name"
               }
             ],
@@ -16960,7 +16960,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (6+)",
+                "value": "Perforante (6+)",
                 "field": "name"
               }
             ],
@@ -16974,7 +16974,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Overload (1)",
+                "value": "Surriscaldamento (1)",
                 "field": "name"
               }
             ],
@@ -16998,7 +16998,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (6+)",
+                "value": "Perforante (6+)",
                 "field": "name"
               }
             ],
@@ -17013,7 +17013,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Shred (6+)",
+                "value": "Lacerante (6+)",
                 "field": "name"
               }
             ],
@@ -17028,7 +17028,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Stun (0)",
+                "value": "Stordimento (0)",
                 "field": "name"
               }
             ],
@@ -17143,7 +17143,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (5+)",
+                "value": "Perforante (5+)",
                 "field": "name"
               }
             ],
@@ -17214,7 +17214,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Blast (3\")",
+                "value": "Area (3\")",
                 "field": "name"
               }
             ],
@@ -17229,7 +17229,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Poisoned (4+)",
+                "value": "Avvelenato (4+)",
                 "field": "name"
               }
             ],
@@ -17306,7 +17306,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Panic (1)",
+                "value": "Panico (1)",
                 "field": "name"
               }
             ],
@@ -17482,7 +17482,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Panic (2)",
+                "value": "Panico (2)",
                 "field": "name"
               }
             ],
@@ -17566,7 +17566,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (5+)",
+                "value": "Perforante (5+)",
                 "field": "name"
               }
             ],
@@ -17717,7 +17717,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Precision (6+)",
+                "value": "Precisione (6+)",
                 "field": "name"
               }
             ],
@@ -17801,7 +17801,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (6+)",
+                "value": "Perforante (6+)",
                 "field": "name"
               }
             ],
@@ -17885,7 +17885,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (6+)",
+                "value": "Perforante (6+)",
                 "field": "name"
               }
             ],
@@ -18103,7 +18103,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Panic (1)",
+                "value": "Panico (1)",
                 "field": "name"
               }
             ],
@@ -18117,7 +18117,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Template",
+                "value": "Sagoma",
                 "field": "name"
               }
             ],
@@ -18131,7 +18131,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Melta (6)",
+                "value": "Termico (6)",
                 "field": "name"
               }
             ],
@@ -18261,11 +18261,11 @@
             "targetId": "36ee-4c54-bced-a696"
           },
           {
-            "comment": "Pinned",
+            "comment": "Inchiodato",
             "modifiers": [
               {
                 "type": "set",
-                "value": "Shock (Pinned)",
+                "value": "Scossa (Inchiodato)",
                 "field": "name"
               }
             ],
@@ -18322,23 +18322,7 @@
                 "typeId": "76e3-c188-bc65-3467"
               }
             ],
-            "modifiers": [
-              {
-                "conditions": [
-                  {
-                    "type": "instanceOf",
-                    "value": 1,
-                    "field": "selections",
-                    "scope": "unit",
-                    "childId": "ff9f-4970-7f72-e517",
-                    "shared": true
-                  }
-                ],
-                "type": "prepend",
-                "value": "Nostraman",
-                "field": "name"
-              }
-            ],
+            "modifiers": [],
             "name": "Alabarda a catena",
             "typeId": "3587-6dcd-005c-c263",
             "typeName": "Arma da Mischia",
@@ -18351,7 +18335,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (6+)",
+                "value": "Perforante (6+)",
                 "field": "name"
               }
             ],
@@ -18365,7 +18349,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Shred (6+)",
+                "value": "Lacerante (6+)",
                 "field": "name"
               }
             ],
@@ -18435,7 +18419,7 @@
               {
                 "comment": "6",
                 "type": "set",
-                "value": "Critical Hit (6+)",
+                "value": "Colpo Critico (6+)",
                 "field": "name"
               }
             ],
@@ -18507,7 +18491,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Reaping Blow (2)",
+                "value": "Colpo Mietitore (2)",
                 "field": "name"
               }
             ],
@@ -18522,7 +18506,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (5+)",
+                "value": "Perforante (5+)",
                 "field": "name"
               }
             ],
@@ -18593,7 +18577,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (5+)",
+                "value": "Perforante (5+)",
                 "field": "name"
               }
             ],
@@ -18663,7 +18647,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (6+)",
+                "value": "Perforante (6+)",
                 "field": "name"
               }
             ],
@@ -18732,7 +18716,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (6+)",
+                "value": "Perforante (6+)",
                 "field": "name"
               }
             ],
@@ -18801,7 +18785,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (6+)",
+                "value": "Perforante (6+)",
                 "field": "name"
               }
             ],
@@ -18870,7 +18854,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (5+)",
+                "value": "Perforante (5+)",
                 "field": "name"
               }
             ],
@@ -18884,7 +18868,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Shred (6+)",
+                "value": "Lacerante (6+)",
                 "field": "name"
               }
             ],
@@ -18953,7 +18937,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (5+)",
+                "value": "Perforante (5+)",
                 "field": "name"
               }
             ],
@@ -18967,7 +18951,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Shred (5+)",
+                "value": "Lacerante (5+)",
                 "field": "name"
               }
             ],
@@ -19037,7 +19021,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Critical Hit (6+)",
+                "value": "Colpo Critico (6+)",
                 "field": "name"
               }
             ],
@@ -19107,7 +19091,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (5+)",
+                "value": "Perforante (5+)",
                 "field": "name"
               }
             ],
@@ -19178,7 +19162,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (5+)",
+                "value": "Perforante (5+)",
                 "field": "name"
               }
             ],
@@ -19248,7 +19232,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Impact (AP)",
+                "value": "Impatto (VP)",
                 "field": "name"
               }
             ],
@@ -19262,7 +19246,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (5+)",
+                "value": "Perforante (5+)",
                 "field": "name"
               }
             ],
@@ -19332,7 +19316,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Reaping Blow (1)",
+                "value": "Colpo Mietitore (1)",
                 "field": "name"
               }
             ],
@@ -19402,7 +19386,7 @@
               {
                 "comment": "1",
                 "type": "set",
-                "value": "Reaping Blow (1)",
+                "value": "Colpo Mietitore (1)",
                 "field": "name"
               }
             ],
@@ -19471,7 +19455,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (5+)",
+                "value": "Perforante (5+)",
                 "field": "name"
               }
             ],
@@ -19487,7 +19471,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Reaping Blow (1)",
+                "value": "Colpo Mietitore (1)",
                 "field": "name"
               }
             ],
@@ -19556,7 +19540,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (4+)",
+                "value": "Perforante (4+)",
                 "field": "name"
               }
             ],
@@ -19572,7 +19556,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Reaping Blow (1)",
+                "value": "Colpo Mietitore (1)",
                 "field": "name"
               }
             ],
@@ -19641,7 +19625,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (4+)",
+                "value": "Perforante (4+)",
                 "field": "name"
               }
             ],
@@ -19657,7 +19641,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Reaping Blow (1)",
+                "value": "Colpo Mietitore (1)",
                 "field": "name"
               }
             ],
@@ -19671,7 +19655,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Shred (6+)",
+                "value": "Lacerante (6+)",
                 "field": "name"
               }
             ],
@@ -19748,7 +19732,7 @@
               {
                 "comment": "6",
                 "type": "set",
-                "value": "Breaching (6+)",
+                "value": "Perforante (6+)",
                 "field": "name"
               }
             ],
@@ -19762,7 +19746,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Shock (Pinned)",
+                "value": "Scossa (Inchiodato)",
                 "field": "name"
               }
             ],
@@ -19777,7 +19761,7 @@
               {
                 "comment": "1",
                 "type": "set",
-                "value": "Pinning (1)",
+                "value": "Inchiodamento (1)",
                 "field": "name"
               }
             ],
@@ -19848,7 +19832,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (4+)",
+                "value": "Perforante (4+)",
                 "field": "name"
               }
             ],
@@ -19962,11 +19946,11 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (6+) (Sustained)",
+                "value": "Perforante (6+) (Fuoco sostenuto)",
                 "field": "name"
               }
             ],
-            "comment": "6+ (Sustained)",
+            "comment": "6+ (Fuoco sostenuto)",
             "name": "Perforante (X)",
             "id": "5be0-abb2-4f8b-daf9",
             "hidden": false,
@@ -19977,11 +19961,11 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (5+) (Maximal)",
+                "value": "Perforante (5+) (Fuoco massiccio)",
                 "field": "name"
               }
             ],
-            "comment": "5+ (Maximal)",
+            "comment": "5+ (Fuoco massiccio)",
             "name": "Perforante (X)",
             "id": "294b-6b46-f369-5a99",
             "hidden": false,
@@ -19992,11 +19976,11 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Overload (1)",
+                "value": "Surriscaldamento (1)",
                 "field": "name"
               }
             ],
-            "comment": "1 (Maximal)",
+            "comment": "1 (Fuoco massiccio)",
             "name": "Surriscaldamento (X)",
             "id": "d9aa-61f6-c614-e001",
             "hidden": false,
@@ -20123,11 +20107,11 @@
             "targetId": "36ee-4c54-bced-a696"
           },
           {
-            "comment": "Pinned",
+            "comment": "Inchiodato",
             "modifiers": [
               {
                 "type": "set",
-                "value": "Shock (Pinned)",
+                "value": "Scossa (Inchiodato)",
                 "field": "name"
               }
             ],
@@ -20196,7 +20180,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Pinning (0)",
+                "value": "Inchiodamento (0)",
                 "field": "name"
               }
             ],
@@ -20272,7 +20256,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Pinning (0)",
+                "value": "Inchiodamento (0)",
                 "field": "name"
               }
             ],
@@ -20341,7 +20325,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Pinning (0)",
+                "value": "Inchiodamento (0)",
                 "field": "name"
               }
             ],
@@ -20355,7 +20339,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Shred (6+)",
+                "value": "Lacerante (6+)",
                 "field": "name"
               }
             ],
@@ -20424,7 +20408,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (6+)",
+                "value": "Perforante (6+)",
                 "field": "name"
               }
             ],
@@ -20436,11 +20420,11 @@
             "targetId": "b094-0b64-eb57-aed6"
           },
           {
-            "comment": "Pinned",
+            "comment": "Inchiodato",
             "modifiers": [
               {
                 "type": "set",
-                "value": "Shock (Pinned)",
+                "value": "Scossa (Inchiodato)",
                 "field": "name"
               }
             ],
@@ -20455,7 +20439,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Pinning (1)",
+                "value": "Inchiodamento (1)",
                 "field": "name"
               }
             ],
@@ -20531,7 +20515,7 @@
               {
                 "comment": "2",
                 "type": "set",
-                "value": "Poisoned (2+)",
+                "value": "Avvelenato (2+)",
                 "field": "name"
               }
             ],
@@ -20555,7 +20539,7 @@
               {
                 "comment": "2",
                 "type": "set",
-                "value": "Poisoned (2+)",
+                "value": "Avvelenato (2+)",
                 "field": "name"
               }
             ],
@@ -20728,7 +20712,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Rending (6+)",
+                "value": "Dilaniante (6+)",
                 "field": "name"
               }
             ],
@@ -20797,7 +20781,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Rending (6+)",
+                "value": "Dilaniante (6+)",
                 "field": "name"
               }
             ],
@@ -20944,7 +20928,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (6+)",
+                "value": "Perforante (6+)",
                 "field": "name"
               }
             ],
@@ -21013,7 +20997,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (6+)",
+                "value": "Perforante (6+)",
                 "field": "name"
               }
             ],
@@ -21027,7 +21011,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Blast (5\")",
+                "value": "Area (5\")",
                 "field": "name"
               }
             ],
@@ -21096,7 +21080,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (5+)",
+                "value": "Perforante (5+)",
                 "field": "name"
               }
             ],
@@ -21110,7 +21094,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Shred (6+)",
+                "value": "Lacerante (6+)",
                 "field": "name"
               }
             ],
@@ -21186,7 +21170,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (5+)",
+                "value": "Perforante (5+)",
                 "field": "name"
               }
             ],
@@ -21200,7 +21184,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Shred (6+)",
+                "value": "Lacerante (6+)",
                 "field": "name"
               }
             ],
@@ -21269,7 +21253,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (5+)",
+                "value": "Perforante (5+)",
                 "field": "name"
               }
             ],
@@ -21283,7 +21267,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Shred (6+)",
+                "value": "Lacerante (6+)",
                 "field": "name"
               }
             ],
@@ -21297,7 +21281,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Heavy (RS)",
+                "value": "Pesante (FD)",
                 "field": "name"
               }
             ],
@@ -21311,7 +21295,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Blast (3\")",
+                "value": "Area (3\")",
                 "field": "name"
               }
             ],
@@ -21380,7 +21364,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (6+)",
+                "value": "Perforante (6+)",
                 "field": "name"
               }
             ],
@@ -21394,7 +21378,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Phage (S)",
+                "value": "Corrosivo (Fo)",
                 "field": "name"
               }
             ],
@@ -21464,7 +21448,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Shred (6+)",
+                "value": "Lacerante (6+)",
                 "field": "name"
               }
             ],
@@ -21599,7 +21583,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Heavy (FP)",
+                "value": "Pesante (PF)",
                 "field": "name"
               }
             ],
@@ -21613,7 +21597,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Suppressive (1)",
+                "value": "Soppressione (1)",
                 "field": "name"
               }
             ],
@@ -21627,7 +21611,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Overload (1)",
+                "value": "Surriscaldamento (1)",
                 "field": "name"
               }
             ],
@@ -21641,7 +21625,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (6+)",
+                "value": "Perforante (6+)",
                 "field": "name"
               }
             ],
@@ -21655,7 +21639,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Critical Hit (6+)",
+                "value": "Colpo Critico (6+)",
                 "field": "name"
               }
             ],
@@ -21732,7 +21716,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Poisoned (3+)",
+                "value": "Avvelenato (3+)",
                 "field": "name"
               }
             ],
@@ -21747,7 +21731,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Pinning (1)",
+                "value": "Inchiodamento (1)",
                 "field": "name"
               }
             ],
@@ -21819,9 +21803,9 @@
                   }
                 ],
                 "type": "replace",
-                "value": "Pinning (2)",
+                "value": "Inchiodamento (2)",
                 "field": "5aad-137a-8ee2-63fd",
-                "arg": "Pinning (1)"
+                "arg": "Inchiodamento (1)"
               }
             ],
             "name": "Cannone scuotiterra",
@@ -21837,9 +21821,9 @@
           {
             "modifiers": [
               {
-                "comment": "RS",
+                "comment": "FD",
                 "type": "set",
-                "value": "Ordnance (RS)",
+                "value": "Artiglieria (FD)",
                 "field": "name"
               }
             ],
@@ -21854,7 +21838,7 @@
               {
                 "comment": "5",
                 "type": "set",
-                "value": "Blast (5\")",
+                "value": "Area (5\")",
                 "field": "name"
               }
             ],
@@ -21869,7 +21853,7 @@
               {
                 "comment": "2",
                 "type": "set",
-                "value": "Barrage (2)",
+                "value": "Bombardamento (2)",
                 "field": "name"
               }
             ],
@@ -21884,7 +21868,7 @@
               {
                 "comment": "6",
                 "type": "set",
-                "value": "Breaching (6+)",
+                "value": "Perforante (6+)",
                 "field": "name"
               }
             ],
@@ -21911,7 +21895,7 @@
                   }
                 ],
                 "type": "set",
-                "value": "Pinning (1)",
+                "value": "Inchiodamento (1)",
                 "field": "name"
               },
               {
@@ -21928,7 +21912,7 @@
                   }
                 ],
                 "type": "set",
-                "value": "Pinning (2)",
+                "value": "Inchiodamento (2)",
                 "field": "name"
               }
             ],
@@ -22000,9 +21984,9 @@
                   }
                 ],
                 "type": "replace",
-                "value": "Pinning (3)",
+                "value": "Inchiodamento (3)",
                 "field": "5aad-137a-8ee2-63fd",
-                "arg": "Pinning (2)"
+                "arg": "Inchiodamento (2)"
               }
             ],
             "name": "Mortaio Medusa",
@@ -22020,7 +22004,7 @@
               {
                 "comment": "2",
                 "type": "set",
-                "value": "Barrage (2)",
+                "value": "Bombardamento (2)",
                 "field": "name"
               }
             ],
@@ -22035,7 +22019,7 @@
               {
                 "comment": "5",
                 "type": "set",
-                "value": "Blast (5\")",
+                "value": "Area (5\")",
                 "field": "name"
               }
             ],
@@ -22050,7 +22034,7 @@
               {
                 "comment": "5",
                 "type": "set",
-                "value": "Breaching (5+)",
+                "value": "Perforante (5+)",
                 "field": "name"
               }
             ],
@@ -22063,9 +22047,9 @@
           {
             "modifiers": [
               {
-                "comment": "RS",
+                "comment": "FD",
                 "type": "set",
-                "value": "Ordnance (RS)",
+                "value": "Artiglieria (FD)",
                 "field": "name"
               }
             ],
@@ -22092,7 +22076,7 @@
                   }
                 ],
                 "type": "set",
-                "value": "Pinning (2)",
+                "value": "Inchiodamento (2)",
                 "field": "name"
               },
               {
@@ -22109,7 +22093,7 @@
                   }
                 ],
                 "type": "set",
-                "value": "Pinning (3)",
+                "value": "Inchiodamento (3)",
                 "field": "name"
               }
             ],
@@ -22175,11 +22159,11 @@
         ],
         "infoLinks": [
           {
-            "comment": "FP",
+            "comment": "PF",
             "modifiers": [
               {
                 "type": "set",
-                "value": "Heavy (FP)",
+                "value": "Pesante (PF)",
                 "field": "name"
               }
             ],
@@ -22194,7 +22178,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (6+)",
+                "value": "Perforante (6+)",
                 "field": "name"
               }
             ],
@@ -22264,7 +22248,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Poisoned (2+)",
+                "value": "Avvelenato (2+)",
                 "field": "name"
               }
             ],
@@ -22275,11 +22259,11 @@
             "targetId": "076f-2c91-c58b-71b3"
           },
           {
-            "comment": "T",
+            "comment": "Re",
             "modifiers": [
               {
                 "type": "set",
-                "value": "Phage (T)",
+                "value": "Corrosivo (R)",
                 "field": "name"
               }
             ],
@@ -22389,11 +22373,11 @@
         ],
         "infoLinks": [
           {
-            "comment": "RS",
+            "comment": "FD",
             "modifiers": [
               {
                 "type": "set",
-                "value": "Heavy (RS)",
+                "value": "Pesante (FD)",
                 "field": "name"
               }
             ],
@@ -22408,7 +22392,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Heavy (D)",
+                "value": "Pesante (D)",
                 "field": "name"
               }
             ],
@@ -22423,7 +22407,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Blast (5\")",
+                "value": "Area (5\")",
                 "field": "name"
               }
             ],
@@ -22493,7 +22477,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Blast (3\")",
+                "value": "Area (3\")",
                 "field": "name"
               }
             ],
@@ -22566,11 +22550,11 @@
         ],
         "infoLinks": [
           {
-            "comment": "Pinned",
+            "comment": "Inchiodato",
             "modifiers": [
               {
                 "type": "set",
-                "value": "Shock (Pinned)",
+                "value": "Scossa (Inchiodato)",
                 "field": "name"
               }
             ],
@@ -22659,7 +22643,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Blast (3\")",
+                "value": "Area (3\")",
                 "field": "name"
               }
             ],
@@ -22674,7 +22658,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (6+)",
+                "value": "Perforante (6+)",
                 "field": "name"
               }
             ],
@@ -22782,7 +22766,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Poisoned (2+)",
+                "value": "Avvelenato (2+)",
                 "field": "name"
               }
             ],
@@ -22854,7 +22838,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Poisoned (2+)",
+                "value": "Avvelenato (2+)",
                 "field": "name"
               }
             ],
@@ -23002,7 +22986,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (6+)",
+                "value": "Perforante (6+)",
                 "field": "name"
               }
             ],
@@ -23017,7 +23001,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Overload (1)",
+                "value": "Surriscaldamento (1)",
                 "field": "name"
               }
             ],
@@ -24326,7 +24310,7 @@
                   {
                     "comment": "6",
                     "type": "set",
-                    "value": "Breaching (6+)",
+                    "value": "Perforante (6+)",
                     "field": "name"
                   }
                 ],
@@ -24341,7 +24325,7 @@
                   {
                     "comment": "6",
                     "type": "set",
-                    "value": "Shred (6+)",
+                    "value": "Lacerante (6+)",
                     "field": "name"
                   }
                 ],
@@ -24632,7 +24616,7 @@
                   {
                     "comment": "6",
                     "type": "set",
-                    "value": "Critical Hit (6+)",
+                    "value": "Colpo Critico (6+)",
                     "field": "name"
                   }
                 ],
@@ -24645,9 +24629,9 @@
               {
                 "modifiers": [
                   {
-                    "comment": "S",
+                    "comment": "Fo",
                     "type": "set",
-                    "value": "Phage (S)",
+                    "value": "Corrosivo (Fo)",
                     "field": "name"
                   }
                 ],
@@ -24768,7 +24752,7 @@
     "name": "Armi",
     "gameSystemId": "sys-b976-0013-2f97-437b",
     "gameSystemRevision": 1,
-    "revision": 30,
+    "revision": 31,
     "authorName": "The4D6",
     "battleScribeVersion": 2.03,
     "type": "catalogue",

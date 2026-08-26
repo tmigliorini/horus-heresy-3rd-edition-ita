@@ -129,7 +129,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Bulky (6)",
+                    "value": "Imponente (6)",
                     "field": "name"
                   }
                 ],
@@ -150,7 +150,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Eternal Warrior (2)",
+                    "value": "Guerriero Eterno (2)",
                     "field": "name"
                   }
                 ],
@@ -229,7 +229,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Breaching (6+)",
+                        "value": "Perforante (6+)",
                         "field": "name"
                       }
                     ],
@@ -319,7 +319,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Breaching (6+)",
+                        "value": "Perforante (6+)",
                         "field": "name"
                       }
                     ],
@@ -363,7 +363,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Critical Hit (6+)",
+                        "value": "Colpo Critico (6+)",
                         "field": "name"
                       }
                     ],
@@ -898,7 +898,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Heavy (FP)",
+                        "value": "Pesante (PF)",
                         "field": "name"
                       }
                     ],
@@ -912,7 +912,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Breaching (6+)",
+                        "value": "Perforante (6+)",
                         "field": "name"
                       }
                     ],
@@ -926,7 +926,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Stun (0)",
+                        "value": "Stordimento (0)",
                         "field": "name"
                       }
                     ],
@@ -940,7 +940,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Shred (5+)",
+                        "value": "Lacerante (5+)",
                         "field": "name"
                       }
                     ],
@@ -1110,7 +1110,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Infiltrate (8)",
+                    "value": "Infiltrazione (8)",
                     "field": "name"
                   }
                 ],
@@ -1124,7 +1124,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Precision (5+)",
+                    "value": "Precisione (5+)",
                     "field": "name"
                   }
                 ],
@@ -1326,7 +1326,7 @@
                 ],
                 "modifierGroups": [
                   {
-                    "comment": "Combat Veterans",
+                    "comment": "Veterani del Combattimento",
                     "modifiers": [
                       {
                         "type": "increment",
@@ -1874,7 +1874,7 @@
                 ],
                 "modifierGroups": [
                   {
-                    "comment": "Combat Veterans",
+                    "comment": "Veterani del Combattimento",
                     "modifiers": [
                       {
                         "type": "increment",
@@ -1949,9 +1949,9 @@
                       },
                       {
                         "type": "replace",
-                        "value": "Sergeant, Champion",
+                        "value": "Sergente, Campione",
                         "field": "50fc-9241-d4a2-045b",
-                        "arg": "Sergeant"
+                        "arg": "Sergente"
                       }
                     ],
                     "conditions": [
@@ -1966,7 +1966,7 @@
                         "includeChildSelections": true
                       }
                     ],
-                    "comment": "Master Sergeant",
+                    "comment": "Sergente Maggiore",
                     "type": "and"
                   }
                 ],
@@ -2243,7 +2243,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Infiltrate (8)",
+                "value": "Infiltrazione (8)",
                 "field": "name"
               }
             ],
@@ -2264,7 +2264,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Support Unit (1)",
+                "value": "Unità di Supporto (1)",
                 "field": "name"
               }
             ],
@@ -2541,7 +2541,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Precision (6+)",
+                    "value": "Precisione (6+)",
                     "field": "name"
                   }
                 ],
@@ -2666,7 +2666,7 @@
                 ],
                 "modifierGroups": [
                   {
-                    "comment": "Combat Veterans",
+                    "comment": "Veterani del Combattimento",
                     "modifiers": [
                       {
                         "type": "increment",
@@ -2787,7 +2787,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Precision (6+)",
+                    "value": "Precisione (6+)",
                     "field": "name"
                   }
                 ],
@@ -3075,7 +3075,7 @@
                 ],
                 "modifierGroups": [
                   {
-                    "comment": "Combat Veterans",
+                    "comment": "Veterani del Combattimento",
                     "modifiers": [
                       {
                         "type": "increment",
@@ -3150,9 +3150,9 @@
                       },
                       {
                         "type": "replace",
-                        "value": "Sergeant, Champion",
+                        "value": "Sergente, Campione",
                         "field": "50fc-9241-d4a2-045b",
-                        "arg": "Sergeant"
+                        "arg": "Sergente"
                       }
                     ],
                     "conditions": [
@@ -3167,7 +3167,7 @@
                         "includeChildSelections": true
                       }
                     ],
-                    "comment": "Master Sergeant",
+                    "comment": "Sergente Maggiore",
                     "type": "and"
                   }
                 ],
@@ -3399,7 +3399,7 @@
                 ],
                 "modifierGroups": [
                   {
-                    "comment": "Combat Veterans",
+                    "comment": "Veterani del Combattimento",
                     "modifiers": [
                       {
                         "type": "increment",
@@ -4055,7 +4055,7 @@
                 ],
                 "modifierGroups": [
                   {
-                    "comment": "Combat Veterans",
+                    "comment": "Veterani del Combattimento",
                     "modifiers": [
                       {
                         "type": "increment",
@@ -4130,9 +4130,9 @@
                       },
                       {
                         "type": "replace",
-                        "value": "Sergeant, Champion",
+                        "value": "Sergente, Campione",
                         "field": "50fc-9241-d4a2-045b",
-                        "arg": "Sergeant"
+                        "arg": "Sergente"
                       }
                     ],
                     "conditions": [
@@ -4147,7 +4147,7 @@
                         "includeChildSelections": true
                       }
                     ],
-                    "comment": "Master Sergeant",
+                    "comment": "Sergente Maggiore",
                     "type": "and"
                   }
                 ],
@@ -4516,7 +4516,7 @@
               {
                 "type": "set",
                 "field": "name",
-                "value": "Bulky (2)"
+                "value": "Imponente (2)"
               }
             ],
             "name": "Imponente (X)",
@@ -4544,7 +4544,7 @@
               {
                 "type": "set",
                 "field": "name",
-                "value": "Vanguard (3)"
+                "value": "Avanguardia (3)"
               }
             ],
             "name": "Avanguardia (X)",
@@ -4821,7 +4821,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Up to two Inductii in this Unit may each have one of",
+                    "value": "Fino a 2 Modelli di Inductii possono prendere un oggetto da",
                     "field": "name"
                   }
                 ],
@@ -5335,7 +5335,7 @@
     ],
     "sharedRules": [
       {
-        "comment": "Legion Tactica",
+        "comment": "Tattica di Legione",
         "description": "Quando un’Unità che includa solo Modelli con questa Regola Speciale è il bersaglio di un Attacco a Distanza, tutti gli attacchi devono essere effettuati come Alla Cieca quando la distanza tra il Modello più vicino nell’Unità attaccante e l’Unità Bersaglio è di 18\" o superiore.",
         "name": "Camminatori nell’Ombra",
         "id": "01bc-3bfe-f526-3be0",
@@ -5515,7 +5515,7 @@
     "name": "                       XIX - Guardia del Corvo",
     "gameSystemId": "sys-b976-0013-2f97-437b",
     "gameSystemRevision": 1,
-    "revision": 12,
+    "revision": 13,
     "authorUrl": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita",
     "authorContact": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita/issues",
     "authorName": "The4D6",

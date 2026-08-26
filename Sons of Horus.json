@@ -245,7 +245,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Breaching (6+",
+                    "value": "Perforante (6+",
                     "field": "name"
                   }
                 ],
@@ -261,7 +261,7 @@
                   {
                     "comment": "3",
                     "type": "set",
-                    "value": "Reaping Blow (3)",
+                    "value": "Colpo Mietitore (3)",
                     "field": "name"
                   }
                 ],
@@ -276,7 +276,7 @@
                   {
                     "comment": "6",
                     "type": "set",
-                    "value": "Shred (6+)",
+                    "value": "Lacerante (6+)",
                     "field": "name"
                   }
                 ],
@@ -364,7 +364,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Critical Hit (5+)",
+                    "value": "Colpo Critico (5+)",
                     "field": "name"
                   }
                 ],
@@ -524,7 +524,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Bulky (6)",
+                "value": "Imponente (6)",
                 "field": "name"
               }
             ],
@@ -545,7 +545,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Eternal Warrior (2)",
+                "value": "Guerriero Eterno (2)",
                 "field": "name"
               }
             ],
@@ -846,7 +846,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Bulky (2)",
+                "value": "Imponente (2)",
                 "field": "name"
               }
             ],
@@ -881,7 +881,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Eternal Warrior (1)",
+                "value": "Guerriero Eterno (1)",
                 "field": "name"
               }
             ],
@@ -1186,7 +1186,7 @@
                 ],
                 "modifierGroups": [
                   {
-                    "comment": "Combat Veterans",
+                    "comment": "Veterani del Combattimento",
                     "modifiers": [
                       {
                         "type": "increment",
@@ -1243,22 +1243,22 @@
                     "type": "and"
                   },
                   {
-                    "comment": "Paragon of Battle",
+                    "comment": "Esemplare di Battaglia",
                     "modifiers": [
                       {
-                        "comment": "Paragon of Battle",
+                        "comment": "Esemplare di Battaglia",
                         "type": "increment",
                         "value": 1,
                         "field": "253c-d694-4695-c89e"
                       },
                       {
-                        "comment": "Paragon of Battle",
+                        "comment": "Esemplare di Battaglia",
                         "type": "increment",
                         "value": 1,
                         "field": "0cd5-b269-e3bc-028b"
                       },
                       {
-                        "comment": "Paragon of Battle",
+                        "comment": "Esemplare di Battaglia",
                         "type": "increment",
                         "value": 1,
                         "field": "024e-bdb1-7982-25a0"
@@ -1750,7 +1750,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Critical Hit (6+)",
+                    "value": "Colpo Critico (6+)",
                     "field": "name"
                   }
                 ],
@@ -1845,7 +1845,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Breaching (6+)",
+                    "value": "Perforante (6+)",
                     "field": "name"
                   }
                 ],
@@ -2301,7 +2301,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Breaching (6+",
+                    "value": "Perforante (6+",
                     "field": "name"
                   }
                 ],
@@ -2317,7 +2317,7 @@
                   {
                     "comment": "3",
                     "type": "set",
-                    "value": "Reaping Blow (3)",
+                    "value": "Colpo Mietitore (3)",
                     "field": "name"
                   }
                 ],
@@ -2332,7 +2332,7 @@
                   {
                     "comment": "6",
                     "type": "set",
-                    "value": "Shred (6+)",
+                    "value": "Lacerante (6+)",
                     "field": "name"
                   }
                 ],
@@ -2420,7 +2420,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Critical Hit (5+)",
+                    "value": "Colpo Critico (5+)",
                     "field": "name"
                   }
                 ],
@@ -2597,7 +2597,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Bulky (6)",
+                "value": "Imponente (6)",
                 "field": "name"
               }
             ],
@@ -2618,7 +2618,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Eternal Warrior (3)",
+                "value": "Guerriero Eterno (3)",
                 "field": "name"
               }
             ],
@@ -2632,7 +2632,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Feel No Pain (5+)",
+                "value": "Insensibile al Dolore (5+)",
                 "field": "name"
               }
             ],
@@ -2646,7 +2646,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Fear (1)",
+                "value": "Paura (1)",
                 "field": "name"
               }
             ],
@@ -2795,7 +2795,7 @@
                 ],
                 "modifierGroups": [
                   {
-                    "comment": "Combat Veterans",
+                    "comment": "Veterani del Combattimento",
                     "modifiers": [
                       {
                         "type": "increment",
@@ -3350,7 +3350,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Bulky (2)",
+                "value": "Imponente (2)",
                 "field": "name"
               }
             ],
@@ -3378,7 +3378,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Vanguard (4)",
+                "value": "Avanguardia (4)",
                 "field": "name"
               }
             ],
@@ -3633,7 +3633,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Critical Hit (6+)",
+                    "value": "Colpo Critico (6+)",
                     "field": "name"
                   }
                 ],
@@ -3861,7 +3861,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Impact (I)",
+                "value": "Impatto (I)",
                 "field": "name"
               }
             ],
@@ -4254,7 +4254,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Hatred (Traitor)",
+                "value": "Odio (Traditore)",
                 "field": "name"
               }
             ],
@@ -4530,7 +4530,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Poisoned (2+)",
+                    "value": "Avvelenato (2+)",
                     "field": "name"
                   }
                 ],
@@ -4544,7 +4544,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Critical Hit (6+)",
+                    "value": "Colpo Critico (6+)",
                     "field": "name"
                   }
                 ],
@@ -4558,7 +4558,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Breaching (5+)",
+                    "value": "Perforante (5+)",
                     "field": "name"
                   }
                 ],
@@ -4755,7 +4755,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Hatred (Shattered Legions)",
+                "value": "Odio (Legioni Spezzate)",
                 "field": "name"
               }
             ],
@@ -4904,7 +4904,7 @@
                 ],
                 "modifierGroups": [
                   {
-                    "comment": "Combat Veterans",
+                    "comment": "Veterani del Combattimento",
                     "modifiers": [
                       {
                         "type": "increment",
@@ -4979,9 +4979,9 @@
                       },
                       {
                         "type": "replace",
-                        "value": "Sergeant, Champion",
+                        "value": "Sergente, Campione",
                         "field": "50fc-9241-d4a2-045b",
-                        "arg": "Sergeant"
+                        "arg": "Sergente"
                       }
                     ],
                     "conditions": [
@@ -4996,7 +4996,7 @@
                         "includeChildSelections": true
                       }
                     ],
-                    "comment": "Master Sergeant",
+                    "comment": "Sergente Maggiore",
                     "type": "and"
                   }
                 ],
@@ -5434,7 +5434,7 @@
                 ],
                 "modifierGroups": [
                   {
-                    "comment": "Combat Veterans",
+                    "comment": "Veterani del Combattimento",
                     "modifiers": [
                       {
                         "type": "increment",
@@ -6106,7 +6106,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Precision (6+)",
+                "value": "Precisione (6+)",
                 "field": "name"
               }
             ],
@@ -6120,7 +6120,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Vanguard (3+)",
+                "value": "Avanguardia (3+)",
                 "field": "name"
               }
             ],
@@ -6724,7 +6724,7 @@
                 ],
                 "modifierGroups": [
                   {
-                    "comment": "Combat Veterans",
+                    "comment": "Veterani del Combattimento",
                     "modifiers": [
                       {
                         "type": "increment",
@@ -7435,7 +7435,7 @@
                 ],
                 "modifierGroups": [
                   {
-                    "comment": "Combat Veterans",
+                    "comment": "Veterani del Combattimento",
                     "modifiers": [
                       {
                         "type": "increment",
@@ -7510,9 +7510,9 @@
                       },
                       {
                         "type": "replace",
-                        "value": "Sergeant, Champion",
+                        "value": "Sergente, Campione",
                         "field": "50fc-9241-d4a2-045b",
-                        "arg": "Sergeant"
+                        "arg": "Sergente"
                       }
                     ],
                     "conditions": [
@@ -7527,7 +7527,7 @@
                         "includeChildSelections": true
                       }
                     ],
-                    "comment": "Master Sergeant",
+                    "comment": "Sergente Maggiore",
                     "type": "and"
                   }
                 ],
@@ -8118,7 +8118,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Precision (6+)",
+                "value": "Precisione (6+)",
                 "field": "name"
               }
             ],
@@ -8132,7 +8132,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Vanguard (3)",
+                "value": "Avanguardia (3)",
                 "field": "name"
               }
             ],
@@ -8146,7 +8146,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Bulky (2)",
+                "value": "Imponente (2)",
                 "field": "name"
               }
             ],
@@ -8310,7 +8310,7 @@
                     ],
                     "comment": "Tartaros",
                     "type": "set",
-                    "value": "Infantry (Command)",
+                    "value": "Fanteria (Comando)",
                     "field": "50fc-9241-d4a2-045b"
                   },
                   {
@@ -8350,7 +8350,7 @@
                 ],
                 "modifierGroups": [
                   {
-                    "comment": "Combat Veterans",
+                    "comment": "Veterani del Combattimento",
                     "modifiers": [
                       {
                         "type": "increment",
@@ -8407,22 +8407,22 @@
                     "type": "and"
                   },
                   {
-                    "comment": "Paragon of Battle",
+                    "comment": "Esemplare di Battaglia",
                     "modifiers": [
                       {
-                        "comment": "Paragon of Battle",
+                        "comment": "Esemplare di Battaglia",
                         "type": "increment",
                         "value": 1,
                         "field": "253c-d694-4695-c89e"
                       },
                       {
-                        "comment": "Paragon of Battle",
+                        "comment": "Esemplare di Battaglia",
                         "type": "increment",
                         "value": 1,
                         "field": "0cd5-b269-e3bc-028b"
                       },
                       {
-                        "comment": "Paragon of Battle",
+                        "comment": "Esemplare di Battaglia",
                         "type": "increment",
                         "value": 1,
                         "field": "024e-bdb1-7982-25a0"
@@ -8630,7 +8630,7 @@
               {
                 "comment": "2",
                 "type": "set",
-                "value": "Bulky (2)",
+                "value": "Imponente (2)",
                 "field": "name"
               }
             ],
@@ -8823,7 +8823,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Critical Hit (6+)",
+                "value": "Colpo Critico (6+)",
                 "field": "name"
               }
             ],
@@ -8951,7 +8951,7 @@
                 ],
                 "modifierGroups": [
                   {
-                    "comment": "Combat Veterans",
+                    "comment": "Veterani del Combattimento",
                     "modifiers": [
                       {
                         "type": "increment",
@@ -9576,7 +9576,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Up to two Inductii in this Unit may each have one of",
+                    "value": "Fino a 2 Modelli di Inductii possono prendere un oggetto da",
                     "field": "name"
                   }
                 ],
@@ -9683,7 +9683,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "For every four Models in this Unit, one Inductii in this Unit may have its bolt pistol exchanged for ",
+                        "value": "Ogni 4 Modelli nell’Unità, un singolo Modello di Inductii può sostituire Pistola requiem con ",
                         "field": "name"
                       },
                       {
@@ -10579,7 +10579,7 @@
     "name": "                        XVI - Figli di Horus",
     "gameSystemId": "sys-b976-0013-2f97-437b",
     "gameSystemRevision": 1,
-    "revision": 16,
+    "revision": 17,
     "authorUrl": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita",
     "authorContact": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita/issues",
     "authorName": "The4D6",

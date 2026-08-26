@@ -406,7 +406,7 @@
               {
                 "comment": "4",
                 "type": "set",
-                "value": "Bulky (4)",
+                "value": "Imponente (4)",
                 "field": "name"
               }
             ],
@@ -420,7 +420,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Impact (S)",
+                "value": "Impatto (Fo)",
                 "field": "name"
               }
             ],
@@ -434,7 +434,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Eternal Warrior (2)",
+                "value": "Guerriero Eterno (2)",
                 "field": "name"
               }
             ],
@@ -607,7 +607,7 @@
                 ],
                 "modifierGroups": [
                   {
-                    "comment": "Combat Veterans",
+                    "comment": "Veterani del Combattimento",
                     "modifiers": [
                       {
                         "type": "increment",
@@ -693,7 +693,7 @@
                         "includeChildSelections": true
                       }
                     ],
-                    "comment": "Master Sergeant - Existing Champion",
+                    "comment": "Sergente Maggiore - Campione esistente",
                     "type": "and"
                   }
                 ],
@@ -1008,7 +1008,7 @@
                 ],
                 "modifierGroups": [
                   {
-                    "comment": "Combat Veterans",
+                    "comment": "Veterani del Combattimento",
                     "modifiers": [
                       {
                         "type": "increment",
@@ -1441,9 +1441,9 @@
                       },
                       {
                         "type": "replace",
-                        "value": "Sergeant, Champion",
+                        "value": "Sergente, Campione",
                         "field": "50fc-9241-d4a2-045b",
-                        "arg": "Sergeant"
+                        "arg": "Sergente"
                       }
                     ],
                     "conditions": [
@@ -1458,11 +1458,11 @@
                         "includeChildSelections": true
                       }
                     ],
-                    "comment": "Master Sergeant",
+                    "comment": "Sergente Maggiore",
                     "type": "and"
                   },
                   {
-                    "comment": "Combat Veterans - no LD mod",
+                    "comment": "Veterani del Combattimento - no LD mod",
                     "modifiers": [
                       {
                         "type": "increment",
@@ -1572,7 +1572,7 @@
                           {
                             "comment": "4",
                             "type": "set",
-                            "value": "Breaching (4+)",
+                            "value": "Perforante (4+)",
                             "field": "name"
                           }
                         ],
@@ -1655,7 +1655,7 @@
                           {
                             "comment": "6",
                             "type": "set",
-                            "value": "Shred (6+)",
+                            "value": "Lacerante (6+)",
                             "field": "name"
                           }
                         ],
@@ -2224,7 +2224,7 @@
                 ],
                 "modifierGroups": [
                   {
-                    "comment": "Combat Veterans - no LD mod",
+                    "comment": "Veterani del Combattimento - no LD mod",
                     "modifiers": [
                       {
                         "type": "increment",
@@ -2365,7 +2365,7 @@
                           {
                             "comment": "4",
                             "type": "set",
-                            "value": "Breaching (4+)",
+                            "value": "Perforante (4+)",
                             "field": "name"
                           }
                         ],
@@ -2589,7 +2589,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Bulky (2)",
+                "value": "Imponente (2)",
                 "field": "name"
               }
             ],
@@ -2617,7 +2617,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Eternal Warrior (1)",
+                "value": "Guerriero Eterno (1)",
                 "field": "name"
               }
             ],
@@ -3266,7 +3266,7 @@
               {
                 "comment": "7",
                 "type": "set",
-                "value": "Bulky (7)",
+                "value": "Imponente (7)",
                 "field": "name"
               }
             ],
@@ -3281,7 +3281,7 @@
               {
                 "comment": "2",
                 "type": "set",
-                "value": "Eternal Warrior (2)",
+                "value": "Guerriero Eterno (2)",
                 "field": "name"
               }
             ],
@@ -3295,7 +3295,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Fear (2)",
+                "value": "Paura (2)",
                 "field": "name"
               }
             ],
@@ -3567,7 +3567,7 @@
                   {
                     "comment": "2",
                     "type": "set",
-                    "value": "Reaping Blow (2)",
+                    "value": "Colpo Mietitore (2)",
                     "field": "name"
                   }
                 ],
@@ -3582,7 +3582,7 @@
                   {
                     "comment": "6",
                     "type": "set",
-                    "value": "Critical Hit (6+)",
+                    "value": "Colpo Critico (6+)",
                     "field": "name"
                   }
                 ],
@@ -3824,7 +3824,7 @@
               {
                 "comment": "2",
                 "type": "set",
-                "value": "Reaping Blow (2)",
+                "value": "Colpo Mietitore (2)",
                 "field": "name"
               }
             ],
@@ -3839,7 +3839,7 @@
               {
                 "comment": "1",
                 "type": "set",
-                "value": "Eternal Warrior (1)",
+                "value": "Guerriero Eterno (1)",
                 "field": "name"
               }
             ],
@@ -3854,7 +3854,7 @@
               {
                 "comment": "5",
                 "type": "set",
-                "value": "Precision (5+)",
+                "value": "Precisione (5+)",
                 "field": "name"
               }
             ],
@@ -4051,7 +4051,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Critical Hit (6+)",
+                        "value": "Colpo Critico (6+)",
                         "field": "name"
                       }
                     ],
@@ -4121,7 +4121,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Critical Hit (6+)",
+                        "value": "Colpo Critico (6+)",
                         "field": "name"
                       }
                     ],
@@ -4135,7 +4135,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Shred (5+)",
+                        "value": "Lacerante (5+)",
                         "field": "name"
                       }
                     ],
@@ -4470,7 +4470,7 @@
                 ],
                 "modifierGroups": [
                   {
-                    "comment": "Combat Veterans",
+                    "comment": "Veterani del Combattimento",
                     "modifiers": [
                       {
                         "type": "increment",
@@ -4564,7 +4564,7 @@
                   {
                     "type": "set",
                     "field": "name",
-                    "value": "Two bolt pistols"
+                    "value": "Due pistole requiem"
                   }
                 ],
                 "constraints": [
@@ -4883,7 +4883,7 @@
                 ],
                 "modifierGroups": [
                   {
-                    "comment": "Combat Veterans",
+                    "comment": "Veterani del Combattimento",
                     "modifiers": [
                       {
                         "type": "increment",
@@ -4958,9 +4958,9 @@
                       },
                       {
                         "type": "replace",
-                        "value": "Sergeant, Champion",
+                        "value": "Sergente, Campione",
                         "field": "50fc-9241-d4a2-045b",
-                        "arg": "Sergeant"
+                        "arg": "Sergente"
                       }
                     ],
                     "conditions": [
@@ -4975,7 +4975,7 @@
                         "includeChildSelections": true
                       }
                     ],
-                    "comment": "Master Sergeant",
+                    "comment": "Sergente Maggiore",
                     "type": "and"
                   }
                 ],
@@ -5016,7 +5016,7 @@
                   {
                     "type": "set",
                     "field": "name",
-                    "value": "Two bolt pistols"
+                    "value": "Due pistole requiem"
                   }
                 ],
                 "constraints": [
@@ -5477,7 +5477,7 @@
                 ],
                 "modifierGroups": [
                   {
-                    "comment": "Combat Veterans",
+                    "comment": "Veterani del Combattimento",
                     "modifiers": [
                       {
                         "type": "increment",
@@ -5571,7 +5571,7 @@
                   {
                     "type": "set",
                     "field": "name",
-                    "value": "Two bolt pistols"
+                    "value": "Due pistole requiem"
                   }
                 ],
                 "constraints": [
@@ -5895,7 +5895,7 @@
                 ],
                 "modifierGroups": [
                   {
-                    "comment": "Combat Veterans",
+                    "comment": "Veterani del Combattimento",
                     "modifiers": [
                       {
                         "type": "increment",
@@ -5970,9 +5970,9 @@
                       },
                       {
                         "type": "replace",
-                        "value": "Sergeant, Champion",
+                        "value": "Sergente, Campione",
                         "field": "50fc-9241-d4a2-045b",
-                        "arg": "Sergeant"
+                        "arg": "Sergente"
                       }
                     ],
                     "conditions": [
@@ -5987,7 +5987,7 @@
                         "includeChildSelections": true
                       }
                     ],
-                    "comment": "Master Sergeant",
+                    "comment": "Sergente Maggiore",
                     "type": "and"
                   }
                 ],
@@ -6028,7 +6028,7 @@
                   {
                     "type": "set",
                     "field": "name",
-                    "value": "Two bolt pistols"
+                    "value": "Due pistole requiem"
                   }
                 ],
                 "constraints": [
@@ -6226,7 +6226,7 @@
               {
                 "type": "set",
                 "field": "name",
-                "value": "Bulky (2)"
+                "value": "Imponente (2)"
               }
             ],
             "name": "Imponente (X)",
@@ -6563,7 +6563,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Up to two Inductii in this Unit may each have one of",
+                    "value": "Fino a 2 Modelli di Inductii possono prendere un oggetto da",
                     "field": "name"
                   }
                 ],
@@ -6733,7 +6733,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "For every four Models in this Unit, one Inductii in this Unit may have its bolt pistol exchanged for ",
+                        "value": "Ogni 4 Modelli nell’Unità, un singolo Modello di Inductii può sostituire Pistola requiem con ",
                         "field": "name"
                       },
                       {
@@ -7174,7 +7174,7 @@
             "targetId": "a3f3-72c6-7e01-6cab"
           },
           {
-            "comment": "T",
+            "comment": "Re",
             "modifiers": [
               {
                 "type": "replace",
@@ -7421,7 +7421,7 @@
                   }
                 ],
                 "type": "add",
-                "value": "Legiones Hereticus can only be selected for an Army with the Traitor Allegiance",
+                "value": "Legiones Hereticus può essere selezionato solo per un Esercito con Alleanza Traditore",
                 "field": "error"
               }
             ],
@@ -7895,7 +7895,7 @@
     "name": "                        XII - Divoratori di Mondi",
     "gameSystemId": "sys-b976-0013-2f97-437b",
     "gameSystemRevision": 1,
-    "revision": 22,
+    "revision": 23,
     "authorUrl": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita",
     "authorContact": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita/issues",
     "authorName": "The4D6",

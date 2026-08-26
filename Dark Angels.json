@@ -266,7 +266,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Duellist's Edge (2)",
+                    "value": "Maestria del Duellante (2)",
                     "field": "name"
                   }
                 ],
@@ -476,7 +476,7 @@
             "includeChildForces": true
           }
         ],
-        "comment": "High Command",
+        "comment": "Alto Comando",
         "modifiers": [
           {
             "conditions": [
@@ -602,7 +602,7 @@
                 ],
                 "modifierGroups": [
                   {
-                    "comment": "Combat Veterans",
+                    "comment": "Veterani del Combattimento",
                     "modifiers": [
                       {
                         "type": "increment",
@@ -1358,9 +1358,9 @@
                       },
                       {
                         "type": "replace",
-                        "value": "Sergeant, Champion",
+                        "value": "Sergente, Campione",
                         "field": "50fc-9241-d4a2-045b",
-                        "arg": "Sergeant"
+                        "arg": "Sergente"
                       }
                     ],
                     "conditions": [
@@ -1375,11 +1375,11 @@
                         "includeChildSelections": true
                       }
                     ],
-                    "comment": "Master Sergeant",
+                    "comment": "Sergente Maggiore",
                     "type": "and"
                   },
                   {
-                    "comment": "Combat Veterans",
+                    "comment": "Veterani del Combattimento",
                     "modifiers": [
                       {
                         "type": "increment",
@@ -1891,7 +1891,7 @@
                   }
                 ],
                 "type": "set",
-                "value": "Dark Angels",
+                "value": "Angeli Oscuri",
                 "field": "name"
               }
             ],
@@ -1912,7 +1912,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Eternal Warrior (1)",
+                "value": "Guerriero Eterno (1)",
                 "field": "name"
               }
             ],
@@ -2067,7 +2067,7 @@
             "sortIndex": 4
           }
         ],
-        "comment": "Retinue",
+        "comment": "Seguito",
         "type": "unit",
         "import": false,
         "name": "Distaccamento di Compagni dell’Ala della Morte",
@@ -2373,9 +2373,9 @@
                       },
                       {
                         "type": "replace",
-                        "value": "Sergeant, Champion",
+                        "value": "Sergente, Campione",
                         "field": "50fc-9241-d4a2-045b",
-                        "arg": "Sergeant"
+                        "arg": "Sergente"
                       }
                     ],
                     "conditions": [
@@ -2390,11 +2390,11 @@
                         "includeChildSelections": true
                       }
                     ],
-                    "comment": "Master Sergeant",
+                    "comment": "Sergente Maggiore",
                     "type": "and"
                   },
                   {
-                    "comment": "Combat Veterans",
+                    "comment": "Veterani del Combattimento",
                     "modifiers": [
                       {
                         "type": "increment",
@@ -2695,7 +2695,7 @@
                 ],
                 "modifierGroups": [
                   {
-                    "comment": "Combat Veterans",
+                    "comment": "Veterani del Combattimento",
                     "modifiers": [
                       {
                         "type": "increment",
@@ -2982,7 +2982,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Support Unit (1)",
+                "value": "Unità di Supporto (1)",
                 "field": "name"
               }
             ],
@@ -3006,7 +3006,7 @@
                   }
                 ],
                 "type": "set",
-                "value": "Dark Angels",
+                "value": "Angeli Oscuri",
                 "field": "name"
               }
             ],
@@ -3038,7 +3038,7 @@
             "targetId": "7fd2-c16b-0e15-9de7"
           }
         ],
-        "comment": "Support",
+        "comment": "Supporto",
         "type": "unit",
         "import": true,
         "name": "Sterminatori dell’Ala del Terrore",
@@ -3147,7 +3147,7 @@
                 ],
                 "modifierGroups": [
                   {
-                    "comment": "Combat Veterans",
+                    "comment": "Veterani del Combattimento",
                     "modifiers": [
                       {
                         "type": "increment",
@@ -3486,9 +3486,9 @@
                       },
                       {
                         "type": "replace",
-                        "value": "Sergeant, Champion",
+                        "value": "Sergente, Campione",
                         "field": "50fc-9241-d4a2-045b",
-                        "arg": "Sergeant"
+                        "arg": "Sergente"
                       }
                     ],
                     "conditions": [
@@ -3503,11 +3503,11 @@
                         "includeChildSelections": true
                       }
                     ],
-                    "comment": "Master Sergeant",
+                    "comment": "Sergente Maggiore",
                     "type": "and"
                   },
                   {
-                    "comment": "Combat Veterans",
+                    "comment": "Veterani del Combattimento",
                     "modifiers": [
                       {
                         "type": "increment",
@@ -3769,7 +3769,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Bulky (2)",
+                "value": "Imponente (2)",
                 "field": "name"
               }
             ],
@@ -3808,7 +3808,7 @@
                   }
                 ],
                 "type": "set",
-                "value": "Dark Angels",
+                "value": "Angeli Oscuri",
                 "field": "name"
               }
             ],
@@ -4029,7 +4029,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Bulky (4)",
+                    "value": "Imponente (4)",
                     "field": "name"
                   }
                 ],
@@ -4054,7 +4054,7 @@
                       }
                     ],
                     "type": "set",
-                    "value": "Dark Angels",
+                    "value": "Angeli Oscuri",
                     "field": "name"
                   }
                 ],
@@ -4068,7 +4068,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Eternal Warrior (2)",
+                    "value": "Guerriero Eterno (2)",
                     "field": "name"
                   }
                 ],
@@ -4230,7 +4230,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Breaching (4+)",
+                    "value": "Perforante (4+)",
                     "field": "name"
                   }
                 ],
@@ -4468,7 +4468,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Shred (4+)",
+                        "value": "Lacerante (4+)",
                         "field": "name"
                       }
                     ],
@@ -4482,7 +4482,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Breaching (4+)",
+                        "value": "Perforante (4+)",
                         "field": "name"
                       }
                     ],
@@ -4497,7 +4497,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Reaping Blow (2)",
+                        "value": "Colpo Mietitore (2)",
                         "field": "name"
                       }
                     ],
@@ -4523,7 +4523,7 @@
             "sortIndex": 1
           }
         ],
-        "comment": "Warlord",
+        "comment": "Generale",
         "modifiers": [
           {
             "conditions": [
@@ -4760,7 +4760,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Bulky (2)",
+                    "value": "Imponente (2)",
                     "field": "name"
                   }
                 ],
@@ -4952,7 +4952,7 @@
             "includeChildForces": true
           }
         ],
-        "comment": "High Command",
+        "comment": "Alto Comando",
         "modifiers": [
           {
             "conditions": [
@@ -5110,11 +5110,11 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (6+) (Sustained)",
+                "value": "Perforante (6+) (Fuoco sostenuto)",
                 "field": "name"
               }
             ],
-            "comment": "6+ (Sustained)",
+            "comment": "6+ (Fuoco sostenuto)",
             "name": "Perforante (X)",
             "id": "011f-7c68-bd1d-8273",
             "hidden": false,
@@ -5125,11 +5125,11 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (5+) (Maximal)",
+                "value": "Perforante (5+) (Fuoco massiccio)",
                 "field": "name"
               }
             ],
-            "comment": "5+ (Maximal)",
+            "comment": "5+ (Fuoco massiccio)",
             "name": "Perforante (X)",
             "id": "6cc4-f774-301f-5605",
             "hidden": false,
@@ -5140,11 +5140,11 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Overload (1)",
+                "value": "Surriscaldamento (1)",
                 "field": "name"
               }
             ],
-            "comment": "1 (Maximal)",
+            "comment": "1 (Fuoco massiccio)",
             "name": "Surriscaldamento (X)",
             "id": "d496-c78a-2c40-0ad2",
             "hidden": false,
@@ -5254,11 +5254,11 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (6+) (Sustained)",
+                "value": "Perforante (6+) (Fuoco sostenuto)",
                 "field": "name"
               }
             ],
-            "comment": "6+ (Sustained)",
+            "comment": "6+ (Fuoco sostenuto)",
             "name": "Perforante (X)",
             "id": "1d93-495c-5e59-2148",
             "hidden": false,
@@ -5269,11 +5269,11 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (5+) (Maximal)",
+                "value": "Perforante (5+) (Fuoco massiccio)",
                 "field": "name"
               }
             ],
-            "comment": "5+ (Maximal)",
+            "comment": "5+ (Fuoco massiccio)",
             "name": "Perforante (X)",
             "id": "28e2-883f-dc1f-c656",
             "hidden": false,
@@ -5284,11 +5284,11 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Overload (1)",
+                "value": "Surriscaldamento (1)",
                 "field": "name"
               }
             ],
-            "comment": "1 (Maximal)",
+            "comment": "1 (Fuoco massiccio)",
             "name": "Surriscaldamento (X)",
             "id": "8a1f-7d87-c4b9-86d6",
             "hidden": false,
@@ -5398,11 +5398,11 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (6+) (Sustained)",
+                "value": "Perforante (6+) (Fuoco sostenuto)",
                 "field": "name"
               }
             ],
-            "comment": "6+ (Sustained)",
+            "comment": "6+ (Fuoco sostenuto)",
             "name": "Perforante (X)",
             "id": "a49a-f295-4389-4748",
             "hidden": false,
@@ -5413,11 +5413,11 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (5+) (Maximal)",
+                "value": "Perforante (5+) (Fuoco massiccio)",
                 "field": "name"
               }
             ],
-            "comment": "5+ (Maximal)",
+            "comment": "5+ (Fuoco massiccio)",
             "name": "Perforante (X)",
             "id": "a630-bf66-3b8b-b73f",
             "hidden": false,
@@ -5428,11 +5428,11 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Overload (1)",
+                "value": "Surriscaldamento (1)",
                 "field": "name"
               }
             ],
-            "comment": "1 (Maximal)",
+            "comment": "1 (Fuoco massiccio)",
             "name": "Surriscaldamento (X)",
             "id": "6d71-9ac2-0df7-520d",
             "hidden": false,
@@ -5476,7 +5476,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Poisoned (2+)",
+                "value": "Avvelenato (2+)",
                 "field": "name"
               }
             ],
@@ -5490,7 +5490,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Phage (T)",
+                "value": "Corrosivo (R)",
                 "field": "name"
               }
             ],
@@ -5504,7 +5504,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Blast (3\")",
+                "value": "Area (3\")",
                 "field": "name"
               }
             ],
@@ -5518,7 +5518,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Stun (3)",
+                "value": "Stordimento (3)",
                 "field": "name"
               }
             ],
@@ -5731,7 +5731,7 @@
                 ],
                 "modifierGroups": [
                   {
-                    "comment": "Combat Veterans",
+                    "comment": "Veterani del Combattimento",
                     "modifiers": [
                       {
                         "type": "increment",
@@ -6229,9 +6229,9 @@
                       },
                       {
                         "type": "replace",
-                        "value": "Sergeant, Champion",
+                        "value": "Sergente, Campione",
                         "field": "50fc-9241-d4a2-045b",
-                        "arg": "Sergeant"
+                        "arg": "Sergente"
                       }
                     ],
                     "conditions": [
@@ -6246,11 +6246,11 @@
                         "includeChildSelections": true
                       }
                     ],
-                    "comment": "Master Sergeant",
+                    "comment": "Sergente Maggiore",
                     "type": "and"
                   },
                   {
-                    "comment": "Combat Veterans",
+                    "comment": "Veterani del Combattimento",
                     "modifiers": [
                       {
                         "type": "increment",
@@ -6608,7 +6608,7 @@
                     "includeChildSelections": true
                   }
                 ],
-                "comment": "Master sergeant",
+                "comment": "Sergente Maggiore",
                 "type": "add",
                 "value": "5a95-e564-96b2-8dc9",
                 "field": "category"
@@ -6709,7 +6709,7 @@
                   }
                 ],
                 "type": "set",
-                "value": "Dark Angels",
+                "value": "Angeli Oscuri",
                 "field": "name"
               }
             ],
@@ -6730,7 +6730,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Eternal Warrior (1)",
+                "value": "Guerriero Eterno (1)",
                 "field": "name"
               }
             ],
@@ -6752,7 +6752,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Bulky (2)",
+                "value": "Imponente (2)",
                 "field": "name"
               }
             ],
@@ -6806,7 +6806,7 @@
             "sortIndex": 3
           }
         ],
-        "comment": "Retinue",
+        "comment": "Seguito",
         "type": "unit",
         "import": false,
         "name": "Compagni Terminator Catafratti dell’Ala della Morte",
@@ -6919,7 +6919,7 @@
                 ],
                 "modifierGroups": [
                   {
-                    "comment": "Combat Veterans",
+                    "comment": "Veterani del Combattimento",
                     "modifiers": [
                       {
                         "type": "increment",
@@ -7405,9 +7405,9 @@
                       },
                       {
                         "type": "replace",
-                        "value": "Sergeant, Champion",
+                        "value": "Sergente, Campione",
                         "field": "50fc-9241-d4a2-045b",
-                        "arg": "Sergeant"
+                        "arg": "Sergente"
                       }
                     ],
                     "conditions": [
@@ -7422,11 +7422,11 @@
                         "includeChildSelections": true
                       }
                     ],
-                    "comment": "Master Sergeant",
+                    "comment": "Sergente Maggiore",
                     "type": "and"
                   },
                   {
-                    "comment": "Combat Veterans",
+                    "comment": "Veterani del Combattimento",
                     "modifiers": [
                       {
                         "type": "increment",
@@ -7784,7 +7784,7 @@
                     "includeChildSelections": true
                   }
                 ],
-                "comment": "Master sergeant",
+                "comment": "Sergente Maggiore",
                 "type": "add",
                 "value": "5a95-e564-96b2-8dc9",
                 "field": "category"
@@ -7869,7 +7869,7 @@
                   }
                 ],
                 "type": "set",
-                "value": "Dark Angels",
+                "value": "Angeli Oscuri",
                 "field": "name"
               }
             ],
@@ -7890,7 +7890,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Eternal Warrior (1)",
+                "value": "Guerriero Eterno (1)",
                 "field": "name"
               }
             ],
@@ -7912,7 +7912,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Bulky (2)",
+                "value": "Imponente (2)",
                 "field": "name"
               }
             ],
@@ -7958,7 +7958,7 @@
             "targetId": "3fa2-78b1-637f-7fb2"
           }
         ],
-        "comment": "Retinue",
+        "comment": "Seguito",
         "type": "unit",
         "import": false,
         "name": "Compagni dell’Ala di Morte Terminator Tartaros",
@@ -8076,7 +8076,7 @@
                 ],
                 "modifierGroups": [
                   {
-                    "comment": "Combat Veterans",
+                    "comment": "Veterani del Combattimento",
                     "modifiers": [
                       {
                         "type": "increment",
@@ -8415,9 +8415,9 @@
                       },
                       {
                         "type": "replace",
-                        "value": "Sergeant, Champion",
+                        "value": "Sergente, Campione",
                         "field": "50fc-9241-d4a2-045b",
-                        "arg": "Sergeant"
+                        "arg": "Sergente"
                       }
                     ],
                     "conditions": [
@@ -8432,11 +8432,11 @@
                         "includeChildSelections": true
                       }
                     ],
-                    "comment": "Master Sergeant",
+                    "comment": "Sergente Maggiore",
                     "type": "and"
                   },
                   {
-                    "comment": "Combat Veterans",
+                    "comment": "Veterani del Combattimento",
                     "modifiers": [
                       {
                         "type": "increment",
@@ -8708,7 +8708,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Bulky (2)",
+                "value": "Imponente (2)",
                 "field": "name"
               }
             ],
@@ -8747,7 +8747,7 @@
                   }
                 ],
                 "type": "set",
-                "value": "Dark Angels",
+                "value": "Angeli Oscuri",
                 "field": "name"
               }
             ],
@@ -8905,13 +8905,13 @@
                       }
                     ],
                     "type": "set",
-                    "value": "Walker (Champion)",
+                    "value": "Camminatore (Campione)",
                     "field": "50fc-9241-d4a2-045b"
                   }
                 ],
                 "modifierGroups": [
                   {
-                    "comment": "Combat Veterans",
+                    "comment": "Veterani del Combattimento",
                     "modifiers": [
                       {
                         "type": "increment",
@@ -9089,7 +9089,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Breaching (5+)",
+                    "value": "Perforante (5+)",
                     "field": "name"
                   }
                 ],
@@ -9103,7 +9103,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Reaping Blow (2)",
+                    "value": "Colpo Mietitore (2)",
                     "field": "name"
                   }
                 ],
@@ -9225,7 +9225,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Bulky (6)",
+                "value": "Imponente (6)",
                 "field": "name"
               }
             ],
@@ -9240,7 +9240,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Explodes (5+)",
+                "value": "Esplosione (5+)",
                 "field": "name"
               }
             ],
@@ -9256,7 +9256,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Firing Protocols (3)",
+                "value": "Protocolli di Tiro (3)",
                 "field": "name"
               }
             ],
@@ -9271,7 +9271,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Eternal Warrior (1)",
+                "value": "Guerriero Eterno (1)",
                 "field": "name"
               }
             ],
@@ -9286,7 +9286,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Hatred (Infantry, Cavalry, Walker, Automata)",
+                "value": "Odio (Cavalleria, Fanteria, Camminatore, Automa)",
                 "field": "name"
               }
             ],
@@ -9380,7 +9380,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Blast (3\")",
+                        "value": "Area (3\")",
                         "field": "name"
                       }
                     ],
@@ -9395,7 +9395,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Barrage (2)",
+                        "value": "Bombardamento (2)",
                         "field": "name"
                       }
                     ],
@@ -9410,7 +9410,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Pinning (3)",
+                        "value": "Inchiodamento (3)",
                         "field": "name"
                       }
                     ],
@@ -9425,7 +9425,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Poisoned (2+)",
+                        "value": "Avvelenato (2+)",
                         "field": "name"
                       }
                     ],
@@ -9436,11 +9436,11 @@
                     "targetId": "076f-2c91-c58b-71b3"
                   },
                   {
-                    "comment": "T",
+                    "comment": "Re",
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Phage (T)",
+                        "value": "Corrosivo (R)",
                         "field": "name"
                       }
                     ],
@@ -9492,7 +9492,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Poisoned (2+)",
+                        "value": "Avvelenato (2+)",
                         "field": "name"
                       }
                     ],
@@ -9507,7 +9507,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Panic (1)",
+                        "value": "Panico (1)",
                         "field": "name"
                       }
                     ],
@@ -9654,11 +9654,11 @@
                     "targetId": "36ee-4c54-bced-a696"
                   },
                   {
-                    "comment": "Suppressed",
+                    "comment": "Soppresso",
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Shock (Suppressed)",
+                        "value": "Scossa (Soppresso)",
                         "field": "name"
                       }
                     ],
@@ -9763,7 +9763,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Breaching (5+)",
+                        "value": "Perforante (5+)",
                         "field": "name"
                       }
                     ],
@@ -9774,11 +9774,11 @@
                     "targetId": "b094-0b64-eb57-aed6"
                   },
                   {
-                    "comment": "Pinned",
+                    "comment": "Inchiodato",
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Shock (Pinned)",
+                        "value": "Scossa (Inchiodato)",
                         "field": "name"
                       }
                     ],
@@ -9793,7 +9793,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Pinning (3)",
+                        "value": "Inchiodamento (3)",
                         "field": "name"
                       }
                     ],
@@ -10305,7 +10305,7 @@
                 ],
                 "modifierGroups": [
                   {
-                    "comment": "Combat Veterans",
+                    "comment": "Veterani del Combattimento",
                     "modifiers": [
                       {
                         "type": "increment",
@@ -10467,7 +10467,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Breaching (6+)",
+                        "value": "Perforante (6+)",
                         "field": "name"
                       }
                     ],
@@ -10557,7 +10557,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Poisoned (3+)",
+                        "value": "Avvelenato (3+)",
                         "field": "name"
                       }
                     ],
@@ -10579,7 +10579,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Pinning (1)",
+                        "value": "Inchiodamento (1)",
                         "field": "name"
                       }
                     ],
@@ -10958,7 +10958,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Bulky (2)",
+                "value": "Imponente (2)",
                 "field": "name"
               }
             ],
@@ -10980,7 +10980,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Vanguard (2)",
+                "value": "Avanguardia (2)",
                 "field": "name"
               }
             ],
@@ -11005,7 +11005,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Marked for Death (1)",
+                "value": "Marchiato per la Morte (1)",
                 "field": "name"
               }
             ],
@@ -11302,7 +11302,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Up to two Inductii in this Unit may each have one of",
+                    "value": "Fino a 2 Modelli di Inductii possono prendere un oggetto da",
                     "field": "name"
                   }
                 ],
@@ -11403,7 +11403,7 @@
                   }
                 ],
                 "type": "set",
-                "value": "Dark Angels",
+                "value": "Angeli Oscuri",
                 "field": "name"
               }
             ],
@@ -11916,7 +11916,7 @@
     "name": "                         I - Angeli Oscuri",
     "gameSystemId": "sys-b976-0013-2f97-437b",
     "gameSystemRevision": 1,
-    "revision": 19,
+    "revision": 20,
     "authorUrl": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita",
     "authorContact": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita/issues",
     "authorName": "The4D6",

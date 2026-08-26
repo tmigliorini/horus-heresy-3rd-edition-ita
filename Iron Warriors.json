@@ -270,7 +270,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Shred (4+)",
+                    "value": "Lacerante (4+)",
                     "field": "name"
                   }
                 ],
@@ -285,7 +285,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Suppressive (1)",
+                    "value": "Soppressione (1)",
                     "field": "name"
                   }
                 ],
@@ -378,7 +378,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Critical Hit (5+)",
+                    "value": "Colpo Critico (5+)",
                     "field": "name"
                   }
                 ],
@@ -504,7 +504,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Battlesmith (3)",
+                "value": "Fabbro da Battaglia (3)",
                 "field": "name"
               }
             ],
@@ -519,7 +519,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Bulky (6)",
+                "value": "Imponente (6)",
                 "field": "name"
               }
             ],
@@ -534,7 +534,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Eternal Warrior (2)",
+                "value": "Guerriero Eterno (2)",
                 "field": "name"
               }
             ],
@@ -736,7 +736,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (5+)",
+                "value": "Perforante (5+)",
                 "field": "name"
               }
             ],
@@ -800,7 +800,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Expendable (1)",
+                    "value": "Sacrificabile (1)",
                     "field": "name"
                   }
                 ],
@@ -943,7 +943,7 @@
                 ],
                 "modifierGroups": [
                   {
-                    "comment": "Combat Veterans",
+                    "comment": "Veterani del Combattimento",
                     "modifiers": [
                       {
                         "type": "increment",
@@ -1070,7 +1070,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Bulky (2)",
+                "value": "Imponente (2)",
                 "field": "name"
               }
             ],
@@ -1085,7 +1085,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Battlesmith (2)",
+                "value": "Fabbro da Battaglia (2)",
                 "field": "name"
               }
             ],
@@ -1471,7 +1471,7 @@
                 ],
                 "modifierGroups": [
                   {
-                    "comment": "Combat Veterans",
+                    "comment": "Veterani del Combattimento",
                     "modifiers": [
                       {
                         "type": "increment",
@@ -1546,9 +1546,9 @@
                       },
                       {
                         "type": "replace",
-                        "value": "Sergeant, Champion",
+                        "value": "Sergente, Campione",
                         "field": "50fc-9241-d4a2-045b",
-                        "arg": "Sergeant"
+                        "arg": "Sergente"
                       }
                     ],
                     "conditions": [
@@ -1563,7 +1563,7 @@
                         "includeChildSelections": true
                       }
                     ],
-                    "comment": "Master Sergeant",
+                    "comment": "Sergente Maggiore",
                     "type": "and"
                   }
                 ],
@@ -2014,7 +2014,7 @@
                 ],
                 "modifierGroups": [
                   {
-                    "comment": "Combat Veterans",
+                    "comment": "Veterani del Combattimento",
                     "modifiers": [
                       {
                         "type": "increment",
@@ -2502,7 +2502,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Heavy (D)",
+                    "value": "Pesante (D)",
                     "field": "name"
                   }
                 ],
@@ -2517,7 +2517,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Breaching (6+)",
+                    "value": "Perforante (6+)",
                     "field": "name"
                   }
                 ],
@@ -2532,11 +2532,11 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Heavy (FP)",
+                    "value": "Pesante (PF)",
                     "field": "name"
                   }
                 ],
-                "comment": "FP",
+                "comment": "PF",
                 "name": "Pesante (X)",
                 "id": "ee72-2dae-0ea2-4447",
                 "hidden": false,
@@ -2594,7 +2594,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Firing Protocols (2)",
+                "value": "Protocolli di Tiro (2)",
                 "field": "name"
               }
             ],
@@ -2622,7 +2622,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Bulky (2)",
+                "value": "Imponente (2)",
                 "field": "name"
               }
             ],
@@ -2638,7 +2638,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Support Unit (1)",
+                "value": "Unità di Supporto (1)",
                 "field": "name"
               }
             ],
@@ -2937,7 +2937,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Pinning (1)",
+                    "value": "Inchiodamento (1)",
                     "field": "name"
                   }
                 ],
@@ -2952,7 +2952,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Shred (5+)",
+                    "value": "Lacerante (5+)",
                     "field": "name"
                   }
                 ],
@@ -3054,7 +3054,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Impact (A)",
+                "value": "Impatto (A)",
                 "field": "name"
               }
             ],
@@ -3069,7 +3069,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Bulky (4)",
+                "value": "Imponente (4)",
                 "field": "name"
               }
             ],
@@ -3282,7 +3282,7 @@
                 ],
                 "modifierGroups": [
                   {
-                    "comment": "Combat Veterans",
+                    "comment": "Veterani del Combattimento",
                     "modifiers": [
                       {
                         "type": "increment",
@@ -4173,7 +4173,7 @@
               {
                 "type": "set",
                 "field": "name",
-                "value": "Battlesmith (2)"
+                "value": "Fabbro da Battaglia (2)"
               }
             ],
             "name": "Fabbro da Battaglia (X)",
@@ -4573,7 +4573,7 @@
               {
                 "type": "set",
                 "field": "name",
-                "value": "Battlesmith (1)"
+                "value": "Fabbro da Battaglia (1)"
               }
             ],
             "name": "Fabbro da Battaglia (X)",
@@ -4587,7 +4587,7 @@
               {
                 "type": "set",
                 "field": "name",
-                "value": "Feel No Pain (5+)"
+                "value": "Insensibile al Dolore (5+)"
               }
             ],
             "name": "Insensibile al Dolore (X)",
@@ -4760,7 +4760,7 @@
                 ],
                 "modifierGroups": [
                   {
-                    "comment": "Combat Veterans",
+                    "comment": "Veterani del Combattimento",
                     "modifiers": [
                       {
                         "type": "increment",
@@ -5206,7 +5206,7 @@
               {
                 "type": "set",
                 "field": "name",
-                "value": "Bulky (2)"
+                "value": "Imponente (2)"
               }
             ],
             "name": "Imponente (X)",
@@ -5234,7 +5234,7 @@
               {
                 "type": "set",
                 "field": "name",
-                "value": "Expendable (1)"
+                "value": "Sacrificabile (1)"
               }
             ],
             "name": "Sacrificabile (X)",
@@ -5248,7 +5248,7 @@
               {
                 "type": "set",
                 "field": "name",
-                "value": "Hatred (Automata)"
+                "value": "Odio (Automa)"
               }
             ],
             "name": "Odio (X)",
@@ -5398,7 +5398,7 @@
                 ],
                 "modifierGroups": [
                   {
-                    "comment": "Combat Veterans",
+                    "comment": "Veterani del Combattimento",
                     "modifiers": [
                       {
                         "type": "increment",
@@ -5698,9 +5698,9 @@
                       },
                       {
                         "type": "replace",
-                        "value": "Sergeant, Champion",
+                        "value": "Sergente, Campione",
                         "field": "50fc-9241-d4a2-045b",
-                        "arg": "Sergeant"
+                        "arg": "Sergente"
                       }
                     ],
                     "conditions": [
@@ -5715,11 +5715,11 @@
                         "includeChildSelections": true
                       }
                     ],
-                    "comment": "Master Sergeant",
+                    "comment": "Sergente Maggiore",
                     "type": "and"
                   },
                   {
-                    "comment": "Combat Veterans",
+                    "comment": "Veterani del Combattimento",
                     "modifiers": [
                       {
                         "type": "increment",
@@ -6071,7 +6071,7 @@
               {
                 "type": "set",
                 "field": "name",
-                "value": "Support Unit (1)"
+                "value": "Unità di Supporto (1)"
               }
             ],
             "name": "Unità di Supporto (X)",
@@ -6280,7 +6280,7 @@
                   {
                     "type": "set",
                     "field": "name",
-                    "value": "Centreline Mounted volcano cannon"
+                    "value": "Cannone Vulcano (Arco Centrale)"
                   }
                 ],
                 "constraints": [
@@ -6313,7 +6313,7 @@
                   {
                     "type": "set",
                     "field": "name",
-                    "value": "Hull (Front) Mounted twin heavy bolter"
+                    "value": "Requiem pesante binato (Arco Frontale)"
                   }
                 ],
                 "constraints": [
@@ -6395,7 +6395,7 @@
                     ],
                     "type": "upgrade",
                     "import": true,
-                    "name": "Due cannoni laser su affusto laterale e due requiem pesanti binati su affusto laterale",
+                    "name": "Due cannoni laser su affusto laterale e due requiem pesanti binati (Arco Laterale)",
                     "hidden": false,
                     "id": "8351-33d8-64fc-8aa5",
                     "sortIndex": 1,
@@ -6403,7 +6403,7 @@
                       {
                         "type": "upgrade",
                         "import": true,
-                        "name": "Due cannoni laser su affusto laterale",
+                        "name": "Due cannoni laser (Arco Laterale)",
                         "hidden": false,
                         "id": "fc5d-d28b-ff4d-2550",
                         "sortIndex": 1,
@@ -6439,7 +6439,7 @@
                       {
                         "type": "upgrade",
                         "import": true,
-                        "name": "Due requiem pesanti binati su affusto laterale",
+                        "name": "Due requiem pesanti binati (Arco Laterale)",
                         "hidden": false,
                         "id": "13cf-6978-2bcf-cddb",
                         "sortIndex": 2,
@@ -6504,7 +6504,7 @@
                     ],
                     "type": "upgrade",
                     "import": true,
-                    "name": "Due cannoni laser su affusto laterale e due lanciafiamme pesanti binati su affusto laterale",
+                    "name": "Due cannoni laser su affusto laterale e due lanciafiamme pesanti binati (Arco Laterale)",
                     "hidden": false,
                     "id": "46cc-ed5a-d1ce-2b50",
                     "sortIndex": 2,
@@ -6512,7 +6512,7 @@
                       {
                         "type": "upgrade",
                         "import": true,
-                        "name": "Due cannoni laser su affusto laterale",
+                        "name": "Due cannoni laser (Arco Laterale)",
                         "hidden": false,
                         "id": "501e-109f-ef3e-c9bc",
                         "entryLinks": [
@@ -6548,7 +6548,7 @@
                       {
                         "type": "upgrade",
                         "import": true,
-                        "name": "Due lanciafiamme pesanti binati su affusto laterale",
+                        "name": "Due lanciafiamme pesanti binati (Arco Laterale)",
                         "hidden": false,
                         "id": "61c3-feae-24c7-65ef",
                         "entryLinks": [
@@ -6636,7 +6636,7 @@
                       {
                         "type": "set",
                         "field": "name",
-                        "value": "One Hull (Front) Mounted hunter-killer missile"
+                        "value": "Un Missile Cacciatore (Arco Frontale)"
                       }
                     ],
                     "constraints": [
@@ -6748,7 +6748,7 @@
               {
                 "type": "set",
                 "field": "name",
-                "value": "Void Shields (1)"
+                "value": "Scudi Vacuum (1)"
               }
             ],
             "name": "Scudi Vacuum (X)",
@@ -7051,7 +7051,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Up to two Inductii in this Unit may each have one of",
+                    "value": "Fino a 2 Modelli di Inductii possono prendere un oggetto da",
                     "field": "name"
                   }
                 ],
@@ -7905,7 +7905,7 @@
     "name": "                         IV - Guerrieri di Ferro",
     "gameSystemId": "sys-b976-0013-2f97-437b",
     "gameSystemRevision": 1,
-    "revision": 13,
+    "revision": 14,
     "authorUrl": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita",
     "authorContact": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita/issues",
     "authorName": "The4D6",

@@ -1373,13 +1373,7 @@
         "targetId": "ed21-80f8-e842-c972"
       },
       {
-        "modifiers": [
-          {
-            "type": "prepend",
-            "value": "Raven Guard",
-            "field": "name"
-          }
-        ],
+        "modifiers": [],
         "categoryLinks": [
           {
             "targetId": "8fed-36a4-10bd-3fa5",
@@ -1644,13 +1638,7 @@
         "sortIndex": 107
       },
       {
-        "modifiers": [
-          {
-            "type": "prepend",
-            "value": "Dark Angels",
-            "field": "name"
-          }
-        ],
+        "modifiers": [],
         "categoryLinks": [
           {
             "targetId": "6c4f-19ae-d41f-377b",
@@ -1849,13 +1837,7 @@
         "sortIndex": 305
       },
       {
-        "modifiers": [
-          {
-            "type": "prepend",
-            "value": "Emperor's Children",
-            "field": "name"
-          }
-        ],
+        "modifiers": [],
         "categoryLinks": [
           {
             "targetId": "5e33-e0a2-afb4-6fa7",
@@ -2021,13 +2003,7 @@
         "sortIndex": 404
       },
       {
-        "modifiers": [
-          {
-            "type": "prepend",
-            "value": "Iron Warriors",
-            "field": "name"
-          }
-        ],
+        "modifiers": [],
         "categoryLinks": [
           {
             "targetId": "d190-a268-afdd-6e11",
@@ -2226,13 +2202,7 @@
         "sortIndex": 505
       },
       {
-        "modifiers": [
-          {
-            "type": "prepend",
-            "value": "White Scars",
-            "field": "name"
-          }
-        ],
+        "modifiers": [],
         "categoryLinks": [
           {
             "targetId": "c89e-a6a3-9ac6-1283",
@@ -2431,13 +2401,7 @@
         "sortIndex": 605
       },
       {
-        "modifiers": [
-          {
-            "type": "prepend",
-            "value": "Space Wolves",
-            "field": "name"
-          }
-        ],
+        "modifiers": [],
         "categoryLinks": [
           {
             "targetId": "34b6-2cfd-313a-0eff",
@@ -2570,13 +2534,7 @@
         "sortIndex": 703
       },
       {
-        "modifiers": [
-          {
-            "type": "prepend",
-            "value": "Imperial Fists",
-            "field": "name"
-          }
-        ],
+        "modifiers": [],
         "categoryLinks": [
           {
             "targetId": "6d50-f0f1-4c81-4fa5",
@@ -2742,13 +2700,7 @@
         "sortIndex": 804
       },
       {
-        "modifiers": [
-          {
-            "type": "prepend",
-            "value": "Night Lords",
-            "field": "name"
-          }
-        ],
+        "modifiers": [],
         "categoryLinks": [
           {
             "targetId": "72cb-1cf8-0e7d-51d2",
@@ -3013,13 +2965,7 @@
         "sortIndex": 907
       },
       {
-        "modifiers": [
-          {
-            "type": "prepend",
-            "value": "Blood Angels",
-            "field": "name"
-          }
-        ],
+        "modifiers": [],
         "categoryLinks": [
           {
             "targetId": "d819-0c9d-aad2-4238",
@@ -3152,13 +3098,7 @@
         "sortIndex": 1003
       },
       {
-        "modifiers": [
-          {
-            "type": "prepend",
-            "value": "Iron Hands",
-            "field": "name"
-          }
-        ],
+        "modifiers": [],
         "categoryLinks": [
           {
             "targetId": "b8f3-a8cc-4b5f-38c7",
@@ -3324,13 +3264,7 @@
         "sortIndex": 1204
       },
       {
-        "modifiers": [
-          {
-            "type": "prepend",
-            "value": "World Eaters",
-            "field": "name"
-          }
-        ],
+        "modifiers": [],
         "categoryLinks": [
           {
             "targetId": "d877-8b72-fd0b-1e4a",
@@ -3529,13 +3463,7 @@
         "sortIndex": 1305
       },
       {
-        "modifiers": [
-          {
-            "type": "prepend",
-            "value": "Ultramarines",
-            "field": "name"
-          }
-        ],
+        "modifiers": [],
         "categoryLinks": [
           {
             "targetId": "bc4d-0973-2772-9330",
@@ -3668,13 +3596,7 @@
         "sortIndex": 1403
       },
       {
-        "modifiers": [
-          {
-            "type": "prepend",
-            "value": "Death Guard",
-            "field": "name"
-          }
-        ],
+        "modifiers": [],
         "categoryLinks": [
           {
             "targetId": "f6a9-02e2-ff4f-9583",
@@ -3906,13 +3828,7 @@
         "sortIndex": 1506
       },
       {
-        "modifiers": [
-          {
-            "type": "prepend",
-            "value": "Thousand Sons",
-            "field": "name"
-          }
-        ],
+        "modifiers": [],
         "categoryLinks": [
           {
             "targetId": "1992-9042-5894-f2dc",
@@ -4078,13 +3994,7 @@
         "sortIndex": 1604
       },
       {
-        "modifiers": [
-          {
-            "type": "prepend",
-            "value": "Sons of Horus",
-            "field": "name"
-          }
-        ],
+        "modifiers": [],
         "categoryLinks": [
           {
             "targetId": "20ba-2d32-325b-0f43",
@@ -4283,13 +4193,7 @@
         "sortIndex": 1705
       },
       {
-        "modifiers": [
-          {
-            "type": "prepend",
-            "value": "Word Bearers",
-            "field": "name"
-          }
-        ],
+        "modifiers": [],
         "categoryLinks": [
           {
             "targetId": "7712-7d17-1f9e-bf1f",
@@ -4455,13 +4359,7 @@
         "sortIndex": 1804
       },
       {
-        "modifiers": [
-          {
-            "type": "prepend",
-            "value": "Salamanders",
-            "field": "name"
-          }
-        ],
+        "modifiers": [],
         "categoryLinks": [
           {
             "targetId": "acc7-7ab0-1b70-15c2",
@@ -4693,13 +4591,7 @@
         "sortIndex": 2003
       },
       {
-        "modifiers": [
-          {
-            "type": "prepend",
-            "value": "Alpha Legion",
-            "field": "name"
-          }
-        ],
+        "modifiers": [],
         "infoLinks": [
           {
             "name": "Tattiche d’Assassinio",
@@ -4772,7 +4664,7 @@
     "name": "Legioni Spezzate",
     "gameSystemId": "sys-b976-0013-2f97-437b",
     "gameSystemRevision": 54,
-    "revision": 5,
+    "revision": 6,
     "authorName": "m455954",
     "battleScribeVersion": 2.03,
     "type": "catalogue",

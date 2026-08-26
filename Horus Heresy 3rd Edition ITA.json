@@ -116,7 +116,7 @@
           {
             "description": "Un Modello con il Sottotipo Comando può aggregarsi e lasciare Unità, Lanciare ed Accettare Sfide, e il Giocatore che Controlla un'Unità che include uno o più Modelli con il Sottotipo Comando può utilizzare le Caratteristiche di uno di quei Modelli per risolvere eventuali Prove di Caratteristiche effettuati per quell'Unità e per determinare il numero di ferite subite a causa del risultato Frattura Warp. Nella Sottofase di Attacco della Fase di Fuoco, e nella Sottofase di Combattimento della Fase di Assalto, durante il Passaggio di assegnazione delle ferite, il Giocatore Controllante non deve necessariamente selezionare un modello con questo Sottotipo per assegnargli delle ferite, anche se dovesse già averne perse. Se un Modello con il Sottotipo Comando viene Rimosso come Perdita durante la Sottofase delle Sfide, conferisce un ulteriore +1 Punto di Risoluzione del Combattimento.",
             "alias": [
-              "Command"
+              "Comando"
             ],
             "name": "Sottotipo Comando",
             "id": "2126-084e-d5d1-9cca",
@@ -132,7 +132,7 @@
           {
             "description": "Un'armata non può includere più di un'istanza di un Modello con questo Sottotipo. Un Modello con il Sottotipo Unico o un'Unità composta interamente da Modelli con il Sottotipo Unico non può avere altre opzioni oltre a quelle incluse nel suo Profilo dell'Elenco dell'Armata selezionate per loro.",
             "alias": [
-              "Unique"
+              "Unico"
             ],
             "name": "Sottotipo Unico",
             "id": "b7cc-6abd-53c9-09c3",
@@ -150,7 +150,7 @@
           {
             "description": "Un Modello con il sottotipo Campione può Lanciare ed Accettare Sfide.",
             "alias": [
-              "Champion"
+              "Campione"
             ],
             "name": "Sottotipo Campione",
             "id": "489d-a88d-0153-d5af",
@@ -183,7 +183,7 @@
           {
             "description": "Il Giocatore che Controlla un'Unità con uno o più Modelli di Sottotipo Sergente può utilizzare le caratteristiche di uno di quei Modelli per risolvere qualsiasi prova di caratteristica effettuata per quell'Unità e per determinare il numero di ferite subite a causa del risultato Frattura Warp.",
             "alias": [
-              "Sergeant"
+              "Sergente"
             ],
             "name": "Sottotipo Sergente",
             "id": "3888-5604-8695-720e",
@@ -201,7 +201,7 @@
           {
             "description": "Un'Unità composta esclusivamente da Modelli con il Sottotipo Pesante ottiene un bonus di +1 alla sua Caratteristica di Coraggio nei Tiri per evitare di acquisire Status Tattici. Un'Unità che include qualsiasi Modello con il Sottotipo Pesante non può Scattare e non utilizza la sua Caratteristica di Iniziativa per determinare quanto si muove come parte di un Movimento di Posizionamento. Durante una Sfida, un Modello con il Sottotipo Pesante subisce un modificatore di -1 ai Tiri Concentrazione.",
             "alias": [
-              "Heavy"
+              "Pesante"
             ],
             "name": "Sottotipo Pesante",
             "id": "c625-7b16-7ceb-d4cb",
@@ -219,7 +219,7 @@
           {
             "description": "Un'Unità che include solo Modelli con il Sottotipo Leggero ottiene un modificatore +2 alla propria Iniziativa quando si determina quanto lontano quell'Unità può Scattare, e può effettuare Attacchi a Distanza dopo averlo fatto, ma sono considerati Alla Cieca. Un Modello con il Sottotipo Leggero ottiene un modificatore +1 ai Tiri Concentrazione durante una Sfida.",
             "alias": [
-              "Light"
+              "Leggero"
             ],
             "name": "Sottotipo Leggero",
             "id": "f7b0-5312-7f4e-96c4",
@@ -237,7 +237,7 @@
           {
             "description": "Un'Unità che include solo Modelli con il Sottotipo Schermagliatore ha una distanza di Coesione pari a 3\" anziché 2\".",
             "alias": [
-              "Skirmish"
+              "Schermagliatore"
             ],
             "name": "Sottotipo Schermagliatore",
             "id": "8745-f111-ed89-1357",
@@ -273,7 +273,7 @@
           {
             "description": "Tutti i Modelli con il Sottotipo Trasporto sono soggetti alle seguenti Regole: ● I Modelli con questo Sottotipo possono Imbarcare fino a un Modello per punto di Capacità di Trasporto, a meno che un'altra Regola non indichi diversamente; ● Solo i Modelli con il Tipo Fanteria o Esemplare possono Imbarcarsi su un Modello con questo Sottotipo; ● Un'Unità può Imbarcarsi su un Modello con questo Sottotipo solo se tutti i Modelli nell'Unità Imbarcata hanno il suo stesso Tratto di Fazione; ● Un Modello con questo Sottotipo che non ha anche il Sottotipo Superpesante non può avere contemporaneamente più di una singola Unità Imbarcata su di esso; ● L'Unità con il Sottotipo Trasporto e l'Unità Imbarcata sono considerate Unità distinte per tutte le finalità; ● Un Modello che abbia sia il Sottotipo Rapido che il Sottotipo Trasporto, e che il Giocatore Controllante scelga di far Scattare, non può far Sbarcare alcun Modello nel medesimo Turno. Quando un'Unità è Imbarcata su un Modello con il Sottotipo Trasporto, si applicano le seguenti Regole all'Unità Imbarcata: ● Nessuna Unità può sia Imbarcarsi che Sbarcare nella stessa Fase di Movimento; ● Un'Unità Imbarcata non può essere bersagliata da alcun attacco, Regola Speciale o altro effetto ed è trattata come se fosse stata temporaneamente rimossa dal gioco; ● Nessun Modello in un'Unità Imbarcata può effettuare un attacco, una Reazione o altrimenti compiere un'azione; ● Tutti gli effetti generati da un Modello cessano di avere ulteriori effetti mentre è Imbarcato; ● Se un'Unità che ha uno Status si Imbarca, l'Unità Imbarcata lo mantiene e non possono essere effettuate Prove per rimuoverlo fino a quando l'Unità non Sbarca. Punti di Accesso Ogni Modello con il Sottotipo Trasporto ha un determinato numero di Punti di Accesso, ognuno situato entro una specifica Faccia della Corazza. Un Punto di Accesso è fisicamente rappresentato sulla Faccia della Corazza indicata e, quando i Modelli stanno Imbarcando o Sbarcando utilizzando quel Punto di Accesso, contano tutti i punti su quella Faccia della Corazza come un Punto di Accesso. Se un Modello ha due Punti di Accesso laterali, ciò indica la presenza di un Punto di Accesso su ciascuna Faccia Laterale. Se un Modello non ha Punti di Accesso elencati, ma ha una Basetta, allora il bordo della sua Basetta è considerato un Punto di Accesso. Imbarco Durante la Sottofase di Movimento, il Giocatore Controllante può Imbarcare un'Unità su un Modello amico che abbia il Sottotipo Trasporto. Il Modello su cui l'Unità sta cercando di Imbarcarsi deve avere una Capacità di Trasporto sufficiente affinché tutti i Modelli dell'Unità possano farlo, e se così non fosse, qualsiasi tentativo di Imbarcarsi fallisce automaticamente. Per Imbarcarsi su un Modello con il Sottotipo Trasporto, un'Unità deve iniziare o terminare la Sottofase di Movimento con tutti i Modelli entro 2\" da qualsiasi punto su una Faccia di quel Modello dotata di un Punto di Accesso; dopodiché tutti i Modelli dell'Unità vengono rimossi dal Campo di Battaglia. Sbarco Durante la Sottofase di Movimento, quando un Giocatore seleziona un Modello con il Sottotipo Trasporto sotto il proprio Controllo, può scegliere di Sbarcare un'Unità Imbarcata sullo stesso. Una volta che un'Unità Sbarca da un Modello che si è mosso in quella Sottofase di Movimento, il Modello su cui era Imbarcata non può muoversi ulteriormente nella stessa Fase. Quando un'Unità Sbarca, il Giocatore che Controlla l'Unità posiziona i Modelli uno alla volta, con il seguente metodo: 1. Posiziona il Modello selezionato a Contatto di Basetta con un punto su una Faccia del Modello su cui era Imbarcato e su cui vi sia un Punto di Accesso, ad almeno oltre 1\" da qualsiasi Modello nemico e al di fuori di qualsiasi Terreno Intransitabile, Rimuovendolo come Perdita in assenza di una collocazione idonea; 2. Una volta che il Modello che Sbarca è stato posizionato, il Giocatore che Controlla può muoverlo normalmente, e sarà considerato come essersi mosso anche qualora il Giocatore decidesse di non farlo; 3. Questo processo viene ripetuto per ogni Modello nell'Unità, facendo in modo che alla fine dello Sbarco, tutti i Modelli nell'Unità siano in Coesione. Se, per qualsiasi motivo, dopo lo Sbarco alcuni Modelli dell'Unità non sono in Coesione, tali Modelli devono essere Rimossi come Perdite. Trasporti e Riserve Quando i Giocatori fanno entrare in gioco le Riserve, possono scegliere di far Imbarcare le Unità su altri Modelli, a condizione che normalmente possano Imbarcarvisi. Deve essere effettuato un singolo Tiro per le Riserve per i Modelli Trasporto ed altre unità eventualmente Imbarcate sugli stessi. Trasporti e Modelli che si Aggregano Nessun Modello può Aggregarsi o Lasciare un'Unità che è Imbarcata su un altro Modello, né Lasciarla nel turno in cui Sbarca o effettua uno Sbarco di Emergenza. Reazioni ed Imbarco Quando effettua una Reazione che preveda un movimento, un'Unità può imbarcarsi su un Modello amico con il Sottotipo Trasporto, fintanto che rispetta tutte le restrizioni indicate nelle Regole per l'Imbarco. Sbarcare e Caricare Le Cariche dichiarate dalle Unità nel medesimo Turno del Giocatore in cui sono Sbarcate devono essere risolte come Cariche Scomposte. Rimuovere i Trasporti come Perdite Se un Modello con il Sottotipo Trasporto ha un'Unità Imbarcata su di esso e deve essere Rimosso come Perdita, allora prima che il Modello venga rimosso dal Campo di Battaglia e prima di qualsiasi altro effetto, l'Unità Imbarcata deve effettuare uno Sbarco di Emergenza, anche se si è Imbarcata nella medesima Fase. Sbarco di Emergenza L'Operazione di Sbarco di Emergenza avviene con il seguente metodo: 1. Il Giocatore che Controlla l'Unità che effettua un Sbarco di Emergenza seleziona un Modello da quell'Unità e lo posiziona in qualsiasi punto a contatto con lo scafo o la Basetta del Modello su cui era imbarcato, ad almeno oltre 1\" da qualsiasi Modello nemico e al di fuori di Terreno Intransitabile; 2. Una volta che un Modello in fase di Sbarco è stato posizionato, rimane a contatto con il Modello con il Sottotipo Trasporto su cui era imbarcato e non può essere spostato; 3. Si ripete questo processo fino a quando tutti i Modelli dell'Unità che effettua un Sbarco di Emergenza sono stati posizionati sul Campo di Battaglia; 4. Se alcuni Modelli che effettuano un Sbarco di Emergenza dopo il primo non possono essere posizionati a contatto con lo scafo o la Basetta del Modello su cui erano imbarcati, allora possono invece essere posizionati a contatto con un altro Modello della stessa Unità che è già stato posizionato come parte dello Sbarco di Emergenza; Qualsiasi Modello che effettua un Sbarco di Emergenza e non può essere posizionato sul Campo di Battaglia seguendo le Regole presentate qui deve invece essere Rimosso come Perdita. Una volta che tutti i Modelli di un'Unità che effettua un Sbarco di Emergenza sono stati posizionati sul Campo di Battaglia, deve immediatamente effettuare una Prova di Coraggio e, se fallisce, acquisisce lo Status Inchiodato.",
             "alias": [
-              "Transport"
+              "Trasporto"
             ],
             "name": "Sottotipo Trasporto",
             "id": "5227-a434-167a-12ba",
@@ -291,7 +291,7 @@
           {
             "description": "La Fanteria è il Tipo di Modello base.",
             "alias": [
-              "Infantry"
+              "Fanteria"
             ],
             "name": "Tipo Fanteria",
             "id": "6740-4d5b-fca0-ba1f",
@@ -311,7 +311,7 @@
           {
             "description": "Quando un Modello con il Tipo Cavalleria effettua un Ripiegamento, il Modello si muove per una distanza uguale alla sua Caratteristica di Iniziativa più il totale di due Dadi tirati e sommati insieme. I Modelli con il Tipo Cavalleria non possono usufruire di alcun Tiro Copertura garantito da Elementi di Terreno o Terreni ad Area.",
             "alias": [
-              "Cavalry"
+              "Cavalleria"
             ],
             "name": "Tipo Cavalleria",
             "id": "f051-0d1e-c7c2-c92e",
@@ -331,7 +331,7 @@
           {
             "description": "Un Modello con il Tipo Camminatore può attaccare con tutte le Armi selezionabili che possiede in ciascun Attacco a Distanza che effettua. Durante la Sottofase delle Sfide, quando si determina quanti Modelli un Giocatore Controlla in un Combattimento ai fini del Supporto Esterno, un Modello con il Tipo Camminatore conta come cinque Modelli. Durante la Sottofase di Risoluzione, quando si decide quanti Modelli un Giocatore Controlla in un Combattimento, un Modello con il Tipo Camminatore conta come un numero di Modelli pari al Valore Base delle Ferite di quel Modello. Quando si bersaglia un Modello con il Tipo Camminatore, gli effetti della Regola Speciale Avvelenato (X) si attivano solo con un Tiro per Ferire naturale pari a \"6\".",
             "alias": [
-              "Walker"
+              "Camminatore"
             ],
             "name": "Tipo Camminatore",
             "id": "55d4-fd0c-cbdb-a25a",
@@ -351,7 +351,7 @@
           {
             "description": "Il Giocatore che Controlla un Modello con il Tipo Esemplare assegna qualsiasi colpo inflitto al posto del Giocatore che Controlla l'Unità Bersaglio. Un Modello con il Tipo Esemplare può Aggregarsi e Lasciare Unità, Lanciare ed Accettare Sfide. I Modelli con il Tipo Esemplare possono Aggregarsi e Lasciare un'Unità che include Modelli con il Tipo Fanteria, e viceversa. Il Giocatore che Controlla un'Unità con uno o più Modelli con il Sottotipo Esemplare può utilizzare le Caratteristiche di uno di quei Modelli per risolvere le Prove di Caratteristica per quell'Unità e per determinare il numero di ferite subite a causa del risultato Frattura Warp. Durante la Sottofase delle Sfide, se un Modello con il Tipo Esemplare viene Rimosso come Perdita, concede un ulteriore +1 Punto di Risoluzione del Combattimento. Nel Passaggio della Sottofase di Risoluzione, un Modello con il Tipo Esemplare conta come un numero di Modelli pari al Valore Base delle Ferite di quel Modello per determinare quanti Modelli un Giocatore Controlla in un Combattimento. Nella Sottofase di Attacco della Fase di Fuoco, e nella Sottofase di Combattimento della Fase di Assalto, durante il Passaggio di assegnazione delle ferite, il Giocatore Controllante non deve necessariamente selezionare un modello con questo Tipo per assegnargli delle ferite, anche se dovesse già averne perse.",
             "alias": [
-              "Paragon"
+              "Esemplare"
             ],
             "name": "Tipo Esemplare",
             "id": "3abd-0aed-12ad-8b4f",
@@ -371,7 +371,7 @@
           {
             "description": "I Modelli con il Tipo Automa non possono acquisire alcuno Status Tattico e si considerano passare automaticamente qualsiasi Prova effettuata per evitare di acquisirne uno. Se un’Unità dovesse contenere anche modello con un Tipo differente, le Prove non vengono passate automaticamente e devono essere effettuate utilizzando le Caratteristiche di uno dei Modelli senza il Tipo Automa. Quando si bersaglia un Modello con il Tipo Automa, gli effetti della Regola Speciale Avvelenato (X) si attivano solo con un Tiro per Ferire naturale pari a \"6\". Un'Unità che include uno o più Modelli con il Tipo Automa non può effettuare Reazioni. Durante la Sottofase delle Sfide, quando un Giocatore decide quanti Modelli Controlla in un Combattimento per il supporto esterno, i Modelli con il Tipo Automa non possono essere conteggiati. I Sottotipi sono esposti tra parentesi dopo il Tipo di un Modello.",
             "alias": [
-              "Automata"
+              "Automa"
             ],
             "name": "Tipo Automa",
             "id": "a7d3-aaa8-8179-33d1",
@@ -472,7 +472,7 @@
           {
             "description": "Le seguenti regole si applicano a tutti i Modelli con il Sottotipo Superpesante: ● I Modelli con questo Sottotipo non sono in alcun modo influenzati da Terreno Accidentato o Pericoloso; ● A meno che un Modello con questo Sottotipo non abbia effettuato uno Scatto nella sua precedente Fase di Movimento, guadagna sempre i benefici di essere rimasto Stazionario quando effettua Attacchi a Distanza; ● Effettuare più Attacchi a Distanza nella stessa Fase di Fuoco non costringe un Modello con questo Sottotipo ad effettuare tutti i Colpi Alla Cieca; ● Un Modello con questo Sottotipo può effettuare Reazioni solo in risposta ad azioni intraprese da Unità che contengono uno o più Modelli con il Tipo Esemplare, il Sottotipo Superpesante, il Sottotipo Cavaliere o il Sottotipo Titano; ● Quando un Giocatore riceve l'ordine di tirare sulla Tabella dei Danni ai Veicoli per un Modello con questo Sottotipo, non viene effettuato alcun Tiro e il Modello perde invece un singolo Punto Scafo.",
             "alias": [
-              "Super-Heavy"
+              "Superpesante"
             ],
             "name": "Sottotipo Superpesante",
             "id": "17e4-e94d-099b-f44b",
@@ -488,7 +488,7 @@
           {
             "description": "Le seguenti regole si applicano a tutti i Modelli con il Sottotipo Velivolo: ● Un Modello con il Sottotipo Velivolo non ostruisce mai la Linea di Vista o il Movimento di nessun altro Modello; ● Un Modello con il Sottotipo Veicolo può muoversi attraverso Modelli con il Tipo Veicolo; ● Un Modello con il Sottotipo Veicolo non infligge colpi alle Unità che attraversa e non può essere Bersaglio della",
             "alias": [
-              "Flyer"
+              "Velivolo"
             ],
             "name": "Sottotipo Velivolo",
             "id": "ff09-959b-1777-c8b9",
@@ -504,7 +504,7 @@
           {
             "description": "Le seguenti regole si applicano a tutti i Modelli con il Sottotipo Stabile: ● A meno che un Modello con questo Sottotipo non abbia effettuato uno Scatto nella sua precedente Fase di Movimento, guadagna sempre i benefici per essere rimasto Stazionario quando effettua Attacchi a Distanza; ● Effettuare più Attacchi a Distanza nella stessa Fase di Fuoco non costringe un Modello con questo Sottotipo ad effettuare tutti i Colpi Alla Cieca.",
             "alias": [
-              "Stable"
+              "Stabile"
             ],
             "name": "Sottotipo Stabile",
             "id": "8610-6657-7e74-38fd",
@@ -537,7 +537,7 @@
           {
             "description": "Le seguenti Regole si applicano a tutti i Modelli con il Sottotipo Malefico: ● Quando un’Unità composta interamente da Modelli con il Sottotipo Malefico dovrebbe acquisire uno Status Tattico di qualsiasi tipo, tale Status Tattico non viene applicato ed al suo posto l’Unità subisce D3 ferite automatiche con VP e Danno contro le quali non possono essere effettuati Tiri Salvezza di alcun tipo. ● I Modelli con il Sottotipo Malefico non sono influenzati da Regole Speciali che modificano negativamente le loro Caratteristiche di Coraggio, Disciplina, Volontà o Intelligenza. ● Nessun Modello che non possieda il Sottotipo Malefico può Unirsi ad un’Unità che includa uno o più Modelli con il Sottotipo Malefico, e viceversa. I veicoli sono un Tipo di Modello con un funzionamento differente rispetto ad altri Modelli. Quando si determina se la Linea di Vista può essere tracciata da o verso un Modello di Tipo Veicolo, bisogna considerare lo scafo, escludendo ali, canne delle Armi o altre proiezioni dal corpo principale del Modello. Quando un Giocatore deve determinare la linea di vista tra due Modelli o un Modello e un punto sul Campo di Battaglia, se un Modello con il Tipo Veicolo interrompe la linea tra quei due Modelli, allora non c'è Linea di Vista. La Linea di Movimento di qualsiasi Unità non può attraversare lo scafo di un Modello con il Tipo Veicolo. I Modelli con il Tipo Veicolo non possiedono una Caratteristica di Resistenza o Ferite e non possono ricevere, infliggere, guadagnare o avere assegnate ferite. Un Modello con il Tipo Veicolo non può guadagnare o utilizzare Tiri Armatura. Le seguenti Caratteristiche sono specifiche dei Modelli con il Tipo Veicolo.",
             "alias": [
-              "Malefic"
+              "Malefico"
             ],
             "name": "Sottotipo Malefico",
             "id": "56af-aee5-210b-7093",
@@ -6230,7 +6230,7 @@
                             "includeChildForces": true
                           }
                         ],
-                        "comment": "WS",
+                        "comment": "AC",
                         "type": "and"
                       }
                     ],
@@ -6278,7 +6278,7 @@
                             "includeChildForces": true
                           }
                         ],
-                        "comment": "WS",
+                        "comment": "AC",
                         "type": "or"
                       }
                     ],
@@ -6296,7 +6296,7 @@
                         "field": "d1f3-d313-de87-02c3"
                       },
                       {
-                        "comment": "Sire of the White Scars",
+                        "comment": "Sire delle Furie Bianche",
                         "type": "set",
                         "value": false,
                         "field": "hidden"
@@ -6341,7 +6341,7 @@
                             "includeChildForces": true
                           }
                         ],
-                        "comment": "WS",
+                        "comment": "AC",
                         "type": "and"
                       }
                     ],
@@ -7540,7 +7540,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "WS",
+                        "comment": "AC",
                         "type": "and"
                       },
                       {
@@ -7584,7 +7584,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "WS",
+                        "comment": "AC",
                         "type": "and"
                       },
                       {
@@ -7980,7 +7980,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "Knights Errant",
+                        "comment": "Cavalieri Erranti",
                         "type": "and"
                       },
                       {
@@ -8024,7 +8024,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "Militia",
+                        "comment": "Milizia",
                         "type": "and"
                       },
                       {
@@ -8046,7 +8046,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "Blackshields",
+                        "comment": "Scudi Neri",
                         "type": "and"
                       },
                       {
@@ -8068,7 +8068,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "Shattered Legions",
+                        "comment": "Legioni Spezzate",
                         "type": "and"
                       },
                       {
@@ -8097,7 +8097,7 @@
                     "type": "or"
                   }
                 ],
-                "comment": "Visible to all factions",
+                "comment": "Visibile a tutte le fazioni",
                 "type": "set",
                 "value": false,
                 "field": "hidden"
@@ -8273,7 +8273,7 @@
                   }
                 ],
                 "type": "add",
-                "value": "Multiple Skitarii Traits in Detachment",
+                "value": "Tratti Skitarii multipli nel Distaccamento",
                 "field": "error"
               }
             ],
@@ -8536,7 +8536,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "WS",
+                        "comment": "AC",
                         "type": "and"
                       },
                       {
@@ -8580,7 +8580,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "WS",
+                        "comment": "AC",
                         "type": "and"
                       },
                       {
@@ -8983,7 +8983,7 @@
                     "type": "or"
                   }
                 ],
-                "comment": "Visible to all factions",
+                "comment": "Visibile a tutte le fazioni",
                 "type": "set",
                 "value": false,
                 "field": "hidden"
@@ -9017,7 +9017,7 @@
                   }
                 ],
                 "type": "add",
-                "value": "Warlord requires an Army of at least 3000 points",
+                "value": "Il Generale richiede un Esercito di almeno 3000 punti",
                 "field": "warning"
               }
             ],
@@ -9421,7 +9421,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "WS",
+                        "comment": "AC",
                         "type": "and"
                       },
                       {
@@ -9465,7 +9465,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "WS",
+                        "comment": "AC",
                         "type": "and"
                       },
                       {
@@ -9883,7 +9883,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "Militia",
+                        "comment": "Milizia",
                         "type": "and"
                       },
                       {
@@ -9905,7 +9905,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "Blackshields",
+                        "comment": "Scudi Neri",
                         "type": "and"
                       },
                       {
@@ -9927,7 +9927,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "Shattered Legions",
+                        "comment": "Legioni Spezzate",
                         "type": "and"
                       },
                       {
@@ -9956,7 +9956,7 @@
                     "type": "or"
                   }
                 ],
-                "comment": "Visible to all factions",
+                "comment": "Visibile a tutte le fazioni",
                 "type": "set",
                 "value": false,
                 "field": "hidden"
@@ -10477,7 +10477,7 @@
                   }
                 ],
                 "type": "add",
-                "value": "Multiple Mechanicum Traits in Detachment",
+                "value": "Tratti Mechanicum multipli nel Distaccamento",
                 "field": "error"
               },
               {
@@ -10651,7 +10651,7 @@
                   }
                 ],
                 "type": "add",
-                "value": "Multiple Skitarii Traits in Detachment",
+                "value": "Tratti Skitarii multipli nel Distaccamento",
                 "field": "error"
               }
             ],
@@ -11189,7 +11189,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "WS",
+                        "comment": "AC",
                         "type": "and"
                       },
                       {
@@ -11233,7 +11233,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "WS",
+                        "comment": "AC",
                         "type": "and"
                       },
                       {
@@ -11673,7 +11673,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "Militia",
+                        "comment": "Milizia",
                         "type": "and"
                       },
                       {
@@ -11695,7 +11695,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "Blackshields",
+                        "comment": "Scudi Neri",
                         "type": "and"
                       },
                       {
@@ -11717,7 +11717,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "Shattered Legions",
+                        "comment": "Legioni Spezzate",
                         "type": "and"
                       },
                       {
@@ -11746,7 +11746,7 @@
                     "type": "or"
                   }
                 ],
-                "comment": "Visible to all factions",
+                "comment": "Visibile a tutte le fazioni",
                 "type": "set",
                 "value": false,
                 "field": "hidden"
@@ -12267,7 +12267,7 @@
                   }
                 ],
                 "type": "add",
-                "value": "Multiple Mechanicum Traits in Detachment",
+                "value": "Tratti Mechanicum multipli nel Distaccamento",
                 "field": "error"
               },
               {
@@ -12441,7 +12441,7 @@
                   }
                 ],
                 "type": "add",
-                "value": "Multiple Skitarii Traits in Detachment",
+                "value": "Tratti Skitarii multipli nel Distaccamento",
                 "field": "error"
               }
             ],
@@ -12731,7 +12731,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "WS",
+                        "comment": "AC",
                         "type": "and"
                       },
                       {
@@ -12775,7 +12775,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "WS",
+                        "comment": "AC",
                         "type": "and"
                       },
                       {
@@ -13193,7 +13193,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "Militia",
+                        "comment": "Milizia",
                         "type": "and"
                       },
                       {
@@ -13215,7 +13215,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "Blackshields",
+                        "comment": "Scudi Neri",
                         "type": "and"
                       },
                       {
@@ -13237,7 +13237,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "Shattered Legions",
+                        "comment": "Legioni Spezzate",
                         "type": "and"
                       },
                       {
@@ -13266,7 +13266,7 @@
                     "type": "or"
                   }
                 ],
-                "comment": "Visible to all factions",
+                "comment": "Visibile a tutte le fazioni",
                 "type": "set",
                 "value": false,
                 "field": "hidden"
@@ -13787,7 +13787,7 @@
                   }
                 ],
                 "type": "add",
-                "value": "Multiple Mechanicum Traits in Detachment",
+                "value": "Tratti Mechanicum multipli nel Distaccamento",
                 "field": "error"
               },
               {
@@ -13961,7 +13961,7 @@
                   }
                 ],
                 "type": "add",
-                "value": "Multiple Skitarii Traits in Detachment",
+                "value": "Tratti Skitarii multipli nel Distaccamento",
                 "field": "error"
               }
             ],
@@ -14251,7 +14251,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "WS",
+                        "comment": "AC",
                         "type": "and"
                       },
                       {
@@ -14295,7 +14295,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "WS",
+                        "comment": "AC",
                         "type": "and"
                       },
                       {
@@ -14713,7 +14713,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "Militia",
+                        "comment": "Milizia",
                         "type": "and"
                       },
                       {
@@ -14735,7 +14735,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "Blackshields",
+                        "comment": "Scudi Neri",
                         "type": "and"
                       },
                       {
@@ -14757,7 +14757,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "Shattered Legions",
+                        "comment": "Legioni Spezzate",
                         "type": "and"
                       },
                       {
@@ -14786,7 +14786,7 @@
                     "type": "or"
                   }
                 ],
-                "comment": "Visible to all factions",
+                "comment": "Visibile a tutte le fazioni",
                 "type": "set",
                 "value": false,
                 "field": "hidden"
@@ -15307,7 +15307,7 @@
                   }
                 ],
                 "type": "add",
-                "value": "Multiple Mechanicum Traits in Detachment",
+                "value": "Tratti Mechanicum multipli nel Distaccamento",
                 "field": "error"
               },
               {
@@ -15481,7 +15481,7 @@
                   }
                 ],
                 "type": "add",
-                "value": "Multiple Skitarii Traits in Detachment",
+                "value": "Tratti Skitarii multipli nel Distaccamento",
                 "field": "error"
               }
             ],
@@ -15771,7 +15771,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "WS",
+                        "comment": "AC",
                         "type": "and"
                       },
                       {
@@ -15815,7 +15815,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "WS",
+                        "comment": "AC",
                         "type": "and"
                       },
                       {
@@ -16233,7 +16233,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "Militia",
+                        "comment": "Milizia",
                         "type": "and"
                       },
                       {
@@ -16255,7 +16255,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "Blackshields",
+                        "comment": "Scudi Neri",
                         "type": "and"
                       },
                       {
@@ -16277,7 +16277,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "Shattered Legions",
+                        "comment": "Legioni Spezzate",
                         "type": "and"
                       },
                       {
@@ -16306,7 +16306,7 @@
                     "type": "or"
                   }
                 ],
-                "comment": "Visible to all factions",
+                "comment": "Visibile a tutte le fazioni",
                 "type": "set",
                 "value": false,
                 "field": "hidden"
@@ -16827,7 +16827,7 @@
                   }
                 ],
                 "type": "add",
-                "value": "Multiple Mechanicum Traits in Detachment",
+                "value": "Tratti Mechanicum multipli nel Distaccamento",
                 "field": "error"
               },
               {
@@ -17001,7 +17001,7 @@
                   }
                 ],
                 "type": "add",
-                "value": "Multiple Skitarii Traits in Detachment",
+                "value": "Tratti Skitarii multipli nel Distaccamento",
                 "field": "error"
               }
             ],
@@ -17291,7 +17291,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "WS",
+                        "comment": "AC",
                         "type": "and"
                       },
                       {
@@ -17335,7 +17335,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "WS",
+                        "comment": "AC",
                         "type": "and"
                       },
                       {
@@ -17753,7 +17753,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "Militia",
+                        "comment": "Milizia",
                         "type": "and"
                       },
                       {
@@ -17775,7 +17775,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "Blackshields",
+                        "comment": "Scudi Neri",
                         "type": "and"
                       },
                       {
@@ -17797,7 +17797,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "Shattered Legions",
+                        "comment": "Legioni Spezzate",
                         "type": "and"
                       },
                       {
@@ -17826,7 +17826,7 @@
                     "type": "or"
                   }
                 ],
-                "comment": "Visible to all factions",
+                "comment": "Visibile a tutte le fazioni",
                 "type": "set",
                 "value": false,
                 "field": "hidden"
@@ -18347,7 +18347,7 @@
                   }
                 ],
                 "type": "add",
-                "value": "Multiple Mechanicum Traits in Detachment",
+                "value": "Tratti Mechanicum multipli nel Distaccamento",
                 "field": "error"
               },
               {
@@ -18521,7 +18521,7 @@
                   }
                 ],
                 "type": "add",
-                "value": "Multiple Skitarii Traits in Detachment",
+                "value": "Tratti Skitarii multipli nel Distaccamento",
                 "field": "error"
               }
             ],
@@ -18811,7 +18811,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "WS",
+                        "comment": "AC",
                         "type": "and"
                       },
                       {
@@ -18855,7 +18855,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "WS",
+                        "comment": "AC",
                         "type": "and"
                       },
                       {
@@ -19273,7 +19273,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "Militia",
+                        "comment": "Milizia",
                         "type": "and"
                       },
                       {
@@ -19295,7 +19295,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "Blackshields",
+                        "comment": "Scudi Neri",
                         "type": "and"
                       },
                       {
@@ -19317,7 +19317,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "Shattered Legions",
+                        "comment": "Legioni Spezzate",
                         "type": "and"
                       },
                       {
@@ -19346,7 +19346,7 @@
                     "type": "or"
                   }
                 ],
-                "comment": "Visible to all factions",
+                "comment": "Visibile a tutte le fazioni",
                 "type": "set",
                 "value": false,
                 "field": "hidden"
@@ -19867,7 +19867,7 @@
                   }
                 ],
                 "type": "add",
-                "value": "Multiple Mechanicum Traits in Detachment",
+                "value": "Tratti Mechanicum multipli nel Distaccamento",
                 "field": "error"
               },
               {
@@ -20041,7 +20041,7 @@
                   }
                 ],
                 "type": "add",
-                "value": "Multiple Skitarii Traits in Detachment",
+                "value": "Tratti Skitarii multipli nel Distaccamento",
                 "field": "error"
               }
             ],
@@ -20927,7 +20927,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "WS",
+                        "comment": "AC",
                         "type": "and"
                       },
                       {
@@ -20971,7 +20971,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "WS",
+                        "comment": "AC",
                         "type": "and"
                       },
                       {
@@ -21389,7 +21389,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "Militia",
+                        "comment": "Milizia",
                         "type": "and"
                       },
                       {
@@ -21411,7 +21411,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "Blackshields",
+                        "comment": "Scudi Neri",
                         "type": "and"
                       },
                       {
@@ -21433,7 +21433,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "Shattered Legions",
+                        "comment": "Legioni Spezzate",
                         "type": "and"
                       },
                       {
@@ -21462,7 +21462,7 @@
                     "type": "or"
                   }
                 ],
-                "comment": "Visible to all factions",
+                "comment": "Visibile a tutte le fazioni",
                 "type": "set",
                 "value": false,
                 "field": "hidden"
@@ -21983,7 +21983,7 @@
                   }
                 ],
                 "type": "add",
-                "value": "Multiple Mechanicum Traits in Detachment",
+                "value": "Tratti Mechanicum multipli nel Distaccamento",
                 "field": "error"
               },
               {
@@ -22157,7 +22157,7 @@
                   }
                 ],
                 "type": "add",
-                "value": "Multiple Skitarii Traits in Detachment",
+                "value": "Tratti Skitarii multipli nel Distaccamento",
                 "field": "error"
               }
             ],
@@ -24330,7 +24330,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "WS",
+                        "comment": "AC",
                         "type": "and"
                       },
                       {
@@ -24374,7 +24374,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "WS",
+                        "comment": "AC",
                         "type": "and"
                       },
                       {
@@ -24792,7 +24792,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "Militia",
+                        "comment": "Milizia",
                         "type": "and"
                       },
                       {
@@ -24814,7 +24814,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "Blackshields",
+                        "comment": "Scudi Neri",
                         "type": "and"
                       },
                       {
@@ -24836,7 +24836,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "Shattered Legions",
+                        "comment": "Legioni Spezzate",
                         "type": "and"
                       },
                       {
@@ -24865,7 +24865,7 @@
                     "type": "or"
                   }
                 ],
-                "comment": "Visible to all factions",
+                "comment": "Visibile a tutte le fazioni",
                 "type": "set",
                 "value": false,
                 "field": "hidden"
@@ -25386,7 +25386,7 @@
                   }
                 ],
                 "type": "add",
-                "value": "Multiple Mechanicum Traits in Detachment",
+                "value": "Tratti Mechanicum multipli nel Distaccamento",
                 "field": "error"
               },
               {
@@ -25560,7 +25560,7 @@
                   }
                 ],
                 "type": "add",
-                "value": "Multiple Skitarii Traits in Detachment",
+                "value": "Tratti Skitarii multipli nel Distaccamento",
                 "field": "error"
               }
             ],
@@ -26446,7 +26446,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "WS",
+                        "comment": "AC",
                         "type": "and"
                       },
                       {
@@ -26490,7 +26490,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "WS",
+                        "comment": "AC",
                         "type": "and"
                       },
                       {
@@ -26908,7 +26908,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "Militia",
+                        "comment": "Milizia",
                         "type": "and"
                       },
                       {
@@ -26930,7 +26930,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "Blackshields",
+                        "comment": "Scudi Neri",
                         "type": "and"
                       },
                       {
@@ -26952,7 +26952,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "Shattered Legions",
+                        "comment": "Legioni Spezzate",
                         "type": "and"
                       },
                       {
@@ -26981,7 +26981,7 @@
                     "type": "or"
                   }
                 ],
-                "comment": "Visible to all factions",
+                "comment": "Visibile a tutte le fazioni",
                 "type": "set",
                 "value": false,
                 "field": "hidden"
@@ -27502,7 +27502,7 @@
                   }
                 ],
                 "type": "add",
-                "value": "Multiple Mechanicum Traits in Detachment",
+                "value": "Tratti Mechanicum multipli nel Distaccamento",
                 "field": "error"
               },
               {
@@ -27676,7 +27676,7 @@
                   }
                 ],
                 "type": "add",
-                "value": "Multiple Skitarii Traits in Detachment",
+                "value": "Tratti Skitarii multipli nel Distaccamento",
                 "field": "error"
               }
             ],
@@ -27773,7 +27773,7 @@
                   }
                 ],
                 "type": "add",
-                "value": "Primacy Wing only allowed with Legiones Astartes Rite of War",
+                "value": "Ala di Superiorità consentita solo con un Rito di Guerra Legiones Astartes",
                 "field": "error"
               }
             ],
@@ -32134,7 +32134,7 @@
                 "targetId": "4f71-897f-8ae1-303b"
               }
             ],
-            "comment": "WS",
+            "comment": "AC",
             "modifiers": [
               {
                 "conditionGroups": [
@@ -32157,7 +32157,7 @@
                         "shared": true
                       }
                     ],
-                    "comment": "WS",
+                    "comment": "AC",
                     "type": "and"
                   }
                 ],
@@ -33041,7 +33041,7 @@
                         "shared": true
                       }
                     ],
-                    "comment": "Iron Hands",
+                    "comment": "Mani di Ferro",
                     "type": "and"
                   }
                 ],
@@ -33845,7 +33845,7 @@
                         "shared": true
                       }
                     ],
-                    "comment": "Night Lords",
+                    "comment": "Signori della Notte",
                     "type": "and"
                   }
                 ],
@@ -33994,7 +33994,7 @@
                         "shared": true
                       }
                     ],
-                    "comment": "Night Lords",
+                    "comment": "Signori della Notte",
                     "type": "and"
                   }
                 ],
@@ -34782,7 +34782,7 @@
                         "shared": true
                       }
                     ],
-                    "comment": "World Eaters",
+                    "comment": "Divoratori di Mondi",
                     "type": "and"
                   }
                 ],
@@ -34804,7 +34804,7 @@
                   }
                 ],
                 "type": "add",
-                "value": "Berserker Cadre only allowed with Legiones Astartes Rite of War",
+                "value": "Corpo dei Berserker consentito solo con un Rito di Guerra Legiones Astartes",
                 "field": "error"
               }
             ],
@@ -35600,7 +35600,7 @@
                         "shared": true
                       }
                     ],
-                    "comment": "Space Wolves",
+                    "comment": "Lupi Siderali",
                     "type": "and"
                   }
                 ],
@@ -37207,7 +37207,7 @@
                         "shared": true
                       }
                     ],
-                    "comment": "World Eaters",
+                    "comment": "Divoratori di Mondi",
                     "type": "and"
                   }
                 ],
@@ -37229,7 +37229,7 @@
                   }
                 ],
                 "type": "add",
-                "value": "Sons of Bodt only allowed with Legiones Hereticus Rite of War",
+                "value": "Figli di Bodt consentito solo con un Rito di Guerra Legiones Hereticus",
                 "field": "error"
               }
             ],
@@ -37408,7 +37408,7 @@
                         "shared": true
                       }
                     ],
-                    "comment": "Iron Hands",
+                    "comment": "Mani di Ferro",
                     "type": "and"
                   }
                 ],
@@ -45818,7 +45818,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "WS",
+                        "comment": "AC",
                         "type": "and"
                       },
                       {
@@ -45862,7 +45862,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "WS",
+                        "comment": "AC",
                         "type": "and"
                       },
                       {
@@ -46170,7 +46170,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "Blackshields",
+                        "comment": "Scudi Neri",
                         "type": "and"
                       },
                       {
@@ -46192,7 +46192,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "Shattered Legions",
+                        "comment": "Legioni Spezzate",
                         "type": "and"
                       }
                     ],
@@ -46234,7 +46234,7 @@
                   }
                 ],
                 "type": "add",
-                "value": "Demonic Manifestation Detachment requires an Esoterist",
+                "value": "Il Distaccamento Manifestazione Demoniaca richiede un Esoterista",
                 "field": "error"
               },
               {
@@ -46541,7 +46541,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "WS",
+                        "comment": "AC",
                         "type": "and"
                       },
                       {
@@ -46585,7 +46585,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "WS",
+                        "comment": "AC",
                         "type": "and"
                       },
                       {
@@ -46893,7 +46893,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "Blackshields",
+                        "comment": "Scudi Neri",
                         "type": "and"
                       },
                       {
@@ -46915,7 +46915,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "Shattered Legions",
+                        "comment": "Legioni Spezzate",
                         "type": "and"
                       }
                     ],
@@ -46960,7 +46960,7 @@
                   }
                 ],
                 "type": "add",
-                "value": "Veteran Cadre requires Legion Champion",
+                "value": "Il Corpo dei Veterani richiede un Campione della Legione",
                 "field": "error"
               }
             ],
@@ -47463,7 +47463,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "WS",
+                        "comment": "AC",
                         "type": "and"
                       },
                       {
@@ -47507,7 +47507,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "WS",
+                        "comment": "AC",
                         "type": "and"
                       },
                       {
@@ -47815,7 +47815,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "Blackshields",
+                        "comment": "Scudi Neri",
                         "type": "and"
                       },
                       {
@@ -47837,7 +47837,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "Shattered Legions",
+                        "comment": "Legioni Spezzate",
                         "type": "and"
                       }
                     ],
@@ -48808,7 +48808,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "WS",
+                        "comment": "AC",
                         "type": "and"
                       },
                       {
@@ -48852,7 +48852,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "WS",
+                        "comment": "AC",
                         "type": "and"
                       },
                       {
@@ -49160,7 +49160,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "Blackshields",
+                        "comment": "Scudi Neri",
                         "type": "and"
                       },
                       {
@@ -49182,7 +49182,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "Shattered Legions",
+                        "comment": "Legioni Spezzate",
                         "type": "and"
                       }
                     ],
@@ -50153,7 +50153,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "WS",
+                        "comment": "AC",
                         "type": "and"
                       },
                       {
@@ -50197,7 +50197,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "WS",
+                        "comment": "AC",
                         "type": "and"
                       },
                       {
@@ -50505,7 +50505,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "Blackshields",
+                        "comment": "Scudi Neri",
                         "type": "and"
                       },
                       {
@@ -50527,7 +50527,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "Shattered Legions",
+                        "comment": "Legioni Spezzate",
                         "type": "and"
                       }
                     ],
@@ -50555,7 +50555,7 @@
                   }
                 ],
                 "type": "add",
-                "value": "Storm Battery Detachment requires a Siege Breaker",
+                "value": "Il Distaccamento Batteria Tempesta richiede un Maestro d’Assedio",
                 "field": "error"
               },
               {
@@ -51012,7 +51012,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "WS",
+                        "comment": "AC",
                         "type": "and"
                       },
                       {
@@ -51056,7 +51056,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "WS",
+                        "comment": "AC",
                         "type": "and"
                       },
                       {
@@ -51364,7 +51364,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "Blackshields",
+                        "comment": "Scudi Neri",
                         "type": "and"
                       },
                       {
@@ -51386,7 +51386,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "Shattered Legions",
+                        "comment": "Legioni Spezzate",
                         "type": "and"
                       }
                     ],
@@ -51431,7 +51431,7 @@
                   }
                 ],
                 "type": "add",
-                "value": "Recon Demi-Company requires a Vigilator",
+                "value": "La Semicompagnia da Ricognizione richiede un Vigilator",
                 "field": "error"
               }
             ],
@@ -53265,7 +53265,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "WS",
+                        "comment": "AC",
                         "type": "and"
                       },
                       {
@@ -53309,7 +53309,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "WS",
+                        "comment": "AC",
                         "type": "and"
                       },
                       {
@@ -53617,7 +53617,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "Blackshields",
+                        "comment": "Scudi Neri",
                         "type": "and"
                       },
                       {
@@ -53639,7 +53639,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "Shattered Legions",
+                        "comment": "Legioni Spezzate",
                         "type": "and"
                       }
                     ],
@@ -53854,7 +53854,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "WS",
+                        "comment": "AC",
                         "type": "and"
                       },
                       {
@@ -53898,7 +53898,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "WS",
+                        "comment": "AC",
                         "type": "and"
                       },
                       {
@@ -54206,7 +54206,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "Blackshields",
+                        "comment": "Scudi Neri",
                         "type": "and"
                       },
                       {
@@ -54228,7 +54228,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "Shattered Legions",
+                        "comment": "Legioni Spezzate",
                         "type": "and"
                       }
                     ],
@@ -54272,7 +54272,7 @@
                   }
                 ],
                 "type": "add",
-                "value": "Dreadnought Talon requires a Mortificator",
+                "value": "L’Artiglio Dreadnought richiede un Mortificator",
                 "field": "error"
               }
             ],
@@ -55334,7 +55334,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "WS",
+                        "comment": "AC",
                         "type": "and"
                       },
                       {
@@ -55378,7 +55378,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "WS",
+                        "comment": "AC",
                         "type": "and"
                       },
                       {
@@ -55686,7 +55686,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "Blackshields",
+                        "comment": "Scudi Neri",
                         "type": "and"
                       },
                       {
@@ -55708,7 +55708,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "Shattered Legions",
+                        "comment": "Legioni Spezzate",
                         "type": "and"
                       }
                     ],
@@ -56847,7 +56847,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "WS",
+                        "comment": "AC",
                         "type": "and"
                       },
                       {
@@ -56891,7 +56891,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "WS",
+                        "comment": "AC",
                         "type": "and"
                       },
                       {
@@ -57199,7 +57199,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "Blackshields",
+                        "comment": "Scudi Neri",
                         "type": "and"
                       },
                       {
@@ -57221,7 +57221,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "Shattered Legions",
+                        "comment": "Legioni Spezzate",
                         "type": "and"
                       }
                     ],
@@ -58310,7 +58310,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "WS",
+                        "comment": "AC",
                         "type": "and"
                       },
                       {
@@ -58354,7 +58354,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "WS",
+                        "comment": "AC",
                         "type": "and"
                       },
                       {
@@ -58662,7 +58662,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "Blackshields",
+                        "comment": "Scudi Neri",
                         "type": "and"
                       },
                       {
@@ -58684,7 +58684,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "Shattered Legions",
+                        "comment": "Legioni Spezzate",
                         "type": "and"
                       }
                     ],
@@ -59625,7 +59625,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "WS",
+                        "comment": "AC",
                         "type": "and"
                       },
                       {
@@ -59669,7 +59669,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "WS",
+                        "comment": "AC",
                         "type": "and"
                       },
                       {
@@ -59977,7 +59977,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "Blackshields",
+                        "comment": "Scudi Neri",
                         "type": "and"
                       },
                       {
@@ -59999,7 +59999,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "Shattered Legions",
+                        "comment": "Legioni Spezzate",
                         "type": "and"
                       }
                     ],
@@ -60026,7 +60026,7 @@
                   }
                 ],
                 "type": "add",
-                "value": "Maelstrom Sentry Battery requires a Master of Signals",
+                "value": "La Batteria di Sentinelle Burrasca richiede un Maestro dei Segnali",
                 "field": "error"
               },
               {
@@ -60147,7 +60147,7 @@
             "modifiers": [
               {
                 "type": "add",
-                "value": "Leviathan Armoured Fist Detachment is only legal in Leviathan Missions",
+                "value": "Il Distaccamento Pugno Corazzato Leviathan è legale solo nelle Missioni Leviathan",
                 "field": "warning"
               },
               {
@@ -60239,7 +60239,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "WS",
+                        "comment": "AC",
                         "type": "and"
                       },
                       {
@@ -60283,7 +60283,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "WS",
+                        "comment": "AC",
                         "type": "and"
                       },
                       {
@@ -60701,7 +60701,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "Militia",
+                        "comment": "Milizia",
                         "type": "and"
                       },
                       {
@@ -60723,7 +60723,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "Blackshields",
+                        "comment": "Scudi Neri",
                         "type": "and"
                       },
                       {
@@ -60745,7 +60745,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "Shattered Legions",
+                        "comment": "Legioni Spezzate",
                         "type": "and"
                       },
                       {
@@ -60774,7 +60774,7 @@
                     "type": "or"
                   }
                 ],
-                "comment": "Visible to all factions",
+                "comment": "Visibile a tutte le fazioni",
                 "type": "set",
                 "value": false,
                 "field": "hidden"
@@ -60860,7 +60860,7 @@
             "modifiers": [
               {
                 "type": "add",
-                "value": "Leviathan Bastion of Fire Detachment is only legal in Leviathan Missions",
+                "value": "Il Distaccamento Bastione di Fuoco Leviathan è legale solo nelle Missioni Leviathan",
                 "field": "warning"
               },
               {
@@ -60952,7 +60952,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "WS",
+                        "comment": "AC",
                         "type": "and"
                       },
                       {
@@ -60996,7 +60996,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "WS",
+                        "comment": "AC",
                         "type": "and"
                       },
                       {
@@ -61414,7 +61414,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "Militia",
+                        "comment": "Milizia",
                         "type": "and"
                       },
                       {
@@ -61436,7 +61436,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "Blackshields",
+                        "comment": "Scudi Neri",
                         "type": "and"
                       },
                       {
@@ -61458,7 +61458,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "Shattered Legions",
+                        "comment": "Legioni Spezzate",
                         "type": "and"
                       },
                       {
@@ -61487,7 +61487,7 @@
                     "type": "or"
                   }
                 ],
-                "comment": "Visible to all factions",
+                "comment": "Visibile a tutte le fazioni",
                 "type": "set",
                 "value": false,
                 "field": "hidden"
@@ -62440,7 +62440,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "WS",
+                        "comment": "AC",
                         "type": "and"
                       },
                       {
@@ -62484,7 +62484,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "WS",
+                        "comment": "AC",
                         "type": "and"
                       },
                       {
@@ -62880,7 +62880,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "Knights Errant",
+                        "comment": "Cavalieri Erranti",
                         "type": "and"
                       },
                       {
@@ -62924,7 +62924,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "Militia",
+                        "comment": "Milizia",
                         "type": "and"
                       },
                       {
@@ -62946,7 +62946,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "Blackshields",
+                        "comment": "Scudi Neri",
                         "type": "and"
                       },
                       {
@@ -62968,7 +62968,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "Shattered Legions",
+                        "comment": "Legioni Spezzate",
                         "type": "and"
                       },
                       {
@@ -62997,14 +62997,14 @@
                     "type": "or"
                   }
                 ],
-                "comment": "Visible to all factions",
+                "comment": "Visibile a tutte le fazioni",
                 "type": "set",
                 "value": false,
                 "field": "hidden"
               },
               {
                 "type": "add",
-                "value": "Armoured Command Squadron Detachment is only legal in Armoured Spearhead Missions",
+                "value": "Il Distaccamento Squadrone di Comando Corazzato è legale solo nelle Missioni Punta Corazzata",
                 "field": "warning"
               }
             ],
@@ -63269,7 +63269,7 @@
                                 "shared": true
                               }
                             ],
-                            "comment": "WS",
+                            "comment": "AC",
                             "type": "and"
                           },
                           {
@@ -63313,7 +63313,7 @@
                                 "shared": true
                               }
                             ],
-                            "comment": "WS",
+                            "comment": "AC",
                             "type": "and"
                           },
                           {
@@ -63731,7 +63731,7 @@
                                 "shared": true
                               }
                             ],
-                            "comment": "Militia",
+                            "comment": "Milizia",
                             "type": "and"
                           },
                           {
@@ -63753,7 +63753,7 @@
                                 "shared": true
                               }
                             ],
-                            "comment": "Blackshields",
+                            "comment": "Scudi Neri",
                             "type": "and"
                           },
                           {
@@ -63775,7 +63775,7 @@
                                 "shared": true
                               }
                             ],
-                            "comment": "Shattered Legions",
+                            "comment": "Legioni Spezzate",
                             "type": "and"
                           },
                           {
@@ -64352,7 +64352,7 @@
                   }
                 ],
                 "type": "add",
-                "value": "Multiple Mechanicum Traits in Detachment",
+                "value": "Tratti Mechanicum multipli nel Distaccamento",
                 "field": "error"
               },
               {
@@ -64526,7 +64526,7 @@
                   }
                 ],
                 "type": "add",
-                "value": "Multiple Skitarii Traits in Detachment",
+                "value": "Tratti Skitarii multipli nel Distaccamento",
                 "field": "error"
               }
             ],
@@ -65537,7 +65537,7 @@
               }
             ],
             "type": "add",
-            "value": "Multiple Ætheric Dominions in Army",
+            "value": "Domini Eterici multipli nell’Esercito",
             "field": "error",
             "affects": "entries.forces"
           },
@@ -68229,7 +68229,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "WS",
+                        "comment": "AC",
                         "type": "and"
                       },
                       {
@@ -68273,7 +68273,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "WS",
+                        "comment": "AC",
                         "type": "and"
                       },
                       {
@@ -68691,7 +68691,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "Knights Errant",
+                        "comment": "Cavalieri Erranti",
                         "type": "and"
                       },
                       {
@@ -68735,7 +68735,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "Militia",
+                        "comment": "Milizia",
                         "type": "and"
                       },
                       {
@@ -68757,7 +68757,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "Blackshields",
+                        "comment": "Scudi Neri",
                         "type": "and"
                       },
                       {
@@ -68779,7 +68779,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "Shattered Legions",
+                        "comment": "Legioni Spezzate",
                         "type": "and"
                       },
                       {
@@ -68984,7 +68984,7 @@
                   }
                 ],
                 "type": "add",
-                "value": "Multiple Skitarii Traits in Detachment",
+                "value": "Tratti Skitarii multipli nel Distaccamento",
                 "field": "error"
               }
             ],
@@ -69656,7 +69656,7 @@
               }
             ],
             "type": "add",
-            "value": "Please use the \"Knight Lord of War\" Detachment instead",
+            "value": "Usa invece il Distaccamento \"Sovrano della Guerra Knight\"",
             "field": "error"
           },
           {
@@ -70351,7 +70351,7 @@
               }
             ],
             "type": "add",
-            "value": "Multiple Ætheric Dominions in Detachment",
+            "value": "Domini Eterici multipli nel Distaccamento",
             "field": "error"
           },
           {
@@ -73108,7 +73108,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "WS",
+                        "comment": "AC",
                         "type": "and"
                       },
                       {
@@ -73152,7 +73152,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "WS",
+                        "comment": "AC",
                         "type": "and"
                       },
                       {
@@ -73548,7 +73548,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "Knights Errant",
+                        "comment": "Cavalieri Erranti",
                         "type": "and"
                       },
                       {
@@ -73592,7 +73592,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "Militia",
+                        "comment": "Milizia",
                         "type": "and"
                       },
                       {
@@ -73614,7 +73614,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "Blackshields",
+                        "comment": "Scudi Neri",
                         "type": "and"
                       },
                       {
@@ -73636,7 +73636,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "Shattered Legions",
+                        "comment": "Legioni Spezzate",
                         "type": "and"
                       },
                       {
@@ -73665,7 +73665,7 @@
                     "type": "or"
                   }
                 ],
-                "comment": "Visible to all factions",
+                "comment": "Visibile a tutte le fazioni",
                 "type": "set",
                 "value": false,
                 "field": "hidden"
@@ -76377,7 +76377,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "WS",
+                        "comment": "AC",
                         "type": "and"
                       },
                       {
@@ -76421,7 +76421,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "WS",
+                        "comment": "AC",
                         "type": "and"
                       },
                       {
@@ -76817,7 +76817,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "Knights Errant",
+                        "comment": "Cavalieri Erranti",
                         "type": "and"
                       },
                       {
@@ -76861,7 +76861,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "Militia",
+                        "comment": "Milizia",
                         "type": "and"
                       },
                       {
@@ -76883,7 +76883,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "Blackshields",
+                        "comment": "Scudi Neri",
                         "type": "and"
                       },
                       {
@@ -76905,7 +76905,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "Shattered Legions",
+                        "comment": "Legioni Spezzate",
                         "type": "and"
                       },
                       {
@@ -76934,7 +76934,7 @@
                     "type": "or"
                   }
                 ],
-                "comment": "Visible to all factions",
+                "comment": "Visibile a tutte le fazioni",
                 "type": "set",
                 "value": false,
                 "field": "hidden"
@@ -79495,7 +79495,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "WS",
+                        "comment": "AC",
                         "type": "and"
                       },
                       {
@@ -79539,7 +79539,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "WS",
+                        "comment": "AC",
                         "type": "and"
                       },
                       {
@@ -79935,7 +79935,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "Knights Errant",
+                        "comment": "Cavalieri Erranti",
                         "type": "and"
                       },
                       {
@@ -79979,7 +79979,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "Militia",
+                        "comment": "Milizia",
                         "type": "and"
                       },
                       {
@@ -80001,7 +80001,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "Blackshields",
+                        "comment": "Scudi Neri",
                         "type": "and"
                       },
                       {
@@ -80023,7 +80023,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "Shattered Legions",
+                        "comment": "Legioni Spezzate",
                         "type": "and"
                       },
                       {
@@ -80052,7 +80052,7 @@
                     "type": "or"
                   }
                 ],
-                "comment": "Visible to all factions",
+                "comment": "Visibile a tutte le fazioni",
                 "type": "set",
                 "value": false,
                 "field": "hidden"
@@ -84385,7 +84385,7 @@
                             "includeChildForces": true
                           }
                         ],
-                        "comment": "WS",
+                        "comment": "AC",
                         "type": "and"
                       }
                     ],
@@ -84433,7 +84433,7 @@
                             "includeChildForces": true
                           }
                         ],
-                        "comment": "WS",
+                        "comment": "AC",
                         "type": "or"
                       }
                     ],
@@ -84451,7 +84451,7 @@
                         "field": "e01c-9c23-0cbe-c49e"
                       },
                       {
-                        "comment": "Sire of the White Scars",
+                        "comment": "Sire delle Furie Bianche",
                         "type": "set",
                         "value": false,
                         "field": "hidden"
@@ -84496,7 +84496,7 @@
                             "includeChildForces": true
                           }
                         ],
-                        "comment": "WS",
+                        "comment": "AC",
                         "type": "and"
                       }
                     ],
@@ -85628,7 +85628,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "WS",
+                        "comment": "AC",
                         "type": "and"
                       },
                       {
@@ -85672,7 +85672,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "WS",
+                        "comment": "AC",
                         "type": "and"
                       },
                       {
@@ -86068,7 +86068,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "Knights Errant",
+                        "comment": "Cavalieri Erranti",
                         "type": "and"
                       },
                       {
@@ -86112,7 +86112,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "Militia",
+                        "comment": "Milizia",
                         "type": "and"
                       },
                       {
@@ -86134,7 +86134,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "Blackshields",
+                        "comment": "Scudi Neri",
                         "type": "and"
                       },
                       {
@@ -86156,7 +86156,7 @@
                             "shared": true
                           }
                         ],
-                        "comment": "Shattered Legions",
+                        "comment": "Legioni Spezzate",
                         "type": "and"
                       },
                       {
@@ -86185,7 +86185,7 @@
                     "type": "or"
                   }
                 ],
-                "comment": "Visible to all factions",
+                "comment": "Visibile a tutte le fazioni",
                 "type": "set",
                 "value": false,
                 "field": "hidden"
@@ -86361,7 +86361,7 @@
                   }
                 ],
                 "type": "add",
-                "value": "Multiple Skitarii Traits in Detachment",
+                "value": "Tratti Skitarii multipli nel Distaccamento",
                 "field": "error"
               },
               {
@@ -87747,7 +87747,7 @@
               }
             ],
             "type": "add",
-            "value": "Multiple Ætheric Dominions in Army",
+            "value": "Domini Eterici multipli nell’Esercito",
             "field": "error",
             "affects": "entries.forces"
           },
@@ -87825,7 +87825,7 @@
           },
           {
             "type": "add",
-            "value": "Flyers and Vehicles with 3 hull points or more are not allowed in games of Zone Mortalis",
+            "value": "Aerei e Veicoli con 3 o più Punti Scafo non sono ammessi nelle partite di Zone Mortalis",
             "field": "error",
             "conditions": [
               {
@@ -88736,6 +88736,78 @@
           }
         ],
         "kind": "summary"
+      },
+      {
+        "characteristicTypes": [
+          {
+            "name": "G",
+            "id": "cdb0-8654-6840-1037"
+          },
+          {
+            "name": "PF",
+            "id": "5037-1f27-1790-e355"
+          },
+          {
+            "name": "FD",
+            "id": "b9da-ee13-79f9-fa63"
+          },
+          {
+            "name": "VP",
+            "id": "7a23-0248-2b94-5951"
+          },
+          {
+            "name": "D",
+            "id": "88c3-1ca5-7dc1-f291"
+          },
+          {
+            "name": "Regole Speciali",
+            "id": "5aad-137a-8ee2-63fd"
+          },
+          {
+            "name": "Tratti",
+            "id": "1247-79d2-6cc1-8a03"
+          }
+        ],
+        "name": "Equipaggiamento - Arma a Distanza",
+        "id": "ea01-0001-0000-0001",
+        "hidden": false,
+        "sortIndex": 10
+      },
+      {
+        "characteristicTypes": [
+          {
+            "name": "MI",
+            "id": "6eec-4093-f946-1014"
+          },
+          {
+            "name": "MA",
+            "id": "03d0-6094-84f0-e27e"
+          },
+          {
+            "name": "MF",
+            "id": "4505-de6f-d4ae-6280"
+          },
+          {
+            "name": "VP",
+            "id": "a014-126b-3b7b-27e8"
+          },
+          {
+            "name": "D",
+            "id": "6a9d-4feb-065a-33e7"
+          },
+          {
+            "name": "Regole Speciali",
+            "id": "ebe0-7b28-b40c-694e"
+          },
+          {
+            "name": "Tratti",
+            "id": "76e3-c188-bc65-3467"
+          }
+        ],
+        "name": "Equipaggiamento - Arma da Mischia",
+        "id": "ea01-0001-0000-0002",
+        "hidden": false,
+        "sortIndex": 11
       }
     ],
     "sharedSelectionEntryGroups": [
@@ -91461,7 +91533,7 @@
           },
           {
             "alias": [
-              "Confined Space"
+              "Spazio Confinato"
             ],
             "description": "Ciascuna area del campo di Battaglia dotata della Regola Speciale Spazio Confinato (X) è considerata Terreno Intransitabile per tutti i Modelli dotati di una variante della Regola Speciale Imponente (X) il cui valore sia pari o superiore a X, o di Tipo Vei colo e una Caratteristica di Punti Scafo pari o superiore a ‘3’. I Modelli con il Sottotipo Antigravitazionale non possono muoversi sopra o attraverso uno Spazio Confinato che conti come Terreno Intransitabile per quel Modello a causa di questa Regola Speciale.",
             "name": "Spazio Confinato (X)",
@@ -91629,7 +91701,7 @@
     "id": "sys-b976-0013-2f97-437b",
     "name": "Horus Heresy 3ª Edizione ITA",
     "battleScribeVersion": 2.03,
-    "revision": 59,
+    "revision": 60,
     "type": "gameSystem",
     "authorName": "The4D6",
     "authorContact": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita/issues",

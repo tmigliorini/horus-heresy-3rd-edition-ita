@@ -221,7 +221,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Duelist's Edge (1)",
+                        "value": "Maestria del Duellante (1)",
                         "field": "name"
                       }
                     ],
@@ -314,7 +314,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Shred (5+)",
+                        "value": "Lacerante (5+)",
                         "field": "name"
                       }
                     ],
@@ -329,7 +329,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Deflagrate (6)",
+                        "value": "Deflagrazione (6)",
                         "field": "name"
                       }
                     ],
@@ -396,7 +396,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Bulky (4)",
+                    "value": "Imponente (4)",
                     "field": "name"
                   }
                 ],
@@ -411,7 +411,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Eternal Warrior (2)",
+                    "value": "Guerriero Eterno (2)",
                     "field": "name"
                   }
                 ],
@@ -782,7 +782,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Critical Hit (6+)",
+                        "value": "Colpo Critico (6+)",
                         "field": "name"
                       }
                     ],
@@ -797,7 +797,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Duelist's Edge (1)",
+                        "value": "Maestria del Duellante (1)",
                         "field": "name"
                       }
                     ],
@@ -839,7 +839,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Bulky (7)",
+                    "value": "Imponente (7)",
                     "field": "name"
                   }
                 ],
@@ -861,7 +861,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Fear (2)",
+                    "value": "Paura (2)",
                     "field": "name"
                   }
                 ],
@@ -876,7 +876,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Eternal Warrior (2)",
+                    "value": "Guerriero Eterno (2)",
                     "field": "name"
                   }
                 ],
@@ -1255,7 +1255,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Critical Hit (6+)",
+                        "value": "Colpo Critico (6+)",
                         "field": "name"
                       }
                     ],
@@ -1351,7 +1351,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Breaching (6+)",
+                        "value": "Perforante (6+)",
                         "field": "name"
                       }
                     ],
@@ -1366,7 +1366,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Pinning (0)",
+                        "value": "Inchiodamento (0)",
                         "field": "name"
                       }
                     ],
@@ -1519,7 +1519,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Impact (A)",
+                    "value": "Impatto (A)",
                     "field": "name"
                   }
                 ],
@@ -1534,7 +1534,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Bulky (2)",
+                    "value": "Imponente (2)",
                     "field": "name"
                   }
                 ],
@@ -1905,7 +1905,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Duellist's Edge (1)",
+                        "value": "Maestria del Duellante (1)",
                         "field": "name"
                       }
                     ],
@@ -2260,7 +2260,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Hatred (Traitors)",
+                    "value": "Odio (Traditore)",
                     "field": "name"
                   }
                 ],
@@ -2275,7 +2275,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Officer of the Line (2)",
+                    "value": "Ufficiale di Linea (2)",
                     "field": "name"
                   }
                 ],
@@ -2347,7 +2347,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Breaching (5+)",
+                        "value": "Perforante (5+)",
                         "field": "name"
                       }
                     ],
@@ -2362,7 +2362,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Duellist's Edge (1)",
+                        "value": "Maestria del Duellante (1)",
                         "field": "name"
                       }
                     ],
@@ -2759,7 +2759,7 @@
                 ],
                 "modifierGroups": [
                   {
-                    "comment": "Combat Veterans",
+                    "comment": "Veterani del Combattimento",
                     "modifiers": [
                       {
                         "type": "increment",
@@ -2845,7 +2845,7 @@
                         "includeChildSelections": true
                       }
                     ],
-                    "comment": "Master Sergeant - Existing Champion",
+                    "comment": "Sergente Maggiore - Campione esistente",
                     "type": "and"
                   }
                 ],
@@ -3059,7 +3059,7 @@
                 ],
                 "modifierGroups": [
                   {
-                    "comment": "Combat Veterans",
+                    "comment": "Veterani del Combattimento",
                     "modifiers": [
                       {
                         "type": "increment",
@@ -3214,7 +3214,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Bulky (2)",
+                "value": "Imponente (2)",
                 "field": "name"
               }
             ],
@@ -3448,7 +3448,7 @@
                         "modifiers": [
                           {
                             "type": "set",
-                            "value": "Breaching (6+)",
+                            "value": "Perforante (6+)",
                             "field": "name"
                           }
                         ],
@@ -3462,7 +3462,7 @@
                         "modifiers": [
                           {
                             "type": "set",
-                            "value": "Impact (D)",
+                            "value": "Impatto (D)",
                             "field": "name"
                           }
                         ],
@@ -3638,7 +3638,7 @@
                 ],
                 "modifierGroups": [
                   {
-                    "comment": "Combat Veterans",
+                    "comment": "Veterani del Combattimento",
                     "modifiers": [
                       {
                         "type": "increment",
@@ -3724,7 +3724,7 @@
                         "includeChildSelections": true
                       }
                     ],
-                    "comment": "Master Sergeant - Existing Champion",
+                    "comment": "Sergente Maggiore - Campione esistente",
                     "type": "and"
                   }
                 ],
@@ -3940,7 +3940,7 @@
                 ],
                 "modifierGroups": [
                   {
-                    "comment": "Combat Veterans",
+                    "comment": "Veterani del Combattimento",
                     "modifiers": [
                       {
                         "type": "increment",
@@ -4121,7 +4121,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Vanguard (3)",
+                "value": "Avanguardia (3)",
                 "field": "name"
               }
             ],
@@ -4412,7 +4412,7 @@
                 ],
                 "modifierGroups": [
                   {
-                    "comment": "Combat Veterans",
+                    "comment": "Veterani del Combattimento",
                     "modifiers": [
                       {
                         "type": "increment",
@@ -4487,9 +4487,9 @@
                       },
                       {
                         "type": "replace",
-                        "value": "Sergeant, Champion",
+                        "value": "Sergente, Campione",
                         "field": "50fc-9241-d4a2-045b",
-                        "arg": "Sergeant"
+                        "arg": "Sergente"
                       }
                     ],
                     "conditions": [
@@ -4504,7 +4504,7 @@
                         "includeChildSelections": true
                       }
                     ],
-                    "comment": "Master Sergeant",
+                    "comment": "Sergente Maggiore",
                     "type": "and"
                   }
                 ],
@@ -4826,7 +4826,7 @@
                 ],
                 "modifierGroups": [
                   {
-                    "comment": "Combat Veterans",
+                    "comment": "Veterani del Combattimento",
                     "modifiers": [
                       {
                         "type": "increment",
@@ -5155,7 +5155,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Overload (1)",
+                "value": "Surriscaldamento (1)",
                 "field": "name"
               }
             ],
@@ -5170,7 +5170,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Stun (2)",
+                "value": "Stordimento (2)",
                 "field": "name"
               }
             ],
@@ -5185,7 +5185,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Critical Hit (6+)",
+                "value": "Colpo Critico (6+)",
                 "field": "name"
               }
             ],
@@ -5293,7 +5293,7 @@
                 ],
                 "modifierGroups": [
                   {
-                    "comment": "Combat Veterans",
+                    "comment": "Veterani del Combattimento",
                     "modifiers": [
                       {
                         "type": "increment",
@@ -5600,7 +5600,7 @@
                 ],
                 "modifierGroups": [
                   {
-                    "comment": "Combat Veterans",
+                    "comment": "Veterani del Combattimento",
                     "modifiers": [
                       {
                         "type": "increment",
@@ -5686,7 +5686,7 @@
                         "includeChildSelections": true
                       }
                     ],
-                    "comment": "Master Sergeant - Existing Champion",
+                    "comment": "Sergente Maggiore - Campione esistente",
                     "type": "and"
                   }
                 ],
@@ -5938,7 +5938,7 @@
               {
                 "type": "set",
                 "field": "name",
-                "value": "Vanguard (3)"
+                "value": "Avanguardia (3)"
               }
             ],
             "name": "Avanguardia (X)",
@@ -5952,7 +5952,7 @@
               {
                 "type": "set",
                 "field": "name",
-                "value": "Bulky (2)"
+                "value": "Imponente (2)"
               }
             ],
             "name": "Imponente (X)",
@@ -6422,7 +6422,7 @@
               {
                 "type": "set",
                 "field": "name",
-                "value": "Bulky (6)"
+                "value": "Imponente (6)"
               }
             ],
             "name": "Imponente (X)",
@@ -6436,7 +6436,7 @@
               {
                 "type": "set",
                 "field": "name",
-                "value": "Explodes (5+)"
+                "value": "Esplosione (5+)"
               }
             ],
             "name": "Esplosione (X)",
@@ -6645,7 +6645,7 @@
                 ],
                 "modifierGroups": [
                   {
-                    "comment": "Combat Veterans",
+                    "comment": "Veterani del Combattimento",
                     "modifiers": [
                       {
                         "type": "increment",
@@ -6925,7 +6925,7 @@
                 ],
                 "modifierGroups": [
                   {
-                    "comment": "Combat Veterans",
+                    "comment": "Veterani del Combattimento",
                     "modifiers": [
                       {
                         "type": "increment",
@@ -7000,9 +7000,9 @@
                       },
                       {
                         "type": "replace",
-                        "value": "Sergeant, Champion",
+                        "value": "Sergente, Campione",
                         "field": "50fc-9241-d4a2-045b",
-                        "arg": "Sergeant"
+                        "arg": "Sergente"
                       }
                     ],
                     "conditions": [
@@ -7017,7 +7017,7 @@
                         "includeChildSelections": true
                       }
                     ],
-                    "comment": "Master Sergeant",
+                    "comment": "Sergente Maggiore",
                     "type": "and"
                   }
                 ],
@@ -7495,7 +7495,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Breaching (5+)",
+                "value": "Perforante (5+)",
                 "field": "name"
               }
             ],
@@ -7510,7 +7510,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Duellist's Edge (1)",
+                "value": "Maestria del Duellante (1)",
                 "field": "name"
               }
             ],
@@ -7760,7 +7760,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Up to two Inductii in this Unit may each have one of",
+                    "value": "Fino a 2 Modelli di Inductii possono prendere un oggetto da",
                     "field": "name"
                   }
                 ],
@@ -7963,7 +7963,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "For every four Models in this Unit, one Inductii in this Unit may have its bolt pistol exchanged for ",
+                        "value": "Ogni 4 Modelli nell’Unità, un singolo Modello di Inductii può sostituire Pistola requiem con ",
                         "field": "name"
                       },
                       {
@@ -8686,7 +8686,7 @@
                   }
                 ],
                 "type": "add",
-                "value": "Legiones Hereticus can only be selected for an Army with the Traitor Allegiance",
+                "value": "Legiones Hereticus può essere selezionato solo per un Esercito con Alleanza Traditore",
                 "field": "error"
               }
             ],
@@ -8776,7 +8776,7 @@
               }
             ],
             "type": "add",
-            "value": "Existing Warlord Detachment must be removed",
+            "value": "Il Distaccamento Generale esistente deve essere rimosso",
             "field": "error"
           },
           {
@@ -8808,7 +8808,7 @@
               }
             ],
             "type": "add",
-            "value": "Roster must be at least 3000 points for Brotherhood of the Phoenix",
+            "value": "L’Esercito deve essere di almeno 3000 punti per la Fratellanza della Fenice",
             "field": "error"
           },
           {
@@ -8825,7 +8825,7 @@
               }
             ],
             "type": "add",
-            "value": "Brotherhood of the Phoenix only allowed with Legiones Hereticus Rite of War",
+            "value": "La Fratellanza della Fenice è consentita solo con un Rito di Guerra Legiones Hereticus",
             "field": "error"
           },
           {
@@ -8841,7 +8841,7 @@
               }
             ],
             "type": "add",
-            "value": "Brotherhood of the Phoenix is only valid for Emperor's Children",
+            "value": "La Fratellanza della Fenice è valida solo per i Figli dell’Imperatore",
             "field": "error"
           }
         ],
@@ -8973,7 +8973,7 @@
     "name": "                         III - Figli dell’Imperatore",
     "gameSystemId": "sys-b976-0013-2f97-437b",
     "gameSystemRevision": 1,
-    "revision": 21,
+    "revision": 22,
     "authorUrl": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita",
     "authorContact": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita/issues",
     "authorName": "The4D6",

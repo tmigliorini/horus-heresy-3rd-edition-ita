@@ -85,7 +85,7 @@
                 ],
                 "modifierGroups": [
                   {
-                    "comment": "Combat Veterans",
+                    "comment": "Veterani del Combattimento",
                     "modifiers": [
                       {
                         "type": "increment",
@@ -668,7 +668,7 @@
                 ],
                 "modifierGroups": [
                   {
-                    "comment": "Combat Veterans",
+                    "comment": "Veterani del Combattimento",
                     "modifiers": [
                       {
                         "type": "increment",
@@ -743,9 +743,9 @@
                       },
                       {
                         "type": "replace",
-                        "value": "Sergeant, Champion",
+                        "value": "Sergente, Campione",
                         "field": "50fc-9241-d4a2-045b",
-                        "arg": "Sergeant"
+                        "arg": "Sergente"
                       }
                     ],
                     "conditions": [
@@ -760,7 +760,7 @@
                         "includeChildSelections": true
                       }
                     ],
-                    "comment": "Master Sergeant",
+                    "comment": "Sergente Maggiore",
                     "type": "and"
                   }
                 ],
@@ -1256,7 +1256,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Bulky (2)",
+                "value": "Imponente (2)",
                 "field": "name"
               }
             ],
@@ -1284,7 +1284,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Vanguard (4)",
+                "value": "Avanguardia (4)",
                 "field": "name"
               }
             ],
@@ -1547,7 +1547,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Panic (1)",
+                        "value": "Panico (1)",
                         "field": "name"
                       }
                     ],
@@ -1638,7 +1638,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Critical Hit (5+)",
+                        "value": "Colpo Critico (5+)",
                         "field": "name"
                       }
                     ],
@@ -1737,7 +1737,7 @@
                     "modifiers": [
                       {
                         "type": "set",
-                        "value": "Panic (2)",
+                        "value": "Panico (2)",
                         "field": "name"
                       }
                     ],
@@ -1844,7 +1844,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Eternal Warrior (3)",
+                    "value": "Guerriero Eterno (3)",
                     "field": "name"
                   }
                 ],
@@ -1858,7 +1858,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Bulky (5)",
+                    "value": "Imponente (5)",
                     "field": "name"
                   }
                 ],
@@ -2084,7 +2084,7 @@
                 ],
                 "modifierGroups": [
                   {
-                    "comment": "Combat Veterans",
+                    "comment": "Veterani del Combattimento",
                     "modifiers": [
                       {
                         "type": "increment",
@@ -2292,7 +2292,7 @@
                 ],
                 "modifierGroups": [
                   {
-                    "comment": "Combat Veterans",
+                    "comment": "Veterani del Combattimento",
                     "modifiers": [
                       {
                         "type": "increment",
@@ -2367,9 +2367,9 @@
                       },
                       {
                         "type": "replace",
-                        "value": "Sergeant, Champion",
+                        "value": "Sergente, Campione",
                         "field": "50fc-9241-d4a2-045b",
-                        "arg": "Sergeant"
+                        "arg": "Sergente"
                       }
                     ],
                     "conditions": [
@@ -2384,7 +2384,7 @@
                         "includeChildSelections": true
                       }
                     ],
-                    "comment": "Master Sergeant",
+                    "comment": "Sergente Maggiore",
                     "type": "and"
                   }
                 ],
@@ -2981,7 +2981,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Explodes (5+)",
+                    "value": "Esplosione (5+)",
                     "field": "name"
                   }
                 ],
@@ -2995,7 +2995,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Bulky (6)",
+                    "value": "Imponente (6)",
                     "field": "name"
                   }
                 ],
@@ -3016,7 +3016,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Battlesmith (1)",
+                    "value": "Fabbro da Battaglia (1)",
                     "field": "name"
                   }
                 ],
@@ -3293,7 +3293,7 @@
                 ],
                 "modifierGroups": [
                   {
-                    "comment": "Combat Veterans",
+                    "comment": "Veterani del Combattimento",
                     "modifiers": [
                       {
                         "type": "increment",
@@ -3368,9 +3368,9 @@
                       },
                       {
                         "type": "replace",
-                        "value": "Sergeant, Champion",
+                        "value": "Sergente, Campione",
                         "field": "50fc-9241-d4a2-045b",
-                        "arg": "Sergeant"
+                        "arg": "Sergente"
                       }
                     ],
                     "conditions": [
@@ -3385,7 +3385,7 @@
                         "includeChildSelections": true
                       }
                     ],
-                    "comment": "Master Sergeant",
+                    "comment": "Sergente Maggiore",
                     "type": "and"
                   }
                 ],
@@ -3671,7 +3671,7 @@
                 ],
                 "modifierGroups": [
                   {
-                    "comment": "Combat Veterans",
+                    "comment": "Veterani del Combattimento",
                     "modifiers": [
                       {
                         "type": "increment",
@@ -4279,7 +4279,7 @@
                 ],
                 "modifierGroups": [
                   {
-                    "comment": "Combat Veterans",
+                    "comment": "Veterani del Combattimento",
                     "modifiers": [
                       {
                         "type": "increment",
@@ -4354,9 +4354,9 @@
                       },
                       {
                         "type": "replace",
-                        "value": "Sergeant, Champion",
+                        "value": "Sergente, Campione",
                         "field": "50fc-9241-d4a2-045b",
-                        "arg": "Sergeant"
+                        "arg": "Sergente"
                       }
                     ],
                     "conditions": [
@@ -4371,7 +4371,7 @@
                         "includeChildSelections": true
                       }
                     ],
-                    "comment": "Master Sergeant",
+                    "comment": "Sergente Maggiore",
                     "type": "and"
                   }
                 ],
@@ -4894,7 +4894,7 @@
                 ],
                 "modifierGroups": [
                   {
-                    "comment": "Combat Veterans",
+                    "comment": "Veterani del Combattimento",
                     "modifiers": [
                       {
                         "type": "increment",
@@ -5672,7 +5672,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Vanguard (3)",
+                "value": "Avanguardia (3)",
                 "field": "name"
               }
             ],
@@ -5954,7 +5954,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Up to two Inductii in this Unit may each have one of",
+                    "value": "Fino a 2 Modelli di Inductii possono prendere un oggetto da",
                     "field": "name"
                   }
                 ],
@@ -7455,14 +7455,14 @@
     ],
     "sharedRules": [
       {
-        "comment": "Legion Tactica",
+        "comment": "Tattica di Legione",
         "description": "I Tiri per Ferire che hanno un risultato non modificato di 1 o 2 e che prendono di mira qualsiasi Unità che includa solo Modelli con questa Regola Speciale non hanno successo, indipendentemente dalla caratteristica Forza di un colpo o da qualsiasi Regola Speciale che stabilisca il Numero Bersaglio per i Tiri per Ferire.",
         "name": "Resistenza di Prometeo",
         "id": "381f-10db-0c78-f16e",
         "hidden": false
       },
       {
-        "comment": "Legion Tactica",
+        "comment": "Tattica di Legione",
         "description": "Un’Unità composta interamente da Modelli con questa Regola Speciale non è influenzata da alcuna variante della Regola Speciale Panico (X) sulle armi con il Tratto Fiamma.",
         "name": "Sangue di Fuoco",
         "id": "ab8a-b7f2-64d5-1a66",
@@ -7699,7 +7699,7 @@
     "name": "                        XVIII - Salamandre",
     "gameSystemId": "sys-b976-0013-2f97-437b",
     "gameSystemRevision": 1,
-    "revision": 17,
+    "revision": 18,
     "authorUrl": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita",
     "authorContact": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita/issues",
     "authorName": "The4D6",

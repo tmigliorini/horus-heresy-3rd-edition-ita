@@ -233,7 +233,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Breaching (5+)",
+                    "value": "Perforante (5+)",
                     "field": "name"
                   }
                 ],
@@ -247,7 +247,7 @@
             ],
             "rules": [
               {
-                "comment": "The Prince",
+                "comment": "Il Principe",
                 "description": "Se tre o più Tiri per Colpire effettuati con un’Arma con questa Regola Speciale hanno successo, crea un nuovo Gruppo d’Attacco da un singolo Attacco usando il profilo Il Profeta di quest’Arma. Questo Gruppo d’Attacco viene risolto durante l’attuale Livello di Iniziativa.",
                 "name": "Colpo Tonante",
                 "id": "0cb4-2098-944d-890a",
@@ -625,7 +625,7 @@
                 ],
                 "modifierGroups": [
                   {
-                    "comment": "Combat Veterans",
+                    "comment": "Veterani del Combattimento",
                     "modifiers": [
                       {
                         "type": "increment",
@@ -763,7 +763,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Infiltrate (6)",
+                "value": "Infiltrazione (6)",
                 "field": "name"
               }
             ],
@@ -1160,7 +1160,7 @@
                 ],
                 "modifierGroups": [
                   {
-                    "comment": "Combat Veterans",
+                    "comment": "Veterani del Combattimento",
                     "modifiers": [
                       {
                         "type": "increment",
@@ -1235,9 +1235,9 @@
                       },
                       {
                         "type": "replace",
-                        "value": "Sergeant, Champion",
+                        "value": "Sergente, Campione",
                         "field": "50fc-9241-d4a2-045b",
-                        "arg": "Sergeant"
+                        "arg": "Sergente"
                       }
                     ],
                     "conditions": [
@@ -1252,7 +1252,7 @@
                         "includeChildSelections": true
                       }
                     ],
-                    "comment": "Master Sergeant",
+                    "comment": "Sergente Maggiore",
                     "type": "and"
                   }
                 ],
@@ -1603,7 +1603,7 @@
                 ],
                 "modifierGroups": [
                   {
-                    "comment": "Combat Veterans",
+                    "comment": "Veterani del Combattimento",
                     "modifiers": [
                       {
                         "type": "increment",
@@ -1947,11 +1947,11 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Hatred (Command)",
+                "value": "Odio (Comando)",
                 "field": "name"
               }
             ],
-            "comment": "Command",
+            "comment": "Comando",
             "name": "Odio (X)",
             "id": "8054-967a-ec91-adfa",
             "hidden": false,
@@ -1962,7 +1962,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Infiltrate (9)",
+                "value": "Infiltrazione (9)",
                 "field": "name"
               }
             ],
@@ -1977,7 +1977,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Precision (4+)",
+                "value": "Precisione (4+)",
                 "field": "name"
               }
             ],
@@ -2060,7 +2060,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Every Model in this Unit may have melta bombs:",
+                "value": "Qualsiasi Modello nell’Unità può prendere Bombe termiche:",
                 "field": "name"
               },
               {
@@ -2250,7 +2250,7 @@
                 ],
                 "modifierGroups": [
                   {
-                    "comment": "Combat Veterans",
+                    "comment": "Veterani del Combattimento",
                     "modifiers": [
                       {
                         "type": "increment",
@@ -2451,7 +2451,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Heavy (D)",
+                    "value": "Pesante (D)",
                     "field": "name"
                   }
                 ],
@@ -2466,7 +2466,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Pinning (1)",
+                    "value": "Inchiodamento (1)",
                     "field": "name"
                   }
                 ],
@@ -2510,7 +2510,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Shrouded (5+)",
+                "value": "Ammantato (5+)",
                 "field": "name"
               }
             ],
@@ -2524,7 +2524,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Precision (4+)",
+                "value": "Precisione (4+)",
                 "field": "name"
               }
             ],
@@ -2540,7 +2540,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Support Unit (1)",
+                "value": "Unità di Supporto (1)",
                 "field": "name"
               }
             ],
@@ -2554,7 +2554,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Infiltrate (9)",
+                "value": "Infiltrazione (9)",
                 "field": "name"
               }
             ],
@@ -2896,7 +2896,7 @@
                 ],
                 "modifierGroups": [
                   {
-                    "comment": "Combat Veterans",
+                    "comment": "Veterani del Combattimento",
                     "modifiers": [
                       {
                         "type": "increment",
@@ -2971,9 +2971,9 @@
                       },
                       {
                         "type": "replace",
-                        "value": "Sergeant, Champion",
+                        "value": "Sergente, Campione",
                         "field": "50fc-9241-d4a2-045b",
-                        "arg": "Sergeant"
+                        "arg": "Sergente"
                       }
                     ],
                     "conditions": [
@@ -2988,7 +2988,7 @@
                         "includeChildSelections": true
                       }
                     ],
-                    "comment": "Master Sergeant",
+                    "comment": "Sergente Maggiore",
                     "type": "and"
                   }
                 ],
@@ -3468,7 +3468,7 @@
                 ],
                 "modifierGroups": [
                   {
-                    "comment": "Combat Veterans",
+                    "comment": "Veterani del Combattimento",
                     "modifiers": [
                       {
                         "type": "increment",
@@ -4007,7 +4007,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Bulky (2)",
+                "value": "Imponente (2)",
                 "field": "name"
               }
             ],
@@ -4029,7 +4029,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Line (1)",
+                "value": "Linea (1)",
                 "field": "name"
               }
             ],
@@ -4050,7 +4050,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Hatred (Legiones Astartes)",
+                "value": "Odio (Legiones Astartes)",
                 "field": "name"
               }
             ],
@@ -4318,7 +4318,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Breaching (4+)",
+                    "value": "Perforante (4+)",
                     "field": "name"
                   }
                 ],
@@ -4425,11 +4425,11 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Phage (S)",
+                    "value": "Corrosivo (Fo)",
                     "field": "name"
                   }
                 ],
-                "comment": "S",
+                "comment": "Fo",
                 "name": "Corrosivo (X)",
                 "id": "fa79-5e22-ef0a-a001",
                 "hidden": false,
@@ -4440,7 +4440,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Critical Hit (5+)",
+                    "value": "Colpo Critico (5+)",
                     "field": "name"
                   }
                 ],
@@ -4506,7 +4506,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Feel No Pain (4+) Vs Poisoned (X)",
+                    "value": "Insensibile al Dolore (4+) contro Avvelenato (X)",
                     "field": "name"
                   }
                 ],
@@ -4578,7 +4578,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Eternal Warrior (2)",
+                "value": "Guerriero Eterno (2)",
                 "field": "name"
               }
             ],
@@ -4594,7 +4594,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Bulky (4)",
+                "value": "Imponente (4)",
                 "field": "name"
               }
             ],
@@ -5190,7 +5190,7 @@
               }
             ],
             "type": "add",
-            "value": "Only one Delegatus allowed in Army",
+            "value": "È consentito un solo Delegato nell’Esercito",
             "field": "error"
           }
         ],
@@ -5299,7 +5299,7 @@
                 ],
                 "modifierGroups": [
                   {
-                    "comment": "Combat Veterans",
+                    "comment": "Veterani del Combattimento",
                     "modifiers": [
                       {
                         "type": "increment",
@@ -5374,9 +5374,9 @@
                       },
                       {
                         "type": "replace",
-                        "value": "Sergeant, Champion",
+                        "value": "Sergente, Campione",
                         "field": "50fc-9241-d4a2-045b",
-                        "arg": "Sergeant"
+                        "arg": "Sergente"
                       }
                     ],
                     "conditions": [
@@ -5391,7 +5391,7 @@
                         "includeChildSelections": true
                       }
                     ],
-                    "comment": "Master Sergeant",
+                    "comment": "Sergente Maggiore",
                     "type": "and"
                   }
                 ],
@@ -5573,13 +5573,7 @@
                     "id": "f636-b39d-be9c-7c56"
                   }
                 ],
-                "modifiers": [
-                  {
-                    "type": "prepend",
-                    "value": "May have one item from the ",
-                    "field": "name"
-                  }
-                ],
+                "modifiers": [],
                 "import": true,
                 "name": "Armi da Mischia del Sergente di Legione",
                 "hidden": false,
@@ -5696,7 +5690,7 @@
                 ],
                 "modifierGroups": [
                   {
-                    "comment": "Combat Veterans",
+                    "comment": "Veterani del Combattimento",
                     "modifiers": [
                       {
                         "type": "increment",
@@ -5956,7 +5950,7 @@
             "modifiers": [
               {
                 "type": "set",
-                "value": "Infiltrate (8)",
+                "value": "Infiltrazione (8)",
                 "field": "name"
               }
             ],
@@ -6404,7 +6398,7 @@
                 "modifiers": [
                   {
                     "type": "set",
-                    "value": "Up to two Inductii in this Unit may each have one of",
+                    "value": "Fino a 2 Modelli di Inductii possono prendere un oggetto da",
                     "field": "name"
                   }
                 ],
@@ -9031,13 +9025,7 @@
         "targetId": "ff2e-e3bf-43d7-b046"
       },
       {
-        "modifiers": [
-          {
-            "type": "prepend",
-            "value": "Dark Angels",
-            "field": "name"
-          }
-        ],
+        "modifiers": [],
         "categoryLinks": [
           {
             "targetId": "fe7f-1287-4162-a65d",
@@ -9061,13 +9049,7 @@
         "sortIndex": 108
       },
       {
-        "modifiers": [
-          {
-            "type": "prepend",
-            "value": "Emperor's Children",
-            "field": "name"
-          }
-        ],
+        "modifiers": [],
         "categoryLinks": [
           {
             "targetId": "fe7f-1287-4162-a65d",
@@ -9091,13 +9073,7 @@
         "sortIndex": 306
       },
       {
-        "modifiers": [
-          {
-            "type": "prepend",
-            "value": "Iron Warriors",
-            "field": "name"
-          }
-        ],
+        "modifiers": [],
         "categoryLinks": [
           {
             "targetId": "fe7f-1287-4162-a65d",
@@ -9121,13 +9097,7 @@
         "sortIndex": 405
       },
       {
-        "modifiers": [
-          {
-            "type": "prepend",
-            "value": "White Scars",
-            "field": "name"
-          }
-        ],
+        "modifiers": [],
         "categoryLinks": [
           {
             "targetId": "fe7f-1287-4162-a65d",
@@ -9151,13 +9121,7 @@
         "sortIndex": 506
       },
       {
-        "modifiers": [
-          {
-            "type": "prepend",
-            "value": "Space Wolves",
-            "field": "name"
-          }
-        ],
+        "modifiers": [],
         "categoryLinks": [
           {
             "targetId": "fe7f-1287-4162-a65d",
@@ -9181,13 +9145,7 @@
         "sortIndex": 606
       },
       {
-        "modifiers": [
-          {
-            "type": "prepend",
-            "value": "Imperial Fists",
-            "field": "name"
-          }
-        ],
+        "modifiers": [],
         "categoryLinks": [
           {
             "targetId": "fe7f-1287-4162-a65d",
@@ -9211,13 +9169,7 @@
         "sortIndex": 704
       },
       {
-        "modifiers": [
-          {
-            "type": "prepend",
-            "value": "Night Lords",
-            "field": "name"
-          }
-        ],
+        "modifiers": [],
         "categoryLinks": [
           {
             "targetId": "fe7f-1287-4162-a65d",
@@ -9241,13 +9193,7 @@
         "sortIndex": 805
       },
       {
-        "modifiers": [
-          {
-            "type": "prepend",
-            "value": "Blood Angels",
-            "field": "name"
-          }
-        ],
+        "modifiers": [],
         "categoryLinks": [
           {
             "targetId": "fe7f-1287-4162-a65d",
@@ -9271,13 +9217,7 @@
         "sortIndex": 908
       },
       {
-        "modifiers": [
-          {
-            "type": "prepend",
-            "value": "Iron Hands",
-            "field": "name"
-          }
-        ],
+        "modifiers": [],
         "categoryLinks": [
           {
             "targetId": "fe7f-1287-4162-a65d",
@@ -9301,13 +9241,7 @@
         "sortIndex": 1004
       },
       {
-        "modifiers": [
-          {
-            "type": "prepend",
-            "value": "World Eaters",
-            "field": "name"
-          }
-        ],
+        "modifiers": [],
         "categoryLinks": [
           {
             "targetId": "fe7f-1287-4162-a65d",
@@ -9331,13 +9265,7 @@
         "sortIndex": 1205
       },
       {
-        "modifiers": [
-          {
-            "type": "prepend",
-            "value": "Ultramarines",
-            "field": "name"
-          }
-        ],
+        "modifiers": [],
         "categoryLinks": [
           {
             "targetId": "fe7f-1287-4162-a65d",
@@ -9361,13 +9289,7 @@
         "sortIndex": 1306
       },
       {
-        "modifiers": [
-          {
-            "type": "prepend",
-            "value": "Death Guard",
-            "field": "name"
-          }
-        ],
+        "modifiers": [],
         "categoryLinks": [
           {
             "targetId": "fe7f-1287-4162-a65d",
@@ -9391,13 +9313,7 @@
         "sortIndex": 1404
       },
       {
-        "modifiers": [
-          {
-            "type": "prepend",
-            "value": "Thousand Sons",
-            "field": "name"
-          }
-        ],
+        "modifiers": [],
         "categoryLinks": [
           {
             "targetId": "fe7f-1287-4162-a65d",
@@ -9421,13 +9337,7 @@
         "sortIndex": 1507
       },
       {
-        "modifiers": [
-          {
-            "type": "prepend",
-            "value": "Sons of Horus",
-            "field": "name"
-          }
-        ],
+        "modifiers": [],
         "categoryLinks": [
           {
             "targetId": "fe7f-1287-4162-a65d",
@@ -9451,13 +9361,7 @@
         "sortIndex": 1605
       },
       {
-        "modifiers": [
-          {
-            "type": "prepend",
-            "value": "Word Bearers",
-            "field": "name"
-          }
-        ],
+        "modifiers": [],
         "categoryLinks": [
           {
             "targetId": "fe7f-1287-4162-a65d",
@@ -9481,13 +9385,7 @@
         "sortIndex": 1706
       },
       {
-        "modifiers": [
-          {
-            "type": "prepend",
-            "value": "Salamanders",
-            "field": "name"
-          }
-        ],
+        "modifiers": [],
         "categoryLinks": [
           {
             "targetId": "fe7f-1287-4162-a65d",
@@ -9511,13 +9409,7 @@
         "sortIndex": 1805
       },
       {
-        "modifiers": [
-          {
-            "type": "prepend",
-            "value": "Raven Guard",
-            "field": "name"
-          }
-        ],
+        "modifiers": [],
         "categoryLinks": [
           {
             "targetId": "fe7f-1287-4162-a65d",
@@ -9570,7 +9462,7 @@
     "name": "                       XX - Legione Alfa",
     "gameSystemId": "sys-b976-0013-2f97-437b",
     "gameSystemRevision": 1,
-    "revision": 22,
+    "revision": 23,
     "authorUrl": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita",
     "authorContact": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita/issues",
     "authorName": "The4D6",
