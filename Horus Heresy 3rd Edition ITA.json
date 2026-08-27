@@ -85205,7 +85205,7 @@
           }
         ],
         "comment": "Hidden from new list screen, but displays count",
-        "name": "Distaccamento Ausiliare",
+        "name": "Distaccamento Ausiliario",
         "id": "3e8e-05ee-be52-12d6",
         "defaultCostLimit": -1,
         "hidden": true
@@ -88795,7 +88795,7 @@
     "id": "sys-b976-0013-2f97-437b",
     "name": "Horus Heresy 3ª Edizione ITA",
     "battleScribeVersion": 2.03,
-    "revision": 68,
+    "revision": 69,
     "type": "gameSystem",
     "authorName": "The4D6",
     "authorContact": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita/issues",
