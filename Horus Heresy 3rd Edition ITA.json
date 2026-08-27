@@ -88293,7 +88293,7 @@
         "name": "Arma a Distanza",
         "id": "c591-09ed-3e6f-eb2b",
         "hidden": false,
-        "sortIndex": 10
+        "sortIndex": 11
       },
       {
         "characteristicTypes": [
@@ -88329,7 +88329,7 @@
         "name": "Arma da Mischia",
         "id": "3587-6dcd-005c-c263",
         "hidden": false,
-        "sortIndex": 11
+        "sortIndex": 10
       },
       {
         "characteristicTypes": [
@@ -88353,7 +88353,7 @@
         "name": "Reazione",
         "id": "c14c-ecfd-ea65-58c9",
         "hidden": false,
-        "sortIndex": 16
+        "sortIndex": 17
       },
       {
         "characteristicTypes": [
@@ -88421,7 +88421,7 @@
         "name": "Tratto del Generale",
         "id": "958f-cc14-b252-7179",
         "hidden": false,
-        "sortIndex": 15
+        "sortIndex": 16
       },
       {
         "characteristicTypes": [
@@ -88649,7 +88649,7 @@
         "name": "Gambetto",
         "id": "9b5f-da4e-5739-cbcf",
         "hidden": false,
-        "sortIndex": 19
+        "sortIndex": 20
       },
       {
         "characteristicTypes": [
@@ -88674,10 +88674,10 @@
             "id": "7c83-ff4d-0f5a-55b3"
           }
         ],
-        "name": "Rito Cybertheurgico:",
+        "name": "Rito Cybertheurgico",
         "id": "230a-eef9-447d-6623",
         "hidden": false,
-        "sortIndex": 20
+        "sortIndex": 21
       },
       {
         "characteristicTypes": [
@@ -88705,7 +88705,7 @@
         "name": "Fortificazione da Campo di Battaglia",
         "id": "f47c-65e0-5690-738e",
         "hidden": false,
-        "sortIndex": 21
+        "sortIndex": 22
       },
       {
         "characteristicTypes": [
@@ -88741,7 +88741,7 @@
         "name": "Affusto Ordinatus",
         "id": "d2eb-6505-121b-e2fd",
         "hidden": false,
-        "sortIndex": 22
+        "sortIndex": 23
       },
       {
         "characteristicTypes": [
@@ -88777,7 +88777,7 @@
         "name": "Cannone Ordinatus",
         "id": "4422-b6dd-055c-7cf5",
         "hidden": false,
-        "sortIndex": 23
+        "sortIndex": 24
       },
       {
         "name": "Descrizione del Distaccamento",
@@ -88826,7 +88826,7 @@
         "name": "Equipaggiamento - Arma a Distanza",
         "id": "ea01-0001-0000-0001",
         "hidden": false,
-        "sortIndex": 10
+        "sortIndex": 15
       }
     ],
     "sharedSelectionEntryGroups": [
@@ -91720,7 +91720,7 @@
     "id": "sys-b976-0013-2f97-437b",
     "name": "Horus Heresy 3ª Edizione ITA",
     "battleScribeVersion": 2.03,
-    "revision": 64,
+    "revision": 65,
     "type": "gameSystem",
     "authorName": "The4D6",
     "authorContact": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita/issues",

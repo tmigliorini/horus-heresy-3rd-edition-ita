@@ -27,7 +27,7 @@
         "name": "Potere Psionico",
         "id": "9dfb-2fa3-00e7-8cfd",
         "hidden": false,
-        "sortIndex": 18
+        "sortIndex": 19
       },
       {
         "characteristicTypes": [
@@ -59,7 +59,7 @@
         "name": "Reazione Psionica",
         "id": "d59e-df4b-630f-f185",
         "hidden": false,
-        "sortIndex": 17
+        "sortIndex": 18
       },
       {
         "characteristicTypes": [
@@ -92,10 +92,10 @@
             "id": "a229-21ce-4177-c4b1"
           }
         ],
-        "name": "Arma Psichica a Distanza",
+        "name": "Arma Psionica a Distanza",
         "id": "7d31-7144-3b28-c850",
         "hidden": false,
-        "sortIndex": 12
+        "sortIndex": 13
       },
       {
         "characteristicTypes": [
@@ -128,10 +128,10 @@
             "id": "dbf5-ab06-5eb4-7d00"
           }
         ],
-        "name": "Arma Psichica da Mischia",
+        "name": "Arma Psionica da Mischia",
         "id": "f553-2eab-e909-ee56",
         "hidden": false,
-        "sortIndex": 13
+        "sortIndex": 12
       }
     ],
     "sharedSelectionEntries": [
@@ -1613,7 +1613,7 @@
     "name": "Psionica",
     "gameSystemId": "sys-b976-0013-2f97-437b",
     "gameSystemRevision": 2,
-    "revision": 14,
+    "revision": 15,
     "battleScribeVersion": 2.03,
     "authorContact": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita/issues",
     "authorUrl": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita",
