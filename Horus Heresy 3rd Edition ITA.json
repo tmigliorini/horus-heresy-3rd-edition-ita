@@ -6446,7 +6446,7 @@
                 "hidden": false,
                 "id": "ab27-8132-c95f-e16d",
                 "targetId": "1429-f03a-e8a5-478c",
-                "tracked": true
+                "tracked": false
               },
               {
                 "constraints": [
@@ -63868,7 +63868,7 @@
                 "hidden": false,
                 "id": "5e02-935b-3ae3-4485",
                 "targetId": "1429-f03a-e8a5-478c",
-                "tracked": true
+                "tracked": false
               },
               {
                 "constraints": [
@@ -65260,7 +65260,7 @@
                 "hidden": false,
                 "id": "9dff-cea8-05de-908a",
                 "targetId": "afc8-c83d-00a6-936e",
-                "tracked": true
+                "tracked": false
               }
             ],
             "modifiers": [
@@ -69137,7 +69137,7 @@
                 "hidden": false,
                 "id": "e7a1-e484-9ab9-3869",
                 "targetId": "1429-f03a-e8a5-478c",
-                "tracked": true
+                "tracked": false
               },
               {
                 "constraints": [
@@ -72452,7 +72452,7 @@
                 "hidden": false,
                 "id": "89e1-b109-fcdd-807f",
                 "targetId": "1429-f03a-e8a5-478c",
-                "tracked": true
+                "tracked": false
               },
               {
                 "constraints": [
@@ -75571,7 +75571,7 @@
                 "hidden": false,
                 "id": "9407-302a-ae98-c538",
                 "targetId": "1429-f03a-e8a5-478c",
-                "tracked": true
+                "tracked": false
               },
               {
                 "constraints": [
@@ -81702,7 +81702,7 @@
                 "hidden": false,
                 "id": "c8e6-c9f2-adb4-818b",
                 "targetId": "1429-f03a-e8a5-478c",
-                "tracked": true
+                "tracked": false
               },
               {
                 "constraints": [
@@ -88795,7 +88795,7 @@
     "id": "sys-b976-0013-2f97-437b",
     "name": "Horus Heresy 3ª Edizione ITA",
     "battleScribeVersion": 2.03,
-    "revision": 66,
+    "revision": 67,
     "type": "gameSystem",
     "authorName": "The4D6",
     "authorContact": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita/issues",

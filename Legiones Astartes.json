@@ -189661,7 +189661,7 @@
                   }
                 ],
                 "id": "f02a-7801-4178-9c75",
-                "name": "Castra Ferrum Dreadnought",
+                "name": "Dreadnought Castraferrum",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo"
               }
@@ -190566,7 +190566,7 @@
               }
             ],
             "type": "model",
-            "name": "Castra Ferrum Dreadnought",
+            "name": "Dreadnought Castraferrum",
             "id": "a01d-d337-445f-a39b",
             "page": 71,
             "publicationId": "5469-14da-d0a1-6092",
@@ -190755,7 +190755,7 @@
             "sortIndex": 3
           }
         ],
-        "name": "Castra Ferrum Dreadnought",
+        "name": "Dreadnought Castraferrum",
         "type": "unit",
         "id": "fb5b-af3b-4483-811f",
         "sortIndex": 127,
@@ -208751,7 +208751,7 @@
           }
         ],
         "import": true,
-        "name": "Castra Ferrum Dreadnought",
+        "name": "Dreadnought Castraferrum",
         "hidden": false,
         "id": "0365-190b-7181-ec24",
         "type": "selectionEntry",
@@ -208880,7 +208880,7 @@
         ],
         "comment": "Mani di Ferro - Il Corazzato",
         "import": true,
-        "name": "Castra Ferrum Dreadnought",
+        "name": "Dreadnought Castraferrum",
         "hidden": false,
         "id": "a1fe-2631-a015-5920",
         "type": "selectionEntry",
@@ -238103,7 +238103,7 @@
     "name": "Legiones Astartes",
     "gameSystemId": "sys-b976-0013-2f97-437b",
     "gameSystemRevision": 1,
-    "revision": 70,
+    "revision": 71,
     "authorName": "The4D6",
     "battleScribeVersion": 2.03,
     "type": "catalogue",
