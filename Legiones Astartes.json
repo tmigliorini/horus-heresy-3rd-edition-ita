@@ -53775,7 +53775,8 @@
                     "id": "1ae7-7fc2-9d08-445e",
                     "type": "selectionEntry",
                     "targetId": "7f0b-3a53-fbba-de05",
-                    "sortIndex": 1
+                    "sortIndex": 1,
+                    "costs": []
                   },
                   {
                     "constraints": [
@@ -53801,7 +53802,8 @@
                     "id": "c2c0-e2cc-4259-a64c",
                     "type": "selectionEntry",
                     "targetId": "b8f6-c7cb-3596-fb48",
-                    "sortIndex": 2
+                    "sortIndex": 2,
+                    "costs": []
                   },
                   {
                     "constraints": [
@@ -53827,7 +53829,8 @@
                     "id": "a44c-9d76-0cd9-6fe1",
                     "type": "selectionEntry",
                     "targetId": "3a5d-8574-6913-d83c",
-                    "sortIndex": 3
+                    "sortIndex": 3,
+                    "costs": []
                   },
                   {
                     "constraints": [
@@ -53853,7 +53856,8 @@
                     "id": "4ac4-8068-7c07-cc3d",
                     "type": "selectionEntry",
                     "targetId": "5f50-43e2-30a1-01c8",
-                    "sortIndex": 4
+                    "sortIndex": 4,
+                    "costs": []
                   },
                   {
                     "constraints": [
@@ -53872,7 +53876,8 @@
                     "id": "a41d-34e8-b404-d74d",
                     "type": "selectionEntry",
                     "targetId": "15a9-e44f-2393-0d6a",
-                    "sortIndex": 5
+                    "sortIndex": 5,
+                    "costs": []
                   },
                   {
                     "constraints": [
@@ -53898,7 +53903,8 @@
                     "id": "cf05-9d2a-2dd6-efe9",
                     "type": "selectionEntry",
                     "targetId": "13c2-f899-efef-20cb",
-                    "sortIndex": 6
+                    "sortIndex": 6,
+                    "costs": []
                   }
                 ],
                 "name": "Discipline Psichiche",
@@ -238103,7 +238109,7 @@
     "name": "Legiones Astartes",
     "gameSystemId": "sys-b976-0013-2f97-437b",
     "gameSystemRevision": 1,
-    "revision": 73,
+    "revision": 74,
     "authorName": "The4D6",
     "battleScribeVersion": 2.03,
     "type": "catalogue",

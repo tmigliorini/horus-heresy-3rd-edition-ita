@@ -5566,12 +5566,20 @@
               },
               {
                 "import": true,
-                "name": "Lancio delle Rune",
+                "name": "Invocazione delle Rune",
                 "hidden": false,
                 "id": "d826-cbdb-6db3-378b",
                 "type": "selectionEntry",
                 "targetId": "d13b-ca89-927e-15a9",
-                "sortIndex": 1
+                "sortIndex": 1,
+                "costs": [],
+                "modifiers": [
+                  {
+                    "type": "set",
+                    "value": 15,
+                    "field": "9893-c379-920b-8982"
+                  }
+                ]
               }
             ],
             "constraints": [
@@ -5966,7 +5974,7 @@
                     "type": "and"
                   }
                 ],
-                "name": "Lanciatore di Rune in armatura Terminator",
+                "name": "Sacerdote delle Rune in armatura Terminator",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo",
                 "hidden": false,
@@ -6143,12 +6151,20 @@
                   },
                   {
                     "import": true,
-                    "name": "Lancio delle Rune",
+                    "name": "Invocazione delle Rune",
                     "hidden": false,
                     "id": "c031-b64c-bcf5-b51f",
                     "type": "selectionEntry",
                     "targetId": "d13b-ca89-927e-15a9",
-                    "sortIndex": 1
+                    "sortIndex": 1,
+                    "costs": [],
+                    "modifiers": [
+                      {
+                        "type": "set",
+                        "value": 15,
+                        "field": "9893-c379-920b-8982"
+                      }
+                    ]
                   }
                 ],
                 "constraints": [
@@ -6209,7 +6225,7 @@
             ],
             "type": "model",
             "import": true,
-            "name": "Lanciatore di Rune in armatura Terminator",
+            "name": "Sacerdote delle Rune in armatura Terminator",
             "hidden": false,
             "id": "1bc0-b025-4aeb-a7b7",
             "page": 102,
@@ -6309,7 +6325,7 @@
         ],
         "type": "unit",
         "import": true,
-        "name": "Lanciatore di Rune in armatura Terminator",
+        "name": "Sacerdote delle Rune in armatura Terminator",
         "hidden": false,
         "id": "2870-87cf-429b-841a",
         "page": 102,
@@ -6446,7 +6462,7 @@
         ],
         "type": "upgrade",
         "import": true,
-        "name": "Lancio delle Rune",
+        "name": "Invocazione delle Rune",
         "hidden": false,
         "id": "d13b-ca89-927e-15a9"
       },
@@ -6633,7 +6649,7 @@
                     "type": "and"
                   }
                 ],
-                "name": "Lanciatore di Rune con Reattori Dorsali",
+                "name": "Sacerdote delle Rune con Reattori Dorsali",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo",
                 "hidden": false,
@@ -6855,12 +6871,20 @@
                   },
                   {
                     "import": true,
-                    "name": "Lancio delle Rune",
+                    "name": "Invocazione delle Rune",
                     "hidden": false,
                     "id": "522e-46f7-fa26-5c3e",
                     "type": "selectionEntry",
                     "targetId": "d13b-ca89-927e-15a9",
-                    "sortIndex": 1
+                    "sortIndex": 1,
+                    "costs": [],
+                    "modifiers": [
+                      {
+                        "type": "set",
+                        "value": 15,
+                        "field": "9893-c379-920b-8982"
+                      }
+                    ]
                   }
                 ],
                 "constraints": [
@@ -6985,7 +7009,7 @@
             ],
             "type": "model",
             "import": true,
-            "name": "Lanciatore di Rune con Reattori Dorsali",
+            "name": "Sacerdote delle Rune con Reattori Dorsali",
             "hidden": false,
             "id": "12b7-c8dc-4beb-9500",
             "page": 100,
@@ -7060,7 +7084,7 @@
         ],
         "type": "unit",
         "import": true,
-        "name": "Lanciatore di Rune con Reattori Dorsali",
+        "name": "Sacerdote delle Rune con Reattori Dorsali",
         "hidden": false,
         "id": "cbdd-c447-4b61-8778",
         "page": 100,
@@ -8425,7 +8449,7 @@
                     "type": "and"
                   }
                 ],
-                "name": "Lanciatore di Rune in arcione",
+                "name": "Sacerdote delle Rune in arcione",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo",
                 "hidden": false,
@@ -8836,7 +8860,7 @@
                     "field": "hidden"
                   }
                 ],
-                "name": "Questo Lanciatore di Rune in arcione può sostituire Fucile requiem binato con:",
+                "name": "Questo Sacerdote delle Rune in arcione può sostituire Fucile requiem binato con:",
                 "id": "43ee-9347-4cf3-8a9a",
                 "hidden": false,
                 "sortIndex": 2
@@ -8920,12 +8944,20 @@
                   },
                   {
                     "import": true,
-                    "name": "Lancio delle Rune",
+                    "name": "Invocazione delle Rune",
                     "hidden": false,
                     "id": "5f1f-04ee-36e8-3d8d",
                     "type": "selectionEntry",
                     "targetId": "d13b-ca89-927e-15a9",
-                    "sortIndex": 1
+                    "sortIndex": 1,
+                    "costs": [],
+                    "modifiers": [
+                      {
+                        "type": "set",
+                        "value": 15,
+                        "field": "9893-c379-920b-8982"
+                      }
+                    ]
                   }
                 ],
                 "constraints": [
@@ -9232,7 +9264,7 @@
             ],
             "type": "model",
             "import": true,
-            "name": "Lanciatore di Rune in arcione",
+            "name": "Sacerdote delle Rune in arcione",
             "hidden": false,
             "id": "e8c0-82fa-4d4c-9573",
             "page": 101,
@@ -9286,7 +9318,7 @@
         ],
         "type": "unit",
         "import": true,
-        "name": "Lanciatore di Rune in arcione",
+        "name": "Sacerdote delle Rune in arcione",
         "hidden": false,
         "id": "f592-7632-4c97-b1a7",
         "page": 101,
@@ -12820,7 +12852,7 @@
           }
         ],
         "import": true,
-        "name": "Lanciatore di Rune in armatura Terminator",
+        "name": "Sacerdote delle Rune in armatura Terminator",
         "hidden": false,
         "id": "eb52-01f6-3a20-6da5",
         "type": "selectionEntry",
@@ -12836,7 +12868,7 @@
           }
         ],
         "import": true,
-        "name": "Lanciatore di Rune con Reattori Dorsali",
+        "name": "Sacerdote delle Rune con Reattori Dorsali",
         "hidden": false,
         "id": "a485-f401-8e76-6d6e",
         "type": "selectionEntry",
@@ -12868,7 +12900,7 @@
           }
         ],
         "import": true,
-        "name": "Lanciatore di Rune in arcione",
+        "name": "Sacerdote delle Rune in arcione",
         "hidden": false,
         "id": "33f1-3213-0cc4-df63",
         "type": "selectionEntry",
@@ -13313,7 +13345,7 @@
     "name": "                         VI - Lupi Siderali",
     "gameSystemId": "sys-b976-0013-2f97-437b",
     "gameSystemRevision": 1,
-    "revision": 32,
+    "revision": 33,
     "authorUrl": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita",
     "authorContact": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita/issues",
     "authorName": "The4D6",

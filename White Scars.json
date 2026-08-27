@@ -1486,7 +1486,7 @@
                       }
                     ],
                     "import": true,
-                    "name": "Richiamo della Tempesta",
+                    "name": "Evocazione della Tempesta",
                     "hidden": false,
                     "id": "1cf8-7292-bf04-7cf3",
                     "type": "selectionEntry",
@@ -4438,7 +4438,7 @@
         ],
         "type": "upgrade",
         "import": true,
-        "name": "Richiamo della Tempesta",
+        "name": "Evocazione della Tempesta",
         "hidden": false,
         "id": "4a7e-871d-36e6-c483",
         "sortIndex": 14
@@ -5716,7 +5716,7 @@
                     "type": "and"
                   }
                 ],
-                "name": "Stormseer con Reattori Dorsali",
+                "name": "Veggente della Tempesta con Reattori Dorsali",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo",
                 "hidden": false,
@@ -6011,7 +6011,7 @@
                       {
                         "name": "Point(s)",
                         "typeId": "9893-c379-920b-8982",
-                        "value": 10
+                        "value": 20
                       }
                     ],
                     "import": true,
@@ -6042,7 +6042,7 @@
                       }
                     ],
                     "import": true,
-                    "name": "Richiamo della Tempesta",
+                    "name": "Evocazione della Tempesta",
                     "hidden": false,
                     "id": "6cd3-a0e7-519e-f47a",
                     "type": "selectionEntry",
@@ -6089,7 +6089,7 @@
             ],
             "type": "model",
             "import": true,
-            "name": "Stormseer con Reattori Dorsali",
+            "name": "Veggente della Tempesta con Reattori Dorsali",
             "hidden": false,
             "id": "861a-9f46-d3ed-b1b1",
             "publicationId": "b905-0414-1057-bb34",
@@ -6198,7 +6198,7 @@
         ],
         "type": "unit",
         "import": true,
-        "name": "Stormseer con Reattori Dorsali",
+        "name": "Veggente della Tempesta con Reattori Dorsali",
         "hidden": false,
         "id": "ebf6-f8fc-a45b-2799",
         "publicationId": "5469-14da-d0a1-6092",
@@ -6413,7 +6413,7 @@
                     "type": "and"
                   }
                 ],
-                "name": "Stormseer in arcione",
+                "name": "Veggente della Tempesta in arcione",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo",
                 "hidden": false,
@@ -6748,7 +6748,7 @@
                       }
                     ],
                     "import": true,
-                    "name": "Richiamo della Tempesta",
+                    "name": "Evocazione della Tempesta",
                     "hidden": false,
                     "id": "9743-d2a0-589a-d3ec",
                     "type": "selectionEntry",
@@ -7107,7 +7107,7 @@
             ],
             "type": "model",
             "import": true,
-            "name": "Stormseer in arcione",
+            "name": "Veggente della Tempesta in arcione",
             "hidden": false,
             "id": "8ce5-7901-f912-277a",
             "publicationId": "b905-0414-1057-bb34",
@@ -7336,7 +7336,7 @@
         ],
         "type": "unit",
         "import": true,
-        "name": "Stormseer in arcione",
+        "name": "Veggente della Tempesta in arcione",
         "hidden": false,
         "id": "d929-8371-72d9-8cb4",
         "publicationId": "5469-14da-d0a1-6092",
@@ -7622,7 +7622,7 @@
                     "type": "and"
                   }
                 ],
-                "name": "Stormseer in armatura Terminator",
+                "name": "Veggente della Tempesta in armatura Terminator",
                 "typeId": "a76f-8e23-8c3e-166d",
                 "typeName": "Profilo",
                 "hidden": false,
@@ -7928,7 +7928,7 @@
                       }
                     ],
                     "import": true,
-                    "name": "Richiamo della Tempesta",
+                    "name": "Evocazione della Tempesta",
                     "hidden": false,
                     "id": "a318-4081-8214-6451",
                     "type": "selectionEntry",
@@ -8048,7 +8048,7 @@
             ],
             "type": "model",
             "import": true,
-            "name": "Stormseer in armatura Terminator",
+            "name": "Veggente della Tempesta in armatura Terminator",
             "hidden": false,
             "id": "1c43-00e6-ca68-344f",
             "sortIndex": 2
@@ -8216,7 +8216,7 @@
         ],
         "type": "unit",
         "import": true,
-        "name": "Stormseer in armatura Terminator",
+        "name": "Veggente della Tempesta in armatura Terminator",
         "hidden": false,
         "id": "f4d1-2dac-0a5b-c516",
         "publicationId": "5469-14da-d0a1-6092",
@@ -10594,7 +10594,7 @@
           }
         ],
         "import": true,
-        "name": "Stormseer con Reattori Dorsali",
+        "name": "Veggente della Tempesta con Reattori Dorsali",
         "hidden": false,
         "id": "6361-e0e3-65a2-591e",
         "type": "selectionEntry",
@@ -10618,7 +10618,7 @@
           }
         ],
         "import": true,
-        "name": "Stormseer in arcione",
+        "name": "Veggente della Tempesta in arcione",
         "hidden": false,
         "id": "6e66-86f5-5467-6b7c",
         "type": "selectionEntry",
@@ -10640,7 +10640,7 @@
           }
         ],
         "import": true,
-        "name": "Stormseer in armatura Terminator",
+        "name": "Veggente della Tempesta in armatura Terminator",
         "hidden": false,
         "id": "e166-3556-d622-2dcd",
         "type": "selectionEntry",
@@ -10884,7 +10884,7 @@
     "name": "                         V - Furie Bianche",
     "gameSystemId": "sys-b976-0013-2f97-437b",
     "gameSystemRevision": 1,
-    "revision": 26,
+    "revision": 27,
     "authorUrl": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita",
     "authorContact": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita/issues",
     "authorName": "The4D6",

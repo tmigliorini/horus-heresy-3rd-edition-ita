@@ -6159,7 +6159,8 @@
                     "hidden": false,
                     "id": "bdc8-93ad-8d23-9bed",
                     "type": "selectionEntry",
-                    "targetId": "7f0b-3a53-fbba-de05"
+                    "targetId": "7f0b-3a53-fbba-de05",
+                    "costs": []
                   },
                   {
                     "constraints": [
@@ -6184,7 +6185,8 @@
                     "hidden": false,
                     "id": "469a-8c0b-9b27-ef4c",
                     "type": "selectionEntry",
-                    "targetId": "5f50-43e2-30a1-01c8"
+                    "targetId": "5f50-43e2-30a1-01c8",
+                    "costs": []
                   },
                   {
                     "constraints": [
@@ -6209,7 +6211,8 @@
                     "hidden": false,
                     "id": "90bd-faad-832f-759d",
                     "type": "selectionEntry",
-                    "targetId": "b8f6-c7cb-3596-fb48"
+                    "targetId": "b8f6-c7cb-3596-fb48",
+                    "costs": []
                   },
                   {
                     "constraints": [
@@ -6234,7 +6237,8 @@
                     "hidden": false,
                     "id": "01a4-189c-0001-b65a",
                     "type": "selectionEntry",
-                    "targetId": "3a5d-8574-6913-d83c"
+                    "targetId": "3a5d-8574-6913-d83c",
+                    "costs": []
                   },
                   {
                     "constraints": [
@@ -6259,7 +6263,8 @@
                     "hidden": false,
                     "id": "d96f-2362-8177-26fa",
                     "type": "selectionEntry",
-                    "targetId": "13c2-f899-efef-20cb"
+                    "targetId": "13c2-f899-efef-20cb",
+                    "costs": []
                   },
                   {
                     "constraints": [
@@ -6277,7 +6282,8 @@
                     "hidden": false,
                     "id": "caec-0e05-4448-7dda",
                     "type": "selectionEntry",
-                    "targetId": "15a9-e44f-2393-0d6a"
+                    "targetId": "15a9-e44f-2393-0d6a",
+                    "costs": []
                   }
                 ],
                 "name": "Discipline Psichiche",
@@ -10780,7 +10786,7 @@
     "name": "                        XV - Stirpe dei Mille",
     "gameSystemId": "sys-b976-0013-2f97-437b",
     "gameSystemRevision": 1,
-    "revision": 29,
+    "revision": 30,
     "authorUrl": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita",
     "authorContact": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita/issues",
     "authorName": "Arkangelmark5",
