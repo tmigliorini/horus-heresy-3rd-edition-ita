@@ -601,7 +601,7 @@
             "description": "Questo Vantaggio Primario può essere selezionato solo per un’Unità composta interamente da un Modello di Centurione o di Centurione Catafratto con il Tratto Guardia della Morte, una singola volta per Armata. Quel Modello ha la sua Caratteristica Ferite Base modificata di +1 e ottiene la Regola Speciale Guerriero Eterno (2).",
             "name": "Resilienza Innaturale",
             "id": "f96a-b690-dea6-a92f",
-            "hidden": false,
+            "hidden": true,
             "publicationId": "e54c-7040-0f35-d85d",
             "page": 201
           }
@@ -5224,7 +5224,7 @@
     "name": "                        XIV - Guardia della Morte",
     "gameSystemId": "sys-b976-0013-2f97-437b",
     "gameSystemRevision": 1,
-    "revision": 21,
+    "revision": 22,
     "authorUrl": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita",
     "authorContact": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita/issues",
     "authorName": "The4D6",

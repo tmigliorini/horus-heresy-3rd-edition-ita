@@ -610,7 +610,7 @@
           {
             "characteristics": [
               {
-                "$text": "Tutti i Modelli di un’Unità che includa Modelli con un Cyber-falco ottengono la Regola Speciale Movimento in Copertura.\nVantaggio Primario Il Sagyar Mazan Questo Vantaggio Primario può essere selezionato solo per un’Unità di Tipo Fanteria o Cavalleria con il Tratto Furie Bianche.\nTutti i Modelli di quell’Unità ottengono la Regola Speciale Sacrificabile (2).",
+                "$text": "Tutti i Modelli di un’Unità che includa Modelli con un Cyber-falco ottengono la Regola Speciale Movimento in Copertura.",
                 "name": "Descrizione",
                 "typeId": "9944-2f6d-d61b-03b5"
               }
@@ -759,7 +759,7 @@
           {
             "characteristics": [
               {
-                "$text": "Un Modello con Reattori dorsali Corvid ha la sua Caratteristica di Movimento impostata a 14, sostituisce qualsiasi istanza della Regola Speciale Imponente (X) con Imponente (3), e supera automaticamente qualsiasi Test di Terreno Pericoloso.\nVantaggio Primario Spettri Questo Vantaggio Primario può essere selezionato solo per un’Unità con il Ruolo Truppe che includa solo Modelli con il Tratto Guardia del Corvo.\nI Modelli di quell’Unità sono chiamati “Spettri” e, dopo che il Giocatore Controllante ha effettuato uno Scatto con un’Unità che includa solo Modelli Spettri, può anche scegliere di effettuare una Prova di Volontà per quell’Unità.\nSe la Prova di Volontà ha successo, tutte le Cariche che prendono di mira l’Unità nella Fase di Assalto del Turno del Giocatore successivo vengono Scomposte.\nSe la Prova di Volontà fallisce, l’Unità ottiene invece lo Status Tattico Stordito.",
+                "$text": "Un Modello con Reattori dorsali Corvid ha la sua Caratteristica di Movimento impostata a 14, sostituisce qualsiasi istanza della Regola Speciale Imponente (X) con Imponente (3), e supera automaticamente qualsiasi Test di Terreno Pericoloso.",
                 "name": "Descrizione",
                 "typeId": "9944-2f6d-d61b-03b5"
               }
@@ -819,7 +819,7 @@
           {
             "characteristics": [
               {
-                "$text": "Le Ferite inflitte da Armi con il Tratto Fiamma, Plasma, Melta o Volkite assegnate a un Modello con Scaglia di Drago hanno la loro Caratteristica Danno impostata su 1.\nVantaggio Primario Il Dovere Prima della Morte Questo Vantaggio Primario può essere selezionato solo per un’Unità con il Ruolo Truppe, che includa solo Modelli con il Tratto Salamandre.\nI Modelli di un’Unità selezionati per riempire un Riquadro con questo Vantaggio Primario ottengono la Regola Speciale Insensibile al Dolore (6+).",
+                "$text": "Le Ferite inflitte da Armi con il Tratto Fiamma, Plasma, Melta o Volkite assegnate a un Modello con Scaglia di Drago hanno la loro Caratteristica Danno impostata su 1.",
                 "name": "Descrizione",
                 "typeId": "9944-2f6d-d61b-03b5"
               }
@@ -922,7 +922,7 @@
           {
             "characteristics": [
               {
-                "$text": "Quando un’Unità che includa Modelli dotati di strillatori sonici effettua un Movimento di Carica, l’Unità Bersaglio di tale Carica non può essere selezionata per effettuare Reazioni finché la procedura di Carica non è stata completata.\nVantaggio Primario Guardiano della Fenice Questo Vantaggio Primario può essere selezionato solo per un Modello di Centurione Tartaros con il Tratto Figli dell’Imperatore.\nQuel Modello deve scambiare gratuitamente il suo combirequiem e la sua arma potenziata con una lancia potenziata fenice e ottiene la Regola Speciale Maestria Senza Pari.",
+                "$text": "Quando un’Unità che includa Modelli dotati di strillatori sonici effettua un Movimento di Carica, l’Unità Bersaglio di tale Carica non può essere selezionata per effettuare Reazioni finché la procedura di Carica non è stata completata.",
                 "name": "Descrizione",
                 "typeId": "9944-2f6d-d61b-03b5"
               }
@@ -951,7 +951,7 @@
               {
                 "name": "Descrizione",
                 "typeId": "9944-2f6d-d61b-03b5",
-                "$text": "Un Modello con Trofei del giudizio ha la Regola Speciale Paura (1).\nVantaggio Primario Atramentar Questo Vantaggio Primario può essere selezionato solo per un Centurione in Armatura Terminator o per Unità della Squadra Comando Catafratta, della Squadra Comando Tartaros, della Squadra Terminator Catafratti o della Squadra Terminator Tartaros con il Tratto Signori della Notte.\nQuel Modello o Unità ottiene le Regole Speciali Attacco in Profondità e Impatto (I)."
+                "$text": "Un Modello con Trofei del giudizio ha la Regola Speciale Paura (1)."
               }
             ],
             "name": "Trofei del giudizio",
@@ -1128,7 +1128,7 @@
           {
             "characteristics": [
               {
-                "$text": "Un Modello con uno scudo da abbordaggio Argyrum ha un Tiro Invulnerabilità di 5+, che aumenta a 4+ contro le Ferite inflitte da Armi da Mischia, e ottiene il Tratto Scudo e il Sottotipo Pesante.\nVantaggio Primario Logisticae Questo Vantaggio Primario può essere selezionato solo per un’Unità con il Ruolo Comando, che includa solo Modelli con il Tratto Ultramarine.\nAggiungi un Riquadro Trasporto o Trasporto Pesante aggiuntivo al Distaccamento che include il Riquadro con questo Vantaggio Primario.\nModifica di +2 la Capacità di Trasporto dell’Unità selezionata per occupare quel Riquadro.",
+                "$text": "Un Modello con uno scudo da abbordaggio Argyrum ha un Tiro Invulnerabilità di 5+, che aumenta a 4+ contro le Ferite inflitte da Armi da Mischia, e ottiene il Tratto Scudo e il Sottotipo Pesante.",
                 "name": "Descrizione",
                 "typeId": "9944-2f6d-d61b-03b5"
               }
@@ -1594,7 +1594,7 @@
     "name": "Equipaggiamento",
     "gameSystemId": "sys-b976-0013-2f97-437b",
     "gameSystemRevision": 1,
-    "revision": 36,
+    "revision": 37,
     "authorName": "The4D6",
     "battleScribeVersion": 2.03,
     "type": "catalogue",

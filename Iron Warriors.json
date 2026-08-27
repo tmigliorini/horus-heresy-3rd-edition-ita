@@ -777,7 +777,7 @@
             "description": "Questo Vantaggio Primario può essere selezionato solo per un’Unità di Tipo Fanteria con il Tratto Guerrieri di Ferro. Tutti i Modelli di quell’Unità ottengono la Regola Speciale Sacrificabile (1).",
             "name": "Gli Sfavoriti",
             "id": "d483-d5c9-3175-0a79",
-            "hidden": false,
+            "hidden": true,
             "publicationId": "e54c-7040-0f35-d85d",
             "page": 148
           }
@@ -789,7 +789,7 @@
                 "description": "Questo Vantaggio Primario può essere selezionato solo per un’Unità di Tipo Fanteria con il Tratto Guerrieri di Ferro. Tutti i Modelli di quell’Unità ottengono la Regola Speciale Sacrificabile (1).",
                 "name": "Gli Sfavoriti",
                 "id": "4410-7bba-48e2-5f2a",
-                "hidden": false,
+                "hidden": true,
                 "publicationId": "e54c-7040-0f35-d85d",
                 "page": 148
               }
@@ -7905,7 +7905,7 @@
     "name": "                         IV - Guerrieri di Ferro",
     "gameSystemId": "sys-b976-0013-2f97-437b",
     "gameSystemRevision": 1,
-    "revision": 21,
+    "revision": 22,
     "authorUrl": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita",
     "authorContact": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita/issues",
     "authorName": "The4D6",

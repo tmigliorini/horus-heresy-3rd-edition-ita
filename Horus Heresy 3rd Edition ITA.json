@@ -88276,7 +88276,7 @@
             "description": "Questo Vantaggio Primario può essere selezionato solo per un’Unità con il Ruolo di Battaglia Comando, che include solo Modelli con il Tratto Legione Alfa.\nAggiungi un Riquadro aggiuntivo al Distaccamento che include l’Unità selezionata per riempire un Riquadro con questo Vantaggio Primario.\nQuesto Riquadro può essere di qualsiasi Ruolo diverso da Alto Comando, Comando, Sovrano della Guerra o Generale.\nOgni Unità selezionata per riempire tale Riquadro deve provenire dalla Lista dell’Esercito Legiones Astartes e non deve avere il Tratto di Fazione Legione Alfa sul proprio Profilo Unità, né includere Modelli con il Sottotipo Unico.\nTutti i Modelli di una qualsiasi di queste Unità hanno il Tratto di Fazione sostituito con Legione Alfa.",
             "name": "Ricompensa del Tradimento",
             "id": "faf0-ba93-2013-3f34",
-            "hidden": false
+            "hidden": true
           }
         ],
         "type": "upgrade",
@@ -88419,7 +88419,7 @@
             "description": "Questo Vantaggio Primario può essere selezionato solo per un’Unità con il Ruolo Comando, che includa solo Modelli con il Tratto Ultramarine. Aggiungi un Riquadro Trasporto o Trasporto Pesante aggiuntivo al Distaccamento che include il Riquadro con questo Vantaggio Primario. Modifica di +2 la Capacità di Trasporto dell’Unità selezionata per occupare quel Riquadro.",
             "name": "Logisticae",
             "id": "aa55-7ce2-3344-0d79",
-            "hidden": false
+            "hidden": true
           }
         ],
         "type": "upgrade",
@@ -88795,7 +88795,7 @@
     "id": "sys-b976-0013-2f97-437b",
     "name": "Horus Heresy 3ª Edizione ITA",
     "battleScribeVersion": 2.03,
-    "revision": 67,
+    "revision": 68,
     "type": "gameSystem",
     "authorName": "The4D6",
     "authorContact": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita/issues",

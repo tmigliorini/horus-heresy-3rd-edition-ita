@@ -9597,7 +9597,7 @@
         "description": "Questo Vantaggio Primario può essere selezionato solo per un’Unità che includa solo Modelli con il Tratto Angeli Sanguinari. Questi Modelli ottengono la Regola Speciale Paura (1).",
         "name": "Redivivo",
         "id": "a324-366f-d373-8d25",
-        "hidden": false
+        "hidden": true
       }
     ],
     "sharedSelectionEntryGroups": [
@@ -9757,7 +9757,7 @@
     "name": "                        IX - Angeli Sanguinari",
     "gameSystemId": "sys-b976-0013-2f97-437b",
     "gameSystemRevision": 1,
-    "revision": 24,
+    "revision": 25,
     "authorUrl": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita",
     "authorContact": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita/issues",
     "authorName": "LeonisAstra",

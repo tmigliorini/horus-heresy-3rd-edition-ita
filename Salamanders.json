@@ -7523,7 +7523,7 @@
                 "description": "Questo Vantaggio Primario può essere selezionato solo per un’Unità con il Ruolo Truppe, che includa solo Modelli con il Tratto Salamandre. I Modelli di un’Unità selezionati per riempire un Riquadro con questo Vantaggio Primario ottengono la Regola Speciale Insensibile al Dolore (6+).",
                 "name": "Il Dovere Prima della Morte",
                 "id": "9d88-56a3-2a32-4166",
-                "hidden": false
+                "hidden": true
               }
             ],
             "type": "upgrade",
@@ -7699,7 +7699,7 @@
     "name": "                        XVIII - Salamandre",
     "gameSystemId": "sys-b976-0013-2f97-437b",
     "gameSystemRevision": 1,
-    "revision": 25,
+    "revision": 26,
     "authorUrl": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita",
     "authorContact": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita/issues",
     "authorName": "The4D6",

@@ -200763,7 +200763,7 @@
           {
             "characteristics": [
               {
-                "$text": "Un Modello con Armatus Necrotechnika ottiene la Regola Speciale Auto-riparazione (5+).\nInoltre, se dei Modelli vengono Rimossi come Perdite entro 6\" da un Modello con Armatus Necrotechnika, il Giocatore Controllante può aggiungere 1 al risultato del suo Tiro Riparazione effettuato nel medesimo turno.\nVantaggio Primario Il Corazzato Questo Vantaggio Primario può essere selezionato solo per un’Unità con il Ruolo Comando, che includa solo Modelli con il Tratto Mani di Ferro, una singola volta per Armata.\nAggiungi un Riquadro Macchina da Guerra aggiuntivo al Distaccamento che includa il Riquadro con questo Vantaggio Primario.\nUn’Unità selezionata per occupare tale Riquadro ottiene il Sottotipo Campione, se non lo possedeva già.",
+                "$text": "Un Modello con Armatus Necrotechnika ottiene la Regola Speciale Auto-riparazione (5+).\nInoltre, se dei Modelli vengono Rimossi come Perdite entro 6\" da un Modello con Armatus Necrotechnika, il Giocatore Controllante può aggiungere 1 al risultato del suo Tiro Riparazione effettuato nel medesimo turno.",
                 "name": "Descrizione",
                 "typeId": "9944-2f6d-d61b-03b5"
               }
@@ -238103,7 +238103,7 @@
     "name": "Legiones Astartes",
     "gameSystemId": "sys-b976-0013-2f97-437b",
     "gameSystemRevision": 1,
-    "revision": 71,
+    "revision": 72,
     "authorName": "The4D6",
     "battleScribeVersion": 2.03,
     "type": "catalogue",

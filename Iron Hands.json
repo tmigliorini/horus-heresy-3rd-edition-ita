@@ -758,7 +758,7 @@
           {
             "characteristics": [
               {
-                "$text": "Un Modello con Armatus Necrotechnika ottiene la Regola Speciale Auto-riparazione (5+).\nInoltre, se dei Modelli vengono Rimossi come Perdite entro 6\" da un Modello con Armatus Necrotechnika, il Giocatore Controllante può aggiungere 1 al risultato del suo Tiro Riparazione effettuato nel medesimo turno.\nVantaggio Primario Il Corazzato Questo Vantaggio Primario può essere selezionato solo per un’Unità con il Ruolo Comando, che includa solo Modelli con il Tratto Mani di Ferro, una singola volta per Armata.\nAggiungi un Riquadro Macchina da Guerra aggiuntivo al Distaccamento che includa il Riquadro con questo Vantaggio Primario.\nUn’Unità selezionata per occupare tale Riquadro ottiene il Sottotipo Campione, se non lo possedeva già.",
+                "$text": "Un Modello con Armatus Necrotechnika ottiene la Regola Speciale Auto-riparazione (5+).\nInoltre, se dei Modelli vengono Rimossi come Perdite entro 6\" da un Modello con Armatus Necrotechnika, il Giocatore Controllante può aggiungere 1 al risultato del suo Tiro Riparazione effettuato nel medesimo turno.",
                 "name": "Descrizione",
                 "typeId": "9944-2f6d-d61b-03b5"
               }
@@ -7221,7 +7221,7 @@
                 "description": "Questo Vantaggio Primario può essere selezionato solo per un’Unità con il Ruolo Comando, che includa solo Modelli con il Tratto Mani di Ferro, una singola volta per Armata. Aggiungi un Riquadro Macchina da Guerra aggiuntivo al Distaccamento che includa il Riquadro con questo Vantaggio Primario. Un’Unità selezionata per occupare tale Riquadro ottiene il Sottotipo Campione, se non lo possedeva già.",
                 "name": "Il Corazzato",
                 "id": "e352-0632-37a3-86fb",
-                "hidden": false
+                "hidden": true
               }
             ],
             "type": "upgrade",
@@ -7271,7 +7271,7 @@
     "name": "                        X - Mani di Ferro",
     "gameSystemId": "sys-b976-0013-2f97-437b",
     "gameSystemRevision": 1,
-    "revision": 28,
+    "revision": 29,
     "authorUrl": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita",
     "authorContact": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita/issues",
     "authorName": "The4D6",

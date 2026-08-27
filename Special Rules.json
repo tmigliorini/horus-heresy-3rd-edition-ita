@@ -715,7 +715,7 @@
         "comment": "(Guardia del Corvo Only)",
         "name": "Spettri",
         "id": "84fd-366e-517d-e228",
-        "hidden": false
+        "hidden": true
       },
       {
         "description": "Se un'Unità include uno o più Modelli con questa Regola Speciale, qualora debba essere effettuato un Tiro Recupero per altri Modelli nella stessa Unità, il Numero Obiettivo dello stesso è pari al valore di X. Tiro Recupero Quando una Regola richiede di effettuare un Tiro Recupero, il Numero Obiettivo è determinato dalla Regola Speciale Medico (X).",
@@ -730,7 +730,7 @@
         "description": "Questo Vantaggio Primario può essere selezionato solo per un’Unità con il Ruolo Truppe, che includa solo Modelli con il Tratto Salamandre. I Modelli di un’Unità selezionati per riempire un Riquadro con questo Vantaggio Primario ottengono la Regola Speciale Insensibile al Dolore (6+).",
         "name": "Il Dovere Prima della Morte",
         "id": "e20b-fd1b-6229-eac2",
-        "hidden": false
+        "hidden": true
       },
       {
         "description": "Quando si effettua un Tiro per Colpire per un Attacco da Mischia di un Modello soggetto alla Regola Speciale Tattiche Mutabili, un risultato di 4+ è sempre un successo.",
@@ -1076,7 +1076,7 @@
     "name": "Regole Speciali",
     "gameSystemId": "sys-b976-0013-2f97-437b",
     "gameSystemRevision": 1,
-    "revision": 30,
+    "revision": 31,
     "battleScribeVersion": 2.03,
     "type": "catalogue",
     "authorName": "The4D6",
