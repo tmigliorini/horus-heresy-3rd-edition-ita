@@ -172,7 +172,7 @@
                 "hidden": false
               },
               {
-                "description": "Se quattro o più Riquadri Truppe nel Distaccamento Principale sono occupati da Unità di Squadre depredatrici e/o Squadre Tattiche, allora tutti i Riquadri Truppe nel Distaccamento Principale sono considerati Riquadri Primari. Inoltre, fino alla fine del primo Turno di Battaglia, ogni volta che il Giocatore che Controlla un Modello con questa Regola Speciale è tenuto a effettuare una Prova di Disciplina per un’Unità che includa solo Modelli con il Tratto Predicatori, quella Prova di Disciplina viene automaticamente superata.",
+                "description": "Se quattro o più Riquadri Truppe nel Distaccamento Principale sono occupati da Unità di Squadre depredatrici e/o Squadre Tattiche, allora tutti i Riquadri Truppe nel Distaccamento Principale sono considerati Riquadri Primari.\nInoltre, fino alla fine del primo Turno di Battaglia, ogni volta che il Giocatore che Controlla un Modello con questa Regola Speciale è tenuto a effettuare una Prova di Disciplina per un’Unità che includa solo Modelli con il Tratto Predicatori, quella Prova di Disciplina viene automaticamente superata.",
                 "name": "Sire dei Predicatori",
                 "id": "25e7-a4a9-887a-d8ed",
                 "hidden": false
@@ -752,7 +752,7 @@
             ],
             "rules": [
               {
-                "description": "Nella Sottofase degli Effetti del Giocatore Controllante di questo Modello, il Giocatore Controllante può selezionare un’Unità amica che includa solo Modelli con il Tratto Predicatori entro 6\" da questo Modello, quindi selezionare uno dei seguenti effetti: Invettiva Crudele: Fino all’inizio della successiva Sottofase degli Effetti del Giocatore Controllante, tutti i Modelli nell’Unità selezionata ottengono la Regola Speciale Odio (Lealista ). Suppliche Minacciose: Fino all’inizio della successiva Sottofase degli Effetti del Giocatore Controllante, modifica le Caratteristiche Disciplina e Coraggio di tutti i Modelli nell’Unità selezionata di +2.",
+                "description": "Nella Sottofase degli Effetti del Giocatore Controllante di questo Modello, il Giocatore Controllante può selezionare un’Unità amica che includa solo Modelli con il Tratto Predicatori entro 6\" da questo Modello, quindi selezionare uno dei seguenti effetti: Invettiva Crudele: Fino all’inizio della successiva Sottofase degli Effetti del Giocatore Controllante, tutti i Modelli nell’Unità selezionata ottengono la Regola Speciale Odio (Lealista ).\nSuppliche Minacciose: Fino all’inizio della successiva Sottofase degli Effetti del Giocatore Controllante, modifica le Caratteristiche Disciplina e Coraggio di tutti i Modelli nell’Unità selezionata di +2.",
                 "name": "Oratoria Oscura",
                 "id": "898b-36fe-df6b-50a3",
                 "hidden": false
@@ -10758,7 +10758,7 @@
         ],
         "rules": [
           {
-            "description": "Un’Unità contenente Modelli con questa Regola Speciale non può mai essere aggregata da un Modello privo di questa Regola Speciale. Inoltre, la prima volta in una Battaglia in cui ogni Unità che include Modelli con questa Regola Speciale ottiene Punti Vittoria grazie alla Regola Speciale Avanguardia (X), quell’Unità subisce immediatamente D3 ferite automatiche con VP 2 e Danno 1 contro le quali non possono essere effettuati Tiri Salvezza di alcun tipo. Una volta risolte queste ferite, ogni Modello di quell’Unità acquisisce immediatamente il Sottotipo Malefico e la Regola Speciale Insensibile al Dolore (6+) per il resto della Battaglia.",
+            "description": "Un’Unità contenente Modelli con questa Regola Speciale non può mai essere aggregata da un Modello privo di questa Regola Speciale.\nInoltre, la prima volta in una Battaglia in cui ogni Unità che include Modelli con questa Regola Speciale ottiene Punti Vittoria grazie alla Regola Speciale Avanguardia (X), quell’Unità subisce immediatamente D3 ferite automatiche con VP 2 e Danno 1 contro le quali non possono essere effettuati Tiri Salvezza di alcun tipo.\nUna volta risolte queste ferite, ogni Modello di quell’Unità acquisisce immediatamente il Sottotipo Malefico e la Regola Speciale Insensibile al Dolore (6+) per il resto della Battaglia.",
             "name": "Gusci Vuoti",
             "id": "0fea-09cd-9274-225a",
             "hidden": false
@@ -12414,13 +12414,13 @@
         "hidden": true
       },
       {
-        "description": "Un Modello con questa Regola Speciale può unirsi alle Unità con il Sottotipo Malefico come se avesse quel Sottotipo e, mentre fa parte di tale Unità, è trattato come se avesse quel Sottotipo. Un Modello con questa Regola Speciale può unirsi alle Unità con il Sottotipo Malefico come se avesse quel Sottotipo e, mentre fa parte di tale Unità, è trattato come se avesse quel Sottotipo. Un Modello con questa Regola Speciale può unirsi alle Unità con il Sottotipo Malefico come se avesse quel Sottotipo e, mentre fa parte di tale Unità, è trattato come se avesse quel Sottotipo.",
+        "description": "Un Modello con questa Regola Speciale può unirsi alle Unità con il Sottotipo Malefico come se avesse quel Sottotipo e, mentre fa parte di tale Unità, è trattato come se avesse quel Sottotipo.\nUn Modello con questa Regola Speciale può unirsi alle Unità con il Sottotipo Malefico come se avesse quel Sottotipo e, mentre fa parte di tale Unità, è trattato come se avesse quel Sottotipo.\nUn Modello con questa Regola Speciale può unirsi alle Unità con il Sottotipo Malefico come se avesse quel Sottotipo e, mentre fa parte di tale Unità, è trattato come se avesse quel Sottotipo.",
         "name": "Dannato",
         "id": "6786-5026-73bb-ee16",
         "hidden": false
       },
       {
-        "description": "Un Modello con questa Regola Speciale ottiene 1 Punto Mietitore di Carne ogni volta che un’Unità che includa quel Modello viene selezionata per il Consolidamento, se quel Combattimento includeva Modelli nemici con il Tipo Fanteria o Cavalleria. Se un Modello con il Tipo Esemplare è stato Rimosso come Perdita durante quel Combattimento, il Modello con questa Regola Speciale ottiene invece 2 Punti Mietitore di Carne. Se un Modello con Punti Mietitore di Carne viene Rimosso come Perdita, tutti i Punti Mietitore di Carne posseduti da quel Modello vengono persi. Durante il Passaggio Determinare il Vincitore, alla fine della Battaglia, il Giocatore che Controlla qualsiasi Modello con la Regola Speciale Mietitore di Carne ottiene un numero di Punti Vittoria pari al numero di Punti Mietitore di Carne posseduti da uno qualsiasi di quei Modelli, selezionato dal Giocatore che li Controlla. Un Modello con questa Regola Speciale ottiene 1 Punto Mietitore di Carne ogni volta che un’Unità che includa quel Modello viene selezionata per il Consolidamento, se quel Combattimento includeva Modelli nemici con il Tipo Fanteria o Cavalleria. Se un Modello con il Tipo Esemplare è stato Rimosso come Perdita durante quel Combattimento, il Modello con questa Regola Speciale ottiene invece 2 Punti Mietitore di Carne. Se un Modello con Punti Mietitore di Carne viene Rimosso come Perdita, tutti i Punti Mietitore di Carne posseduti da quel Modello vengono persi. Durante il Passaggio Determinare il Vincitore, alla fine della Battaglia, il Giocatore che Controlla qualsiasi Modello con la Regola Speciale Mietitore di Carne ottiene un numero di Punti Vittoria pari al numero di Punti Mietitore di Carne posseduti da uno qualsiasi di quei Modelli, selezionato dal Giocatore che li Controlla.",
+        "description": "Un Modello con questa Regola Speciale ottiene 1 Punto Mietitore di Carne ogni volta che un’Unità che includa quel Modello viene selezionata per il Consolidamento, se quel Combattimento includeva Modelli nemici con il Tipo Fanteria o Cavalleria.\nSe un Modello con il Tipo Esemplare è stato Rimosso come Perdita durante quel Combattimento, il Modello con questa Regola Speciale ottiene invece 2 Punti Mietitore di Carne.\nSe un Modello con Punti Mietitore di Carne viene Rimosso come Perdita, tutti i Punti Mietitore di Carne posseduti da quel Modello vengono persi.\nDurante il Passaggio Determinare il Vincitore, alla fine della Battaglia, il Giocatore che Controlla qualsiasi Modello con la Regola Speciale Mietitore di Carne ottiene un numero di Punti Vittoria pari al numero di Punti Mietitore di Carne posseduti da uno qualsiasi di quei Modelli, selezionato dal Giocatore che li Controlla.\nUn Modello con questa Regola Speciale ottiene 1 Punto Mietitore di Carne ogni volta che un’Unità che includa quel Modello viene selezionata per il Consolidamento, se quel Combattimento includeva Modelli nemici con il Tipo Fanteria o Cavalleria.\nSe un Modello con il Tipo Esemplare è stato Rimosso come Perdita durante quel Combattimento, il Modello con questa Regola Speciale ottiene invece 2 Punti Mietitore di Carne.\nSe un Modello con Punti Mietitore di Carne viene Rimosso come Perdita, tutti i Punti Mietitore di Carne posseduti da quel Modello vengono persi.\nDurante il Passaggio Determinare il Vincitore, alla fine della Battaglia, il Giocatore che Controlla qualsiasi Modello con la Regola Speciale Mietitore di Carne ottiene un numero di Punti Vittoria pari al numero di Punti Mietitore di Carne posseduti da uno qualsiasi di quei Modelli, selezionato dal Giocatore che li Controlla.",
         "name": "Mietitore di Carne",
         "id": "7b46-599c-9ffb-34ff",
         "hidden": false
@@ -12890,7 +12890,7 @@
     "name": "                        XVII - Predicatori",
     "gameSystemId": "sys-b976-0013-2f97-437b",
     "gameSystemRevision": 1,
-    "revision": 27,
+    "revision": 28,
     "authorUrl": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita",
     "authorContact": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita/issues",
     "authorName": "Arkangelmark5",

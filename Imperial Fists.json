@@ -939,7 +939,7 @@
             ],
             "rules": [
               {
-                "description": "Se quattro o più Riquadri Truppe nel Distaccamento Principale sono occupati da Squadre Tattiche e/o Squadre d’Abbordaggio, tutti i Riquadri Truppe nel Distaccamento Principale sono considerati Riquadri Primari. Inoltre, fino alla fine del primo Turno di Battaglia, tutti i Modelli di questo Esercito con il Tipo Fanteria e il Tratto Magli Imperiali hanno un Tiro Copertura di 5+ mentre si trovano all’interno della Zona di Schieramento del Giocatore Controllante.",
+                "description": "Se quattro o più Riquadri Truppe nel Distaccamento Principale sono occupati da Squadre Tattiche e/o Squadre d’Abbordaggio, tutti i Riquadri Truppe nel Distaccamento Principale sono considerati Riquadri Primari.\nInoltre, fino alla fine del primo Turno di Battaglia, tutti i Modelli di questo Esercito con il Tipo Fanteria e il Tratto Magli Imperiali hanno un Tiro Copertura di 5+ mentre si trovano all’interno della Zona di Schieramento del Giocatore Controllante.",
                 "name": "Sire dei Magli Imperiali",
                 "id": "a08f-3fb8-ad95-0574",
                 "hidden": false
@@ -3634,7 +3634,7 @@
             ],
             "rules": [
               {
-                "description": "Se un Modello con questa Regola Speciale si unisce a un’Unità di Squadra d’Abbordaggio in Riserva, i Modelli di quell’Unità ottengono la Regola Speciale Attacco in Profondità finché il Modello fa parte dell’Unità. Inoltre, quando un Modello con questa Regola Speciale viene schierato come parte di un Attacco in Profondità, quel Modello e ogni altro Modello nella stessa Unità ottengono la Regola Speciale Insensibile al Dolore (5+) fino alla successiva Sottofase Effetti del Giocatore Controllante.",
+                "description": "Se un Modello con questa Regola Speciale si unisce a un’Unità di Squadra d’Abbordaggio in Riserva, i Modelli di quell’Unità ottengono la Regola Speciale Attacco in Profondità finché il Modello fa parte dell’Unità.\nInoltre, quando un Modello con questa Regola Speciale viene schierato come parte di un Attacco in Profondità, quel Modello e ogni altro Modello nella stessa Unità ottengono la Regola Speciale Insensibile al Dolore (5+) fino alla successiva Sottofase Effetti del Giocatore Controllante.",
                 "name": "Comandante del Vuoto",
                 "id": "edc9-d85c-1001-2749",
                 "hidden": false
@@ -7732,7 +7732,7 @@
     "name": "                         VII - Magli Imperiali",
     "gameSystemId": "sys-b976-0013-2f97-437b",
     "gameSystemRevision": 1,
-    "revision": 26,
+    "revision": 27,
     "authorUrl": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita",
     "authorContact": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita/issues",
     "authorName": "Arkangelmark5",

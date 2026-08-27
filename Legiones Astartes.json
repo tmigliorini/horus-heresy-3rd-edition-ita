@@ -12578,7 +12578,7 @@
         ],
         "rules": [
           {
-            "description": "Ogni volta che vengono effettuati Tiri per Ferire per un Gruppo di Fuoco che prende di mira un’Unità che includa Modelli con questa Regola Speciale, se in questa Unità sono presenti Modelli Piattaforma Rapier, la loro Caratteristica di Resistenza viene considerata maggioritaria e, se vengono generate ferite da questi Tiri per Ferire, il Modello Bersaglio selezionato deve essere un Modello Piattaforma Rapier, se possibile. Ogni volta che vengono effettuati Tiri per Ferire per un Gruppo d’Attacco che prende di mira questa Unità, la Caratteristica di Resistenza dei Modelli Legionari viene considerata maggioritaria e, se vengono generate ferite da questi Tiri per Ferire, il Modello Bersaglio selezionato deve essere un Modello Legionario, se possibile. Se in qualsiasi momento rimangono solo Modelli Batteria Rapier in questa Unità, tali Modelli vengono immediatamente Rimossi come Perdite.",
+            "description": "Ogni volta che vengono effettuati Tiri per Ferire per un Gruppo di Fuoco che prende di mira un’Unità che includa Modelli con questa Regola Speciale, se in questa Unità sono presenti Modelli Piattaforma Rapier, la loro Caratteristica di Resistenza viene considerata maggioritaria e, se vengono generate ferite da questi Tiri per Ferire, il Modello Bersaglio selezionato deve essere un Modello Piattaforma Rapier, se possibile.\nOgni volta che vengono effettuati Tiri per Ferire per un Gruppo d’Attacco che prende di mira questa Unità, la Caratteristica di Resistenza dei Modelli Legionari viene considerata maggioritaria e, se vengono generate ferite da questi Tiri per Ferire, il Modello Bersaglio selezionato deve essere un Modello Legionario, se possibile.\nSe in qualsiasi momento rimangono solo Modelli Batteria Rapier in questa Unità, tali Modelli vengono immediatamente Rimossi come Perdite.",
             "name": "Equipaggio della Rapier",
             "id": "bb6b-cfc9-84ba-da88",
             "hidden": false
@@ -115437,7 +115437,7 @@
         ],
         "rules": [
           {
-            "description": "I Modelli di qualsiasi Tipo diverso da Veicolo possono Imbarcarsi su un Modello con questa Regola Speciale, tuttavia possono essere Imbarcati solo 2 modelli che non abbiano il tipo Fanteria o Esemplare e che non abbiano alcuna variante della Regola Speciale Imponente (X) in cui il valore di X sia maggiore di 6. I Modelli di qualsiasi Tipo diverso da Veicolo possono Imbarcarsi su un Modello con questa Regola Speciale, tuttavia possono essere Imbarcati solo 2 modelli che non hanno il tipo Fanteria o Esemplare e tale Modello non può avere alcuna variante della Regola Speciale Imponente (X) in cui il valore di X è maggiore di 6.",
+            "description": "I Modelli di qualsiasi Tipo diverso da Veicolo possono Imbarcarsi su un Modello con questa Regola Speciale, tuttavia possono essere Imbarcati solo 2 modelli che non abbiano il tipo Fanteria o Esemplare e che non abbiano alcuna variante della Regola Speciale Imponente (X) in cui il valore di X sia maggiore di 6.\nI Modelli di qualsiasi Tipo diverso da Veicolo possono Imbarcarsi su un Modello con questa Regola Speciale, tuttavia possono essere Imbarcati solo 2 modelli che non hanno il tipo Fanteria o Esemplare e tale Modello non può avere alcuna variante della Regola Speciale Imponente (X) in cui il valore di X è maggiore di 6.",
             "name": "Stiva di Carico della Thunderhawk",
             "id": "a0f0-4c33-3a37-bd28",
             "hidden": false
@@ -116480,7 +116480,7 @@
         ],
         "rules": [
           {
-            "description": "I Modelli di qualsiasi Tipo diverso da Veicolo possono Imbarcarsi su un Modello con questa Regola Speciale, tuttavia possono essere Imbarcati solo 2 modelli che non abbiano il tipo Fanteria o Esemplare e che non abbiano alcuna variante della Regola Speciale Imponente (X) in cui il valore di X sia maggiore di 6. Inoltre, un Modello di Rhino può essere Imbarcato ed è considerato come se avesse la Regola Speciale Imponente (12) ai fini della Capacità di Trasporto.",
+            "description": "I Modelli di qualsiasi Tipo diverso da Veicolo possono Imbarcarsi su un Modello con questa Regola Speciale, tuttavia possono essere Imbarcati solo 2 modelli che non abbiano il tipo Fanteria o Esemplare e che non abbiano alcuna variante della Regola Speciale Imponente (X) in cui il valore di X sia maggiore di 6.\nInoltre, un Modello di Rhino può essere Imbarcato ed è considerato come se avesse la Regola Speciale Imponente (12) ai fini della Capacità di Trasporto.",
             "name": "Stiva di Carico della Stormbird",
             "id": "f5b1-633c-7aff-b319",
             "hidden": false
@@ -118676,7 +118676,7 @@
       {
         "rules": [
           {
-            "description": "Quando si effettua una Reazione Rispondere al Fuoco per un Modello con questa Regola Speciale, tutte le Armi Montate in Torretta vengono considerate Armi Difensive. Se l’Arma Montata in Torretta di un Modello con questa Regola Speciale è già un’Arma Difensiva, il Giocatore che controlla quel Modello può invece aggiungere +1 ai Tiri per Colpire effettuati per il Gruppo di Fuoco di quell’Arma quando effettua quella Reazione. Quando si effettua una Reazione Rispondere al Fuoco per un Modello con questa Regola Speciale, tutte le Armi Montate in Torretta vengono considerate Armi Difensive. Se l’Arma Montata in Torretta di un Modello con questa Regola Speciale è già un’Arma Difensiva, il Giocatore che controlla quel Modello può invece aggiungere +1 ai Tiri per Colpire effettuati per il Gruppo di Fuoco di quell’Arma quando effettua quella Reazione. Quando si effettua una Reazione Rispondere al Fuoco per un Modello con questa Regola Speciale, tutte le Armi Montate in Torretta vengono considerate Armi Difensive. Se l’Arma Montata in Torretta di un Modello con questa Regola Speciale è già un’Arma Difensiva, il Giocatore che controlla quel Modello può invece aggiungere +1 ai Tiri per Colpire effettuati per il Gruppo di Fuoco di quell’Arma quando effettua quella Reazione.",
+            "description": "Quando si effettua una Reazione Rispondere al Fuoco per un Modello con questa Regola Speciale, tutte le Armi Montate in Torretta vengono considerate Armi Difensive.\nSe l’Arma Montata in Torretta di un Modello con questa Regola Speciale è già un’Arma Difensiva, il Giocatore che controlla quel Modello può invece aggiungere +1 ai Tiri per Colpire effettuati per il Gruppo di Fuoco di quell’Arma quando effettua quella Reazione.\nQuando si effettua una Reazione Rispondere al Fuoco per un Modello con questa Regola Speciale, tutte le Armi Montate in Torretta vengono considerate Armi Difensive.\nSe l’Arma Montata in Torretta di un Modello con questa Regola Speciale è già un’Arma Difensiva, il Giocatore che controlla quel Modello può invece aggiungere +1 ai Tiri per Colpire effettuati per il Gruppo di Fuoco di quell’Arma quando effettua quella Reazione.\nQuando si effettua una Reazione Rispondere al Fuoco per un Modello con questa Regola Speciale, tutte le Armi Montate in Torretta vengono considerate Armi Difensive.\nSe l’Arma Montata in Torretta di un Modello con questa Regola Speciale è già un’Arma Difensiva, il Giocatore che controlla quel Modello può invece aggiungere +1 ai Tiri per Colpire effettuati per il Gruppo di Fuoco di quell’Arma quando effettua quella Reazione.",
             "name": "Attacco Locus",
             "id": "bd58-c37f-597f-8057",
             "hidden": false
@@ -118719,7 +118719,7 @@
       {
         "rules": [
           {
-            "description": "Quando un Modello con questa Regola Speciale è il Bersaglio di una Carica, durante il Passaggio 4 della Procedura di Carica, un Modello con questa Regola Speciale può effettuare un Attacco a Raffica aggiuntivo. Questo Attacco a Raffica aggiuntivo è effettuato come un Attacco a Distanza separato dopo aver risolto il suo primo Attacco a Raffica, e il Giocatore Controllante deve selezionare una sola Arma Brandeggiabile per effettuare gli attacchi come parte di questo secondo Attacco a Raffica. Se qualsiasi Modello viene Rimosso come Perdita a seguito degli Attacchi a Distanza di questo Modello come parte di questo Attacco a Raffica, l'Unità in Carica sottrae 1 dal risultato di qualsiasi Tiro di Carica effettuato durante questa Fase.",
+            "description": "Quando un Modello con questa Regola Speciale è il Bersaglio di una Carica, durante il Passaggio 4 della Procedura di Carica, un Modello con questa Regola Speciale può effettuare un Attacco a Raffica aggiuntivo.\nQuesto Attacco a Raffica aggiuntivo è effettuato come un Attacco a Distanza separato dopo aver risolto il suo primo Attacco a Raffica, e il Giocatore Controllante deve selezionare una sola Arma Brandeggiabile per effettuare gli attacchi come parte di questo secondo Attacco a Raffica.\nSe qualsiasi Modello viene Rimosso come Perdita a seguito degli Attacchi a Distanza di questo Modello come parte di questo Attacco a Raffica, l'Unità in Carica sottrae 1 dal risultato di qualsiasi Tiro di Carica effettuato durante questa Fase.",
             "name": "Difesa Puntuale",
             "id": "4add-017a-caa3-babd",
             "hidden": false
@@ -120472,7 +120472,7 @@
         ],
         "rules": [
           {
-            "description": "Una volta per Turno, se un’Unità che contiene Modelli con questa Regola Speciale si trova entro 18\" da un’Unità che effettua una Reazione, il Giocatore che la controlla può effettuare una Prova di Intelligenza per questa Unità modificando il risultato di quella Prova di -1 qualora un qualsiasi Modello dell’Unità con questa Regola Speciale dovesse avere Linea di Vista verso un Modello dell’Unità che Reattiva. Se la Prova ha successo, quella Reazione costa un Punto Reazione in meno, fino a un minimo di 0.",
+            "description": "Una volta per Turno, se un’Unità che contiene Modelli con questa Regola Speciale si trova entro 18\" da un’Unità che effettua una Reazione, il Giocatore che la controlla può effettuare una Prova di Intelligenza per questa Unità modificando il risultato di quella Prova di -1 qualora un qualsiasi Modello dell’Unità con questa Regola Speciale dovesse avere Linea di Vista verso un Modello dell’Unità che Reattiva.\nSe la Prova ha successo, quella Reazione costa un Punto Reazione in meno, fino a un minimo di 0.",
             "name": "Coordinatori da Campo",
             "id": "e1bc-531b-4440-d1aa",
             "hidden": false
@@ -202237,7 +202237,7 @@
         ],
         "rules": [
           {
-            "description": "Un Modello con il Sottotipo Superpesante e Decurion Magna: Arnesi Comando Modello Incursore può effettuare le Reazioni Fuoco di Difesa e Rispondere al Fuoco bersagliando qualunque Unità, anziché solo dalle Unità che contengono Modelli con il Tipo Esemplare, il Sottotipo Superpesante, il Sottotipo Cavaliere o il Sottotipo Titano. Inoltre, mentre un Modello con Decurion Magna: Arnesi Comando Modello Incursore ha lo Status Tattico Soppresso o Stordito, ha la Regola Speciale Auto-Riparazione (4+). Un Modello con il Sottotipo Superpesante e Decurion Magna: Arnesi Comando Modello Incursore può effettuare le Reazioni Fuoco di Difesa e Rispondere al Fuoco bersagliando qualunque Unità, anziché solo dalle Unità che contengono Modelli con il Tipo Esemplare, il Sottotipo Superpesante, il Sottotipo Cavaliere o il Sottotipo Titano. Inoltre, mentre un Modello con Decurion Magna: Arnesi Comando Modello Incursore ha lo Status Tattico Soppresso o Stordito, ha la Regola Speciale Auto-Riparazione (4+).",
+            "description": "Un Modello con il Sottotipo Superpesante e Decurion Magna: Arnesi Comando Modello Incursore può effettuare le Reazioni Fuoco di Difesa e Rispondere al Fuoco bersagliando qualunque Unità, anziché solo dalle Unità che contengono Modelli con il Tipo Esemplare, il Sottotipo Superpesante, il Sottotipo Cavaliere o il Sottotipo Titano.\nInoltre, mentre un Modello con Decurion Magna: Arnesi Comando Modello Incursore ha lo Status Tattico Soppresso o Stordito, ha la Regola Speciale Auto-Riparazione (4+).\nUn Modello con il Sottotipo Superpesante e Decurion Magna: Arnesi Comando Modello Incursore può effettuare le Reazioni Fuoco di Difesa e Rispondere al Fuoco bersagliando qualunque Unità, anziché solo dalle Unità che contengono Modelli con il Tipo Esemplare, il Sottotipo Superpesante, il Sottotipo Cavaliere o il Sottotipo Titano.\nInoltre, mentre un Modello con Decurion Magna: Arnesi Comando Modello Incursore ha lo Status Tattico Soppresso o Stordito, ha la Regola Speciale Auto-Riparazione (4+).",
             "name": "Decurion Magna",
             "id": "1580-1005-922e-2a0e",
             "hidden": false
@@ -218897,7 +218897,7 @@
                 "description": "\"Questa Regola Speciale consente ai Modelli di usare una Reazione Avanzata per arrivare dalle Riserve in prossimità di un'Unità nemica.\"\n\nIl Giocatore Controllante di un'Unità che contenga solo Modelli con questa Regola Speciale può usare la Reazione Avanzata Agguato Nascosto.",
                 "name": "Posizioni Nascoste",
                 "id": "1d63-2f66-d366-3a2a",
-                "hidden": false
+                "hidden": true
               }
             ],
             "profiles": [
@@ -219155,7 +219155,7 @@
                 "description": "Questo Vantaggio Primario può essere selezionato solo per un’Unità di Optae con il Tratto Lupi Siderali. Quel Modello ha i suoi Attacchi e Abilità di Combattimento Base modificate di +1, e può scambiare la sua spada potenziata con una spada del gelo o un’ascia del gelo gratuitamente, o con un artiglio del gelo per +5 Punti.",
                 "name": "Thegn del Branco",
                 "id": "6f8f-beff-6ab3-36bf",
-                "hidden": false
+                "hidden": true
               }
             ],
             "comment": "Lupi Siderali",
@@ -219195,16 +219195,16 @@
           {
             "rules": [
               {
-                "description": "Mentre un Modello con questa Regola Speciale si trova in Coesione dell'Unità con l'altro Modello della propria Armata con questa Regola Speciale, quel Modello ottiene un bonus di +1 ai Tiri per Colpire effettuati nella Fase di Assalto. Se un Modello impegnato in una Sfida si trova nello stesso Combattimento dell'altro Modello della propria Armata con questa Regola Speciale, quel Modello è considerato in Coesione dell'Unità con quell'altro Modello ai fini di questa Regola Speciale.",
+                "description": "Mentre un Modello con questa Regola Speciale si trova in Coesione dell'Unità con l'altro Modello della propria Armata con questa Regola Speciale, quel Modello ottiene un bonus di +1 ai Tiri per Colpire effettuati nella Fase di Assalto.\nSe un Modello impegnato in una Sfida si trova nello stesso Combattimento dell'altro Modello della propria Armata con questa Regola Speciale, quel Modello è considerato in Coesione dell'Unità con quell'altro Modello ai fini di questa Regola Speciale.",
                 "name": "Fratelli di Catena",
                 "id": "35fd-5174-6893-be56",
-                "hidden": false
+                "hidden": true
               },
               {
-                "description": "Questo Vantaggio Primario può essere selezionato solo per un’Unità con il Ruolo Comando, che includa solo Modelli con il Tratto Divoratori di Mondi, una singola volta per Armata. Quando questo Vantaggio Primario viene selezionato, il Giocatore Controllante deve selezionare un’altra Unità della propria Armata che includa solo Modelli con il Tratto Divoratori di Mondi e che abbia Ruolo Comando, ed un Modello di ciascuna delle due Unità è considerato “Concatenato”. Finché un Modello con Catena si trova entro Coesione dall’altro Modello Concatenato, quel Modello ottiene un bonus di +1 ai Tiri per Colpire effettuati nella Fase di Assalto. Se un Modello Concatenato impegnato in una Sfida si trova nello stesso Combattimento dell’altro Modello Concatenato, quei Modelli sono considerati in Coesione.",
+                "description": "Questo Vantaggio Primario può essere selezionato solo per un’Unità con il Ruolo Comando, che includa solo Modelli con il Tratto Divoratori di Mondi, una singola volta per Armata.\nQuando questo Vantaggio Primario viene selezionato, il Giocatore Controllante deve selezionare un’altra Unità della propria Armata che includa solo Modelli con il Tratto Divoratori di Mondi e che abbia Ruolo Comando, ed un Modello di ciascuna delle due Unità è considerato “Concatenato”.\nFinché un Modello con Catena si trova entro Coesione dall’altro Modello Concatenato, quel Modello ottiene un bonus di +1 ai Tiri per Colpire effettuati nella Fase di Assalto.\nSe un Modello Concatenato impegnato in una Sfida si trova nello stesso Combattimento dell’altro Modello Concatenato, quei Modelli sono considerati in Coesione.",
                 "name": "Concatenato",
                 "id": "9fea-f2f7-72b0-919d",
-                "hidden": false
+                "hidden": true
               }
             ],
             "constraints": [
@@ -219491,10 +219491,10 @@
             ],
             "rules": [
               {
-                "description": "Questo Vantaggio Primario può essere selezionato solo per un’Unità di Centurione o Centurione in Armatura Terminator con il Tratto Angeli Oscuri, una singola volta per Armata. Quel Modello ha la sua Caratteristica Abilità di Combattimento Base modificata di +1, deve scambiare il suo fucile requiem con uno spadone Terranico gratuitamente, e ottiene la Regola Speciale Esemplare dell’Ordine. Se è stata selezionata un’Unità di Centurione in Armatura Terminator, viene invece sostituita l’arma potenziata invece del fucile requiem. Regole Speciali",
+                "description": "Questo Vantaggio Primario può essere selezionato solo per un’Unità di Centurione o Centurione in Armatura Terminator con il Tratto Angeli Oscuri, una singola volta per Armata.\nQuel Modello ha la sua Caratteristica Abilità di Combattimento Base modificata di +1, deve scambiare il suo fucile requiem con uno spadone Terranico gratuitamente, e ottiene la Regola Speciale Esemplare dell’Ordine.\nSe è stata selezionata un’Unità di Centurione in Armatura Terminator, viene invece sostituita l’arma potenziata invece del fucile requiem.\nRegole Speciali",
                 "name": "Paladino degli Hekatonystika",
                 "id": "4f22-da6c-0ce3-8aba",
-                "hidden": false
+                "hidden": true
               }
             ],
             "type": "upgrade",
@@ -219755,7 +219755,7 @@
                 "description": "Questo Vantaggio Primario può essere selezionato solo per un’Unità con il Ruolo Reparti Speciali, che includa solo Modelli con il Tratto Figli di Horus. Un Modello nell’Unità selezionata per riempire il Riquadro Primario con questo Vantaggio Primario ottiene il Sottotipo Campione e la Regola Speciale Maestria del Duellante (1).",
                 "name": "Supremazia Marziale",
                 "id": "4335-fd54-4bc4-f802",
-                "hidden": false
+                "hidden": true
               }
             ],
             "infoLinks": [
@@ -220036,10 +220036,10 @@
             ],
             "rules": [
               {
-                "description": "Questo Vantaggio Primario può essere selezionato solo per un’Unità con il Ruolo Truppe, che includa solo Modelli con il Tratto “Stirpe dei Mille”. Quando il Giocatore Controllante sceglie di effettuare uno Scatto con quell’Unità, può scegliere di effettuare uno “Dislocamento Telecinetico” effettuando una Prova di Volontà per quell’Unità. Se la Prova di Volontà ha successo, l’Unità ottiene il Sottotipo Antigravitazionale e la Regola Speciale “Movimento in Copertura” fino alla fine della Fase di Movimento in corso. Se la Prova di Volontà fallisce, l’Unità selezionata non può Muoversi durante la Fase di Movimento in corso. Arcani Prosperini Qualsiasi Unità con il Tratto Stirpe dei Mille e che non includa Modelli con il Tipo Veicolo o Automa, il Sottotipo Unico, e che non ne possegga già uno, può prendere uno tra i seguenti Arcani Prosperini: Athanaean, per +10 punti; Corvidae, per +10 punti; Pavoni, per +10 punti; Pirae, per +10 punti; Raptora, per +10 punti. Qualsiasi Unità di Pretore in Armatura Terminator Saturnina, Centurione in Armatura Terminator Saturnine, Squadra Comando Terminator Saturnina, Squadra Terminator Saturnina, oppure con il Tipo Camminatore, può invece selezionare: Osiraean, per +10 punti. Se un Modello che Manifesta un Potere Psionico, un’Arma Psionica o una Reazione Psionica ottenuti da un Arcano Prosperino dovrebbe subire gli effetti dei Pericoli del Warp, la sua Unità subisce invece D3 ferite con VP di 2 e Danno 1, che ignorano tutti i Tiri Copertura ed i Tiri Mitigazione, allocate come se fossero inflitte da un Attacco a Distanza. Se a un’Unità viene concessa un’Arma Psionica da un Arcano Prosperino, può essere utilizzata da un singolo Modello per Attacco a Distanza o Combattimento.",
+                "description": "Questo Vantaggio Primario può essere selezionato solo per un’Unità con il Ruolo Truppe, che includa solo Modelli con il Tratto “Stirpe dei Mille”.\nQuando il Giocatore Controllante sceglie di effettuare uno Scatto con quell’Unità, può scegliere di effettuare uno “Dislocamento Telecinetico” effettuando una Prova di Volontà per quell’Unità.\nSe la Prova di Volontà ha successo, l’Unità ottiene il Sottotipo Antigravitazionale e la Regola Speciale “Movimento in Copertura” fino alla fine della Fase di Movimento in corso.\nSe la Prova di Volontà fallisce, l’Unità selezionata non può Muoversi durante la Fase di Movimento in corso.\nArcani Prosperini Qualsiasi Unità con il Tratto Stirpe dei Mille e che non includa Modelli con il Tipo Veicolo o Automa, il Sottotipo Unico, e che non ne possegga già uno, può prendere uno tra i seguenti Arcani Prosperini: Athanaean, per +10 punti; Corvidae, per +10 punti; Pavoni, per +10 punti; Pirae, per +10 punti; Raptora, per +10 punti.\nQualsiasi Unità di Pretore in Armatura Terminator Saturnina, Centurione in Armatura Terminator Saturnine, Squadra Comando Terminator Saturnina, Squadra Terminator Saturnina, oppure con il Tipo Camminatore, può invece selezionare: Osiraean, per +10 punti.\nSe un Modello che Manifesta un Potere Psionico, un’Arma Psionica o una Reazione Psionica ottenuti da un Arcano Prosperino dovrebbe subire gli effetti dei Pericoli del Warp, la sua Unità subisce invece D3 ferite con VP di 2 e Danno 1, che ignorano tutti i Tiri Copertura ed i Tiri Mitigazione, allocate come se fossero inflitte da un Attacco a Distanza.\nSe a un’Unità viene concessa un’Arma Psionica da un Arcano Prosperino, può essere utilizzata da un singolo Modello per Attacco a Distanza o Combattimento.",
                 "name": "Dislocamento Telecinetico",
                 "id": "3aa8-e3ad-265b-03c7",
-                "hidden": false
+                "hidden": true
               }
             ],
             "comment": "Stirpe dei Mille",
@@ -220074,7 +220074,7 @@
                 "description": "Questo Vantaggio Primario può essere selezionato solo per Unità di un’Armata con Fedeltà Traditore. Tutti i Modelli dell’Unità selezionata per riempire il Riquadro Principale ottengono il Sottotipo Malefico.",
                 "name": "Veri Credenti",
                 "id": "a33a-8552-323c-e8be",
-                "hidden": false
+                "hidden": true
               }
             ],
             "modifiers": [
@@ -220169,7 +220169,7 @@
                 "description": "All’inizio della Sottofase di Carica del suo Turno di Battaglia, il Giocatore Controllante di un’Unità che contenga qualsiasi Modello con questa Regola Speciale può dichiarare la sua Unità come Persa nei Chiodi.",
                 "name": "Esortazione al Macello",
                 "id": "21f3-2111-65c0-20c6",
-                "hidden": false
+                "hidden": true
               }
             ],
             "comment": "Divoratori di Mondi Apothacaries only",
@@ -221543,10 +221543,10 @@
             ],
             "rules": [
               {
-                "description": "Questo Vantaggio Primario può essere selezionato solo per un’Unità con il Ruolo Comando che includa solo Modelli con il Tratto Legioni Spezzate. Aggiungi un Riquadro aggiuntivo al Distaccamento che include l’Unità selezionata per riempire un Riquadro con questo Vantaggio Primario. Questo Riquadro può essere di qualsiasi Ruolo diverso da Alto Comando, Comando, Sovrano della Guerra o Generale. Ogni Unità selezionata per riempire tale Riquadro deve provenire dalla Lista dell’Esercito Legiones Astartes, non includere Modelli con il Sottotipo Unico ed avere un Tratto di Fazione corrispondente alla Legione rappresentata dal Modello selezionato per riempire il Riquadro con questo Vantaggio Primario. Tutti i Modelli in una qualsiasi di queste Unità hanno il loro Tratto di Fazione sostituito con Legioni Spezzate e ottengono la seguente Regola Speciale Specialisti di Legione.",
+                "description": "Questo Vantaggio Primario può essere selezionato solo per un’Unità con il Ruolo Comando che includa solo Modelli con il Tratto Legioni Spezzate.\nAggiungi un Riquadro aggiuntivo al Distaccamento che include l’Unità selezionata per riempire un Riquadro con questo Vantaggio Primario.\nQuesto Riquadro può essere di qualsiasi Ruolo diverso da Alto Comando, Comando, Sovrano della Guerra o Generale.\nOgni Unità selezionata per riempire tale Riquadro deve provenire dalla Lista dell’Esercito Legiones Astartes, non includere Modelli con il Sottotipo Unico ed avere un Tratto di Fazione corrispondente alla Legione rappresentata dal Modello selezionato per riempire il Riquadro con questo Vantaggio Primario.\nTutti i Modelli in una qualsiasi di queste Unità hanno il loro Tratto di Fazione sostituito con Legioni Spezzate e ottengono la seguente Regola Speciale Specialisti di Legione.",
                 "name": "Esemplari delle Legioni",
                 "id": "f0b1-22e1-ceaf-1e5c",
-                "hidden": false
+                "hidden": true
               }
             ],
             "type": "upgrade",
@@ -221859,7 +221859,7 @@
                 "description": "Un Modello nell'Unità selezionata per riempire il Riquadro Primario che abbia il Sottotipo Sergente ottiene +1 alle proprie Caratteristiche Attacchi, Abilità di Combattimento e Disciplina e il Sottotipo Campione (se possiede già il Sottotipo Campione, aumenta invece la propria Disciplina di un ulteriore +1).\n\nInoltre, se questo Vantaggio Primario è selezionato per un'Unità in un Distaccamento Principale o Alleato, allora un Distaccamento Ausiliario può essere collegato a quel Distaccamento come se questa Unità fosse una Scelta Comando. Tutti i Riquadri nei Distaccamenti Ausiliari selezionati usando questo Vantaggio Primario diventano Riquadri Primari, ma l'unico Vantaggio Primario che può essere selezionato per qualsiasi Riquadro in tale Distaccamento è Signore della Guerra Minore.",
                 "name": "Signore della Guerra Minore",
                 "id": "e648-3433-03ce-2caf",
-                "hidden": false
+                "hidden": true
               }
             ],
             "costs": [
@@ -238103,7 +238103,7 @@
     "name": "Legiones Astartes",
     "gameSystemId": "sys-b976-0013-2f97-437b",
     "gameSystemRevision": 1,
-    "revision": 69,
+    "revision": 70,
     "authorName": "The4D6",
     "battleScribeVersion": 2.03,
     "type": "catalogue",

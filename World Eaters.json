@@ -134,7 +134,7 @@
           {
             "rules": [
               {
-                "description": "Se quattro o più Riquadri Truppe nel Distaccamento Principale sono occupati da Unità di Squadra Assaltatrice e/o di Squadra Depredatrice, allora tutti i Riquadri Truppe nel Distaccamento Principale sono considerati Riquadri Primari. Inoltre, fino alla fine del primo Turno di Battaglia, tutti i Modelli di questa Armata con il Tipo Fanteria o Esemplare e il Tratto Divoratori di Mondi hanno la Regola Speciale Veloce (2).",
+                "description": "Se quattro o più Riquadri Truppe nel Distaccamento Principale sono occupati da Unità di Squadra Assaltatrice e/o di Squadra Depredatrice, allora tutti i Riquadri Truppe nel Distaccamento Principale sono considerati Riquadri Primari.\nInoltre, fino alla fine del primo Turno di Battaglia, tutti i Modelli di questa Armata con il Tipo Fanteria o Esemplare e il Tratto Divoratori di Mondi hanno la Regola Speciale Veloce (2).",
                 "name": "Sire dei Divoratori di Mondi",
                 "id": "1a45-676f-f623-3057",
                 "hidden": false,
@@ -3189,7 +3189,7 @@
             "hidden": false
           },
           {
-            "description": "Se un Modello con questa Regola Speciale è incluso nel Distaccamento Principale di questa Armata e si trova sul Campo di Battaglia, nella Sottofase degli Effetti della Fase Iniziale, il Giocatore che controlla il Modello con questa Regola Speciale può effettuare una Prova di Intelligenza per quel Modello. Se la Prova ha successo, il Giocatore che controlla può selezionare una delle seguenti opzioni: Coordinare: una volta durante questo Turno, prima di effettuare un Tiro Riserve per un’Unità in Riserve Aeree, il Giocatore che controlla può modificare il risultato di quel Test di Riserve di +1. Annientare: una volta durante la successiva Fase di Movimento dell’avversario, il Giocatore che controlla può effettuare la Reazione Avanzata Cannoni della Conqueror. Reazione Avanzata: Cannoni della Conqueror Attivazione: il Giocatore Reattivo può dichiarare questa Reazione Avanzata “Cannoni della Conqueror” nel Passaggio 2 della Sottofase di Movimento, se un’Unità nemica termina un movimento entro 24\" e Linea di Vista da qualsiasi Modello di un’Unità sotto il Controllo del Giocatore Reattivo che includa un Modello con la Regola Speciale Cannoni della Conqueror per il quale sia stata selezionata l’opzione “Annientare” nella Sottofase degli Effetti della sua precedente Fase Iniziale. Costo: 3 Punti Reazione. Bersaglio: l’Unità il cui Movimento ha attivato la Reazione. L’Unità che include il Modello con questa Regola Speciale è considerata l’Unità Reattiva. Procedura: Una volta dichiarata la Reazione Avanzata “Cannoni della Conqueror”, il Giocatore Reattivo effettua un Attacco a Distanza prendendo di mira l’Unità Bersaglio, usando il profilo Arma “Cannoni della Conqueror”. Il Tiro per Colpire per questo Attacco a Distanza fallisce automaticamente. Una volta che l’Attacco a Distanza effettuato come parte di questa Reazione è stato completamente risolto, il Giocatore Attivo deve quindi risolvere completamente tutti gli elementi rimanenti del movimento dell’Unità Bersaglio.",
+            "description": "Se un Modello con questa Regola Speciale è incluso nel Distaccamento Principale di questa Armata e si trova sul Campo di Battaglia, nella Sottofase degli Effetti della Fase Iniziale, il Giocatore che controlla il Modello con questa Regola Speciale può effettuare una Prova di Intelligenza per quel Modello.\nSe la Prova ha successo, il Giocatore che controlla può selezionare una delle seguenti opzioni: Coordinare: una volta durante questo Turno, prima di effettuare un Tiro Riserve per un’Unità in Riserve Aeree, il Giocatore che controlla può modificare il risultato di quel Test di Riserve di +1.\nAnnientare: una volta durante la successiva Fase di Movimento dell’avversario, il Giocatore che controlla può effettuare la Reazione Avanzata Cannoni della Conqueror.\nReazione Avanzata: Cannoni della Conqueror Attivazione: il Giocatore Reattivo può dichiarare questa Reazione Avanzata “Cannoni della Conqueror” nel Passaggio 2 della Sottofase di Movimento, se un’Unità nemica termina un movimento entro 24\" e Linea di Vista da qualsiasi Modello di un’Unità sotto il Controllo del Giocatore Reattivo che includa un Modello con la Regola Speciale Cannoni della Conqueror per il quale sia stata selezionata l’opzione “Annientare” nella Sottofase degli Effetti della sua precedente Fase Iniziale.\nCosto: 3 Punti Reazione.\nBersaglio: l’Unità il cui Movimento ha attivato la Reazione.\nL’Unità che include il Modello con questa Regola Speciale è considerata l’Unità Reattiva.\nProcedura: Una volta dichiarata la Reazione Avanzata “Cannoni della Conqueror”, il Giocatore Reattivo effettua un Attacco a Distanza prendendo di mira l’Unità Bersaglio, usando il profilo Arma “Cannoni della Conqueror”.\nIl Tiro per Colpire per questo Attacco a Distanza fallisce automaticamente.\nUna volta che l’Attacco a Distanza effettuato come parte di questa Reazione è stato completamente risolto, il Giocatore Attivo deve quindi risolvere completamente tutti gli elementi rimanenti del movimento dell’Unità Bersaglio.",
             "name": "Ombra della Conqueror",
             "id": "2f7a-625e-ad4e-c62c",
             "hidden": false
@@ -4244,16 +4244,16 @@
               {
                 "rules": [
                   {
-                    "description": "Mentre un Modello con questa Regola Speciale si trova in Coesione dell'Unità con l'altro Modello della propria Armata con questa Regola Speciale, quel Modello ottiene un bonus di +1 ai Tiri per Colpire effettuati nella Fase di Assalto. Se un Modello impegnato in una Sfida si trova nello stesso Combattimento dell'altro Modello della propria Armata con questa Regola Speciale, quel Modello è considerato in Coesione dell'Unità con quell'altro Modello ai fini di questa Regola Speciale.",
+                    "description": "Mentre un Modello con questa Regola Speciale si trova in Coesione dell'Unità con l'altro Modello della propria Armata con questa Regola Speciale, quel Modello ottiene un bonus di +1 ai Tiri per Colpire effettuati nella Fase di Assalto.\nSe un Modello impegnato in una Sfida si trova nello stesso Combattimento dell'altro Modello della propria Armata con questa Regola Speciale, quel Modello è considerato in Coesione dell'Unità con quell'altro Modello ai fini di questa Regola Speciale.",
                     "name": "Fratelli di Catena",
                     "id": "781d-9aa5-72fc-42e7",
-                    "hidden": false
+                    "hidden": true
                   },
                   {
-                    "description": "Questo Vantaggio Primario può essere selezionato solo per un’Unità con il Ruolo Comando, che includa solo Modelli con il Tratto Divoratori di Mondi, una singola volta per Armata. Quando questo Vantaggio Primario viene selezionato, il Giocatore Controllante deve selezionare un’altra Unità della propria Armata che includa solo Modelli con il Tratto Divoratori di Mondi e che abbia Ruolo Comando, ed un Modello di ciascuna delle due Unità è considerato “Concatenato”. Finché un Modello con Catena si trova entro Coesione dall’altro Modello Concatenato, quel Modello ottiene un bonus di +1 ai Tiri per Colpire effettuati nella Fase di Assalto. Se un Modello Concatenato impegnato in una Sfida si trova nello stesso Combattimento dell’altro Modello Concatenato, quei Modelli sono considerati in Coesione.",
+                    "description": "Questo Vantaggio Primario può essere selezionato solo per un’Unità con il Ruolo Comando, che includa solo Modelli con il Tratto Divoratori di Mondi, una singola volta per Armata.\nQuando questo Vantaggio Primario viene selezionato, il Giocatore Controllante deve selezionare un’altra Unità della propria Armata che includa solo Modelli con il Tratto Divoratori di Mondi e che abbia Ruolo Comando, ed un Modello di ciascuna delle due Unità è considerato “Concatenato”.\nFinché un Modello con Catena si trova entro Coesione dall’altro Modello Concatenato, quel Modello ottiene un bonus di +1 ai Tiri per Colpire effettuati nella Fase di Assalto.\nSe un Modello Concatenato impegnato in una Sfida si trova nello stesso Combattimento dell’altro Modello Concatenato, quei Modelli sono considerati in Coesione.",
                     "name": "Concatenato",
                     "id": "25ad-1ab4-b33a-9391",
-                    "hidden": false
+                    "hidden": true
                   }
                 ],
                 "constraints": [
@@ -5374,7 +5374,7 @@
         ],
         "rules": [
           {
-            "description": "Quando si risolve un Combattimento nella Sottofase di Risoluzione della Fase di Assalto, il Giocatore Controllante ottiene 1 punto di Risoluzione del Combattimento per ogni Unità che includa Modelli con questa Regola Speciale. Quando si risolve un Combattimento nella Sottofase di Risoluzione della Fase di Assalto, il Giocatore Controllante ottiene 1 punto di Risoluzione del Combattimento per ogni Unità che includa Modelli con questa Regola Speciale.",
+            "description": "Quando si risolve un Combattimento nella Sottofase di Risoluzione della Fase di Assalto, il Giocatore Controllante ottiene 1 punto di Risoluzione del Combattimento per ogni Unità che includa Modelli con questa Regola Speciale.\nQuando si risolve un Combattimento nella Sottofase di Risoluzione della Fase di Assalto, il Giocatore Controllante ottiene 1 punto di Risoluzione del Combattimento per ogni Unità che includa Modelli con questa Regola Speciale.",
             "name": "Portatori della Mano Insanguinata",
             "id": "0264-f73a-e487-91eb",
             "hidden": false
@@ -6374,7 +6374,7 @@
         ],
         "rules": [
           {
-            "description": "Quando si risolve un Combattimento nella Sottofase di Risoluzione della Fase di Assalto, il Giocatore Controllante ottiene 1 punto di Risoluzione del Combattimento per ogni Unità che includa Modelli con questa Regola Speciale. Quando si risolve un Combattimento nella Sottofase di Risoluzione della Fase di Assalto, il Giocatore Controllante ottiene 1 punto di Risoluzione del Combattimento per ogni Unità che includa Modelli con questa Regola Speciale.",
+            "description": "Quando si risolve un Combattimento nella Sottofase di Risoluzione della Fase di Assalto, il Giocatore Controllante ottiene 1 punto di Risoluzione del Combattimento per ogni Unità che includa Modelli con questa Regola Speciale.\nQuando si risolve un Combattimento nella Sottofase di Risoluzione della Fase di Assalto, il Giocatore Controllante ottiene 1 punto di Risoluzione del Combattimento per ogni Unità che includa Modelli con questa Regola Speciale.",
             "name": "Portatori della Mano Insanguinata",
             "id": "bc60-0902-c013-18ae",
             "hidden": false
@@ -7261,7 +7261,7 @@
                     "hidden": false
                   },
                   {
-                    "description": "Quando un’Unità diventa Persa nei Chiodi, tutti gli Status Tattici che la influenzano vengono rimossi. Inoltre, mentre un’Unità è Persa nei Chiodi: I modelli di quell’Unità possono aggiungere +1\" alla distanza di Posizionamento; Modificare la Caratteristica Attacchi dei Modelli di quell’Unità di +1; I Modelli di quell’Unità sono considerati avere una Caratteristica di Disciplina, Coraggio e Volontà pari a 10, a meno che non sia normalmente superiore. Se, all’inizio della Sottofase di Carica del Giocatore Controllante, l’Unità si trova entro 12\" da qualsiasi Modello nemico, quell’Unità deve effettuare un Movimento di Carica e se più di un’Unità nemica si trova entro 12\", il Giocatore Controllante deve scegliere l’Unità nemica più vicina come Unità Bersaglio per quella Carica. All’inizio della Sottofase di Carica del Giocatore Controllante: se non ci sono Unità nemiche entro 12\" da un’Unità che è Persa nei Chiodi, quell’Unità non è più Persa nei Chiodi.",
+                    "description": "Quando un’Unità diventa Persa nei Chiodi, tutti gli Status Tattici che la influenzano vengono rimossi.\nInoltre, mentre un’Unità è Persa nei Chiodi: I modelli di quell’Unità possono aggiungere +1\" alla distanza di Posizionamento; Modificare la Caratteristica Attacchi dei Modelli di quell’Unità di +1; I Modelli di quell’Unità sono considerati avere una Caratteristica di Disciplina, Coraggio e Volontà pari a 10, a meno che non sia normalmente superiore.\nSe, all’inizio della Sottofase di Carica del Giocatore Controllante, l’Unità si trova entro 12\" da qualsiasi Modello nemico, quell’Unità deve effettuare un Movimento di Carica e se più di un’Unità nemica si trova entro 12\", il Giocatore Controllante deve scegliere l’Unità nemica più vicina come Unità Bersaglio per quella Carica.\nAll’inizio della Sottofase di Carica del Giocatore Controllante: se non ci sono Unità nemiche entro 12\" da un’Unità che è Persa nei Chiodi, quell’Unità non è più Persa nei Chiodi.",
                     "name": "Persa nei Chiodi",
                     "id": "b0e3-2944-982a-e8c4",
                     "hidden": false
@@ -7628,16 +7628,16 @@
           {
             "rules": [
               {
-                "description": "Mentre un Modello con questa Regola Speciale si trova in Coesione dell'Unità con l'altro Modello della propria Armata con questa Regola Speciale, quel Modello ottiene un bonus di +1 ai Tiri per Colpire effettuati nella Fase di Assalto. Se un Modello impegnato in una Sfida si trova nello stesso Combattimento dell'altro Modello della propria Armata con questa Regola Speciale, quel Modello è considerato in Coesione dell'Unità con quell'altro Modello ai fini di questa Regola Speciale.",
+                "description": "Mentre un Modello con questa Regola Speciale si trova in Coesione dell'Unità con l'altro Modello della propria Armata con questa Regola Speciale, quel Modello ottiene un bonus di +1 ai Tiri per Colpire effettuati nella Fase di Assalto.\nSe un Modello impegnato in una Sfida si trova nello stesso Combattimento dell'altro Modello della propria Armata con questa Regola Speciale, quel Modello è considerato in Coesione dell'Unità con quell'altro Modello ai fini di questa Regola Speciale.",
                 "name": "Fratelli di Catena",
                 "id": "262c-556a-b346-4253",
-                "hidden": false
+                "hidden": true
               },
               {
-                "description": "Questo Vantaggio Primario può essere selezionato solo per un’Unità con il Ruolo Comando, che includa solo Modelli con il Tratto Divoratori di Mondi, una singola volta per Armata. Quando questo Vantaggio Primario viene selezionato, il Giocatore Controllante deve selezionare un’altra Unità della propria Armata che includa solo Modelli con il Tratto Divoratori di Mondi e che abbia Ruolo Comando, ed un Modello di ciascuna delle due Unità è considerato “Concatenato”. Finché un Modello con Catena si trova entro Coesione dall’altro Modello Concatenato, quel Modello ottiene un bonus di +1 ai Tiri per Colpire effettuati nella Fase di Assalto. Se un Modello Concatenato impegnato in una Sfida si trova nello stesso Combattimento dell’altro Modello Concatenato, quei Modelli sono considerati in Coesione.",
+                "description": "Questo Vantaggio Primario può essere selezionato solo per un’Unità con il Ruolo Comando, che includa solo Modelli con il Tratto Divoratori di Mondi, una singola volta per Armata.\nQuando questo Vantaggio Primario viene selezionato, il Giocatore Controllante deve selezionare un’altra Unità della propria Armata che includa solo Modelli con il Tratto Divoratori di Mondi e che abbia Ruolo Comando, ed un Modello di ciascuna delle due Unità è considerato “Concatenato”.\nFinché un Modello con Catena si trova entro Coesione dall’altro Modello Concatenato, quel Modello ottiene un bonus di +1 ai Tiri per Colpire effettuati nella Fase di Assalto.\nSe un Modello Concatenato impegnato in una Sfida si trova nello stesso Combattimento dell’altro Modello Concatenato, quei Modelli sono considerati in Coesione.",
                 "name": "Concatenato",
                 "id": "b20c-76b7-0109-ebd7",
-                "hidden": false
+                "hidden": true
               }
             ],
             "constraints": [
@@ -7895,7 +7895,7 @@
     "name": "                        XII - Divoratori di Mondi",
     "gameSystemId": "sys-b976-0013-2f97-437b",
     "gameSystemRevision": 1,
-    "revision": 28,
+    "revision": 29,
     "authorUrl": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita",
     "authorContact": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita/issues",
     "authorName": "The4D6",

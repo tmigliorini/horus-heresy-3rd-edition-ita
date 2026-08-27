@@ -153,7 +153,7 @@
           {
             "rules": [
               {
-                "description": "Se quattro o più Riquadri Truppe nel Distaccamento Principale sono occupati da Unità di Squadre Tattiche, allora tutti i Riquadri Truppe nel Distaccamento Principale sono considerati Riquadri Primari. Inoltre, fino alla fine del primo Turno di Battaglia, ogni volta che il Giocatore Controllante effettua un Attacco a Distanza per un’Unità che includa solo Modelli con il Tratto Guardia della Morte, se un Gruppo di Fuoco ha una Caratteristica Potenza di Fuoco totale di 11 o più, gli Attacchi effettuati da quel Gruppo di Fuoco hanno la Regola Speciale Inchiodamento (0).",
+                "description": "Se quattro o più Riquadri Truppe nel Distaccamento Principale sono occupati da Unità di Squadre Tattiche, allora tutti i Riquadri Truppe nel Distaccamento Principale sono considerati Riquadri Primari.\nInoltre, fino alla fine del primo Turno di Battaglia, ogni volta che il Giocatore Controllante effettua un Attacco a Distanza per un’Unità che includa solo Modelli con il Tratto Guardia della Morte, se un Gruppo di Fuoco ha una Caratteristica Potenza di Fuoco totale di 11 o più, gli Attacchi effettuati da quel Gruppo di Fuoco hanno la Regola Speciale Inchiodamento (0).",
                 "name": "Sire della Guardia della Morte",
                 "id": "23d3-c3f7-037e-aece",
                 "hidden": false,
@@ -685,7 +685,7 @@
       {
         "rules": [
           {
-            "description": "Un Modello con questa Regola Speciale che non si è mosso di più di 4\" nella Fase di Movimento e non ha effettuato uno Scatto può beneficiare di qualsiasi variante della Regola Speciale Pesante (X) per qualsiasi Arma in suo possesso. Inoltre, il Giocatore che controlla un Modello con questa Regola Speciale può ignorare i modificatori negativi alla Caratteristica di Movimento di quel Modello derivanti dal Terreno Accidentato.",
+            "description": "Un Modello con questa Regola Speciale che non si è mosso di più di 4\" nella Fase di Movimento e non ha effettuato uno Scatto può beneficiare di qualsiasi variante della Regola Speciale Pesante (X) per qualsiasi Arma in suo possesso.\nInoltre, il Giocatore che controlla un Modello con questa Regola Speciale può ignorare i modificatori negativi alla Caratteristica di Movimento di quel Modello derivanti dal Terreno Accidentato.",
             "name": "Avanzata Spietata",
             "id": "0785-334d-203e-d83f",
             "hidden": false,
@@ -5075,7 +5075,7 @@
               {
                 "rules": [
                   {
-                    "description": "Un Modello con questa Regola Speciale che non si è mosso di più di 4\" nella Fase di Movimento e non ha effettuato uno Scatto può beneficiare di qualsiasi variante della Regola Speciale Pesante (X) per qualsiasi Arma in suo possesso. Inoltre, il Giocatore che controlla un Modello con questa Regola Speciale può ignorare i modificatori negativi alla Caratteristica di Movimento di quel Modello derivanti dal Terreno Accidentato.",
+                    "description": "Un Modello con questa Regola Speciale che non si è mosso di più di 4\" nella Fase di Movimento e non ha effettuato uno Scatto può beneficiare di qualsiasi variante della Regola Speciale Pesante (X) per qualsiasi Arma in suo possesso.\nInoltre, il Giocatore che controlla un Modello con questa Regola Speciale può ignorare i modificatori negativi alla Caratteristica di Movimento di quel Modello derivanti dal Terreno Accidentato.",
                     "name": "Avanzata Spietata",
                     "id": "b6d9-4f33-1999-d0ff",
                     "hidden": false
@@ -5224,7 +5224,7 @@
     "name": "                        XIV - Guardia della Morte",
     "gameSystemId": "sys-b976-0013-2f97-437b",
     "gameSystemRevision": 1,
-    "revision": 19,
+    "revision": 20,
     "authorUrl": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita",
     "authorContact": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita/issues",
     "authorName": "The4D6",

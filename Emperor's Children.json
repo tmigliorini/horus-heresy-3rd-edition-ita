@@ -384,7 +384,7 @@
                 "hidden": false
               },
               {
-                "description": "Se quattro o più Riquadri Truppa nel Distaccamento Principale sono occupati da Unità di Squadra Tattica e/o Unità di Squadra Assaltatrice, tutti i Riquadri Truppe nel Distaccamento Principale sono considerati Riquadri Primari. Inoltre, un’Unità che includa solo Modelli con il Tratto Figli dell’Imperatore ottiene un ulteriore +1 Punto Risoluzione Combattimento se, durante la Sottofase di Risoluzione, tutti i Modelli di quell’Unità non si trovano nella Zona di Schieramento del Giocatore Controllante. Se la Missione in corso non definisce Zone di Schieramento, il Giocatore Controllante ottiene questo bonus quando non si trova entro 12\" dal suo Limite del Campo di Battaglia, o se non è specificato alcun Limite del Campo di Battaglia, un Limite del Campo di Battaglia selezionato prima del Primo Turno.",
+                "description": "Se quattro o più Riquadri Truppa nel Distaccamento Principale sono occupati da Unità di Squadra Tattica e/o Unità di Squadra Assaltatrice, tutti i Riquadri Truppe nel Distaccamento Principale sono considerati Riquadri Primari.\nInoltre, un’Unità che includa solo Modelli con il Tratto Figli dell’Imperatore ottiene un ulteriore +1 Punto Risoluzione Combattimento se, durante la Sottofase di Risoluzione, tutti i Modelli di quell’Unità non si trovano nella Zona di Schieramento del Giocatore Controllante.\nSe la Missione in corso non definisce Zone di Schieramento, il Giocatore Controllante ottiene questo bonus quando non si trova entro 12\" dal suo Limite del Campo di Battaglia, o se non è specificato alcun Limite del Campo di Battaglia, un Limite del Campo di Battaglia selezionato prima del Primo Turno.",
                 "name": "Sire dei Figli dell’Imperatore",
                 "id": "f112-30ce-d5cc-6abf",
                 "hidden": false
@@ -7429,7 +7429,7 @@
         ],
         "rules": [
           {
-            "description": "Una volta per Battaglia, prima di effettuare un Attacco a Distanza nella Fase di Tiro del Giocatore Controllante, il Giocatore Controllante di un’Unità con questa Regola Speciale che non si è mossa nella precedente Fase di Movimento può selezionare un’Unità nemica di Tipo Veicolo come “Preda Designata” di quell’Unità. Quando l’Unità con questa Regola Speciale effettua un Attacco a Distanza che prende di mira la sua Preda Designata, la Caratteristica Abilità Balistica di tutti i Modelli con questa Regola Speciale nell’Unità che effettua l’Attacco a Distanza viene modificata di +1 per la durata della Fase in corso.",
+            "description": "Una volta per Battaglia, prima di effettuare un Attacco a Distanza nella Fase di Tiro del Giocatore Controllante, il Giocatore Controllante di un’Unità con questa Regola Speciale che non si è mossa nella precedente Fase di Movimento può selezionare un’Unità nemica di Tipo Veicolo come “Preda Designata” di quell’Unità.\nQuando l’Unità con questa Regola Speciale effettua un Attacco a Distanza che prende di mira la sua Preda Designata, la Caratteristica Abilità Balistica di tutti i Modelli con questa Regola Speciale nell’Unità che effettua l’Attacco a Distanza viene modificata di +1 per la durata della Fase in corso.",
             "name": "Preda Designata",
             "id": "08ac-a817-ea27-5bca",
             "hidden": false
@@ -8520,7 +8520,7 @@
               {
                 "rules": [
                   {
-                    "description": "Dopo che un Attacco a Distanza che prende di mira un’Unità composta interamente da Modelli con questa Regola Speciale è stato risolto, il Giocatore che controlla quell’Unità può scegliere che l’Unità bersaglio diventi Stupefatta. Quando un’Unità diventa Stupefatta, tutti gli Status Tattici che la influenzano vengono rimossi. Inoltre, mentre un’Unità è Stupefatta: I Modelli di quell’Unità hanno la Regola Speciale Insensibile al Dolore (6+); La Caratteristica Forza dei Modelli di quell’Unità è modificata di +1; I Modelli di quell’Unità non possono ottenere Status Tattici; Il Giocatore che controlla un’Unità che è Stupefatta non può dichiarare alcuna Reazione per quell’Unità e deve effettuare tutti gli Attacchi a Distanza dichiarati per quell’Unità come Alla Cieca. Nella Sottofase Effetti della Fase Finale del Giocatore Controllante, il Giocatore deve effettuare una Prova di Coraggio per ogni Unità del suo Esercito che è Stupefatta e, se la Prova viene superata, quell’Unità non è più Stupefatta.",
+                    "description": "Dopo che un Attacco a Distanza che prende di mira un’Unità composta interamente da Modelli con questa Regola Speciale è stato risolto, il Giocatore che controlla quell’Unità può scegliere che l’Unità bersaglio diventi Stupefatta.\nQuando un’Unità diventa Stupefatta, tutti gli Status Tattici che la influenzano vengono rimossi.\nInoltre, mentre un’Unità è Stupefatta: I Modelli di quell’Unità hanno la Regola Speciale Insensibile al Dolore (6+); La Caratteristica Forza dei Modelli di quell’Unità è modificata di +1; I Modelli di quell’Unità non possono ottenere Status Tattici; Il Giocatore che controlla un’Unità che è Stupefatta non può dichiarare alcuna Reazione per quell’Unità e deve effettuare tutti gli Attacchi a Distanza dichiarati per quell’Unità come Alla Cieca.\nNella Sottofase Effetti della Fase Finale del Giocatore Controllante, il Giocatore deve effettuare una Prova di Coraggio per ogni Unità del suo Esercito che è Stupefatta e, se la Prova viene superata, quell’Unità non è più Stupefatta.",
                     "name": "Signori della Dissolutezza",
                     "id": "bee4-d406-d0ed-8ad5",
                     "hidden": false
@@ -8973,7 +8973,7 @@
     "name": "                         III - Figli dell’Imperatore",
     "gameSystemId": "sys-b976-0013-2f97-437b",
     "gameSystemRevision": 1,
-    "revision": 27,
+    "revision": 28,
     "authorUrl": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita",
     "authorContact": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita/issues",
     "authorName": "The4D6",

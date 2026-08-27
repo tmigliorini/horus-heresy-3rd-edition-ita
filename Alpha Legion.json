@@ -1005,7 +1005,7 @@
         ],
         "rules": [
           {
-            "description": "Un’Unità composta interamente da Modelli con questa Regola Speciale non può essere selezionata come Unità Bersaglio di un Attacco a Distanza o di una Carica. Quando un’Unità nemica termina un Movimento entro 6\" da un Modello con questa Regola Speciale, il Giocatore che controlla quell’Unità può effettuare una Prova di Intelligenza per quell’Unità. Se la Prova viene superata, questa Regola Speciale non ha effetto per quel Modello fino alla fine della Battaglia. Inoltre, se un Modello con questa Regola Speciale effettua un Attacco a Distanza o termina un Movimento di Carica in Contatto di Base con un Modello nemico, questa Regola Speciale non ha effetto per quel Modello fino alla fine della Battaglia.",
+            "description": "Un’Unità composta interamente da Modelli con questa Regola Speciale non può essere selezionata come Unità Bersaglio di un Attacco a Distanza o di una Carica.\nQuando un’Unità nemica termina un Movimento entro 6\" da un Modello con questa Regola Speciale, il Giocatore che controlla quell’Unità può effettuare una Prova di Intelligenza per quell’Unità.\nSe la Prova viene superata, questa Regola Speciale non ha effetto per quel Modello fino alla fine della Battaglia.\nInoltre, se un Modello con questa Regola Speciale effettua un Attacco a Distanza o termina un Movimento di Carica in Contatto di Base con un Modello nemico, questa Regola Speciale non ha effetto per quel Modello fino alla fine della Battaglia.",
             "name": "Falsi Colori",
             "id": "6a40-4cb0-e400-5b87",
             "hidden": false
@@ -4253,7 +4253,7 @@
             ],
             "rules": [
               {
-                "description": "Se quattro o più Riquadri Truppe nel Distaccamento Principale sono occupati da Unità di Squadra Tattica e/o Squadra Assaltatrice, allora tutti i Riquadri Truppe nel Distaccamento Principale sono considerati Riquadri Primari. Inoltre, quando il Giocatore che Controlla un Modello con questa Regola Speciale effettua un Tiro per le Riserve per un’Unità che includa solo Modelli con il Tratto Legione Alfa, con un Tiro per le Riserve di 5+ quell’Unità può entrare in gioco come se avesse la Regola Speciale Fiancheggiamento.",
+                "description": "Se quattro o più Riquadri Truppe nel Distaccamento Principale sono occupati da Unità di Squadra Tattica e/o Squadra Assaltatrice, allora tutti i Riquadri Truppe nel Distaccamento Principale sono considerati Riquadri Primari.\nInoltre, quando il Giocatore che Controlla un Modello con questa Regola Speciale effettua un Tiro per le Riserve per un’Unità che includa solo Modelli con il Tratto Legione Alfa, con un Tiro per le Riserve di 5+ quell’Unità può entrare in gioco come se avesse la Regola Speciale Fiancheggiamento.",
                 "name": "Sire della Legione Alfa",
                 "id": "2e28-2391-1840-6ded",
                 "hidden": false
@@ -4648,7 +4648,7 @@
         ],
         "rules": [
           {
-            "description": "Al termine della Fase di Schieramento delle Armate, il Giocatore che controlla un Modello con questa Regola Speciale può schierare nuovamente questo Modello. In questo caso, questo Modello può lasciare qualsiasi Unità a cui si è aggregato prima di essere Schierato e può aggregarsi a un’Unità diversa, Schierandosi in Coesione con essa se l’Unità si trova sul Campo di Battaglia, o, se l’Unità è attualmente Imbarcata su un Modello con il Sottotipo Trasporto, Imbarcandosi con essa se quel Modello è in grado di farlo.",
+            "description": "Al termine della Fase di Schieramento delle Armate, il Giocatore che controlla un Modello con questa Regola Speciale può schierare nuovamente questo Modello.\nIn questo caso, questo Modello può lasciare qualsiasi Unità a cui si è aggregato prima di essere Schierato e può aggregarsi a un’Unità diversa, Schierandosi in Coesione con essa se l’Unità si trova sul Campo di Battaglia, o, se l’Unità è attualmente Imbarcata su un Modello con il Sottotipo Trasporto, Imbarcandosi con essa se quel Modello è in grado di farlo.",
             "name": "Ovunque e da Nessuna Parte",
             "id": "e496-8497-820a-96a4",
             "hidden": false
@@ -9462,7 +9462,7 @@
     "name": "                       XX - Legione Alfa",
     "gameSystemId": "sys-b976-0013-2f97-437b",
     "gameSystemRevision": 1,
-    "revision": 28,
+    "revision": 29,
     "authorUrl": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita",
     "authorContact": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita/issues",
     "authorName": "The4D6",

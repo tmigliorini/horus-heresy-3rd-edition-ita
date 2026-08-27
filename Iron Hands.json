@@ -450,7 +450,7 @@
           {
             "rules": [
               {
-                "description": "Se quattro o più Riquadri Truppe nel Distaccamento Principale sono occupati da Squadre Tattiche e/o Squadre d’Abbordaggio, allora tutti i Riquadri Truppe nel Distaccamento Principale sono considerati Riquadri Primari. Inoltre, fino alla fine del primo Turno di Battaglia, tutti i Modelli di questa Armata con il Tipo Fanteria e il Tratto Mani di Ferro hanno la Regola Speciale Insensibile al Dolore (6+).",
+                "description": "Se quattro o più Riquadri Truppe nel Distaccamento Principale sono occupati da Squadre Tattiche e/o Squadre d’Abbordaggio, allora tutti i Riquadri Truppe nel Distaccamento Principale sono considerati Riquadri Primari.\nInoltre, fino alla fine del primo Turno di Battaglia, tutti i Modelli di questa Armata con il Tipo Fanteria e il Tratto Mani di Ferro hanno la Regola Speciale Insensibile al Dolore (6+).",
                 "name": "Sire delle Mani di Ferro",
                 "id": "b6dc-f887-42b4-948d",
                 "hidden": false,
@@ -6853,7 +6853,7 @@
         ],
         "rules": [
           {
-            "description": "Un’Unità contenente solo Modelli con questa Regola Speciale è considerata contenere uno o più Modelli con la Regola Speciale Medico (X) ai fini della dichiarazione della Reazione Avanzata Medico!. Se un’Unità contenente solo Modelli con questa Regola Speciale è l’Unità Bersaglio di una Reazione Avanzata Medico!, tutti i Tiri di Recupero effettuati come parte di quella Reazione hanno un Numero Obiettivo pari a 5+.",
+            "description": "Un’Unità contenente solo Modelli con questa Regola Speciale è considerata contenere uno o più Modelli con la Regola Speciale Medico (X) ai fini della dichiarazione della Reazione Avanzata Medico!.\nSe un’Unità contenente solo Modelli con questa Regola Speciale è l’Unità Bersaglio di una Reazione Avanzata Medico!, tutti i Tiri di Recupero effettuati come parte di quella Reazione hanno un Numero Obiettivo pari a 5+.",
             "name": " Aumentazioni Proibite",
             "id": "a970-5323-770e-2687",
             "hidden": false
@@ -7271,7 +7271,7 @@
     "name": "                        X - Mani di Ferro",
     "gameSystemId": "sys-b976-0013-2f97-437b",
     "gameSystemRevision": 1,
-    "revision": 26,
+    "revision": 27,
     "authorUrl": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita",
     "authorContact": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita/issues",
     "authorName": "The4D6",

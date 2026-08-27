@@ -370,7 +370,7 @@
             "hidden": false
           },
           {
-            "description": "Se quattro o più Riquadri Truppe nel Distaccamento Principale sono occupati, incluse almeno due Unità di Squadra Assaltatrice e almeno due Unità di Squadra Tattica, allora tutti i Riquadri Truppe nel Distaccamento Principale sono considerati Riquadri Primari. Inoltre, fino alla fine del primo Turno di Battaglia, tutti i Modelli di questo Esercito con il Tipo Fanteria e il Tratto Ultramarine possono Controllare e Contestare Obiettivi anche se sono sotto l’effetto di uno Status Tattico.",
+            "description": "Se quattro o più Riquadri Truppe nel Distaccamento Principale sono occupati, incluse almeno due Unità di Squadra Assaltatrice e almeno due Unità di Squadra Tattica, allora tutti i Riquadri Truppe nel Distaccamento Principale sono considerati Riquadri Primari.\nInoltre, fino alla fine del primo Turno di Battaglia, tutti i Modelli di questo Esercito con il Tipo Fanteria e il Tratto Ultramarine possono Controllare e Contestare Obiettivi anche se sono sotto l’effetto di uno Status Tattico.",
             "name": "Sire degli Ultramarine",
             "id": "720b-ef86-bb5d-a4e0",
             "hidden": false
@@ -7301,7 +7301,7 @@
         ],
         "rules": [
           {
-            "description": "Quando qualsiasi Modello di un’Unità interamente composta da Modelli con questa Regola Speciale entra in contatto con un Bordo del Campo di Battaglia all’interno della Zona di Schieramento del Giocatore Controllante come parte di un Movimento di Ripiegamento, quell’Unità perde automaticamente lo Status Tattico In Rotta e ottiene lo Status Tattico Soppresso. Inoltre, quando si effettua una Prova di Disciplina nella Sottofase degli Status della Fase Finale per rimuovere lo Status Tattico In Rotta da un’Unità interamente composta da Modelli con questa Regola Speciale, il Giocatore Controllante può tirare un Dado aggiuntivo, scartando il Dado con il risultato più alto.",
+            "description": "Quando qualsiasi Modello di un’Unità interamente composta da Modelli con questa Regola Speciale entra in contatto con un Bordo del Campo di Battaglia all’interno della Zona di Schieramento del Giocatore Controllante come parte di un Movimento di Ripiegamento, quell’Unità perde automaticamente lo Status Tattico In Rotta e ottiene lo Status Tattico Soppresso.\nInoltre, quando si effettua una Prova di Disciplina nella Sottofase degli Status della Fase Finale per rimuovere lo Status Tattico In Rotta da un’Unità interamente composta da Modelli con questa Regola Speciale, il Giocatore Controllante può tirare un Dado aggiuntivo, scartando il Dado con il risultato più alto.",
             "name": "Certezza e Determinazione",
             "id": "23fe-a928-85fd-db1b",
             "hidden": false
@@ -7694,7 +7694,7 @@
     "name": "                        XIII - Ultramarine",
     "gameSystemId": "sys-b976-0013-2f97-437b",
     "gameSystemRevision": 1,
-    "revision": 25,
+    "revision": 26,
     "authorUrl": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita",
     "authorContact": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita/issues",
     "authorName": "The4D6",

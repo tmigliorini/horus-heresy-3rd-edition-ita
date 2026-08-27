@@ -178,7 +178,7 @@
           {
             "rules": [
               {
-                "description": "Se quattro o più Riquadri Truppe nel Distaccamento Principale sono occupati da Unità di Branco di Sventratori Grigi, allora tutti i Riquadri Truppe nel Distaccamento Principale sono considerati Riquadri Primari. Inoltre, fino alla fine del primo Turno di Battaglia, tutti i Modelli di questa Armata con il Tipo Fanteria o Esemplare, ed il Tratto Lupi Siderali hanno la Regola Speciale Movimento in Copertura.",
+                "description": "Se quattro o più Riquadri Truppe nel Distaccamento Principale sono occupati da Unità di Branco di Sventratori Grigi, allora tutti i Riquadri Truppe nel Distaccamento Principale sono considerati Riquadri Primari.\nInoltre, fino alla fine del primo Turno di Battaglia, tutti i Modelli di questa Armata con il Tipo Fanteria o Esemplare, ed il Tratto Lupi Siderali hanno la Regola Speciale Movimento in Copertura.",
                 "name": "Sire dei Lupi Siderali",
                 "id": "1f8c-a65b-9273-aec3",
                 "hidden": false,
@@ -13292,7 +13292,7 @@
                 "description": "Questo Vantaggio Primario può essere selezionato solo per un’Unità di Optae con il Tratto Lupi Siderali. Quel Modello ha i suoi Attacchi e Abilità di Combattimento Base modificate di +1, e può scambiare la sua spada potenziata con una spada del gelo o un’ascia del gelo gratuitamente, o con un artiglio del gelo per +5 Punti.",
                 "name": "Thegn del Branco",
                 "id": "e992-bf76-dc0a-94f3",
-                "hidden": false
+                "hidden": true
               }
             ],
             "type": "upgrade",
@@ -13313,7 +13313,7 @@
     "name": "                         VI - Lupi Siderali",
     "gameSystemId": "sys-b976-0013-2f97-437b",
     "gameSystemRevision": 1,
-    "revision": 28,
+    "revision": 29,
     "authorUrl": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita",
     "authorContact": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita/issues",
     "authorName": "The4D6",

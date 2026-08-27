@@ -427,7 +427,7 @@
           {
             "rules": [
               {
-                "description": "Se quattro o più Riquadri Truppe nel Distaccamento Principale sono occupati da Unità di Squadre Tattiche e/o Squadre d’Abbordaggio, tutti i Riquadri Truppe nel Distaccamento Principale sono considerati Riquadri Primari. Inoltre, fino alla fine del primo Turno di Battaglia, tutti i Modelli di quest’Armata con il Tipo Fanteria e il Tratto Guerrieri di Ferro hanno la Regola Speciale Sacrificabile (1). Se hanno già la Regola Speciale Sacrificabile (X), aumentane il valore di 1.",
+                "description": "Se quattro o più Riquadri Truppe nel Distaccamento Principale sono occupati da Unità di Squadre Tattiche e/o Squadre d’Abbordaggio, tutti i Riquadri Truppe nel Distaccamento Principale sono considerati Riquadri Primari.\nInoltre, fino alla fine del primo Turno di Battaglia, tutti i Modelli di quest’Armata con il Tipo Fanteria e il Tratto Guerrieri di Ferro hanno la Regola Speciale Sacrificabile (1).\nSe hanno già la Regola Speciale Sacrificabile (X), aumentane il valore di 1.",
                 "name": "Sire dei Guerrieri di Ferro",
                 "id": "e06e-8c0d-fb84-5a82",
                 "hidden": false,
@@ -3016,7 +3016,7 @@
         ],
         "rules": [
           {
-            "description": "I Modelli con il Tratto Guerrieri di Ferro e il tipo Esemplare o il Sottotipo Comando possono unirsi a un’Unità che includa Modelli con questa Regola Speciale. Finché un Modello con il Tratto Guerrieri di Ferro e il tipo Esemplare fa parte di un’Unità che includa Modelli con questa Regola Speciale, le Ferite derivanti da Colpi di Precisione causati da un Attacco a Distanza non possono essere assegnate a quel Modello.",
+            "description": "I Modelli con il Tratto Guerrieri di Ferro e il tipo Esemplare o il Sottotipo Comando possono unirsi a un’Unità che includa Modelli con questa Regola Speciale.\nFinché un Modello con il Tratto Guerrieri di Ferro e il tipo Esemplare fa parte di un’Unità che includa Modelli con questa Regola Speciale, le Ferite derivanti da Colpi di Precisione causati da un Attacco a Distanza non possono essere assegnate a quel Modello.",
             "name": "Scudo del Tiranno di Ferro",
             "id": "ad58-037a-4923-0880",
             "hidden": false,
@@ -7905,7 +7905,7 @@
     "name": "                         IV - Guerrieri di Ferro",
     "gameSystemId": "sys-b976-0013-2f97-437b",
     "gameSystemRevision": 1,
-    "revision": 19,
+    "revision": 20,
     "authorUrl": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita",
     "authorContact": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita/issues",
     "authorName": "The4D6",

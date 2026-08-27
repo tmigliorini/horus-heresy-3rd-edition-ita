@@ -163,7 +163,7 @@
             ],
             "rules": [
               {
-                "description": "Se quattro o più Riquadri Truppe nel Distaccamento Principale sono occupati da Unità di Squadre Tattiche e/o Squadra Assaltatrice, allora tutti i Riquadri Truppe nel Distaccamento Principale sono considerati Riquadri Primari. Inoltre, fino alla fine del primo Turno di Battaglia, tutti i Modelli di questo Esercito con il Tipo Fanteria e il Tratto Guardia del Corvo hanno la Regola Speciale Movimento in Copertura.",
+                "description": "Se quattro o più Riquadri Truppe nel Distaccamento Principale sono occupati da Unità di Squadre Tattiche e/o Squadra Assaltatrice, allora tutti i Riquadri Truppe nel Distaccamento Principale sono considerati Riquadri Primari.\nInoltre, fino alla fine del primo Turno di Battaglia, tutti i Modelli di questo Esercito con il Tipo Fanteria e il Tratto Guardia del Corvo hanno la Regola Speciale Movimento in Copertura.",
                 "name": "Sire della Guardia del Corvo",
                 "id": "3d17-d27e-0a47-adad",
                 "hidden": false
@@ -1079,7 +1079,7 @@
             ],
             "rules": [
               {
-                "description": "Un Modello con questa Regola Speciale non è mai costretto a effettuare Attacchi da Tiro come Alla Cieca e non può mai vedere la sua Abilità Balistica ridotta a meno di 6, a meno che l’Unità Bersaglio non abbia il Sottotipo Volante. Inoltre, qualsiasi Tiro Mitigazione conferito dalla Regola Speciale Ammantato (X) effettuato contro le ferite inflitte da un Attacco a Distanza effettuato da un Modello con questa Regola Speciale, ha successo solo con un risultato di 6+.",
+                "description": "Un Modello con questa Regola Speciale non è mai costretto a effettuare Attacchi da Tiro come Alla Cieca e non può mai vedere la sua Abilità Balistica ridotta a meno di 6, a meno che l’Unità Bersaglio non abbia il Sottotipo Volante.\nInoltre, qualsiasi Tiro Mitigazione conferito dalla Regola Speciale Ammantato (X) effettuato contro le ferite inflitte da un Attacco a Distanza effettuato da un Modello con questa Regola Speciale, ha successo solo con un risultato di 6+.",
                 "name": "Il Corvo di Sangue",
                 "id": "4c2d-30f3-17ee-3ce9",
                 "hidden": false
@@ -2291,7 +2291,7 @@
         ],
         "rules": [
           {
-            "description": "Una volta per Battaglia, se un’Unità con questa Regola Speciale è rimasta Stazionaria nella precedente Fase di Movimento, il Giocatore che controlla l’Unità può scegliere quell’Unità per effettuare un Colpo Fatale durante la Fase di Tiro. Quando si effettua un Colpo Fatale, viene aggiunto un modificatore di +2 alla Caratteristica Abilità Balistica di tutti i Modelli con questa Regola Speciale nell’Unità selezionata per la durata della Fase in corso.",
+            "description": "Una volta per Battaglia, se un’Unità con questa Regola Speciale è rimasta Stazionaria nella precedente Fase di Movimento, il Giocatore che controlla l’Unità può scegliere quell’Unità per effettuare un Colpo Fatale durante la Fase di Tiro.\nQuando si effettua un Colpo Fatale, viene aggiunto un modificatore di +2 alla Caratteristica Abilità Balistica di tutti i Modelli con questa Regola Speciale nell’Unità selezionata per la durata della Fase in corso.",
             "name": "Colpo Fatale",
             "id": "22c9-a8ff-c91a-9b1f",
             "hidden": false
@@ -5515,7 +5515,7 @@
     "name": "                       XIX - Guardia del Corvo",
     "gameSystemId": "sys-b976-0013-2f97-437b",
     "gameSystemRevision": 1,
-    "revision": 18,
+    "revision": 19,
     "authorUrl": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita",
     "authorContact": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita/issues",
     "authorName": "The4D6",

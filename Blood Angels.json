@@ -581,7 +581,7 @@
             ],
             "rules": [
               {
-                "description": "Se quattro o più Riquadri Truppe nel Distaccamento Principale sono occupati da Squadre Assaltatrici, allora tutti i Riquadri Truppe nel Distaccamento Principale sono considerati Riquadri Primari. Inoltre, una volta per Turno, quando il Giocatore che Controlla un Modello con questa Regola Speciale effettua un Tiro Riserve per un’Unità che includa solo Modelli con il Tratto Angeli Sanguinari e la Regola Speciale Attacco in Profondità, prima che il Tiro per le Riserve venga effettuato, quel Giocatore può scegliere di modificare quel Tiro di +1. Se questo modificatore viene applicato, quell’Unità deve essere schierata usando la Regola Speciale Attacco in Profondità.",
+                "description": "Se quattro o più Riquadri Truppe nel Distaccamento Principale sono occupati da Squadre Assaltatrici, allora tutti i Riquadri Truppe nel Distaccamento Principale sono considerati Riquadri Primari.\nInoltre, una volta per Turno, quando il Giocatore che Controlla un Modello con questa Regola Speciale effettua un Tiro Riserve per un’Unità che includa solo Modelli con il Tratto Angeli Sanguinari e la Regola Speciale Attacco in Profondità, prima che il Tiro per le Riserve venga effettuato, quel Giocatore può scegliere di modificare quel Tiro di +1.\nSe questo modificatore viene applicato, quell’Unità deve essere schierata usando la Regola Speciale Attacco in Profondità.",
                 "name": "Sire degli Angeli Sanguinari",
                 "id": "3101-6bf8-77e9-8d3b",
                 "hidden": false
@@ -9256,7 +9256,7 @@
         ],
         "rules": [
           {
-            "description": "Nel Passaggio 4 della Sottofase Risoluzione, un Giocatore che ha vinto un Combattimento deve selezionare l’opzione post-combattimento La Sete per qualsiasi Unità in quel Combattimento interamente composta da Modelli con questa Regola Speciale. Qualsiasi Unità del Giocatore vincente in quel Combattimento che sia solo parzialmente composta da Modelli con questa Regola Speciale può invece effettuare una Prova di Coraggio, potendo selezionare invece un’opzione post-combattimento diversa se la Prova ha successo.",
+            "description": "Nel Passaggio 4 della Sottofase Risoluzione, un Giocatore che ha vinto un Combattimento deve selezionare l’opzione post-combattimento La Sete per qualsiasi Unità in quel Combattimento interamente composta da Modelli con questa Regola Speciale.\nQualsiasi Unità del Giocatore vincente in quel Combattimento che sia solo parzialmente composta da Modelli con questa Regola Speciale può invece effettuare una Prova di Coraggio, potendo selezionare invece un’opzione post-combattimento diversa se la Prova ha successo.",
             "name": "Divoratori dei Morti",
             "id": "748f-e452-1223-9e6a",
             "hidden": false
@@ -9587,7 +9587,7 @@
     ],
     "sharedRules": [
       {
-        "description": "Finché l’Unità di cui fa parte un Modello con questa Regola Speciale è Bloccata in Combattimento con una o più Unità nemiche il cui numero totale di Modelli è superiore, un Modello con questa Regola Speciale ottiene la Regola Speciale Insensibile al Dolore (5+), aumentata a Insensibile al Dolore (4+) se in inferiorità numerica di più del doppio rispetto ai propri Modelli. Qualsiasi Modello che si unisce a un’Unità che includa Modelli con questa Regola Speciale non ottiene questa Regola Speciale e non conta ai fini della determinazione di quando l’Unità sia in inferiorità numerica.",
+        "description": "Finché l’Unità di cui fa parte un Modello con questa Regola Speciale è Bloccata in Combattimento con una o più Unità nemiche il cui numero totale di Modelli è superiore, un Modello con questa Regola Speciale ottiene la Regola Speciale Insensibile al Dolore (5+), aumentata a Insensibile al Dolore (4+) se in inferiorità numerica di più del doppio rispetto ai propri Modelli.\nQualsiasi Modello che si unisce a un’Unità che includa Modelli con questa Regola Speciale non ottiene questa Regola Speciale e non conta ai fini della determinazione di quando l’Unità sia in inferiorità numerica.",
         "name": "Il Sangue è per Sempre",
         "id": "8daf-a58f-2cb6-034d",
         "hidden": false
@@ -9757,7 +9757,7 @@
     "name": "                        IX - Angeli Sanguinari",
     "gameSystemId": "sys-b976-0013-2f97-437b",
     "gameSystemRevision": 1,
-    "revision": 22,
+    "revision": 23,
     "authorUrl": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita",
     "authorContact": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita/issues",
     "authorName": "LeonisAstra",

@@ -1395,7 +1395,7 @@
         ],
         "rules": [
           {
-            "description": "Il Giocatore che controlla un Modello con il pulsante di autodistruzione dell’Artificio può scegliere di attivarlo nella Sottofase degli Effetti di qualsiasi Fase Finale, e selezionare un Modello amico con il Tipo Artificio che si trovi entro 12\", il quale subirà D6+2 Ferite non Salvate. Se questo dovesse causare la Rimozione come Perdita di quel Modello, allora qualsiasi versione della Regola Speciale Esplosione (X) viene automaticamente attivata e nessun Giocatore può ottenere Punti Vittoria per la rimozione di quel Modello dal gioco.",
+            "description": "Il Giocatore che controlla un Modello con il pulsante di autodistruzione dell’Artificio può scegliere di attivarlo nella Sottofase degli Effetti di qualsiasi Fase Finale, e selezionare un Modello amico con il Tipo Artificio che si trovi entro 12\", il quale subirà D6+2 Ferite non Salvate.\nSe questo dovesse causare la Rimozione come Perdita di quel Modello, allora qualsiasi versione della Regola Speciale Esplosione (X) viene automaticamente attivata e nessun Giocatore può ottenere Punti Vittoria per la rimozione di quel Modello dal gioco.",
             "name": "Pulsante di autodistruzione dell’Artificio",
             "id": "de0e-0da2-a814-17cd",
             "hidden": false
@@ -1594,7 +1594,7 @@
     "name": "Equipaggiamento",
     "gameSystemId": "sys-b976-0013-2f97-437b",
     "gameSystemRevision": 1,
-    "revision": 34,
+    "revision": 35,
     "authorName": "The4D6",
     "battleScribeVersion": 2.03,
     "type": "catalogue",

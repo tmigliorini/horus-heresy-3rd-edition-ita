@@ -403,7 +403,7 @@
             ],
             "rules": [
               {
-                "description": "Se quattro o più Riquadri Truppe nel Distaccamento Principale sono occupati da Unità di Squadre Tattiche e/o Unità di Squadre Depredatrici, tutti i Riquadri Truppe nel Distaccamento Principale sono considerati Riquadri Primari. Inoltre, fino alla fine del primo Turno di Battaglia, il Giocatore che Controlla un Modello con questa Regola Speciale può aggiungere +1 alla Caratteristica Movimento dei Modelli del suo Esercito con il Tratto Figli di Horus, esclusi i Modelli con il Tipo Veicolo.",
+                "description": "Se quattro o più Riquadri Truppe nel Distaccamento Principale sono occupati da Unità di Squadre Tattiche e/o Unità di Squadre Depredatrici, tutti i Riquadri Truppe nel Distaccamento Principale sono considerati Riquadri Primari.\nInoltre, fino alla fine del primo Turno di Battaglia, il Giocatore che Controlla un Modello con questa Regola Speciale può aggiungere +1 alla Caratteristica Movimento dei Modelli del suo Esercito con il Tratto Figli di Horus, esclusi i Modelli con il Tipo Veicolo.",
                 "name": "Sire dei Figli di Horus",
                 "id": "8daf-f0b8-3363-dda2",
                 "hidden": false
@@ -923,7 +923,7 @@
         ],
         "rules": [
           {
-            "description": "Se un Modello con questa Regola Speciale si unisce a un’Unità di Terminator Justaerin in Riserva, anche i Modelli di quell’Unità sono considerati avere la Regola Speciale Attacco in Profondità. Inoltre, quando un Modello con questa Regola Speciale viene schierato come parte di un Attacco in Profondità, quel Modello e ogni altro Modello della stessa Unità ottengono la Regola Speciale Insensibile al Dolore (5+) fino alla successiva Sottofase degli Effetti del Giocatore Controllante.",
+            "description": "Se un Modello con questa Regola Speciale si unisce a un’Unità di Terminator Justaerin in Riserva, anche i Modelli di quell’Unità sono considerati avere la Regola Speciale Attacco in Profondità.\nInoltre, quando un Modello con questa Regola Speciale viene schierato come parte di un Attacco in Profondità, quel Modello e ogni altro Modello della stessa Unità ottengono la Regola Speciale Insensibile al Dolore (5+) fino alla successiva Sottofase degli Effetti del Giocatore Controllante.",
             "name": "Maestro dei Justaerin",
             "id": "d225-97fb-d027-0786",
             "hidden": false
@@ -9938,7 +9938,7 @@
             ],
             "rules": [
               {
-                "description": "Nella Sottofase Effetti della Fase Iniziale del Giocatore Controllante di un’Unità contenente qualsiasi Modello con questa Regola Speciale, quel Giocatore può effettuare una Prova di Disciplina per tale Unità, e se uno qualsiasi dei Modelli di quell’Unità è entro 6\" da un Modello alleato con il Tratto Figli di Horus e una Caratteristica Abilità di Combattimento pari o superiore a 5, la Prova di Disciplina può essere effettuata utilizzando la Caratteristica Disciplina tale Modello. Se la Prova ha successo, ogni Modello dell’Unità acquisisce la Regola Speciale Impatto (Fo) fino alla fine di quel Turno di Battaglia, altrimenti ottiene lo Status Tattico Stordito.",
+                "description": "Nella Sottofase Effetti della Fase Iniziale del Giocatore Controllante di un’Unità contenente qualsiasi Modello con questa Regola Speciale, quel Giocatore può effettuare una Prova di Disciplina per tale Unità, e se uno qualsiasi dei Modelli di quell’Unità è entro 6\" da un Modello alleato con il Tratto Figli di Horus e una Caratteristica Abilità di Combattimento pari o superiore a 5, la Prova di Disciplina può essere effettuata utilizzando la Caratteristica Disciplina tale Modello.\nSe la Prova ha successo, ogni Modello dell’Unità acquisisce la Regola Speciale Impatto (Fo) fino alla fine di quel Turno di Battaglia, altrimenti ottiene lo Status Tattico Stordito.",
                 "name": "Credo di Brutalità",
                 "id": "6f7c-5db8-17fc-65a5",
                 "hidden": false
@@ -10191,7 +10191,7 @@
                 "description": "Questo Vantaggio Primario può essere selezionato solo per un’Unità con il Ruolo Reparti Speciali, che includa solo Modelli con il Tratto Figli di Horus. Un Modello nell’Unità selezionata per riempire il Riquadro Primario con questo Vantaggio Primario ottiene il Sottotipo Campione e la Regola Speciale Maestria del Duellante (1).",
                 "name": "Supremazia Marziale",
                 "id": "73c7-8c85-f108-f3cd",
-                "hidden": false
+                "hidden": true
               }
             ],
             "type": "upgrade",
@@ -10579,7 +10579,7 @@
     "name": "                        XVI - Figli di Horus",
     "gameSystemId": "sys-b976-0013-2f97-437b",
     "gameSystemRevision": 1,
-    "revision": 22,
+    "revision": 23,
     "authorUrl": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita",
     "authorContact": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita/issues",
     "authorName": "The4D6",

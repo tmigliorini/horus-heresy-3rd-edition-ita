@@ -4096,7 +4096,7 @@
             ],
             "rules": [
               {
-                "description": "Se quattro o più Riquadri Truppe nel Distaccamento Principale di questo Esercito contengono almeno un’Unità di Squadra Tattica, almeno un’Unità di Squadra Assaltatrice e almeno un’Unità di Squadra d’Abbordaggio, allora tutti i Riquadri Truppe nel Distaccamento Principale sono considerati Primari. Inoltre, quando il Giocatore che Controlla un Modello con questa Regola Speciale effettua un Tiro Riserve per un’Unità Squadrone Motociclisti o un’Unità Squadrone Scimitar che includa solo Modelli con il Tratto Angeli Oscuri, quel Tiro viene modificato di +1.",
+                "description": "Se quattro o più Riquadri Truppe nel Distaccamento Principale di questo Esercito contengono almeno un’Unità di Squadra Tattica, almeno un’Unità di Squadra Assaltatrice e almeno un’Unità di Squadra d’Abbordaggio, allora tutti i Riquadri Truppe nel Distaccamento Principale sono considerati Primari.\nInoltre, quando il Giocatore che Controlla un Modello con questa Regola Speciale effettua un Tiro Riserve per un’Unità Squadrone Motociclisti o un’Unità Squadrone Scimitar che includa solo Modelli con il Tratto Angeli Oscuri, quel Tiro viene modificato di +1.",
                 "name": "Sire degli Angeli Oscuri",
                 "id": "8e92-fc97-9979-9973",
                 "hidden": false,
@@ -10100,7 +10100,7 @@
         ],
         "rules": [
           {
-            "description": "Finché un Modello con questa Regola Speciale ha una Caratteristica Ferite Attuali pari o inferiore a 4, in ciascuna delle Fasi di Tiro del Giocatore Controllante, deve effettuare un Attacco a Distanza prendendo di mira l’Unità più vicina che abbia una Linea di Vista con il Modello, indipendentemente dal fatto che tale Unità sia nemica o amica. Tale Attacco a Distanza deve utilizzare tutte le Armi che si trovano entro la gittata di almeno un Modello nell’Unità Bersaglio.",
+            "description": "Finché un Modello con questa Regola Speciale ha una Caratteristica Ferite Attuali pari o inferiore a 4, in ciascuna delle Fasi di Tiro del Giocatore Controllante, deve effettuare un Attacco a Distanza prendendo di mira l’Unità più vicina che abbia una Linea di Vista con il Modello, indipendentemente dal fatto che tale Unità sia nemica o amica.\nTale Attacco a Distanza deve utilizzare tutte le Armi che si trovano entro la gittata di almeno un Modello nell’Unità Bersaglio.",
             "name": "Furia Vendicativa",
             "id": "7da0-d00d-d2c6-da3d",
             "hidden": false
@@ -11001,7 +11001,7 @@
         "rules": [
           {
             "comment": "1",
-            "description": "Al termine del Passaggio Dichiarare le Riserve di Missione, il Giocatore che Controlla qualsiasi Unità con questa Regola Speciale può dichiarare una singola Unità dall’Esercito del Giocatore Avversario quale Unità “Marchiata”. Una volta per Battaglia, il Giocatore Controllante ottiene Punti Vittoria aggiuntivi pari al valore di X se un’Unità Amica con questa Regola Speciale ottiene Punti Vittoria come risultato della Regola Speciale Avanguardia (X) se l’Unità nemica che soddisfa le condizioni della Regola Speciale Avanguardia (X) è anche l’Unità Marchiata.",
+            "description": "Al termine del Passaggio Dichiarare le Riserve di Missione, il Giocatore che Controlla qualsiasi Unità con questa Regola Speciale può dichiarare una singola Unità dall’Esercito del Giocatore Avversario quale Unità “Marchiata”.\nUna volta per Battaglia, il Giocatore Controllante ottiene Punti Vittoria aggiuntivi pari al valore di X se un’Unità Amica con questa Regola Speciale ottiene Punti Vittoria come risultato della Regola Speciale Avanguardia (X) se l’Unità nemica che soddisfa le condizioni della Regola Speciale Avanguardia (X) è anche l’Unità Marchiata.",
             "modifiers": [
               {
                 "type": "set",
@@ -11753,7 +11753,7 @@
         "hidden": false
       },
       {
-        "description": "I Colpi di Precisioni causate come parte di un Attacco a Distanza non possono essere assegnate ad un Modello con il Tratto Angeli Oscuri e il Tipo Esemplare o il Sottotipo Comando Aggregato ad un’Unità che includa Modelli con questa Regola Speciale. I Colpi di Precisioni causate come parte di un Attacco a Distanza non possono essere assegnate ad un Modello con il Tratto Angeli Oscuri e il Tipo Esemplare o il Sottotipo Comando Aggregato ad un’Unità che includa Modelli con questa Regola Speciale. I Colpi di Precisioni causate come parte di un Attacco a Distanza non possono essere assegnate ad un Modello con il Tratto Angeli Oscuri e il Tipo Esemplare o il Sottotipo Comando Aggregato ad un’Unità che includa Modelli con questa Regola Speciale.",
+        "description": "I Colpi di Precisioni causate come parte di un Attacco a Distanza non possono essere assegnate ad un Modello con il Tratto Angeli Oscuri e il Tipo Esemplare o il Sottotipo Comando Aggregato ad un’Unità che includa Modelli con questa Regola Speciale.\nI Colpi di Precisioni causate come parte di un Attacco a Distanza non possono essere assegnate ad un Modello con il Tratto Angeli Oscuri e il Tipo Esemplare o il Sottotipo Comando Aggregato ad un’Unità che includa Modelli con questa Regola Speciale.\nI Colpi di Precisioni causate come parte di un Attacco a Distanza non possono essere assegnate ad un Modello con il Tratto Angeli Oscuri e il Tipo Esemplare o il Sottotipo Comando Aggregato ad un’Unità che includa Modelli con questa Regola Speciale.",
         "name": "Compagni",
         "id": "7978-7a3f-abd4-bdcc",
         "hidden": false
@@ -11916,7 +11916,7 @@
     "name": "                         I - Angeli Oscuri",
     "gameSystemId": "sys-b976-0013-2f97-437b",
     "gameSystemRevision": 1,
-    "revision": 25,
+    "revision": 26,
     "authorUrl": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita",
     "authorContact": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita/issues",
     "authorName": "The4D6",

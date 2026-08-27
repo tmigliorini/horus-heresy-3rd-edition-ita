@@ -730,7 +730,7 @@
             ],
             "rules": [
               {
-                "description": "Se quattro o più Riquadri Truppe nel Distaccamento Principale sono occupati da Unità che hanno un Arcana Prosperino, allora tutti i Riquadri Truppe nel Distaccamento Principale sono considerati Riquadri Primari. Inoltre, fino alla fine del primo Turno di Battaglia, ogni volta che il Giocatore che Controlla un Modello con questa Regola Speciale effettua una Prova di Manifestazione per un’Unità che includa solo Modelli con il Tratto Stirpe dei Mille, può tirare tre Dadi e selezionarne due a scelta per determinare il risultato.",
+                "description": "Se quattro o più Riquadri Truppe nel Distaccamento Principale sono occupati da Unità che hanno un Arcana Prosperino, allora tutti i Riquadri Truppe nel Distaccamento Principale sono considerati Riquadri Primari.\nInoltre, fino alla fine del primo Turno di Battaglia, ogni volta che il Giocatore che Controlla un Modello con questa Regola Speciale effettua una Prova di Manifestazione per un’Unità che includa solo Modelli con il Tratto Stirpe dei Mille, può tirare tre Dadi e selezionarne due a scelta per determinare il risultato.",
                 "name": "Sire della Stirpe dei Mille",
                 "id": "296d-f17f-b0bf-27f7",
                 "hidden": false
@@ -6677,7 +6677,7 @@
             ],
             "rules": [
               {
-                "description": "Se un Modello con il Tratto Stirpe dei Mille subisce i Pericoli del Warp mentre si trova entro 6\" da un Modello amico con questa Regola Speciale, il Giocatore che lo controlla può applicare il risultato della tabella “Pericoli del Warp”, o qualsiasi ferita subita se il Potere Psionico proveniva da un Arcana Prosperino, a un Modello di questa Unità. Se un Modello con questa Regola Speciale subisce il risultato di Contraccolpo Etereo, subisce invece una ferita che ignora tutti i Tiri Salvezza e i Tiri Mitigazione.",
+                "description": "Se un Modello con il Tratto Stirpe dei Mille subisce i Pericoli del Warp mentre si trova entro 6\" da un Modello amico con questa Regola Speciale, il Giocatore che lo controlla può applicare il risultato della tabella “Pericoli del Warp”, o qualsiasi ferita subita se il Potere Psionico proveniva da un Arcana Prosperino, a un Modello di questa Unità.\nSe un Modello con questa Regola Speciale subisce il risultato di Contraccolpo Etereo, subisce invece una ferita che ignora tutti i Tiri Salvezza e i Tiri Mitigazione.",
                 "name": "Condotto Psionico",
                 "id": "bc92-96cb-9f78-b761",
                 "hidden": false
@@ -10767,7 +10767,7 @@
     ],
     "sharedRules": [
       {
-        "description": "Se quattro o più Riquadri Truppe nel Distaccamento Principale sono occupati da Unità che hanno un Arcana Prosperino, allora tutti i Riquadri Truppe nel Distaccamento Principale sono considerati Riquadri Primari. Inoltre, fino alla fine del primo Turno di Battaglia, ogni volta che il Giocatore che Controlla un Modello con questa Regola Speciale effettua una Prova di Manifestazione per un’Unità che includa solo Modelli con il Tratto Stirpe dei Mille, può tirare tre Dadi e selezionarne due a scelta per determinare il risultato.",
+        "description": "Se quattro o più Riquadri Truppe nel Distaccamento Principale sono occupati da Unità che hanno un Arcana Prosperino, allora tutti i Riquadri Truppe nel Distaccamento Principale sono considerati Riquadri Primari.\nInoltre, fino alla fine del primo Turno di Battaglia, ogni volta che il Giocatore che Controlla un Modello con questa Regola Speciale effettua una Prova di Manifestazione per un’Unità che includa solo Modelli con il Tratto Stirpe dei Mille, può tirare tre Dadi e selezionarne due a scelta per determinare il risultato.",
         "name": "Sire della Stirpe dei Mille",
         "id": "eeb4-4067-9bb3-abc2",
         "hidden": false,
@@ -10780,7 +10780,7 @@
     "name": "                        XV - Stirpe dei Mille",
     "gameSystemId": "sys-b976-0013-2f97-437b",
     "gameSystemRevision": 1,
-    "revision": 25,
+    "revision": 26,
     "authorUrl": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita",
     "authorContact": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita/issues",
     "authorName": "Arkangelmark5",

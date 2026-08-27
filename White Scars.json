@@ -421,7 +421,7 @@
         ],
         "rules": [
           {
-            "description": "Se quattro o più Riquadri Truppa nel Distaccamento Principale sono occupati, tutti i Riquadri Trasporto nel Distaccamento Principale possono essere scambiati con Riquadri Ricognizione, che devono essere occupati con Land Raider Explorator. Inoltre, fino alla fine del primo Turno di Battaglia, tutti i Modelli di questo Esercito con il Tipo Fanteria o Esemplare e il Tratto Furie Bianche hanno la Regola Speciale Veloce (2).",
+            "description": "Se quattro o più Riquadri Truppa nel Distaccamento Principale sono occupati, tutti i Riquadri Trasporto nel Distaccamento Principale possono essere scambiati con Riquadri Ricognizione, che devono essere occupati con Land Raider Explorator.\nInoltre, fino alla fine del primo Turno di Battaglia, tutti i Modelli di questo Esercito con il Tipo Fanteria o Esemplare e il Tratto Furie Bianche hanno la Regola Speciale Veloce (2).",
             "name": "Sire delle Furie Bianche",
             "id": "2f86-3286-d05e-f297",
             "hidden": false,
@@ -10884,7 +10884,7 @@
     "name": "                         V - Furie Bianche",
     "gameSystemId": "sys-b976-0013-2f97-437b",
     "gameSystemRevision": 1,
-    "revision": 22,
+    "revision": 23,
     "authorUrl": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita",
     "authorContact": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita/issues",
     "authorName": "The4D6",
