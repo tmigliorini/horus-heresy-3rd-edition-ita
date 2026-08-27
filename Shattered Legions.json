@@ -145,6 +145,13 @@
         "name": "                        XII - Divoratori di Mondi",
         "id": "b234-baf0-8a09-565b",
         "targetId": "a956-190d-3b47-6258"
+      },
+      {
+        "name": "Mechanicum",
+        "type": "catalogue",
+        "targetId": "2f57-6e9d-8a7b-5c2e",
+        "id": "ea01-0005-0000-0004",
+        "hidden": false
       }
     ],
     "sharedSelectionEntries": [
@@ -4664,7 +4671,7 @@
     "name": "Legioni Spezzate",
     "gameSystemId": "sys-b976-0013-2f97-437b",
     "gameSystemRevision": 54,
-    "revision": 16,
+    "revision": 17,
     "authorName": "m455954",
     "battleScribeVersion": 2.03,
     "type": "catalogue",

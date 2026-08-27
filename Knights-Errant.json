@@ -41,6 +41,13 @@
         "name": "Psionica",
         "id": "9c1b-37d1-fb65-daf9",
         "targetId": "1b2d-2038-39a7-f387"
+      },
+      {
+        "name": "Mechanicum",
+        "type": "catalogue",
+        "targetId": "2f57-6e9d-8a7b-5c2e",
+        "id": "ea01-0005-0000-0003",
+        "hidden": false
       }
     ],
     "sharedSelectionEntries": [
@@ -1088,7 +1095,7 @@
     "name": "Cavalieri Erranti",
     "gameSystemId": "sys-b976-0013-2f97-437b",
     "gameSystemRevision": 48,
-    "revision": 17,
+    "revision": 18,
     "battleScribeVersion": 2.03,
     "type": "catalogue",
     "categoryEntries": [],

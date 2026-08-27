@@ -31,6 +31,13 @@
         "name": "Tratti",
         "id": "1aca-0cc9-47e1-f620",
         "targetId": "df17-7a05-0826-6e22"
+      },
+      {
+        "name": "Mechanicum",
+        "type": "catalogue",
+        "targetId": "2f57-6e9d-8a7b-5c2e",
+        "id": "ea01-0005-0000-0001",
+        "hidden": false
       }
     ],
     "publications": [
@@ -2098,7 +2105,7 @@
     "name": "Scudi Neri",
     "gameSystemId": "sys-b976-0013-2f97-437b",
     "gameSystemRevision": 54,
-    "revision": 18,
+    "revision": 19,
     "battleScribeVersion": 2.03,
     "type": "catalogue",
     "categoryEntries": [],

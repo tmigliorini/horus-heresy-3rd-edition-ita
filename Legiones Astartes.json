@@ -209062,6 +209062,205 @@
         "id": "c90c-cd56-0d19-f4cf",
         "type": "selectionEntry",
         "targetId": "5ff1-111c-0f18-f8ce"
+      },
+      {
+        "categoryLinks": [
+          {
+            "targetId": "6f78-9e60-4884-63d2",
+            "id": "3151-9f0f-ba68-55a4",
+            "primary": true,
+            "name": "Legiones Thallaxes"
+          }
+        ],
+        "modifiers": [
+          {
+            "type": "remove",
+            "value": "e76a-e22d-9fc4-dc1f",
+            "field": "category",
+            "affects": "self.entries.recursive"
+          },
+          {
+            "type": "add",
+            "value": "8685-ffdf-e073-4267",
+            "field": "category"
+          }
+        ],
+        "comment": "Legiones Thallaxes",
+        "import": true,
+        "name": "Coorte Thallax",
+        "hidden": false,
+        "id": "6736-bed2-679a-c32e",
+        "type": "selectionEntry",
+        "targetId": "a4ad-1b49-0303-59b3",
+        "sortIndex": 303
+      },
+      {
+        "categoryLinks": [
+          {
+            "name": "Master of Automata",
+            "hidden": false,
+            "id": "f9bf-fbf9-9ef2-3050",
+            "targetId": "43f5-bc69-29b9-2286",
+            "primary": true
+          }
+        ],
+        "modifiers": [
+          {
+            "type": "add",
+            "value": "9fb1-5f74-53af-e34c",
+            "field": "category"
+          },
+          {
+            "type": "remove",
+            "value": "df10-4634-c1aa-f6e0",
+            "field": "category"
+          }
+        ],
+        "comment": "Master of Automata",
+        "import": true,
+        "name": "Manipolo da Battaglia Castellax",
+        "hidden": false,
+        "id": "566a-34b5-2a7c-ccd0",
+        "type": "selectionEntry",
+        "targetId": "e8d6-2ba5-d10d-d617",
+        "sortIndex": 301
+      },
+      {
+        "modifierGroups": [
+          {
+            "comment": "Vagus",
+            "modifiers": [
+              {
+                "type": "remove",
+                "value": "df10-4634-c1aa-f6e0",
+                "field": "category"
+              },
+              {
+                "type": "add",
+                "value": "a59f-578b-8e20-efa1",
+                "field": "category"
+              },
+              {
+                "type": "set-primary",
+                "value": "61eb-11e2-1592-3161",
+                "field": "category"
+              }
+            ],
+            "conditions": [
+              {
+                "type": "instanceOf",
+                "value": 1,
+                "field": "forces",
+                "scope": "force",
+                "childId": "2dfc-259d-d11b-dc8b",
+                "shared": true,
+                "includeChildSelections": false,
+                "childName": "Cohorts Vagus Detachment"
+              }
+            ],
+            "type": "and"
+          }
+        ],
+        "categoryLinks": [
+          {
+            "targetId": "61eb-11e2-1592-3161",
+            "id": "24a2-3039-a66b-648e",
+            "primary": true,
+            "name": "Support - Castellax Battle Maniple Only"
+          }
+        ],
+        "infoLinks": [],
+        "import": true,
+        "name": "Manipolo da Battaglia Castellax",
+        "hidden": false,
+        "id": "fe0c-1a09-c660-c098",
+        "type": "selectionEntry",
+        "targetId": "e8d6-2ba5-d10d-d617",
+        "sortIndex": 304
+      },
+      {
+        "categoryLinks": [
+          {
+            "name": "Master of Automata",
+            "hidden": false,
+            "id": "23ba-1c57-a1b9-8008",
+            "targetId": "43f5-bc69-29b9-2286",
+            "primary": true
+          }
+        ],
+        "modifiers": [
+          {
+            "type": "remove",
+            "value": "df10-4634-c1aa-f6e0",
+            "field": "category"
+          },
+          {
+            "type": "add",
+            "value": "9fb1-5f74-53af-e34c",
+            "field": "category"
+          }
+        ],
+        "comment": "Master of Automata",
+        "import": true,
+        "name": "Manipolo Distruttore Castellax",
+        "hidden": false,
+        "id": "7d8b-19ed-f91a-4905",
+        "type": "selectionEntry",
+        "targetId": "112f-1168-d07c-7f8f",
+        "sortIndex": 302
+      },
+      {
+        "modifierGroups": [
+          {
+            "comment": "Vagus",
+            "modifiers": [
+              {
+                "type": "remove",
+                "value": "df10-4634-c1aa-f6e0",
+                "field": "category"
+              },
+              {
+                "type": "add",
+                "value": "a59f-578b-8e20-efa1",
+                "field": "category"
+              },
+              {
+                "type": "set-primary",
+                "value": "d49e-048b-a8e2-ba52",
+                "field": "category"
+              }
+            ],
+            "conditions": [
+              {
+                "type": "instanceOf",
+                "value": 1,
+                "field": "forces",
+                "scope": "force",
+                "childId": "2dfc-259d-d11b-dc8b",
+                "shared": true,
+                "includeChildSelections": false,
+                "childName": "Cohorts Vagus Detachment"
+              }
+            ],
+            "type": "and"
+          }
+        ],
+        "categoryLinks": [
+          {
+            "targetId": "d49e-048b-a8e2-ba52",
+            "id": "0737-04fc-a715-eb82",
+            "primary": true,
+            "name": "Heavy Assault - Castellax Destructor Maniple only"
+          }
+        ],
+        "infoLinks": [],
+        "import": true,
+        "name": "Manipolo Distruttore Castellax",
+        "hidden": false,
+        "id": "d5b4-da29-c8a4-f18f",
+        "type": "selectionEntry",
+        "targetId": "112f-1168-d07c-7f8f",
+        "sortIndex": 305
       }
     ],
     "catalogueLinks": [
@@ -209089,6 +209288,13 @@
         "id": "3af5-5c5e-ab5a-134c",
         "targetId": "df17-7a05-0826-6e22",
         "importRootEntries": false
+      },
+      {
+        "name": "Mechanicum",
+        "type": "catalogue",
+        "targetId": "2f57-6e9d-8a7b-5c2e",
+        "id": "ea01-0005-0000-0000",
+        "hidden": false
       }
     ],
     "sharedSelectionEntryGroups": [
@@ -238109,7 +238315,7 @@
     "name": "Legiones Astartes",
     "gameSystemId": "sys-b976-0013-2f97-437b",
     "gameSystemRevision": 1,
-    "revision": 74,
+    "revision": 75,
     "authorName": "The4D6",
     "battleScribeVersion": 2.03,
     "type": "catalogue",

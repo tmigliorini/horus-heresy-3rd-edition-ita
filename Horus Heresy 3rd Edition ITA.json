@@ -1875,6 +1875,31 @@
         "name": "Veicolo ZM Non Valido",
         "id": "8d49-126f-5500-aa28",
         "hidden": false
+      },
+      {
+        "name": "Reductor",
+        "id": "e76a-e22d-9fc4-dc1f",
+        "hidden": false
+      },
+      {
+        "name": "Reductor Vincolato",
+        "id": "8685-ffdf-e073-4267",
+        "hidden": false
+      },
+      {
+        "name": "Cybernetica",
+        "id": "df10-4634-c1aa-f6e0",
+        "hidden": false
+      },
+      {
+        "name": "Supporto - Solo Manipolo da Battaglia Castellax",
+        "id": "61eb-11e2-1592-3161",
+        "hidden": false
+      },
+      {
+        "name": "Assalto Pesante - Solo Manipolo Distruttore Castellax",
+        "id": "d49e-048b-a8e2-ba52",
+        "hidden": false
       }
     ],
     "forceEntries": [
@@ -88431,7 +88456,7 @@
       {
         "rules": [
           {
-            "description": "Quando un Modello con questa Regola Speciale viene incluso in un Distaccamento, allo stesso vengono aggiunti due Riquadri Organizzazione Armata aggiuntivi, che possono essere riempiti solo con Unità di Coorte Thallax selezionate dal Liber Mechanicum, il cui Tratto Reductor viene sostituito con “Reductor Vincolato” e la Regola Speciale Egida del Dolore viene rimossa.\nQueste Unità possono essere incluse anche se non hanno lo stesso Tratto Fazione delle altre Unità di quel Distaccamento.\nQuando un Modello con questa Regola Speciale viene incluso in un Distaccamento, vengono aggiunti due Riquadri Organizzazione Armata aggiuntivi a quel Distaccamento.\nQuesti Riquadri possono essere riempiti solo con Unità di Coorte Thallax, selezionate dal Liber Mechanicum, il cui Tratto Reductor viene sostituito con “Reductor Vincolato” e la Regola Speciale Egida del Dolore viene rimossa.\nQueste Unità possono essere incluse anche se non hanno lo stesso Tratto Fazione delle altre Unità di quel Distaccamento.\nQuando un Modello con questa Regola Speciale viene incluso in un Distaccamento, allo stesso vengono aggiunti due Riquadri Organizzazione Armata aggiuntivi, che possono essere riempiti solo con Unità di Coorte Thallax selezionate dal Liber Mechanicum, il cui Tratto Reductor viene sostituito con “Reductor Vincolato” e la Regola Speciale Egida del Dolore viene rimossa.\nQueste Unità possono essere incluse anche se non hanno lo stesso Tratto Fazione delle altre Unità di quel Distaccamento.",
+            "description": "Quando un Modello con questa Regola Speciale viene incluso in un Distaccamento, allo stesso vengono aggiunti due Riquadri Organizzazione Armata aggiuntivi, che possono essere riempiti solo con Unità di Coorte Thallax selezionate dal Liber Mechanicum, il cui Tratto Reductor viene sostituito con “Reductor Vincolato” e la Regola Speciale Egida del Dolore viene rimossa.\nQueste Unità possono essere incluse anche se non hanno lo stesso Tratto Fazione delle altre Unità di quel Distaccamento.",
             "name": "Legioni Thallax",
             "id": "3763-8cab-f5b5-9bd7",
             "hidden": false
@@ -88795,7 +88820,7 @@
     "id": "sys-b976-0013-2f97-437b",
     "name": "Horus Heresy 3ª Edizione ITA",
     "battleScribeVersion": 2.03,
-    "revision": 70,
+    "revision": 71,
     "type": "gameSystem",
     "authorName": "The4D6",
     "authorContact": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita/issues",

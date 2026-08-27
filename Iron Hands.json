@@ -6897,6 +6897,13 @@
         "name": "Regole Speciali",
         "id": "c845-0785-0a45-92ac",
         "targetId": "106b-693b-99f2-00c3"
+      },
+      {
+        "name": "Mechanicum",
+        "type": "catalogue",
+        "targetId": "2f57-6e9d-8a7b-5c2e",
+        "id": "ea01-0005-0000-0002",
+        "hidden": false
       }
     ],
     "entryLinks": [
@@ -7271,7 +7278,7 @@
     "name": "                        X - Mani di Ferro",
     "gameSystemId": "sys-b976-0013-2f97-437b",
     "gameSystemRevision": 1,
-    "revision": 31,
+    "revision": 32,
     "authorUrl": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita",
     "authorContact": "https://github.com/tmigliorini/horus-heresy-3rd-edition-ita/issues",
     "authorName": "The4D6",

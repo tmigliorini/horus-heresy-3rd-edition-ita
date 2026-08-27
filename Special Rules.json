@@ -1066,6 +1066,24 @@
         "name": "Comandante di Corazzati (X)",
         "id": "8e22-3f6e-10f3-6e80",
         "hidden": false
+      },
+      {
+        "id": "2cfa-42a7-e9c8-6000",
+        "name": "Egida del Dolore",
+        "description": "Tutti i Modelli di un’Unità composta interamente da Modelli con questa Regola Speciale e il Tratto Reductor ottengono la Regola Speciale Paura (1) fintanto che un qualsiasi Modello di quell’Unità ha anche uno o più Status Cyberteurgici.\nSe un’Unità che include Modelli con questa Regola Speciale ha già una qualunque variante della Regola Speciale Paura (X), allora questa Regola Speciale non ha effetto.",
+        "hidden": false
+      },
+      {
+        "id": "a3a3-a3e8-da13-56c1",
+        "name": "Scudi Rifrattori Fasici",
+        "description": "Quando il Giocatore Controllante di un Modello con questa Regola Speciale sceglie di effettuare un Tiro Invulnerabilità per quel Modello contro una ferita generata da un Attacco a Distanza, quel Tiro Invulnerabilità è migliorato di +1.",
+        "hidden": false
+      },
+      {
+        "description": "Ogni volta che viene effettuato un Tiro di Penetrazione dell’Armatura per un attacco o un Modello con questa Regola Speciale, e tale tiro risulta in un Colpo Penetrante, il Giocatore Attaccante deve tirare un Dado. Se il risultato di questo è pari o superiore al valore di X, allora la Caratteristica di Danno di quel Colpo Penetrante è aumentata di 1.",
+        "name": "Spezza-corazze (X)",
+        "id": "3009-9bbb-a8f6-1b47",
+        "hidden": false
       }
     ],
     "sharedSelectionEntries": [],
@@ -1076,7 +1094,7 @@
     "name": "Regole Speciali",
     "gameSystemId": "sys-b976-0013-2f97-437b",
     "gameSystemRevision": 1,
-    "revision": 33,
+    "revision": 34,
     "battleScribeVersion": 2.03,
     "type": "catalogue",
     "authorName": "The4D6",
